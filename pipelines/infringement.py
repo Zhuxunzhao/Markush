@@ -145,6 +145,39 @@ class InfringementPipeline:
             return True
         return "<sep>" in structure.caption and structure.score >= self.min_markush_score
 
+    def _select_claim_markush_caption(
+        self,
+        current_caption: str,
+        claim_caption: str,
+    ) -> str:
+        """Keep a usable image/provided caption from being replaced by LLM text."""
+        claim_caption = (claim_caption or "").strip()
+        if not claim_caption:
+            return current_caption
+
+        current_normalized = normalize_markush_caption(current_caption)
+        claim_normalized = normalize_markush_caption(claim_caption)
+
+        if current_normalized:
+            if not claim_normalized:
+                log.warning(
+                    "  Ignoring unsupported primary Markush caption from claim analysis; "
+                    "keeping image/provided caption for matching"
+                )
+            elif claim_normalized != current_normalized:
+                log.warning(
+                    "  Ignoring claim-analysis Markush caption because it differs from "
+                    "the usable image/provided caption"
+                )
+            return current_caption
+
+        if claim_normalized:
+            log.info("  Using supported primary Markush caption from claim analysis")
+            return claim_caption
+
+        log.warning("  Ignoring unsupported primary Markush caption from claim analysis")
+        return current_caption
+
     def _no_verified_match_result(
         self,
         patent_id: str,
@@ -294,10 +327,12 @@ class InfringementPipeline:
                 markush_captions=[markush_caption],
             )
             llm_outputs["claim_analysis"] = self.claim_analyzer.last_llm_response
-            # Prefer the broadest claim caption if the analyzer identified one
+            # Keep image/provided captions as structural ground truth for matching.
             if claim_analysis.primary_markush_caption:
-                markush_caption = claim_analysis.primary_markush_caption
-                log.info(f"  Using primary Markush caption from claim analysis")
+                markush_caption = self._select_claim_markush_caption(
+                    markush_caption,
+                    claim_analysis.primary_markush_caption,
+                )
             log.info(f"  >> ClaimAnalysis:\n{_dump(claim_analysis)}")
         except Exception as e:
             llm_outputs["claim_analysis"] = {"error": str(e)}

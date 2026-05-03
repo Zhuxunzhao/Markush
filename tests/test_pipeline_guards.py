@@ -309,6 +309,81 @@ class InfringementPipelineTests(unittest.TestCase):
         self.assertEqual(req_kwargs["label_alignment"], label_alignment)
         self.assertEqual(result.fused_match.claim_aligned_r_group_matching, aligned_map)
 
+    def test_claim_plain_smiles_does_not_override_usable_markush_caption(self) -> None:
+        config = {
+            "pipelines": {"infringement": {"use_markush_grapher": False, "use_rdkit": True}},
+            "tools": {"markush_grapher": {}},
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "dummy", "api_key_env": "OPENAI_API_KEY"},
+        }
+        original_caption = "<r>R1</r>C"
+        llm_plain_smiles = "c1cc(c(N*)=O)ccc1"
+
+        with patch("pipelines.infringement.PatentScraperTool") as scraper_cls, patch(
+            "pipelines.infringement.LLMClient"
+        ) as llm_cls:
+            scraper_cls.return_value.fetch.return_value = PatentDocument(
+                patent_id="WO2020252229A2",
+                claims_text="claim text",
+            )
+            llm_cls.return_value = Mock()
+
+            pipeline = InfringementPipeline(config)
+            pipeline.claim_analyzer.run = Mock(
+                return_value=ClaimAnalysis(
+                    markush_claims=[
+                        {"r_group_constraints": {"R1": "alkyl"}},
+                    ],
+                    primary_markush_caption=llm_plain_smiles,
+                )
+            )
+            pipeline.rdkit.match = Mock(
+                return_value=MatchResult(
+                    is_match=True,
+                    r_group_map={"R1": "C"},
+                    method=MatchMethod.RDKIT,
+                    reasoning="matched",
+                )
+            )
+            pipeline.subs_matcher.run = Mock(
+                return_value=FusedMatchResult(r_group_matching={"R1": "C"})
+            )
+            pipeline.r_group_aligner.run = Mock(
+                return_value=RGroupAlignmentResult(
+                    aligned_r_group_matching={"R1": "C"},
+                    label_alignment={"R1": {"claim_label": "R1"}},
+                    confidence=Confidence.HIGH,
+                )
+            )
+            pipeline.req_examiner.run = Mock(
+                return_value=type(
+                    "ReqStub",
+                    (),
+                    {
+                        "is_protected": True,
+                        "confidence": Confidence.HIGH,
+                        "reasoning": "protected",
+                        "r_group_analysis": {"R1": {"covered": True}},
+                    },
+                )()
+            )
+            pipeline.reporter.run = Mock(
+                return_value={"confidence": "high", "detailed_analysis": "report text"}
+            )
+
+            result = pipeline.run(
+                "WO2020252229A2",
+                "CC",
+                markush_caption=original_caption,
+            )
+
+        pipeline.rdkit.match.assert_called_once_with(original_caption, "CC")
+        self.assertTrue(result.is_protected)
+        self.assertEqual(
+            pipeline.reporter.run.call_args.kwargs["analysis_data"]["markush_caption"],
+            original_caption,
+        )
+
     def test_alignment_failure_short_circuits_requirements_examiner(self) -> None:
         config = {
             "pipelines": {"infringement": {"use_markush_grapher": False, "use_rdkit": False}},

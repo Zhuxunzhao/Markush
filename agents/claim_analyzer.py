@@ -51,6 +51,10 @@ class ClaimAnalyzerAgent(BaseAgent):
         prompt = f"## 专利权利要求文本\n{self.truncate(claims_text)}\n\n"
         if markush_captions:
             prompt += "## 已识别的 Markush 结构（来自图像识别）\n"
+            prompt += (
+                "Do not rewrite these captions into plain SMILES. If a caption is used, "
+                "copy it exactly, including any <r>, <sep>, and <a> tags.\n"
+            )
             for i, cap in enumerate(markush_captions):
                 prompt += f"{i+1}. `{cap}`\n"
         prompt += "\n请分析权利要求，并提取 Markush 结构约束。"
