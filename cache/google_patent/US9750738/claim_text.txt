@@ -1,0 +1,698 @@
+Claims (32)
+-----------
+
+The invention claimed is:
+
+1. A method of antagonizing opioid receptors, comprising administering to a subject in need thereof an effective amount of an opioid receptor antagonist represented by the formula (I):
+
+[![Figure US09750738-20170905-C00026](https://patentimages.storage.googleapis.com/c6/6f/db/0ce60081c9f834/US09750738-20170905-C00026.png)](https://patentimages.storage.googleapis.com/c6/6f/db/0ce60081c9f834/US09750738-20170905-C00026.png)
+
+wherein
+
+R is OH, OC1-6 alkyl, C2-8 alkyl, C1-8 haloalkyl, C2-8 alkenyl, C2-8 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-8 alkyl, COC1-8 alkyl, CONH2, NHCHO, NH2, NHSO2C1-8 alkyl, or NHCO2C1-8 alkyl;
+
+Y3 is hydrogen, Br, Cl, F, CF3 NO2, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)nY2;
+
+R1, R2, R3 and R4 are each, independently, one of the following structures:
+
+[![Figure US09750738-20170905-C00027](https://patentimages.storage.googleapis.com/93/b1/48/61ac265fe063a9/US09750738-20170905-C00027.png)](https://patentimages.storage.googleapis.com/93/b1/48/61ac265fe063a9/US09750738-20170905-C00027.png)
+
+ 
+
+or R1 and R2, R2 and R3 and/or R3 and R4 are bonded together to form a cyclo alkyl group or a bridged heterocyclic ring,
+
+wherein at least one of R1, R2, R3 and R4 is other than hydrogen;
+
+each Y1 is, independently, hydrogen, OH, Br, Cl, F, CN, CF3, NO2, N3, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, or CONR13R14, or two adjacent Y1 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+each Y2 is, independently, hydrogen, CF3, CO2R9, C1-8 alkyl, NR10R11,NHCOR12, NHCO2R12, CONR13R14, CH2OH, CH2OR8, COCH2R9,
+
+[![Figure US09750738-20170905-C00028](https://patentimages.storage.googleapis.com/85/79/ea/97e9d34b09cf42/US09750738-20170905-C00028.png)](https://patentimages.storage.googleapis.com/85/79/ea/97e9d34b09cf42/US09750738-20170905-C00028.png)
+
+ 
+
+each n is, independently, 0, 1, 2 or 3;
+
+each o is, independently, 0, 1, 2 or 3;
+
+each R8, R9, R10, R11, R12,R13 and R14 is, independently, hydrogen, C1-8 alkyl, CH2-aryl wherein the aryl group is substituted by one or more substituents OH, Br, Cl, F, CN, CF3, NO2 N3, C1-6 alkyl, or CH2(CH2)nY2′;
+
+each Y2′ is, independently, hydrogen, CF3, or C1-6 alkyl;
+
+R5 is
+
+[![Figure US09750738-20170905-C00029](https://patentimages.storage.googleapis.com/eb/22/d8/e6f434270ed02b/US09750738-20170905-C00029.png)](https://patentimages.storage.googleapis.com/eb/22/d8/e6f434270ed02b/US09750738-20170905-C00029.png)
+
+ 
+
+wherein n is 3,
+
+[![Figure US09750738-20170905-C00030](https://patentimages.storage.googleapis.com/f3/11/b1/ddb0f069e5a913/US09750738-20170905-C00030.png)](https://patentimages.storage.googleapis.com/f3/11/b1/ddb0f069e5a913/US09750738-20170905-C00030.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00031](https://patentimages.storage.googleapis.com/40/3f/8d/bb9ec00aad8828/US09750738-20170905-C00031.png)](https://patentimages.storage.googleapis.com/40/3f/8d/bb9ec00aad8828/US09750738-20170905-C00031.png)
+
+ 
+
+wherein n is 2 or 3,
+
+[![Figure US09750738-20170905-C00032](https://patentimages.storage.googleapis.com/58/bc/03/43040d8d848d2a/US09750738-20170905-C00032.png)](https://patentimages.storage.googleapis.com/58/bc/03/43040d8d848d2a/US09750738-20170905-C00032.png)
+
+ 
+
+wherein n is 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00033](https://patentimages.storage.googleapis.com/f2/40/43/2a4c567cb422fd/US09750738-20170905-C00033.png)](https://patentimages.storage.googleapis.com/f2/40/43/2a4c567cb422fd/US09750738-20170905-C00033.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3, —CH2CH2—X—R6, or
+
+[![Figure US09750738-20170905-C00034](https://patentimages.storage.googleapis.com/80/3f/a7/ef85bd52a4989c/US09750738-20170905-C00034.png)](https://patentimages.storage.googleapis.com/80/3f/a7/ef85bd52a4989c/US09750738-20170905-C00034.png)
+
+ 
+
+R6 is C2-8 alkenyl, C1-4 alkyl substituted C4-8 cycloalkyl, C1-4 alkyl substituted C4-8 cycloalkenyl, or thiophene;
+
+X is a single bond, —C(O)— or —CH(OR15)—;
+
+R15 hydrogen, C1-6 alkyl, —(CH2)q-phenyl or —C(O)—R16;
+
+R16 is C1-4 alkyl or —(CH2)q-phenyl;
+
+each q is, independently, 1, 2 or 3;
+
+R17 is hydrogen, C1-8 alkyl, CO2C1-8 alkylaryl substituted by one or more Y1 groups, CH2-aryl substituted by one or more Y1 groups, or CO2C1-8 alkyl;
+
+R18 is hydrogen, C1-8 alkyl, C2-8 alkenyl, C3-8 alkynyl, CH2CO2C1-8 alkyl, CO2C1-8 alkyl or CH2-aryl substituted by one or more Y1 groups;
+
+R19, is a group selected from the group consisting of structures (a)-(p):
+
+[![Figure US09750738-20170905-C00035](https://patentimages.storage.googleapis.com/77/6f/d6/eb558071288f50/US09750738-20170905-C00035.png)](https://patentimages.storage.googleapis.com/77/6f/d6/eb558071288f50/US09750738-20170905-C00035.png)
+
+ 
+
+[![Figure US09750738-20170905-C00036](https://patentimages.storage.googleapis.com/9d/85/52/612b91fd4bdd7b/US09750738-20170905-C00036.png)](https://patentimages.storage.googleapis.com/9d/85/52/612b91fd4bdd7b/US09750738-20170905-C00036.png)
+
+ 
+
+[![Figure US09750738-20170905-C00037](https://patentimages.storage.googleapis.com/f4/e9/c8/2abcd3604d6744/US09750738-20170905-C00037.png)](https://patentimages.storage.googleapis.com/f4/e9/c8/2abcd3604d6744/US09750738-20170905-C00037.png)
+
+ 
+
+Q is NR21, CH2, O, S, SO, or SO2;
+
+each Y4 is, independently, Br, Cl, F, CN, CF3, NO2, N3, OR22, CO2R23, C1-6 alkyl, NR24R25, NHCOR26, NHCO2R27, CONR28R29, or CH2(CH2)nY2,
+
+or two adjacent Y4 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+p is 0, 1, 2,or 3;
+
+R20 is hydrogen, C1-8 alkyl, C2-8 alkenyl, CH2OR30, or CH2-aryl substituted by one or more Y1 substituents;
+
+each R21 is, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more Y1 substituents, NR31R32, NHCOR33, NHCO2R34, CONR35R36, CH2(CH2)nY2,or C(═NH)NR37R38;
+
+R30 is hydrogen C1-8 alkyl, C2-8 alkenyl, C2-8 alkenyl, CH2O2C1-8 alkyl, CO2C1-8 alkyl, or CH2-aryl substituted by one or more Y1 substituents;
+
+R22, R23, R24, R25, R26, R27, R28, R29, R31, R32, R33, R34, R35, R36, R37 and R38 are, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more substituents OH, Br, Cl, F, CN, CF3, NO2, N3, C1-6 alkyl, or CH2(CH2)nY2′;
+
+Z is N or S, wherein when Z is S, there is no R18;
+
+X1 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+X2 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+or X1 and X2 together form ═O, ═S, or ═NH;
+
+or a pharmaceutically acceptable salt thereof.
+
+2. The method of claim 1, wherein
+
+R is OH, OC1-3 alkyl, C1-4 alkyl, C1-4 haloalkyl, C2-4 alkenyl, C2-4 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-4 alkyl, COC1-4 alkyl, CONH2, NHCHO, NH2, NHSO2C1-4 alkyl, or NHCO2C1-4 alkyl; and
+
+Y3 is hydrogen, Br, Cl, F, CF3, NO2, OR8, CO2R9, C1-3 alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)n,Y2.
+
+3. The method of claim 1, wherein
+
+R is OH, OCH3, or OCF3; and
+
+Y3 is hydrogen.
+
+4. The method of claim 1, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen, methyl or ethyl; and
+
+at least one of R1, R2, R3 and R4 is other than hydrogen.
+
+5. The method of claim 1, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen or methyl; and
+
+at least one of R1, R2, R3 and R4 is methyl.
+
+6. The method of claim 1, wherein
+
+R is OH, OCH3, or OCF3;
+
+Y3 is hydrogen;
+
+R1 R2, R3 and R4 are each, independently, hydrogen, methyl or ethyl, wherein at least one of R1, R2, R3 and R4 is other than hydrogen; and
+
+R5 is —(CH2)n-phenyl, wherein n is 3.
+
+7. The method of claim 1, wherein R5 is
+
+[![Figure US09750738-20170905-C00038](https://patentimages.storage.googleapis.com/26/1b/35/b9e098e6e40264/US09750738-20170905-C00038.png)](https://patentimages.storage.googleapis.com/26/1b/35/b9e098e6e40264/US09750738-20170905-C00038.png)
+
+8. The method of claim 1, wherein the opioid receptor antagonist is represented by the formula:
+
+[![Figure US09750738-20170905-C00039](https://patentimages.storage.googleapis.com/0b/c6/d8/7aa315ff59a4c8/US09750738-20170905-C00039.png)](https://patentimages.storage.googleapis.com/0b/c6/d8/7aa315ff59a4c8/US09750738-20170905-C00039.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+9. A method of treating drug addiction, drug abuse, depression, anxiety, schizophrenia, obesity and eating disorders, comprising administering to a subject in need thereof an effective amount of an opioid receptor antagonist represented by the formula (I):
+
+[![Figure US09750738-20170905-C00040](https://patentimages.storage.googleapis.com/3b/31/cb/7e965a661864ed/US09750738-20170905-C00040.png)](https://patentimages.storage.googleapis.com/3b/31/cb/7e965a661864ed/US09750738-20170905-C00040.png)
+
+wherein
+
+R is OH, OC1-6 alkyl, C2-8 alkyl, C1-8 haloalkyl, C2-8alkenyl, C2-8 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-8 alkyl, COC1-8 alkyl, CONH2, NHCHO, NH2, NHSO2C1-8 alkyl, or NHCO2C1-8 alkyl;
+
+Y3 is hydrogen, Br, Cl, F, CF3, NO2, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)nY2;
+
+R1, R2, R3 and R4 are each, independently, one of the following structures:
+
+[![Figure US09750738-20170905-C00041](https://patentimages.storage.googleapis.com/e7/a7/45/2a054834c0715b/US09750738-20170905-C00041.png)](https://patentimages.storage.googleapis.com/e7/a7/45/2a054834c0715b/US09750738-20170905-C00041.png)
+
+ 
+
+or R1 and R2, R2 and R3 and/or R3 and R4 are bonded together to form a cyclo alkyl group or a bridged heterocyclic ring,
+
+wherein at least one of R1, R2, R3 and R4 is other than hydrogen;
+
+each Y1 is, independently, hydrogen, OH, Br, Cl, F, CN, CF3, NO2, N3, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, or CONR13R14, or two adjacent Y1 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+each Y2 is, independently, hydrogen, CF3, CO2R9, C1-8 alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14, CH2OH, CH2OR8, COCH2R9,
+
+[![Figure US09750738-20170905-C00042](https://patentimages.storage.googleapis.com/c6/62/fd/631d4860d05932/US09750738-20170905-C00042.png)](https://patentimages.storage.googleapis.com/c6/62/fd/631d4860d05932/US09750738-20170905-C00042.png)
+
+ 
+
+each n is, independently, 0, 1, 2 or 3;
+
+each o is, independently, 0, 1, 2 or 3;
+
+each R8, R9, R10, R11, R12,R13 and R14 is, independently, hydrogen, C1-8 alkyl, CH2-aryl wherein the aryl group is substituted by one or more substituents OH, Br, Cl, F, CN, CF3, NO2, N3C1-6 alkyl, or CH2(CH2)nY2′;
+
+each Y2′ is, independently, hydrogen, CF3, or C1-6 alkyl;
+
+R5 is
+
+[![Figure US09750738-20170905-C00043](https://patentimages.storage.googleapis.com/de/d2/4f/feb9da91315882/US09750738-20170905-C00043.png)](https://patentimages.storage.googleapis.com/de/d2/4f/feb9da91315882/US09750738-20170905-C00043.png)
+
+ 
+
+wherein n is 3,
+
+[![Figure US09750738-20170905-C00044](https://patentimages.storage.googleapis.com/f2/5f/fc/cae1c005beaac7/US09750738-20170905-C00044.png)](https://patentimages.storage.googleapis.com/f2/5f/fc/cae1c005beaac7/US09750738-20170905-C00044.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00045](https://patentimages.storage.googleapis.com/92/b7/15/63ada5d20b6c2a/US09750738-20170905-C00045.png)](https://patentimages.storage.googleapis.com/92/b7/15/63ada5d20b6c2a/US09750738-20170905-C00045.png)
+
+ 
+
+wherein n is 2or 3,
+
+[![Figure US09750738-20170905-C00046](https://patentimages.storage.googleapis.com/24/42/d8/1ceeef837cb50b/US09750738-20170905-C00046.png)](https://patentimages.storage.googleapis.com/24/42/d8/1ceeef837cb50b/US09750738-20170905-C00046.png)
+
+ 
+
+wherein n is 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00047](https://patentimages.storage.googleapis.com/21/fd/27/6b3f6b72fc3f26/US09750738-20170905-C00047.png)](https://patentimages.storage.googleapis.com/21/fd/27/6b3f6b72fc3f26/US09750738-20170905-C00047.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3,
+
+—CH2CH2—X—R6, or
+
+[![Figure US09750738-20170905-C00048](https://patentimages.storage.googleapis.com/61/f2/c4/57699065bc5b5d/US09750738-20170905-C00048.png)](https://patentimages.storage.googleapis.com/61/f2/c4/57699065bc5b5d/US09750738-20170905-C00048.png)
+
+ 
+
+R6 is C2-8alkenyl, C1-4 alkyl substituted C4-8cycloalkyl, C1-4alkyl substituted C4-8 cycloalkenyl, or thiophene;
+
+X is a single bond, —C(O)— or —CH(OR15)—;
+
+R15 hydrogen, C1-6 alkyl, —(CH2)q-phenyl or —C(O)—R16;
+
+R16 is C1-4 alkyl or —(CH2)q-phenyl;
+
+each q is, independently, 1, 2 or 3;
+
+R17 is hydrogen, C1-8 alkyl, CO2C1-8 alkylaryl substituted by one or more Y1 groups, CH2-aryl substituted by one or more Y1 groups, or CO2C1-8 alkyl;
+
+R18 is hydrogen, C1-8 alkyl, C2-8 alkenyl, C3-8 alkynyl, CH2CO2C1-8 alkyl, CO2C1-8 alkyl or CH2-aryl substituted by one or more Y1 groups;
+
+R19 is a group selected from the group consisting of structures (a)-(p):
+
+[![Figure US09750738-20170905-C00049](https://patentimages.storage.googleapis.com/f1/dc/40/b8412873c21aab/US09750738-20170905-C00049.png)](https://patentimages.storage.googleapis.com/f1/dc/40/b8412873c21aab/US09750738-20170905-C00049.png)
+
+ 
+
+[![Figure US09750738-20170905-C00050](https://patentimages.storage.googleapis.com/65/97/e7/70068cf5ce60c0/US09750738-20170905-C00050.png)](https://patentimages.storage.googleapis.com/65/97/e7/70068cf5ce60c0/US09750738-20170905-C00050.png)
+
+ 
+
+[![Figure US09750738-20170905-C00051](https://patentimages.storage.googleapis.com/83/67/1f/1ca6eb1946f0f4/US09750738-20170905-C00051.png)](https://patentimages.storage.googleapis.com/83/67/1f/1ca6eb1946f0f4/US09750738-20170905-C00051.png)
+
+ 
+
+Q is NR21, CH2, O, S, SO, or SO2;
+
+each Y4 is, independently, Br, Cl, F, CN, CF3, NO2, N3, OR22, CO2R23, C1-6 alkyl, NR24R25, NHCOR26, NHCO2R27, CONR28R29, or CH2(CH2)nY2,
+
+or two adjacent Y4 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+p is 0, 1, 2, or 3;
+
+R20 is hydrogen, C1-8 alkyl, C2-8 alkenyl, CH2OR30, or CH2-aryl substituted by one or more Y1 substituents;
+
+each R21 is, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more Y1 substituents, NR31R32, NHCOR33, NHCO2R34, CONR35R36,CH2(CH2)nY2,or C(═NH)NR37R38;
+
+R30 is hydrogen C1-8 alkyl, C2-8 alkenyl, C,2-8 alkenyl, CH2O2C1-8 alkyl, CO2C1-8 alkyl, or CH2-aryl substituted by one or more Y1 substituents;
+
+R22, R23, R24 R25, R26, R27, R28, R29, R31, R32, R33, R34, R35, R36, R37 and R38 are, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more substituents OH, Br, Cl, F, CN, CF3, NO2, N3, C1-6 alkyl, or CH2(CH2)nY2′;
+
+Z is N or S wherein when Z is S, there is no R18;
+
+X1 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+X2 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+or X1 and X2, together form ═O, ═S, or ═NH;
+
+or a pharmaceutically acceptable salt thereof.
+
+10. The method of claim 9, wherein
+
+R is OH, OC1-3 alkyl, C1-4 alkyl, C1-4 haloalkyl, C1-4 alkenyl, C2-4 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-4, alkyl, COC1-4 alkyl, CONH2, NHCHO, NH2, NHSO2C1-4 alkyl, or NHCO2C1-4 alkyl; and
+
+Y3 is hydrogen, Br, Cl, F, CF3, NO2, OR8, CO2R9, C1-3alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)nY2.
+
+11. The method of claim 9, wherein
+
+R is OH, OCH3, or OCF3; and
+
+Y3 is hydrogen.
+
+12. The method of claim 9, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen, methyl or ethyl; and
+
+at least one of R1, R2, R3 and R4 is other than hydrogen.
+
+13. The method of claim 9, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen or methyl; and
+
+at least one of R1, R2, R3 and R4 is methyl.
+
+14. The method of claim 9, wherein
+
+R is OH, OCH3, or OCF3;
+
+Y3 is hydrogen;
+
+R1, R2, R3and R4 are each, independently, hydrogen, methyl or ethyl, wherein at least one of R1, R2, R3 and R4 is other than hydrogen; and
+
+R5 is —(CH2)n-phenyl, wherein n is 3.
+
+15. The method of claim 9, wherein R5 is
+
+[![Figure US09750738-20170905-C00052](https://patentimages.storage.googleapis.com/38/8c/e1/43984496444edc/US09750738-20170905-C00052.png)](https://patentimages.storage.googleapis.com/38/8c/e1/43984496444edc/US09750738-20170905-C00052.png)
+
+16. The method of claim 9, wherein the opioid receptor antagonist is represented by the formula:
+
+[![Figure US09750738-20170905-C00053](https://patentimages.storage.googleapis.com/ea/3d/bc/fa6dca48f3982d/US09750738-20170905-C00053.png)](https://patentimages.storage.googleapis.com/ea/3d/bc/fa6dca48f3982d/US09750738-20170905-C00053.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+17. A method of treating alcohol addiction, nicotine addiction, cocaine addiction and methamphetamine addiction, comprising administering to a subject in need thereof of an effective amount of an opioid receptor antagonist represented by the formula (I):
+
+[![Figure US09750738-20170905-C00054](https://patentimages.storage.googleapis.com/0f/08/e7/594f29d3e4ad81/US09750738-20170905-C00054.png)](https://patentimages.storage.googleapis.com/0f/08/e7/594f29d3e4ad81/US09750738-20170905-C00054.png)
+
+wherein
+
+R is OH, OC1-6 alkyl, C2-8 alkyl, C1-8 haloalkyl, C2-8alkenyl, C2-8 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-8 alkyl, COC1-8 alkyl, CONH2, NHCHO, NH2, NHSO2C1-8 alkyl, or NHCO2C1-8 alkyl;
+
+Y3 is hydrogen, Br, Cl, F, CF3, NO2, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)nY2;
+
+R1, R2, R3 and R4 are each, independently, one of the following structures:
+
+[![Figure US09750738-20170905-C00055](https://patentimages.storage.googleapis.com/24/5d/c5/2add0c68a80074/US09750738-20170905-C00055.png)](https://patentimages.storage.googleapis.com/24/5d/c5/2add0c68a80074/US09750738-20170905-C00055.png)
+
+ 
+
+or R1 and R2, R2 and R3 and/or R3 and R4 are bonded together to form a cyclo alkyl group or a bridged heterocyclic ring,
+
+wherein at least one of R1, R2, R3 and R4 is other than hydrogen;
+
+each Y1 is, independently, hydrogen, OH, Br, Cl, F, CN, CF3, NO2, N3, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, or CONR13R14, or two adjacent Y1 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+each Y2 is, independently, hydrogen, CF3, CO2R9, C1-8 alkyl,NR10R11,NHCOR12, NHCO2R12, CONR13R14, CH2OH, CH2OR8, COCH2R9,
+
+[![Figure US09750738-20170905-C00056](https://patentimages.storage.googleapis.com/b7/0d/36/ddf130e07fc5bc/US09750738-20170905-C00056.png)](https://patentimages.storage.googleapis.com/b7/0d/36/ddf130e07fc5bc/US09750738-20170905-C00056.png)
+
+ 
+
+each n is, independently, 0, 1, 2 or 3;
+
+each o is, independently, 0, 1, 2 or 3;
+
+each R8, R9, R10, R11, R12, R13 and R14 is, independently, hydrogen, C1-8alkyl, CH2-aryl wherein the aryl group is substituted by one or more substituents OH, Br, Cl, F, CN, CF3, NO2, N3, C1-6 alkyl, or CH2(CH2)nY2′;
+
+each Y2′ is, independently, hydrogen, CF3, or C1-6 alkyl;
+
+R5 is
+
+[![Figure US09750738-20170905-C00057](https://patentimages.storage.googleapis.com/39/38/0a/50db19ae1d5878/US09750738-20170905-C00057.png)](https://patentimages.storage.googleapis.com/39/38/0a/50db19ae1d5878/US09750738-20170905-C00057.png)
+
+ 
+
+wherein n is 3,
+
+[![Figure US09750738-20170905-C00058](https://patentimages.storage.googleapis.com/19/14/ec/b809343d2134e9/US09750738-20170905-C00058.png)](https://patentimages.storage.googleapis.com/19/14/ec/b809343d2134e9/US09750738-20170905-C00058.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00059](https://patentimages.storage.googleapis.com/fd/fd/7b/cd92a9eeeede52/US09750738-20170905-C00059.png)](https://patentimages.storage.googleapis.com/fd/fd/7b/cd92a9eeeede52/US09750738-20170905-C00059.png)
+
+ 
+
+wherein n is 2 or 3,
+
+[![Figure US09750738-20170905-C00060](https://patentimages.storage.googleapis.com/01/29/a9/822f141c3b818d/US09750738-20170905-C00060.png)](https://patentimages.storage.googleapis.com/01/29/a9/822f141c3b818d/US09750738-20170905-C00060.png)
+
+ 
+
+wherein n is 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00061](https://patentimages.storage.googleapis.com/15/42/ec/9eb972ec716d2c/US09750738-20170905-C00061.png)](https://patentimages.storage.googleapis.com/15/42/ec/9eb972ec716d2c/US09750738-20170905-C00061.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3,
+
+—CH2CH2—X—R6, or
+
+[![Figure US09750738-20170905-C00062](https://patentimages.storage.googleapis.com/3f/ae/92/6a6c4369131ce1/US09750738-20170905-C00062.png)](https://patentimages.storage.googleapis.com/3f/ae/92/6a6c4369131ce1/US09750738-20170905-C00062.png)
+
+ 
+
+R6 is C2-8alkenyl, C1-4 alkyl substituted C1-4 cycloalkyl, C1-4alkyl substituted C4-8 cycloalkenyl, or thiophene;
+
+X is a single bond, —C(O)— or —CH(OR15)—;
+
+R15 hydrogen, C1-6 alkyl, —(CH2)q-phenyl or —C(O)—R16;
+
+R16 is C1-4 alkyl or —(CH2)q-phenyl;
+
+each q is, independently, 1, 2 or 3;
+
+R17 is hydrogen, C1-8 alkyl, CO2C1-8 alkylaryl substituted by one or more Y1 groups, CH2-aryl substituted by one or more Y1 groups, or CO2C1-8 alkyl;
+
+R18 is hydrogen, C1-8 alkyl, C2-8 alkenyl, C3-8alkynyl, CH2CO2C1-8 alkyl, CO2C1-8 alkyl or CH2-aryl substituted by one or more Y1 groups;
+
+R19, is a group selected from the group consisting of structures (a)-(p):
+
+[![Figure US09750738-20170905-C00063](https://patentimages.storage.googleapis.com/25/a8/61/7d8637c6f288c0/US09750738-20170905-C00063.png)](https://patentimages.storage.googleapis.com/25/a8/61/7d8637c6f288c0/US09750738-20170905-C00063.png)
+
+ 
+
+[![Figure US09750738-20170905-C00064](https://patentimages.storage.googleapis.com/4f/e9/46/3ee31a7af3db83/US09750738-20170905-C00064.png)](https://patentimages.storage.googleapis.com/4f/e9/46/3ee31a7af3db83/US09750738-20170905-C00064.png)
+
+ 
+
+[![Figure US09750738-20170905-C00065](https://patentimages.storage.googleapis.com/50/6d/98/b1f0526e23f15f/US09750738-20170905-C00065.png)](https://patentimages.storage.googleapis.com/50/6d/98/b1f0526e23f15f/US09750738-20170905-C00065.png)
+
+ 
+
+Q is NR21, CH2, O, S, SO, or SO2;
+
+each Y4 is, independently, Br, Cl, F, CN, CF3, NO2, N3, OR22, CO2R23, C1-6alkyl, NR24R25, NHCOR26, NHCO2R27, CONR28R29, or CH2(CH2)nY2,
+
+or two adjacent Y4 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+p is 0, 1, 2,or 3;
+
+R20 is hydrogen, C1-8 alkyl, C2-8 alkenyl, CH2OR30, or CH2-aryl substituted by one or more Y1 substituents;
+
+each R21 is, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more Y1 substituents, NR31R32, NHCOR33, NHCO2R34, CONR35R36, CH2(CH2)nY2,or C(═NH)NR37R38;
+
+R30 is hydrogen C1-8 alkyl, C2-8 alkenyl, C2-8 alkenyl, CH2O2C1-8 alkyl, CO2C1-8 alkyl, or CH2-aryl substituted by one or more Y1 substituents;
+
+R22, R23, R24, R25, R26, R27, R28, R29, R31, R32, R33, R34, R35, R36, R37 and R38 are, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more substituents OH, Br,Cl, F, CN, CF3, NO2, N3, C1-6 alkyl, or CH2(CH2)nY2′;
+
+Z is N or S wherein when Z is S, there is no R18;
+
+X1 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+X2 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+or X1 and X2together form ═O, ═S, or ═NH;
+
+or a pharmaceutically acceptable salt thereof.
+
+18. The method of claim 17, wherein
+
+R is OH, OC1-3 alkyl, C1-4 alkyl, C1-4 haloalkyl, C2-4 alkenyl, C2-4 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-4 alkyl, COC1-4 alkyl, CONH2, NHCHO, NH2, NHSO2C1-4 alkyl, or NHCO2C 1-4 alkyl; and
+
+Y3 is hydrogen, Br, Cl, F, CF3 NO2, OR8, CO2R9, C1-3alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)nY2.
+
+19. The method of claim 17, wherein
+
+R is OH, OCH3, or OCF3; and
+
+Y3 is hydrogen.
+
+20. The method of claim 17, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen, methyl or ethyl; and
+
+at least one of R1, R2, R3 and R4 is other than hydrogen.
+
+21. The method of claim 17, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen or methyl; and
+
+at least one of R1, R2, R3 and R4 is methyl.
+
+22. The method of claim 17, wherein
+
+R is OH, OCH3, or OCF3;
+
+Y3 is hydrogen;
+
+R1, R2, R3and R4 are each, independently, hydrogen, methyl or ethyl, wherein at least one of R1, R2, R3 and R4 is other than hydrogen; and
+
+R5 is —(CH2)n-phenyl, wherein n is 3.
+
+23. The method of claim 17, wherein R5 is
+
+[![Figure US09750738-20170905-C00066](https://patentimages.storage.googleapis.com/5c/49/51/21cae9f0e70fea/US09750738-20170905-C00066.png)](https://patentimages.storage.googleapis.com/5c/49/51/21cae9f0e70fea/US09750738-20170905-C00066.png)
+
+24. The method of claim 17, wherein the opioid receptor antagonist is represented by the formula:
+
+[![Figure US09750738-20170905-C00067](https://patentimages.storage.googleapis.com/bc/59/75/2b5474ea650eb7/US09750738-20170905-C00067.png)](https://patentimages.storage.googleapis.com/bc/59/75/2b5474ea650eb7/US09750738-20170905-C00067.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+25. A method of treating diabetes, diabetic complications, diabetic retinopathy, sexual/reproductive disorders, epileptic seizure, hypertension, cerebral hemorrhage, congestive heart failure, sleeping disorders, atherosclerosis, rheumatoid arthritis, stroke, hyperlipidemia, hypertriglycemia, hyperglycemia, hyperlipoproteinemia, substance abuse, drug overdose, compulsive behavior disorders and addictive behaviors, comprising administering to a subject in need thereof an effective amount of an opioid receptor antagonist represented by the formula (I):
+
+[![Figure US09750738-20170905-C00068](https://patentimages.storage.googleapis.com/e8/1c/8f/e9fe79fe3327c2/US09750738-20170905-C00068.png)](https://patentimages.storage.googleapis.com/e8/1c/8f/e9fe79fe3327c2/US09750738-20170905-C00068.png)
+
+wherein
+
+R is OH, OC1-6 alkyl, C2-8 alkyl, C1-8 haloalkyl, C2-8 alkenyl, C2-8 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-8 alkyl, COC1-8 alkyl, CONH2, NHCHO, NH2, NHSO2C1-8 alkyl, or NHCO2C1-8 alkyl;
+
+Y3 is hydrogen, Br, Cl, F, CF3, NO2, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)nY2;
+
+R1, R2, R3 and R4 are each, independently, one of the following structures:
+
+[![Figure US09750738-20170905-C00069](https://patentimages.storage.googleapis.com/17/01/86/212a0b68b347bc/US09750738-20170905-C00069.png)](https://patentimages.storage.googleapis.com/17/01/86/212a0b68b347bc/US09750738-20170905-C00069.png)
+
+ 
+
+or R1 and R2, R2 and R3 and/or R3 and R4 are bonded together to form a cyclo alkyl group or a bridged heterocyclic ring,
+
+wherein at least one of R1, R2, R3 and R4 is other than hydrogen;
+
+each Y1 is, independently, hydrogen, OH, Br, Cl, F, CN, CF3, NO2, N3, OR8, CO2R9, C1-6 alkyl, NR10R11, NHCOR12, NHCO2R12, or CONR13R14, or two adjacent Y1 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+each Y2 is, independently, hydrogen, CF3, CO2R9, C1-8 alkyl,NR10R11,NHCOR12, NHCO2R12, CONR13R14, CH2OH, CH2OR8, COCH2R9,
+
+[![Figure US09750738-20170905-C00070](https://patentimages.storage.googleapis.com/30/85/2f/aa28285653813f/US09750738-20170905-C00070.png)](https://patentimages.storage.googleapis.com/30/85/2f/aa28285653813f/US09750738-20170905-C00070.png)
+
+ 
+
+each n is, independently, 0, 1, 2 or 3;
+
+each o is, independently, 0, 1, 2 or 3;
+
+each R8, R9, R10, R11, R12R13 and R14 is, independently, hydrogen, C1-8 alkyl, CH2-aryl wherein the aryl group is substituted by one or more substituents OH, Br, Cl, F, CN, CF3, NO2, N3, C1-6 alkyl, or CH2(CH2)nY2′;
+
+each Y2′ is, independently, hydrogen, CF3, or C1-6 alkyl;
+
+R5 is
+
+[![Figure US09750738-20170905-C00071](https://patentimages.storage.googleapis.com/5a/7a/90/a44ccad22bc812/US09750738-20170905-C00071.png)](https://patentimages.storage.googleapis.com/5a/7a/90/a44ccad22bc812/US09750738-20170905-C00071.png)
+
+ 
+
+wherein n is 3,
+
+[![Figure US09750738-20170905-C00072](https://patentimages.storage.googleapis.com/48/c5/84/f837a12d7de9e6/US09750738-20170905-C00072.png)](https://patentimages.storage.googleapis.com/48/c5/84/f837a12d7de9e6/US09750738-20170905-C00072.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00073](https://patentimages.storage.googleapis.com/76/25/b9/676cf08929d099/US09750738-20170905-C00073.png)](https://patentimages.storage.googleapis.com/76/25/b9/676cf08929d099/US09750738-20170905-C00073.png)
+
+ 
+
+wherein n is 2 or 3,
+
+[![Figure US09750738-20170905-C00074](https://patentimages.storage.googleapis.com/1a/23/56/e1c90e8e8ce47f/US09750738-20170905-C00074.png)](https://patentimages.storage.googleapis.com/1a/23/56/e1c90e8e8ce47f/US09750738-20170905-C00074.png)
+
+ 
+
+wherein n is 1, 2 or 3,
+
+[![Figure US09750738-20170905-C00075](https://patentimages.storage.googleapis.com/8e/dd/98/29b0a7d4b4e41b/US09750738-20170905-C00075.png)](https://patentimages.storage.googleapis.com/8e/dd/98/29b0a7d4b4e41b/US09750738-20170905-C00075.png)
+
+ 
+
+wherein n is 0, 1, 2 or 3,
+
+—CH2CH2—X—R6, or
+
+[![Figure US09750738-20170905-C00076](https://patentimages.storage.googleapis.com/65/fd/1d/ccb5631ae53d13/US09750738-20170905-C00076.png)](https://patentimages.storage.googleapis.com/65/fd/1d/ccb5631ae53d13/US09750738-20170905-C00076.png)
+
+ 
+
+R6 is C2-8 alkenyl, C1-4 alkyl substituted C4-8 cycloalkyl, C1-4alkyl substituted C4-8 cycloalkenyl, or thiophene;
+
+X is a single bond, —C(O)— or —CH(OR15)—;
+
+R15 hydrogen, C1-6 alkyl, —(CH2)q-phenyl or —C(O)—R16;
+
+R16 is C1-4 alkyl or —(CH2)q-phenyl;
+
+each q is, independently, 1, 2 or 3;
+
+R17is hydrogen, C1-8 alkyl, CO2C1-8 alkylaryl substituted by one or more Y1 groups, CH2-aryl substituted by one or more Y1 groups, or CO2C1-8 alkyl;
+
+R18 is hydrogen, C1-8 alkyl, C2-8 alkenyl, C3-8 alkynyl, CH2CO2C1-8 alkyl, CO2C1-8 alkyl or CH2-aryl substituted by one or more Y1 groups;
+
+R19, is a group selected from the group consisting of structures (a)-(p):
+
+[![Figure US09750738-20170905-C00077](https://patentimages.storage.googleapis.com/06/0a/d0/c9983fad3863be/US09750738-20170905-C00077.png)](https://patentimages.storage.googleapis.com/06/0a/d0/c9983fad3863be/US09750738-20170905-C00077.png)
+
+ 
+
+[![Figure US09750738-20170905-C00078](https://patentimages.storage.googleapis.com/31/33/63/ec3565c8661f3c/US09750738-20170905-C00078.png)](https://patentimages.storage.googleapis.com/31/33/63/ec3565c8661f3c/US09750738-20170905-C00078.png)
+
+ 
+
+[![Figure US09750738-20170905-C00079](https://patentimages.storage.googleapis.com/2b/0f/62/fedd86552072df/US09750738-20170905-C00079.png)](https://patentimages.storage.googleapis.com/2b/0f/62/fedd86552072df/US09750738-20170905-C00079.png)
+
+ 
+
+Q is NR21, CH2, O, S, SO, or SO2;
+
+each Y4 is, independently, Br, Cl, F, CN, CF3, NO2, N3, OR22, CO2R23, C1-6 alkyl, NR24R25, NHCOR26, NHCO2R27, CONR28R29, or CH2(CH2)nY2,
+
+or two adjacent Y4 groups form a —O—CH2—O— or —O—CH2CH2—O— group;
+
+p is 0, 1, 2,or 3;
+
+R20 is hydrogen, C1-8 alkyl, C2-8 alkenyl, CH2OR30, or CH2-aryl substituted by one or more Y1 substituents;
+
+each R21 is, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more Y1 substituents, NR31R32, NHCOR33, NHCO2R34, CONR35R36, CH2(CH2)nY2,or C(═NH)NR37R38;
+
+R30 is hydrogen C1-8 alkyl, C2-8 alkenyl, C2-8 alkenyl, CH2O2C1-8 alkyl, CO2C1-8 alkyl, or CH2-aryl substituted by one or more Y1 substituents;
+
+R22, R23, R24,R25, R26, R27, R28, R29, R31, R32, R33, R34, R35, R36, R37 and R38 are, independently, hydrogen, C1-8 alkyl, CH2-aryl substituted by one or more substituents OH, Br, Cl, F, CN, CF3, NO2, N3, C1-6 alkyl, or CH2(CH2)nY2′;
+
+Z is N or S, wherein when Z is S, there is no R18;
+
+X1 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+X2 is hydrogen, C1-8 alkyl, C2-8 alkenyl, or C2-8 alkynyl;
+
+or X1 and X2together form ═O, ═S, or ═NH;
+
+or a pharmaceutically acceptable salt thereof.
+
+26. The method of claim 25, wherein
+
+R is OH, OC1-3 alkyl, C1-4 alkyl, C1-4 haloalkyl, C2-4 alkenyl, C2-4 alkynyl, aryl substituted by one or more Y1 groups, CH2-aryl wherein the aryl group is substituted by one or more Y1 groups, OCOC1-4 alkyl, COC1-4 alkyl, CONH2, NHCHO, NH2, NHSO2C1-4 alkyl, or NHCO2C 1-4 alkyl; and
+
+Y3 is hydrogen, Br, Cl, F, CF3, NO2, OR8, CO2R9, C1-3 alkyl, NR10R11, NHCOR12, NHCO2R12, CONR13R14 or CH2(CH2)nY2.
+
+27. The method of claim 25, wherein
+
+R is OH, OCH3, or OCF3; and
+
+Y3 is hydrogen.
+
+28. The method of claim 25, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen, methyl or ethyl; and
+
+at least one of R1, R2, R3 and R4 is other than hydrogen.
+
+29. The method of claim 25, wherein
+
+R1, R2, R3 and R4 are each, independently, hydrogen or methyl; and
+
+at least one of R1, R2, R3 and R4 is methyl.
+
+30. The method of claim 25, wherein
+
+R is OH, OCH3, or OCF3;
+
+Y3 is hydrogen;
+
+Rl, R2, R3 and R4 are each, independently, hydrogen, methyl or ethyl, wherein at least one of R1, R2, R3 and R4 is other than hydrogen; and
+
+R5 is —(CH2)n-phenyl, wherein n is 3.
+
+31. The method of claim 25, wherein R5 is
+
+[![Figure US09750738-20170905-C00080](https://patentimages.storage.googleapis.com/b6/9a/43/9dc1168eb79541/US09750738-20170905-C00080.png)](https://patentimages.storage.googleapis.com/b6/9a/43/9dc1168eb79541/US09750738-20170905-C00080.png)
+
+32. The method of claim 25, wherein the opioid receptor antagonist is represented by the formula:
+
+[![Figure US09750738-20170905-C00081](https://patentimages.storage.googleapis.com/b9/6c/22/b496228839b40f/US09750738-20170905-C00081.png)](https://patentimages.storage.googleapis.com/b9/6c/22/b496228839b40f/US09750738-20170905-C00081.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.

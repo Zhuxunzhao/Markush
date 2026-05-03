@@ -1,0 +1,4 @@
+Abstract
+--------
+
+Provided herein are lipidoids that may be prepared from the conjugate addition of alkylamines to acrylates. In some embodiments, provided lipidoids are biodegradable and may be used in a variety of drug delivery systems. Given the amino moiety of the lipidoids, they are well-suited for the delivery of polynucleotides, in addition to other agents. Nanoparticles containing the inventive lipidoids and polynucleotides have been prepared and have been shown to be effective in delivering siRNA.

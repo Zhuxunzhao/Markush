@@ -1,0 +1,38 @@
+Claims (2)
+----------
+
+What is claimed is:
+
+1. A pharmaceutical composition comprising at least one pharmaceutically acceptable carrier, at least one compound of formula (III):
+
+[![Figure US09758477-20170912-C00210](https://patentimages.storage.googleapis.com/a5/80/7f/371eb32cdd8e50/US09758477-20170912-C00210.png)](https://patentimages.storage.googleapis.com/a5/80/7f/371eb32cdd8e50/US09758477-20170912-C00210.png)
+
+wherein:
+
+R10 is selected from the group consisting of H, CH3, Cl and Br;
+
+Ry is selected from the group consisting of
+
+[![Figure US09758477-20170912-C00211](https://patentimages.storage.googleapis.com/7f/ca/a6/0740a7f3934ce3/US09758477-20170912-C00211.png)](https://patentimages.storage.googleapis.com/7f/ca/a6/0740a7f3934ce3/US09758477-20170912-C00211.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof,
+
+and at least one additional agent that treats Hepatitis B virus (HBV) infection.
+
+2. A pharmaceutical composition comprising at least one pharmaceutically acceptable carrier, at least one compound selected from the group consisting of:
+
+3-(Azepane-1-sulfonyl)-N-benzyl-4-chloro-benzamide,
+
+N-Benzyl-4-chloro-3-(piperidine-1-sulfonyl)-benzamide,
+
+N-Benzyl-4-methyl-3-(4-methyl-piperidine-1-sulfonyl)-benzamide,
+
+N-Benzyl-3-benzylsulfamoyl-4-methyl-benzamide,
+
+3-(3-Benzylcarbamoyl-benzenesulfonylamino)-benzoic acid,
+
+N-Benzyl-4-bromo-3-diethylsulfamoyl-benzamide,
+
+any pharmaceutically acceptable salt thereof, and any mixtures thereof; and at least one additional agent that treats Hepatitis B virus (HBV) infection.

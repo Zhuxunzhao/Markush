@@ -1,0 +1,80 @@
+Claims (15)
+-----------
+
+**1**. A cosmetic composition, comprising active compounds of formula (I)
+
+[![Figure US20150174033A1-20150625-C00013](https://patentimages.storage.googleapis.com/69/d7/77/8f444b6dc13bc5/US20150174033A1-20150625-C00013.png)](https://patentimages.storage.googleapis.com/69/d7/77/8f444b6dc13bc5/US20150174033A1-20150625-C00013.png)
+
+wherein
+
+R and R′ independently of one another denote hydrogen, hydroxyl, a linear or branched OC1-C4-alkyl group, or optionally R and R′ form together a methylenedioxy group resulting in a 3,4-methylendioxyphenyl residue and R″ denotes a linear or branched C1-C9 alkyl group or A, wherein A denotes
+
+[![Figure US20150174033A1-20150625-C00014](https://patentimages.storage.googleapis.com/7e/89/4b/fbcd58e8ba3387/US20150174033A1-20150625-C00014.png)](https://patentimages.storage.googleapis.com/7e/89/4b/fbcd58e8ba3387/US20150174033A1-20150625-C00014.png)
+
+with X, Y and Z being independently of one another hydrogen, hydroxyl, an linear or branched C1-C4-alkyl group, or a linear or branched OC1-C4-alkyl group.
+
+**2**. The composition of claim 1, wherein the active is 4-(3,4-methylendioxyphenyl)-2-butanone (Cassione) according to formula (II)
+
+[![Figure US20150174033A1-20150625-C00015](https://patentimages.storage.googleapis.com/20/b4/7d/1e9a998bd5e359/US20150174033A1-20150625-C00015.png)](https://patentimages.storage.googleapis.com/20/b4/7d/1e9a998bd5e359/US20150174033A1-20150625-C00015.png)
+
+**3**. The composition of claim 1, wherein the active is 4-(4-hydroxy-3-methoxyphenyl)-2-butanone (Zingerone) according to formula (III)
+
+[![Figure US20150174033A1-20150625-C00016](https://patentimages.storage.googleapis.com/0d/2c/30/fa53faf1ec7169/US20150174033A1-20150625-C00016.png)](https://patentimages.storage.googleapis.com/0d/2c/30/fa53faf1ec7169/US20150174033A1-20150625-C00016.png)
+
+**4**. The composition of claim 1, wherein the active is 3-(4-Hydroxy-3-methoxyphenyl)-1-(4-hydroxyphenyl)-1-propanone according to formula (IV)
+
+[![Figure US20150174033A1-20150625-C00017](https://patentimages.storage.googleapis.com/b4/07/0d/4eae02244cabe1/US20150174033A1-20150625-C00017.png)](https://patentimages.storage.googleapis.com/b4/07/0d/4eae02244cabe1/US20150174033A1-20150625-C00017.png)
+
+**5**. The composition of claim 1, wherein the active is Heptyl 4-hydroxy-3-methoxyphenethyl ketone ([6]-Paradol) according to formula (V)
+
+[![Figure US20150174033A1-20150625-C00018](https://patentimages.storage.googleapis.com/bc/c4/18/ec0a94dff87f3b/US20150174033A1-20150625-C00018.png)](https://patentimages.storage.googleapis.com/bc/c4/18/ec0a94dff87f3b/US20150174033A1-20150625-C00018.png)
+
+**6**. The composition of claim 1, wherein the actives are present in amounts of 0.000005 to 5% b.w.—calculated on the composition.
+
+**7**. The composition of claim 1, wherein the actives are present in amounts of 0.000001 to 1% b.w.—calculated on the composition.
+
+**8**. The composition of claim 1, wherein the actives are present in amounts of 0.00001 to 0.1% b.w.—calculated on the composition.
+
+**9**. The cosmetic composition of claim 1, comprising
+
+(a) at least one active of formula (I),
+
+(b) at least one cosmetic additive, and
+
+(c) at least one cosmetically acceptable carrier.
+
+**10**. The composition of claim 9, wherein said cosmetic additives are selected from the group consisting of antioxidants, primary or secondary sun protection factors, matrix-metalloproteinase (MMP) inhibitors, skin-moisturizing agents, glycosaminoglycans (GAGs) and further substances stimulating the synthesis of glycosaminoglycans, anti-inflammatory agents and TRVP1 antagonists.
+
+**11**. The composition of claim 9 for topical application.
+
+**12**. The composition of claim 9 for oral administration.
+
+**13**. A pharmaceutical or dermatological composition, comprising active compounds of formula (I)
+
+[![Figure US20150174033A1-20150625-C00019](https://patentimages.storage.googleapis.com/d2/50/32/4532ab7bd32a12/US20150174033A1-20150625-C00019.png)](https://patentimages.storage.googleapis.com/d2/50/32/4532ab7bd32a12/US20150174033A1-20150625-C00019.png)
+
+wherein
+
+R and R′ independently of one another denote hydrogen, hydroxyl, a linear or branched OC1-C4-alkyl group, or optionally R and R′ form together a methylenedioxy group resulting in a 3,4-methylendioxyphenyl residue and R″ denotes a linear or branched C1-C9 alkyl group or A, wherein A denotes
+
+[![Figure US20150174033A1-20150625-C00020](https://patentimages.storage.googleapis.com/49/9a/8f/623fb68ea3c006/US20150174033A1-20150625-C00020.png)](https://patentimages.storage.googleapis.com/49/9a/8f/623fb68ea3c006/US20150174033A1-20150625-C00020.png)
+
+with X, Y and Z being independently of one another hydrogen, hydroxyl, an linear or branched CC-alkyl group, or a linear or branched OC1-C4-alkyl group
+
+for stimulating biosynthesis of hyaluronan in human tissue or skin or hair.
+
+**14**. A non-therapeutic method for stimulating the hyaluronan biosynthesis wherein at least one compound of formula (I)
+
+[![Figure US20150174033A1-20150625-C00021](https://patentimages.storage.googleapis.com/32/94/8a/9e5a7ec88b8a5d/US20150174033A1-20150625-C00021.png)](https://patentimages.storage.googleapis.com/32/94/8a/9e5a7ec88b8a5d/US20150174033A1-20150625-C00021.png)
+
+wherein
+
+R and R′ independently of one another denote hydrogen, hydroxyl, a linear or branched OC1-C4-alkyl group, or optionally R and R′ form together a methylenedioxy group resulting in a 3,4-methylendioxyphenyl residue and R″ denotes a linear or branched C1-C9 alkyl group or A, wherein A denotes
+
+[![Figure US20150174033A1-20150625-C00022](https://patentimages.storage.googleapis.com/9e/bc/73/693288feb473ff/US20150174033A1-20150625-C00022.png)](https://patentimages.storage.googleapis.com/9e/bc/73/693288feb473ff/US20150174033A1-20150625-C00022.png)
+
+with X, Y and Z being independently of one another hydrogen, hydroxyl, an linear or branched C1-C4-alkyl group, or a linear or branched OC1-C4-alkyl group
+
+is administered to human tissue or skin or hair.
+
+**15**. (canceled)

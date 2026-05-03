@@ -1,0 +1,121 @@
+Claims
+------
+
+CLAIMS What is claimed is: 1. A compound of Formula (I’):
+
+[![Figure imgf000129_0001](https://patentimages.storage.googleapis.com/76/29/f8/98ab26ecbc6577/imgf000129_0001.png)](https://patentimages.storage.googleapis.com/76/29/f8/98ab26ecbc6577/imgf000129_0001.png)
+
+Formula (I’); or a pharmaceutically acceptable salt thereof, wherein: Z is selected from O or N(R6); X is a bond or -C(R7)(R8)-; R1 is H or C1-6alkyl; R2 is H or C1-6alkyl; R3 is selected from H, halogen, C1-6alkyl, and C1-6haloalkyl; R4 is selected from C3-6cycloalkyl and C2-9heterocycloalkyl, wherein C3-6cycloalkyl and C2-9heterocycloalkyl are substituted with 1, 2, 3, 4, or 5 groups independently selected from halogen, -CN, C1-6haloalkyl, and C1-4haloalkoxy, and wherein C3-6cycloalkyl and C2- 9heterocycloalkyl are optionally substituted with 1, 2, 3, 4, or 5 groups independently selected from -OH, -NH2, -N(H)(C1-4alkyl), -N(C1-4alkyl)2, C1-4alkyl, and C1-4alkoxy; each R5 is independently selected from halogen, C1-6alkyl, and C1-6haloalkyl; R6 is selected from H and C1-6alkyl; R7 and R8 are each independently selected from H, -OR9, C1-4alkyl, and C1-4haloalkyl; each R9 is independently selected from H, C1-6alkyl, and C1-6haloalkyl, wherein said C1- 6alkyl is optionally substituted with 1, 2, or 3 substituents independently selected from -OH, - CN, -NH2, -N(H)(C1-4alkyl), -N(C1-4alkyl)2, halogen, C1-4alkyl, C1-4alkoxy, C1-4haloalkyl, and C1-4haloalkoxy; and n is 0, 1, 2, 3, or 4. 2. A compound of Formula (I):
+
+[![Figure imgf000129_0002](https://patentimages.storage.googleapis.com/e3/0c/93/e170c93b8d0be5/imgf000129_0002.png)](https://patentimages.storage.googleapis.com/e3/0c/93/e170c93b8d0be5/imgf000129_0002.png)
+
+Formula (I); or a pharmaceutically acceptable salt thereof, wherein: Z is selected from O or N(R6);
+X is a bond or -C(R7)(R8)-; R1 is H or C1-6alkyl; R2 is H or C1-6alkyl; R3 is selected from H, halogen, C1-6alkyl, and C1-6haloalkyl; R4 is selected from C3-6cycloalkyl and C2-9heterocycloalkyl, wherein C3-6cycloalkyl and C2-9heterocycloalkyl are substituted with 1, 2, 3, 4, or 5 groups independently selected from halogen and C1-6haloalkyl and wherein C3-6cycloalkyl and C2-9heterocycloalkyl are optionally substituted with 1, 2, 3, 4, or 5 groups independently selected from -OH, -CN, -NH2, -N(H)(C1- 4alkyl), -N(C1-4alkyl)2, C1-4alkyl, C1-4alkoxy, and C1-4haloalkoxy; each R5 is independently selected from halogen, C1-6alkyl, and C1-6haloalkyl; R6 is selected from H and C1-6alkyl; R7 and R8 are each independently selected from H, -OR9, C1-4alkyl, and C1-4haloalkyl; each R9 is independently selected from H, C1-6alkyl, and C1-6haloalkyl, wherein said C1- 6alkyl is optionally substituted with 1, 2, or 3 substituents independently selected from -OH, - CN, -NH2, -N(H)(C1-4alkyl), -N(C1-4alkyl)2, halogen, C1-4alkyl, C1-4alkoxy, C1-4haloalkyl, and C1-4haloalkoxy; and n is 0, 1,
+
+2, 3, or 4.
+
+3. The compound of claim 1 or claim 2, or a pharmaceutically acceptable salt thereof, wherein X is a bond.
+
+4. The compound of claim 1 or claim 2, or a pharmaceutically acceptable salt thereof, wherein X is -C(R7)(R8)-.
+
+5. The compound of claim 4, or a pharmaceutically acceptable salt thereof, wherein X is -CH2-.
+
+6. The compound of any one of claims 1-5, or a pharmaceutically acceptable salt thereof, wherein Z is N(R6).
+
+7. The compound of claim 6, or a pharmaceutically acceptable salt thereof, wherein R6 is H.
+
+8. The compound of claim 6, or a pharmaceutically acceptable salt thereof, wherein R6 is C1-  6alkyl.
+
+9. The compound of any one of claims 1-5, or a pharmaceutically acceptable salt thereof, wherein Z is O.
+
+10. The compound of any one of claims 1-8, or a pharmaceutically acceptable salt thereof, wherein R1 is H.
+
+11. The compound of any one of claims 1-10, or a pharmaceutically acceptable salt thereof, wherein R2 is H.
+
+12. The compound of any one of claims 1-10, or a pharmaceutically acceptable salt thereof, wherein R2 is C1-6alkyl.
+
+13. The compound of any one of claims 1-12, or a pharmaceutically acceptable salt thereof, wherein R3 is H.
+
+14. The compound of claim 1, or a pharmaceutically acceptable salt thereof, having Formula (Ia’):
+
+[![Figure imgf000131_0001](https://patentimages.storage.googleapis.com/1d/55/23/3ce4fcedabe0bf/imgf000131_0001.png)](https://patentimages.storage.googleapis.com/1d/55/23/3ce4fcedabe0bf/imgf000131_0001.png)
+
+Formula (Ia’).
+
+15. The compound of claim 1, or a pharmaceutically acceptable salt thereof, having Formula (Ib’):
+
+[![Figure imgf000131_0002](https://patentimages.storage.googleapis.com/31/2a/e5/99e9763533cf97/imgf000131_0002.png)](https://patentimages.storage.googleapis.com/31/2a/e5/99e9763533cf97/imgf000131_0002.png)
+
+Formula (Ib’).
+
+16. The compound of claim 1, or a pharmaceutically acceptable salt thereof, having Formula (Ic’):
+
+[![Figure imgf000131_0003](https://patentimages.storage.googleapis.com/1e/aa/59/f5c0373609a981/imgf000131_0003.png)](https://patentimages.storage.googleapis.com/1e/aa/59/f5c0373609a981/imgf000131_0003.png)
+
+Formula (Ic’).
+
+17. The compound of claim 2, or a pharmaceutically acceptable salt thereof, having Formula (Ia):
+
+[![Figure imgf000131_0004](https://patentimages.storage.googleapis.com/de/93/af/70ff3fc23e59f3/imgf000131_0004.png)](https://patentimages.storage.googleapis.com/de/93/af/70ff3fc23e59f3/imgf000131_0004.png)
+
+Formula (Ia).
+
+18. The compound of claim 2, or a pharmaceutically acceptable salt thereof, having Formula (Ib):
+
+[![Figure imgf000131_0005](https://patentimages.storage.googleapis.com/ca/21/d9/63ac854e65d642/imgf000131_0005.png)](https://patentimages.storage.googleapis.com/ca/21/d9/63ac854e65d642/imgf000131_0005.png)
+
+Formula (Ib).
+
+19. The compound of claim 2, or a pharmaceutically acceptable salt thereof, having Formula (Ic):
+
+[![Figure imgf000132_0001](https://patentimages.storage.googleapis.com/84/40/12/790194d19bf526/imgf000132_0001.png)](https://patentimages.storage.googleapis.com/84/40/12/790194d19bf526/imgf000132_0001.png)
+
+Formula (Ic).
+
+20. The compound of any one of claims 1-16, or a pharmaceutically acceptable salt thereof, wherein R4 is C3-6cycloalkyl substituted with 1, 2, 3, 4, or 5 groups independently selected from halogen, -CN, C1-6haloalkyl, and C1-4haloalkoxy, wherein said C3-6cycloalkyl is optionally substituted with 1, 2, 3, 4, or 5 groups independently selected from -OH, -NH2, - N(H)(C1-4alkyl), -N(C1-4alkyl)2, C1-4alkyl, and C1-4alkoxy.
+
+21. The compound of claim 20, or a pharmaceutically acceptable salt thereof, wherein R4 is C3-  6cycloalkyl substituted with 1, 2, or 3 groups independently selected from halogen, -CN, C1-  6haloalkyl, and C1-4haloalkoxy, wherein said C3-6cycloalkyl is optionally substituted with 1 or 2 groups independently selected from -OH, C1-4alkyl, and C1-4alkoxy.
+
+22. The compound of any one of claims 2-13 and 17-19, or a pharmaceutically acceptable salt thereof, wherein R4 is C3-6cycloalkyl substituted with 1, 2, 3, 4, or 5 groups independently selected from halogen and C1-6haloalkyl, and wherein said C3-6cycloalkyl is optionally substituted with 1, 2, 3, 4, or 5 groups independently selected from -OH, -CN, -NH2, - N(H)(C1-4alkyl), -N(C1-4alkyl)2, C1-4alkyl, C1-4alkoxy, and C1-4haloalkoxy.
+
+23. The compound of claim 22, or a pharmaceutically acceptable salt thereof, wherein R4 is C3-  6cycloalkyl substituted with 1, 2, 3, or 4 groups independently selected from halogen and C1-  6haloalkyl, and wherein said C3-6cycloalkyl is optionally substituted with 1, 2, or 3 groups independently selected from -OH, -CN, C1-4alkyl, C1-4alkoxy, and C1-4haloalkoxy.
+
+24. The compound of any one of claims 1-23, or a pharmaceutically acceptable salt thereof, wherein R4 is C3-6cycloalkyl substituted only with 1, 2, or 3 groups independently selected from halogen and C1-6haloalkyl.
+
+25. The compound of any one of claims 1-16, or a pharmaceutically acceptable salt thereof, wherein R4 is selected from:
+
+[![Figure imgf000133_0001](https://patentimages.storage.googleapis.com/0f/d5/9d/2bd7ad0b4138f3/imgf000133_0001.png)](https://patentimages.storage.googleapis.com/0f/d5/9d/2bd7ad0b4138f3/imgf000133_0001.png)
+
+26. The compound of any one of claims 1-19, or a pharmaceutically acceptable salt thereof, wherein R4 is selected from:
+
+[![Figure imgf000133_0002](https://patentimages.storage.googleapis.com/8f/c4/32/7ef2de5a4ee797/imgf000133_0002.png)](https://patentimages.storage.googleapis.com/8f/c4/32/7ef2de5a4ee797/imgf000133_0002.png)
+
+27. The compound of any one of claims 1-16, or a pharmaceutically acceptable salt thereof, wherein R4 is C2-9heterocycloalkyl substituted with 1, 2, 3, 4, or 5 groups independently selected from halogen, -CN, C1-6haloalkyl, and C1-4haloalkoxy, wherein said C2-  9heterocycloalkyl is optionally substituted with 1, 2, 3, 4, or 5 groups independently selected from -OH, -NH2, -N(H)(C1-4alkyl), -N(C1-4alkyl)2, C1-4alkyl, and C1-4alkoxy.
+
+28. The compound of claim 22, or a pharmaceutically acceptable salt thereof, wherein R4 is C2-  9heterocycloalkyl substituted with 1, 2, or 3 groups independently selected from halogen, - CN, C1-6haloalkyl, and C1-4haloalkoxy, wherein said C2-9heterocycloalkyl is optionally substituted with 1 or 2 groups independently selected from -OH, C1-4alkyl, and C1-4alkoxy.
+
+29. The compound of any one of claims 2-13 and 17-19, or a pharmaceutically acceptable salt thereof, wherein R4 is C2-9heterocycloalkyl substituted with 1, 2, 3, 4, or 5 groups independently selected from halogen and C1-6haloalkyl, and wherein said C2-  9heterocycloalkyl is optionally substituted with 1, 2, 3, 4, or 5 groups independently selected from -OH, -CN, -NH2, -N(H)(C1-4alkyl), -N(C1-4alkyl)2, C1-4alkyl, C1-4alkoxy, and C1-  4haloalkoxy.
+
+30. The compound of claim 28 or claim 29, or a pharmaceutically acceptable salt thereof, wherein R4 is C2-9heterocycloalkyl substituted with 1, 2, 3, or 4 groups independently selected from halogen.
+
+31. The compound of any one of claims 27-30, or a pharmaceutically acceptable salt thereof, wherein R4 is selected from:
+
+[![Figure imgf000134_0001](https://patentimages.storage.googleapis.com/cc/2b/ba/d6124eecf60206/imgf000134_0001.png)](https://patentimages.storage.googleapis.com/cc/2b/ba/d6124eecf60206/imgf000134_0001.png)
+
+32. The compound of claim 31, or a pharmaceutically acceptable salt thereof, wherein R4 is selected from:
+
+[![Figure imgf000134_0002](https://patentimages.storage.googleapis.com/17/e0/a8/11bc15e19a6898/imgf000134_0002.png)](https://patentimages.storage.googleapis.com/17/e0/a8/11bc15e19a6898/imgf000134_0002.png)
+
+33. The compound of any one of claims 1-32, or a pharmaceutically acceptable salt thereof, wherein n is 0. 34. The compound of claim 1 or claim 2, or a pharmaceutically acceptable salt thereof, selected from:
+
+[![Figure imgf000134_0003](https://patentimages.storage.googleapis.com/6b/45/ae/a5468f21eab073/imgf000134_0003.png)](https://patentimages.storage.googleapis.com/6b/45/ae/a5468f21eab073/imgf000134_0003.png)
+
+[![Figure imgf000135_0001](https://patentimages.storage.googleapis.com/ed/1f/c3/5f5034e0f61d7d/imgf000135_0001.png)](https://patentimages.storage.googleapis.com/ed/1f/c3/5f5034e0f61d7d/imgf000135_0001.png)
+
+35. The compound of claim 1 or claim 2, or a pharmaceutically acceptable salt thereof, selected from:
+
+[![Figure imgf000135_0002](https://patentimages.storage.googleapis.com/9d/b1/76/b690431ad3bdde/imgf000135_0002.png)](https://patentimages.storage.googleapis.com/9d/b1/76/b690431ad3bdde/imgf000135_0002.png)
+
+[![Figure imgf000136_0001](https://patentimages.storage.googleapis.com/cb/ad/7a/1745ae972e56d1/imgf000136_0001.png)](https://patentimages.storage.googleapis.com/cb/ad/7a/1745ae972e56d1/imgf000136_0001.png)
+
+36. A pharmaceutical composition comprising at least one pharmaceutically acceptable carrier and a compound of any one of claims 1-35, or a pharmaceutically acceptable salt or solvate thereof. 37. A method of inhibiting SARM1 comprising contacting the SARM1 with a compound of any one of claims 1-35, or a pharmaceutically acceptable salt or solvate thereof. 38. A method of inhibiting axonal degeneration in a patient in need thereof comprising administering to the patient an inhibiting amount of a compound of any one of claims 1-35, or a pharmaceutically acceptable salt or solvate thereof. 39. The method of claim 38, wherein the axonal degeneration is caused by abnormal reduction or depletion of NAD+ in the axons. 40. A method of treating or preventing a neurological disorder in a patient in need thereof comprising administering to the patient a therapeutically effective amount of a compound of any one of claims 1-35, or a pharmaceutically acceptable salt or solvate thereof. 41. The method of claim 40 wherein the neurological disorder is a neurodegenerative disease. 42. The method of claim 40 or claim 41, further comprising administering to the patient a further pharmaceutically active agent.

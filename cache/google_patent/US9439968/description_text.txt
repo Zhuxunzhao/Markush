@@ -1,0 +1,1465 @@
+Description
+-----------
+
+RELATED REFERENCES
+
+The present application is a divisional of and claims priority under 35 U.S.C. §120 to U.S. Patent Application, U.S. Ser. No. 14/089,603, filed Nov. 25, 2013, which is a continuation of and claims priority under 35 U.S.C. §120 to U.S. Patent Application, U.S. Ser. No. 13/966,136, filed Aug. 13, 2013, now abandoned, which claims priority under 35 U.S.C. §119(e) to U.S. Provisional Application, U.S. Ser. No. 61/682,468, filed Aug. 13, 2012, each of which is incorporated herein by reference.
+
+GOVERNMENT SUPPORT
+
+This invention was made with government support under grant number 5-F32-EB009623-02 awarded by the National Institutes of Health. The government has certain rights in the invention.
+
+BACKGROUND OF THE INVENTION
+
+The discovery of RNA interference (RNAi) in mammalian cells (Fire, et al. *Nature* 391:806-811 (1998)) has allowed for the development of short interfering RNA (siRNA) therapeutics (Elbashir, et al. *Nature* 411:494-8 (2001)), which have the potential to treat a wide variety of human diseases, including viral infections and cancer, through genetic modulation. Theoretically, siRNA can be used to alter the expression of nearly any gene in the body through the silencing of complementary messenger RNA. Such precise genetic control offers a broad therapeutic potential that is typically not attainable using conventional small molecule drugs. siRNA delivery vehicles must negotiate a number of obstacles in vivo prior to delivering their payload to target cells. In addition to escorting therapeutic cargo through the bloodstream and extracellular matrix, delivery vehicles must mediate siRNA transport across the cellular membrane of the target cell as well as to facilitate endosomal escape prior to lysosomal digestion (Akinc, et al. *J. Gene. Med.* 7:657-63 (2005)). It is only once these barriers have been breached that siRNA can interact with the RNAi machinery within the cytoplasm and trigger the gene silencing process (Whitehead, et al. *Nature Rev. Drug Discov.* 8:129-38 (2009)).
+
+A select number of delivery systems have previously been reported to deliver siRNA for the treatment of a variety of disease targets in vivo, including hypercholesterolemia (Frank-Kamenetsky, et al. *Proc. Natl. Acad. Sci. USA* 107:1864-9 (2010); Love, et al. *Proc. Natl. Acad. Sci. USA* 26:431-42 (2008)), liver cirrhosis (Sato, et al. *Nature Biotechnol.* 26:431-42 (2008)), Ebola virus (Geisbert, et al. *Lancet* 375:1896-1905 (2010)), and cancer (Huang, et al. *Proc. Natl. Acad. Sci. USA* 106:3426-30 (2009)). Unfortunately, RNAi success in vivo has not consistently translated to success in the clinic. Because siRNA must be dosed repeatedly to achieve therapeutic effect, ideal delivery vehicles will offer a substantial therapeutic window in order to ensure the broadest clinical application. Although some materials have been identified that allow for potent gene silencing at siRNA doses as low as 0.01 mg/kg (Love, et al. *Proc. Natl. Acad. Sci. USA* 107:1864-9 (2010)), their clinical potential has been limited due to a lack of delivery vehicle degradability. There exists a continuing need for non-toxic, biodegradable, biocompatible lipids that can be used to transfect nucleic acids and other therapeutic agents. Such lipids would have several uses, including the delivery of siRNA.
+
+SUMMARY OF THE INVENTION
+
+The compounds described herein, known as lipidoids for their lipid-like tails, may be prepared by the addition of a primary or secondary amine to an acrylate via a Michael addition reaction. The lipidoids described herein may be used in the delivery of therapeutic agents to a subject. The inventive lipidoids are particularly useful in delivering negatively charged agents. For example, lipidoids described herein may be used to deliver DNA, RNA, or other polynucleotides to a subject or to a cell. In certain embodiments, lipidoids of the present invention are used to deliver siRNA. In certain embodiments, lipidoids described herein are useful as reagents.
+
+In one aspect, the present invention provides a compound of the Formula (I):
+
+[![Figure US09439968-20160913-C00001](https://patentimages.storage.googleapis.com/16/dd/3d/ae7cf75f094b4b/US09439968-20160913-C00001.png)](https://patentimages.storage.googleapis.com/16/dd/3d/ae7cf75f094b4b/US09439968-20160913-C00001.png)
+
+or a salt thereof, wherein L, R, RA, and q are as defined herein. In certain embodiments, a provided compound is of the Formula (I-a), (I-b), (I-c), (I-d), or (I-e):
+
+[![Figure US09439968-20160913-C00002](https://patentimages.storage.googleapis.com/24/58/87/cd9d1c0380170d/US09439968-20160913-C00002.png)](https://patentimages.storage.googleapis.com/24/58/87/cd9d1c0380170d/US09439968-20160913-C00002.png)
+
+or a salt thereof, wherein m, n, R, and RA are as defined herein.
+
+In another aspect, the present invention provides a compound of the Formula (II):
+
+[![Figure US09439968-20160913-C00003](https://patentimages.storage.googleapis.com/dd/04/ef/83183d83cab34c/US09439968-20160913-C00003.png)](https://patentimages.storage.googleapis.com/dd/04/ef/83183d83cab34c/US09439968-20160913-C00003.png)
+
+or a salt thereof, wherein L, RC, and RA are as defined herein. In certain embodiments, a provided compound is of the Formula (II-a), (II-b), (II-c), (II-d), (II-e), or (II-f):
+
+[![Figure US09439968-20160913-C00004](https://patentimages.storage.googleapis.com/78/27/ae/833d52a35e411b/US09439968-20160913-C00004.png)](https://patentimages.storage.googleapis.com/78/27/ae/833d52a35e411b/US09439968-20160913-C00004.png)
+
+or a salt thereof, wherein v, L, R, RD, and RA are as defined herein.
+
+In another aspect, the present invention provides a compound of the Formula (III):
+
+[![Figure US09439968-20160913-C00005](https://patentimages.storage.googleapis.com/83/38/9f/df6278e6f2f15a/US09439968-20160913-C00005.png)](https://patentimages.storage.googleapis.com/83/38/9f/df6278e6f2f15a/US09439968-20160913-C00005.png)
+
+or a salt thereof, wherein p, R1, j, and R are as defined herein. In certain embodiments, a provided compound is of the Formula (III-a), (III-b), (III-c), (III-d), or (III-e):
+
+[![Figure US09439968-20160913-C00006](https://patentimages.storage.googleapis.com/8e/f3/9d/7fd0f69be9b2fc/US09439968-20160913-C00006.png)](https://patentimages.storage.googleapis.com/8e/f3/9d/7fd0f69be9b2fc/US09439968-20160913-C00006.png)
+
+or a salt thereof, wherein w, p, R1, j, and R are as defined herein.
+
+In another aspect, the present invention provides a compound of Formula (IV)
+
+[![Figure US09439968-20160913-C00007](https://patentimages.storage.googleapis.com/3e/bf/a7/feb160c45aa8ee/US09439968-20160913-C00007.png)](https://patentimages.storage.googleapis.com/3e/bf/a7/feb160c45aa8ee/US09439968-20160913-C00007.png)
+
+or a salt thereof, wherein R, x, and y are as defined herein. In certain embodiments, a provided compound is of the Formula (IV-a):
+
+[![Figure US09439968-20160913-C00008](https://patentimages.storage.googleapis.com/ed/71/ca/a7564c9a21817d/US09439968-20160913-C00008.png)](https://patentimages.storage.googleapis.com/ed/71/ca/a7564c9a21817d/US09439968-20160913-C00008.png)
+
+or a salt thereof, wherein R is as defined herein.
+
+In another aspect, the present invention provides a compound of Formula (V):
+
+[![Figure US09439968-20160913-C00009](https://patentimages.storage.googleapis.com/c2/8a/ac/442e8eb2106c51/US09439968-20160913-C00009.png)](https://patentimages.storage.googleapis.com/c2/8a/ac/442e8eb2106c51/US09439968-20160913-C00009.png)
+
+or a salt thereof, wherein L, R2, g, and R are as defined herein. In certain embodiments, a provided compound is of the Formula (V-a), (V-b), (V-c), or (V-d):
+
+[![Figure US09439968-20160913-C00010](https://patentimages.storage.googleapis.com/64/b2/b9/0e798288ea3552/US09439968-20160913-C00010.png)](https://patentimages.storage.googleapis.com/64/b2/b9/0e798288ea3552/US09439968-20160913-C00010.png)
+
+or a salt thereof, wherein L, R2, g, and R are as defined herein.
+
+In another aspect, the present invention provides a compound of formula
+
+[![Figure US09439968-20160913-C00011](https://patentimages.storage.googleapis.com/a1/5c/21/de126356e418a7/US09439968-20160913-C00011.png)](https://patentimages.storage.googleapis.com/a1/5c/21/de126356e418a7/US09439968-20160913-C00011.png)
+
+or a salt thereof, wherein R and RA are as defined herein.
+
+In another aspect, the present invention provides lipidoids having certain features. In some embodiments, a lipidoid of the present invention is prepared from an alkylamine starting material that has at least one tertiary amine. In some embodiments, a lipidoid of the present invention has three or more lipid-like tails. In some embodiments, the lipid-like tails on a lipidoid of the present invention are between C12-C14 in length, e.g., C13 (e.g., derived from the O13 acrylate shown in FIG. 1). In certain embodiments, a provided lipidoid is prepared from an alkylamine starting material that has at least one tertiary amine and has three or more C13 tails.
+
+In another aspect, the inventive lipidoids are combined with an agent to form nanoparticles, microparticles, liposomes, or micelles. The agent to be delivered by the nanoparticles, microparticles, liposomes, or micelles may be in the form of a gas, liquid, or solid, and the agent may be, for example, a polynucleotide, protein, peptide, or small molecule. In certain embodiments, inventive lipidoids may be combined with other lipids, polymers, surfactants, cholesterol, carbohydrates, proteins, etc. to form the particles. In certain embodiments, the particles may be combined with an excipient to form pharmaceutical or cosmetic compositions.
+
+DEFINITIONS
+
+Definitions of specific functional groups and chemical terms are described in more detail below. For purposes of this invention, the chemical elements are identified in accordance with the Periodic Table of the Elements, CAS version, Handbook of Chemistry and Physics, 75th Ed., inside cover, and specific functional groups are generally defined as described therein. Additionally, general principles of organic chemistry, as well as specific functional moieties and reactivity, are described in “Organic Chemistry”, Thomas Sorrell, University Science Books, Sausalito: 1999, the entire contents of which are incorporated herein by reference.
+
+Certain compounds of the present invention may exist in particular geometric or stereoisomeric forms. The present invention contemplates all such compounds, including cis- and trans-isomers, R- and S-enantiomers, diastereomers, (D)-isomers, (L)-isomers, the racemic mixtures thereof, and other mixtures thereof, as falling within the scope of the invention. Additional asymmetric carbon atoms may be present in a substituent such as an alkyl group. All such isomers, as well as mixtures thereof, are intended to be included in this invention.
+
+Isomeric mixtures containing any of a variety of isomer ratios may be utilized in accordance with the present invention. For example, where only two isomers are combined, mixtures containing 50:50, 60:40, 70:30, 80:20, 90:10, 95:5, 96:4, 97:3, 98:2, 99:1, or 100:0 isomer ratios are all contemplated by the present invention. Those of ordinary skill in the art will readily appreciate that analogous ratios are contemplated for more complex isomer mixtures.
+
+If, for instance, a particular enantiomer of a compound of the present invention is desired, it may be prepared by asymmetric synthesis, or by derivation with a chiral auxiliary, where the resulting diastereomeric mixture is separated and the auxiliary group cleaved to provide the pure desired enantiomers. Alternatively, where the molecule contains a basic functional group, such as amino, or an acidic functional group, such as carboxyl, diastereomeric salts are formed with an appropriate optically-active acid or base, followed by resolution of the diastereomers thus formed by fractional crystallization or chromatographic means well known in the art, and subsequent recovery of the pure enantiomers.
+
+Unless otherwise stated, structures depicted herein are also meant to include compounds that differ only in the presence of one or more isotopically enriched atoms. For example, compounds having the present structures except for the replacement of hydrogen by deuterium or tritium, or the replacement of a carbon by a 13C- or 14C-enriched carbon are within the scope of this invention. Such compounds are useful, for example, as analytical tools or probes in biological assays.
+
+The term “aliphatic,” as used herein, includes both saturated and unsaturated, nonaromatic, straight chain (i.e., unbranched), branched, acyclic, and cyclic (i.e., carbocyclic) hydrocarbons. In some embodiments, an aliphatic group is optionally substituted with one or more functional groups. As will be appreciated by one of ordinary skill in the art, “aliphatic” is intended herein to include alkyl, alkenyl, alkynyl, cycloalkyl, and cycloalkenyl moieties.
+
+The term “alkyl” as used herein refers to saturated, straight- or branched-chain hydrocarbon radicals derived from a hydrocarbon moiety containing between one and twenty carbon atoms by removal of a single hydrogen atom. Examples of alkyl radicals include, but are not limited to, methyl, ethyl, propyl, isopropyl, n-butyl, tert-butyl, n-pentyl, neopentyl, n-hexyl, n-heptyl, n-octyl, n-decyl, n-undecyl, and dodecyl.
+
+In certain embodiments, the alkyl groups employed in the inventive lipidoids contain 1-20 aliphatic carbon atoms. In certain other embodiments, the alkyl groups employed in the inventive lipidoids contain 1-10 aliphatic carbon atoms. In yet other embodiments, the alkyl groups contain 1-8 aliphatic carbon atoms. In still other embodiments, the alkyl groups employed in the invention contain 1-6 aliphatic carbon atoms. In yet other embodiments, the alkyl groups contain 1-4 carbon atoms. Illustrative alkyl groups thus include, but are not limited to, for example, methyl, ethyl, n-propyl, isopropyl, n-butyl, sec-butyl, isobutyl, tert-butyl, n-pentyl, sec-pentyl, isopentyl, tert-pentyl, n-hexyl, and sec-hexyl.
+
+The terms “alkenyl” and “alkynyl” are given their ordinary meaning in the art and refer to unsaturated aliphatic groups analogous in length and possible substitution to the alkyls described above, but that contain at least one double or triple bond respectively.
+
+The term “cycloalkyl”, as used herein, refers saturated, cyclic hydrocarbon radicals derived from a hydrocarbon moiety containing between three and seven carbon atoms by removal of a single hydrogen atom. Suitable cycloalkyls include cyclopropyl, cyclobutyl, cyclopentyl, cyclohexyl, and cycloheptyl.
+
+The term “cycloalkylalkyl,” as used herein, refers to a cycloalkyl group attached via a straight chain or branched alkyl group. Suitable cycloalkylalkyl groups include, but are not limited to, —CH2(cyclopropyl), —CH2CH2(cyclopropyl), —CH2(cyclobutyl), —CH2CH2(cyclobutyl), —CH2(cyclopentyl), —CH2CH2(cyclopentyl), —CH2(cyclohexyl), —CH2CH2(cyclohexyl), —CH2(cycloheptyl), and —CH2CH2(cycloheptyl).
+
+The term “alkylene” as used herein refers to a bivalent alkyl group. An “alkylene” group is a polymethylene group, i.e., —(CH2)k—, wherein k is a positive integer, e.g., from 1 to 20, from 1 to 10, from 1 to 6, from 1 to 4, from 1 to 3, from 1 to 2, or from 2 to 3. In some embodiments, one or more hydrogens on an alkylene group is replaced by a substituent (e.g., fluoro).
+
+The following are more general terms used throughout the present application:
+
+“Animal”: The term animal, as used herein, refers to humans as well as non-human animals, including, for example, mammals, birds, reptiles, amphibians, and fish. Preferably, the non-human animal is a mammal (e.g., a rodent, a mouse, a rat, a rabbit, a monkey, a dog, a cat, a primate, or a pig). An animal may be a transgenic animal.
+
+“Associated with”: When two entities are “associated with” one another as described herein, they are linked by a direct or indirect covalent or non-covalent interaction. Preferably, the association is covalent. Desirable non-covalent interactions include hydrogen bonding, van der Waals interactions, hydrophobic interactions, magnetic interactions, electrostatic interactions, etc.
+
+“Biocompatible”: The term “biocompatible”, as used herein is intended to describe compounds that are not toxic to cells. In certain embodiments, compounds are “biocompatible” if their addition to cells in vitro at a minimum therapeutically effective dose results in less than or equal to 20% cell death, and their administration in vivo does not induce inflammation or other such adverse effects.
+
+“Biodegradable”: As used herein, “biodegradable” compounds are those that, when introduced into cells, are broken down by the cellular machinery or by hydrolysis into components that the cells can either reuse or dispose of without significant long-term toxic effect on the cells. In certain embodiments, the components do not induce inflammation or other adverse effects in vivo. In certain embodiments, the chemical reactions relied upon to break down the biodegradable compounds are uncatalyzed.
+
+“Peptide” or “protein”: According to the present invention, a “peptide” or “protein” comprises a string of at least three amino acids linked together by peptide bonds. The terms “protein” and “peptide” may be used interchangeably. Peptide may refer to an individual peptide or a collection of peptides. Inventive peptides preferably contain only natural amino acids, although non-natural amino acids (i.e., compounds that do not occur in nature but that can be incorporated into a polypeptide chain) and/or amino acid analogs as are known in the art may alternatively be employed. Also, one or more of the amino acids in an inventive peptide may be modified, for example, by the addition of a chemical entity such as a carbohydrate group, a phosphate group, a farnesyl group, an isofarnesyl group, a fatty acid group, a linker for conjugation, functionalization, or other modification, etc. In a preferred embodiment, the modifications of the peptide lead to a more stable peptide (e.g., greater half-life in vivo). These modifications may include cyclization of the peptide, the incorporation of D-amino acids, etc. None of the modifications should substantially interfere with the desired biological activity of the peptide.
+
+“Polynucleotide” or “oligonucleotide”: Polynucleotide or oligonucleotide refers to a polymer of nucleotides. Typically, a polynucleotide comprises at least three nucleotides. The polymer may include natural nucleosides (i.e., adenosine, thymidine, guanosine, cytidine, uridine, deoxyadenosine, deoxythymidine, deoxyguanosine, and deoxycytidine), nucleoside analogs (e.g., 2-aminoadenosine, 2-thiothymidine, inosine, pyrrolo-pyrimidine, 3-methyl adenosine, C5-propynylcytidine, C5-propynyluridine, C5-bromouridine, C5-fluorouridine, C5-iodouridine, C5-methylcytidine, 7-deazaadenosine, 7-deazaguanosine, 8-oxoadenosine, 8-oxoguanosine, O(6)-methylguanine, and 2-thiocytidine), chemically modified bases, biologically modified bases (e.g., methylated bases), intercalated bases, modified sugars (e.g., 2′-fluororibose, ribose, 2′-deoxyribose, arabinose, and hexose), or modified phosphate groups (e.g., phosphorothioates and 5′-N-phosphoramidite linkages).
+
+“Small molecule”: As used herein, the term “small molecule” refers to organic compounds, whether naturally-occurring or artificially created (e.g., via chemical synthesis) that have relatively low molecular weight and that are not proteins, polypeptides, or nucleic acids. Typically, small molecules have a molecular weight of less than about 1500 g/mol. Also, small molecules typically have multiple carbon-carbon bonds. Known naturally-occurring small molecules include, but are not limited to, penicillin, erythromycin, taxol, cyclosporin, and rapamycin. Known synthetic small molecules include, but are not limited to, ampicillin, methicillin, sulfamethoxazole, sulfonamides, dexamethasone, and doxorubicin.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+FIG. 1 displays a subset of the large library of biodegradable lipidoids that were synthesized combinatorially through the conjugate addition of alkylamines (in red) to alkyl-acrylate tails (in blue). The rest of the alkylamines used in lipidoid library synthesis are shown in FIG. 2.
+
+FIG. 2 shows additional alkylamines used in the lipidoid library.
+
+FIG. 3 shows the evaluation of lipidoids for an ability to deliver siRNA to HeLa cells. (a) Relative luciferase activity values (firefly lucifase activity normalized to control Renilla luciferase activity) are shown for 1400 lipidoids. ˜7% of the library induced >50% gene silencing (shown in red). The tail length (b), tail substitution number (c) and alkyl-amine composition (d) influenced in vitro activity.
+
+FIG. 4 demonstrates that select lipidoids induced a high degree silencing of multiple targets in mice. (a) Of the ˜100 lipidoids tested in vivo, 15 induced complete Factor VII knockdown in mouse hepatocytes at a total siRNA dose of 5 mg/kg (data points in red). (b) The EC50 values of these top 15 lipidoids ranged from 0.05 to 1.5 mg/kg under standard formulation conditions. (c) The amount of PEG in the lipid nanoparticle formulation had a dramatic effect on efficacy. Data is shown for the lipidoid 304O14, which produced the most efficacious formulation of the study when formulated with 0.75% PEG. (d) Dose response and Factor VII activity recovery data for the optimized 304O13 lipid nanoparticle formulation. 304O13 also induced CD45 silencing in monocyte and macrophage (CD11b+) populations in the peritoneal cavity (e) as well as in dendritic cells (CD11c+) in the spleen 3 days post-injection. In all panels, error bars represent standard deviation (n=3).
+
+FIG. 5 shows biodistribution images for Cy5.5-labeled siRNA delivered with the lipidoid 304O13. IVIS (a) and Odyssey (b) imaging show that, while naked siRNA is primarily cleared through the kidneys, 304O13 mediates accumulation in the liver and spleen. (c) Confocal microscopy of 304O13-treated liver shows siRNA (red) delivery into nearly all cells, including Kupffer cells and hepatocytes. In contrast, naked siRNA had a limited penetration depth from the blood vessels into hepatocellular tissue. (d) 304O13 lipid nanoparticles were rapidly eliminated from the bloodstream after tail vein injection. Error bars represent standard deviation (n=3).
+
+FIG. 6 shows a comparison of (a) cytokine profiles 4 hours post-injection and (b) liver histology sections 72 hours post-injection for degradable (304O13) and non-degradable (C12-200) lipid nanoparticles.
+
+FIG. 7 displays structure-function information of efficacious lipid nanoparticles. (a) Of the 108 lipid nanoparticles tested for siRNA delivery to hepatocytes in mice, 66 had 3 or more tails, 42 had a tertiary amine present in the original alkyl-amine, and 25 had an O13 tail length. 88% of the lipid nanoparticles exhibiting all three “efficacy criteria” achieved complete FVII knockdown. The percentage of efficacious lipid nanoparticles decreased precipitously when any criterion were not met. (b) Twelve second generation lipid nanoparticles were made to meet all efficacy criteria by first synthesizing custom alkyl-amines and reacting them with O13 tails. (c) 83% of second generation LNPs achieved complete FVII silencing in vivo, and (d) EC50s under non-optimized LNP formulating conditions ranged from 0.05 to 1 mg/kg total siRNA. (e) 503O13 was the most efficacious LNP upon formulation, with an EC50 of 0.01 mg/kg. 503O13 encapsulating control siRNA did not result in FVII knockdown. Error bars represent standard deviation (n=3).
+
+FIG. 8 shows that lipid nanoparticles that induced complete FVII silencing at 5 mg/kg behaved in a dose-dependent manner. Each lipid nanoparticle was evaluated at three additional doses (2, 0.5, and 0.1 mg/kg) shown from left to right. Error bars represent standard deviation (n=3).
+
+FIG. 9 shows that the lipid nanoparticles 306O12, 306O14 and 315O12 facilitated modest silencing of the surface receptor CD45 in various white blood cell populations harvested from the peritoneal cavity (left) and spleen (right) of B6 mice three days post-injection (dose=2.5 mg/kg total siRNA). Error bars represent standard deviation (n=3).
+
+FIG. 10 shows that pKa values significantly influence delivery efficacy to hepatocytes in vivo. All lipidoid nanoparticles capable of mediating complete Factor VII gene silencing had pKa values greater or equal to 5.5.
+
+FIGS. 11A and 11B show degradation by hydrolysis of the lipidoid 304O13. Overlay of 1H NMR spectra of the starting material 304O13, the crude reaction mixture, and authentic 1-tridecanol demonstrated that the 304O13 had been consumed and that tridecanol had been formed in significant quantity under both acidic and basic conditions. FIG. 11A shows acidic hydrolysis condition, and FIG. 11B shows basic hydrolysis condition.
+
+FIG. 12 shows that clinical chemistry parameters were evaluated for negative control (PBS, black), 304O13 (blue), and C12-200 (red) groups of C57BL/6 mice. The mice had been injected with either a single 3 mg/kg dose of total siRNA or four 3 mg/kg doses (1× per week for four weeks). Blood was drawn for analysis 72 hours post-final injection. There were no statistically significant changes in any of the clinical chemistry parameters for any of the treated groups compared to controls (as evaluated by a student t-test). Error bars represent standard deviation (n=3-5).
+
+FIG. 13 shows that the second generation lipid nanoparticles (LNPs) facilitated silencing of the surface receptor CD45 in various white blood cell populations harvested from the peritoneal cavity (left) and spleen (right) of B6 mice three days post-injection (dose=2.5 mg/kg total siRNA). Percent silencing was calculated by comparing to an identically defined cell population from animals injected with a non-targeting siRNA formulated with the same LNP. Error bars represent standard deviation (n=3).
+
+DETAILED DESCRIPTION OF CERTAIN EMBODIMENTS
+
+The present invention provides lipidoids and lipidoid-based delivery systems. The systems described herein may be used in the pharmaceutical/drug delivery arts to delivery polynucleotides, proteins, small molecules, peptides, antigen, drugs, etc. to a patient, tissue, organ, cell, etc.
+
+The lipidoids of the present invention provide for several different uses in the drug delivery art. The lipidoids with their amine-containing hydrophilic portion may be used to complex polynucleotides and thereby enhance the delivery of polynucleotides and prevent their degradation. The lipidoids may also be used in the formation of nanoparticles, microparticles, liposomes, and micelles containing the agent to be delivered. In certain embodiments, the lipids are biocompatible and biodegradable, and particles formed therefrom are also biodegradable and biocompatible and may be used to provide controlled, sustained release of the agent. Provided lipidoids and their corresponding particles may also be responsive to pH changes given that these lipids are protonated at lower pH.
+
+Lipidoids
+
+The lipidoids of the present invention contain primary, secondary, or tertiary amines and salts thereof. In certain embodiments, the inventive lipidoids are biodegradable. In certain embodiments, inventive lipidoids are effective at delivering an agent (e.g., RNA) to a cell.
+
+In certain embodiments, a lipidoid of the present invention is prepared from an alkylamine starting material that has at least one tertiary amine. In some embodiments, a lipidoid of the present invention has three or more lipid-like tails. In some embodiments, the lipid-like tails on a lipidoid of the present invention are between C10-C14 in length, e.g., C12-C14, e.g., C13. In certain embodiments, a provided lipidoid is prepared from an alkylamine starting material that has at least one tertiary amine and the lipidoid formed therefrom has three or more C13 tails. In certain embodiments, a provided lipidoid is prepared from an alkylamine starting material that has at least one tertiary amine, provided that the amine is not amine 110, amine 113, or amine 115, and the lipidoid formed therefrom has three or more C13 tails.
+
+[![Figure US09439968-20160913-C00012](https://patentimages.storage.googleapis.com/6d/21/bd/c6134d12c880aa/US09439968-20160913-C00012.png)](https://patentimages.storage.googleapis.com/6d/21/bd/c6134d12c880aa/US09439968-20160913-C00012.png)
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (I):
+
+[![Figure US09439968-20160913-C00013](https://patentimages.storage.googleapis.com/ac/79/14/38181a501624cd/US09439968-20160913-C00013.png)](https://patentimages.storage.googleapis.com/ac/79/14/38181a501624cd/US09439968-20160913-C00013.png)
+
+or a salt thereof, wherein
+
+each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals;
+
+each RA is, independently, branched or unbranched C1-6 alkyl, C3-7 cycloalkyl, or branched or unbranched C4-12 cycloalkylalkyl, wherein RA is optionally substituted with one or more fluorine radicals;
+
+each R is, independently, hydrogen or —CH2CH2C(═O)ORB;
+
+each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals; and
+
+q is 1, 2, or 3.
+
+In certain embodiments, a lipidoid of formula (I) is not
+
+[![Figure US09439968-20160913-C00014](https://patentimages.storage.googleapis.com/6e/26/b5/ab59200ca0a1de/US09439968-20160913-C00014.png)](https://patentimages.storage.googleapis.com/6e/26/b5/ab59200ca0a1de/US09439968-20160913-C00014.png)
+
+As defined generally above, each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals. In some embodiments, L is substituted with one or more fluorine radicals. In other embodiments, L is unsubstituted. In some embodiments, L is branched. In other embodiments, L is unbranched. In certain embodiments, L is C1-4 alkylene. In certain embodiments, L is methylene, ethylene, or propylene.
+
+As defined generally above, each RA is, independently, branched or unbranched C1-6 alkyl, C3-7 cycloalkyl, or branched or unbranched C4-12 cycloalkylalkyl, wherein RA is optionally substituted with one or more fluorine radicals. In some embodiments, RA is substituted with one or more fluorine radicals. For example, when RA is methyl, it may be substituted with one, two, or three fluorine radicals to give —CH2F, —CHF2, or —CF3. In other embodiments, RA is unsubstituted. In some embodiments, all RA groups are the same. In other embodiments, the RA groups are different. In some embodiments, RA is branched or unbranched C1-6 alkyl. In certain embodiments, RA is branched C1-6 alkyl. In certain embodiments, RA is unbranched C1-6 alkyl. In certain embodiments, RA is C1-3 alkyl. In certain embodiments, RA is methyl, ethyl, or propyl. In certain embodiments, RA is C3-7 cycloalkyl. In certain embodiments, RA is cyclohexyl. In certain embodiments, RA is cyclopropyl, cyclobutyl, or cyclopentyl. In certain embodiments, RA is cycloheptyl. In some embodiments, RA is branched or unbranched C4-12 cycloalkylalkyl.
+
+As defined generally above, each R is, independently, hydrogen or —CH2CH2C(═O)ORB. In some embodiments, at least three R groups are —CH2CH2C(═O)ORB. In some embodiments, at least four R groups are —CH2CH2C(═O)ORB. In some embodiments, all R groups are —CH2CH2C(═O)ORB.
+
+As defined generally above, each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals. In some embodiments, RB is substituted with one or more fluorine radicals. For example, in some embodiments, RB may be substituted with one fluoro, or in other embodiments, may be perfluorinated. In other embodiments, RB is unsubstituted. In some embodiments, all RB groups are the same. In certain embodiments, RB is C10 alkyl. In some embodiments, RB is n-decyl. In certain embodiments, RB is C11 alkyl. In some embodiments, RB is n-undecyl. In certain embodiments, RB is C12 alkyl. In some embodiments, RB is n-dodecyl. In certain embodiments, RB is C13 alkyl. In some embodiments, RB is n-tridecyl. In certain embodiments, RB is C14 alkyl. In some embodiments, RB is n-tetradecyl.
+
+As defined generally above, q is 1, 2, or 3. In some embodiments, q is 1. In some embodiments, q is 2. In some embodiments, q is 3.
+
+In some embodiments, a lipidoid of the present invention is of the Formula (I-a):
+
+[![Figure US09439968-20160913-C00015](https://patentimages.storage.googleapis.com/a4/b1/ba/79254c480390af/US09439968-20160913-C00015.png)](https://patentimages.storage.googleapis.com/a4/b1/ba/79254c480390af/US09439968-20160913-C00015.png)
+
+or a salt thereof,
+
+wherein R and RA are as defined above and described herein;
+
+each n is, independently, 0, 1, or 2; and
+
+m is 0, 1, or 2.
+
+In some embodiments, m is 0. In some embodiments, m is 1. In some embodiments, m is 2.
+
+In some embodiments, n is 0. In some embodiments, n is 1. In some embodiments, n is 2.
+
+In some embodiments, m is 0, and n is 0. In some embodiments, m is 1, and n is 0. In some embodiments, m is 2, and n is 0. In some embodiments, m is 0, and n is 1. In some embodiments, m is 0, and n is 2. In some embodiments, m is 1, and n is 1.
+
+In some embodiments, a lipidoid of the present invention is of the Formula (I-b):
+
+[![Figure US09439968-20160913-C00016](https://patentimages.storage.googleapis.com/b2/0a/b7/113d5128599066/US09439968-20160913-C00016.png)](https://patentimages.storage.googleapis.com/b2/0a/b7/113d5128599066/US09439968-20160913-C00016.png)
+
+or a salt thereof, wherein R and RA are as defined above and described herein.
+
+In some embodiments, a lipidoid of the present invention is of the Formula (I-c):
+
+[![Figure US09439968-20160913-C00017](https://patentimages.storage.googleapis.com/85/ed/da/eaefa19f366aea/US09439968-20160913-C00017.png)](https://patentimages.storage.googleapis.com/85/ed/da/eaefa19f366aea/US09439968-20160913-C00017.png)
+
+or a salt thereof, wherein R and RA are as defined above and described herein.
+
+In some embodiments, a lipidoid of the present invention is of the Formula (I-d):
+
+[![Figure US09439968-20160913-C00018](https://patentimages.storage.googleapis.com/d1/e3/56/2629f96424f74c/US09439968-20160913-C00018.png)](https://patentimages.storage.googleapis.com/d1/e3/56/2629f96424f74c/US09439968-20160913-C00018.png)
+
+or a salt thereof, wherein R and RA are as defined above and described herein.
+
+In some embodiments, a lipidoid of the present invention is of the Formula (I-e):
+
+[![Figure US09439968-20160913-C00019](https://patentimages.storage.googleapis.com/ba/78/30/32c2ee69f1d694/US09439968-20160913-C00019.png)](https://patentimages.storage.googleapis.com/ba/78/30/32c2ee69f1d694/US09439968-20160913-C00019.png)
+
+or a salt thereof, wherein R and RA are as defined above and described herein.
+
+In some embodiments, a lipidoid of the present invention is of one of the following formulae:
+
+[![Figure US09439968-20160913-C00020](https://patentimages.storage.googleapis.com/78/11/45/3f5e2fc009ee62/US09439968-20160913-C00020.png)](https://patentimages.storage.googleapis.com/78/11/45/3f5e2fc009ee62/US09439968-20160913-C00020.png)
+
+ 
+
+[![Figure US09439968-20160913-C00021](https://patentimages.storage.googleapis.com/53/61/ec/a2d3ada4a2ec32/US09439968-20160913-C00021.png)](https://patentimages.storage.googleapis.com/53/61/ec/a2d3ada4a2ec32/US09439968-20160913-C00021.png)
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (II):
+
+[![Figure US09439968-20160913-C00022](https://patentimages.storage.googleapis.com/11/a2/30/344e0ed53b0448/US09439968-20160913-C00022.png)](https://patentimages.storage.googleapis.com/11/a2/30/344e0ed53b0448/US09439968-20160913-C00022.png)
+
+or a salt thereof,
+
+wherein
+
+each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals;
+
+each RA is, independently, branched or unbranched C1-6 alkyl, C3-7 cycloalkyl, or branched or unbranched C4-12 cycloalkylalkyl, wherein RA is optionally substituted with one or more fluorine radicals;
+
+each RC is, independently, -L-N(RD)2 or —R;
+
+each R is, independently, hydrogen or —CH2CH2C(═O)ORD;
+
+each RD is, independently, —RA or —R; and
+
+each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals.
+
+As defined generally above, each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals. In some embodiments, L is substituted with one or more fluorine radicals. In other embodiments, L is unsubstituted. In some embodiments, L is branched. In other embodiments, L is unbranched. In certain embodiments, L is C1-4 alkylene. In certain embodiments, L is methylene, ethylene, or propylene.
+
+As defined generally above, each RA is, independently, branched or unbranched C1-6 alkyl, C3-7 cycloalkyl, or branched or unbranched C4-12 cycloalkylalkyl, wherein RA is optionally substituted with one or more fluorine radicals. In some embodiments, RA is substituted with one or more fluorine radicals. For example, when RA is methyl, it may be substituted with one, two, or three fluorine radicals to give —CH2F, —CHF2, or —CF3. In other embodiments, RA is unsubstituted. In some embodiments, all RA groups are the same. In other embodiments, the RA groups are different. In some embodiments, RA is branched or unbranched C1-6 alkyl. In certain embodiments, RA is branched C1-6 alkyl. In certain embodiments, RA is unbranched C1-6 alkyl. In certain embodiments, RA is C1-3 alkyl. In certain embodiments, RA is methyl, ethyl, or propyl. In certain embodiments, RA is C3-7 cycloalkyl. In certain embodiments, RA is cyclohexyl. In certain embodiments, RA is cyclopropyl, cyclobutyl, or cyclopentyl. In certain embodiments, RA is cycloheptyl. In some embodiments, RA is branched or unbranched C4-12 cycloalkylalkyl.
+
+As defined generally above, each RC is, independently, -L-N(RD)2 or —R. In some embodiments, all RC groups are —R. In some embodiments, RC is -L-N(RD)2.
+
+As defined generally above, each RD is, independently, —RA or —R. In some embodiments, all RD groups are —R. In some embodiments, one RD on a nitrogen is —R, and the other is —RA.
+
+As defined generally above, each R is, independently, hydrogen or —CH2CH2C(═O)ORD. In some embodiments, at least one R group is —CH2CH2C(═O)ORD. In some embodiments, at least two R groups are —CH2CH2C(═O)ORD. In some embodiments, at least three R groups are —CH2CH2C(═O)ORD. In some embodiments, at least four R groups are —CH2CH2C(═O)ORD. In some embodiments, all R groups are —CH2CH2C(═O)ORD.
+
+As defined generally above, each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals. In some embodiments, RD is substituted with one or more fluorine radicals. For example, in some embodiments, RB may be substituted with one fluoro, or in other embodiments, may be perfluorinated. In other embodiments, RB is unsubstituted. In some embodiments, all RB groups are the same. In certain embodiments, RB is C10 alkyl. In some embodiments, RB is n-decyl. In certain embodiments, RB is C11 alkyl. In some embodiments, RB is n-undecyl. In certain embodiments, RB is C12 alkyl. In some embodiments, RB is n-dodecyl. In certain embodiments, RB is C13 alkyl. In some embodiments, RB is n-tridecyl. In certain embodiments, RB is C14 alkyl. In some embodiments, RB is n-tetradecyl.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (II-a):
+
+[![Figure US09439968-20160913-C00023](https://patentimages.storage.googleapis.com/3a/24/6d/6b38401690a804/US09439968-20160913-C00023.png)](https://patentimages.storage.googleapis.com/3a/24/6d/6b38401690a804/US09439968-20160913-C00023.png)
+
+or a salt thereof,
+
+wherein
+
+each v is, independently, 1, 2, or 3.
+
+In certain embodiments, v is 1. In certain embodiments, v is 2. In certain embodiments, v is 3.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (II-b):
+
+[![Figure US09439968-20160913-C00024](https://patentimages.storage.googleapis.com/e7/77/b0/8726535e7bb68f/US09439968-20160913-C00024.png)](https://patentimages.storage.googleapis.com/e7/77/b0/8726535e7bb68f/US09439968-20160913-C00024.png)
+
+or a salt thereof, wherein RA and RB are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the formula:
+
+[![Figure US09439968-20160913-C00025](https://patentimages.storage.googleapis.com/28/55/e9/9b77207170533a/US09439968-20160913-C00025.png)](https://patentimages.storage.googleapis.com/28/55/e9/9b77207170533a/US09439968-20160913-C00025.png)
+
+or a salt thereof, wherein RB is as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (II-c):
+
+[![Figure US09439968-20160913-C00026](https://patentimages.storage.googleapis.com/95/d7/6a/55c819c6f130fd/US09439968-20160913-C00026.png)](https://patentimages.storage.googleapis.com/95/d7/6a/55c819c6f130fd/US09439968-20160913-C00026.png)
+
+or a salt thereof, wherein L, RA, and RD are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (II-d):
+
+[![Figure US09439968-20160913-C00027](https://patentimages.storage.googleapis.com/bb/22/d6/a49214a850988b/US09439968-20160913-C00027.png)](https://patentimages.storage.googleapis.com/bb/22/d6/a49214a850988b/US09439968-20160913-C00027.png)
+
+or a salt thereof, wherein L, RA, and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (II-e):
+
+[![Figure US09439968-20160913-C00028](https://patentimages.storage.googleapis.com/90/d2/1f/7858c403b98db3/US09439968-20160913-C00028.png)](https://patentimages.storage.googleapis.com/90/d2/1f/7858c403b98db3/US09439968-20160913-C00028.png)
+
+or a salt thereof, wherein L, RA, and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (II-f):
+
+[![Figure US09439968-20160913-C00029](https://patentimages.storage.googleapis.com/b5/f6/cc/60d204c6ace5a7/US09439968-20160913-C00029.png)](https://patentimages.storage.googleapis.com/b5/f6/cc/60d204c6ace5a7/US09439968-20160913-C00029.png)
+
+or a salt thereof, wherein RA and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the formula:
+
+[![Figure US09439968-20160913-C00030](https://patentimages.storage.googleapis.com/1f/23/bf/6c7ed801a94d47/US09439968-20160913-C00030.png)](https://patentimages.storage.googleapis.com/1f/23/bf/6c7ed801a94d47/US09439968-20160913-C00030.png)
+
+or a salt thereof, wherein R is as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (III):
+
+[![Figure US09439968-20160913-C00031](https://patentimages.storage.googleapis.com/d2/2e/50/d0b7dad9d0f8d7/US09439968-20160913-C00031.png)](https://patentimages.storage.googleapis.com/d2/2e/50/d0b7dad9d0f8d7/US09439968-20160913-C00031.png)
+
+or a salt thereof,
+
+wherein
+
+each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals;
+
+each R is, independently, hydrogen or —CH2CH2C(═O)ORB;
+
+each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals;
+
+each R1 is, independently, fluoro or C1-6 alkyl optionally substituted with one or more fluorine radicals;
+
+j is 0, 1, 2, 3, or 4; and
+
+p is 1 or 2.
+
+In certain embodiments, at least three R groups of formula (III) are —CH2CH2C(═O)ORB.
+
+As defined generally above, each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals. In some embodiments, L is substituted with one or more fluorine radicals. In other embodiments, L is unsubstituted. In some embodiments, L is branched. In other embodiments, L is unbranched. In certain embodiments, L is C1-4 alkylene. In certain embodiments, L is methylene, ethylene, or propylene.
+
+As defined generally above, each R is, independently, hydrogen or —CH2CH2C(═O)ORB. In some embodiments, at least three R groups are —CH2CH2C(═O)ORB. In some embodiments, at least four R groups are —CH2CH2C(═O)ORB. In some embodiments, all R groups are —CH2CH2C(═O)ORB.
+
+As defined generally above, each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals. In some embodiments, RB is substituted with one or more fluorine radicals. For example, in some embodiments, RB may be substituted with one fluoro, or in other embodiments, may be perfluorinated. In other embodiments, RB is unsubstituted. In some embodiments, all RB groups are the same. In certain embodiments, RB is C10 alkyl. In some embodiments, RB is n-decyl. In certain embodiments, RB is C11 alkyl. In some embodiments, RB is n-undecyl. In certain embodiments, RB is C12 alkyl. In some embodiments, RB is n-dodecyl. In certain embodiments, RB is C13 alkyl. In some embodiments, RB is n-tridecyl. In certain embodiments, RB is C14 alkyl. In some embodiments, RB is n-tetradecyl.
+
+In certain embodiments, p is 1. In certain embodiments, p is 2.
+
+As defined generally above, each R1 is, independently, fluoro or C1-6 alkyl optionally substituted with one or more fluorine radicals. In some embodiments, R1 is fluoro. In some embodiments, R1 is C1-6 alkyl optionally substituted with one or more fluorine radicals. In some embodiments, R1 is unsubstituted C1-6 alkyl. In some embodiments, R1 is methyl or ethyl. In some embodiments, R1 is —CF3.
+
+In some embodiments, j is 0. In some embodiments, j is 1. In some embodiments, j is 2. In some embodiments, j is 3. In some embodiments, j is 4.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (III-a):
+
+[![Figure US09439968-20160913-C00032](https://patentimages.storage.googleapis.com/c8/f4/1d/3b863492662037/US09439968-20160913-C00032.png)](https://patentimages.storage.googleapis.com/c8/f4/1d/3b863492662037/US09439968-20160913-C00032.png)
+
+or a salt thereof,
+
+wherein p, R1, j, and R are as defined above and described herein, and
+
+each w is, independently, 1, 2, or 3.
+
+In certain embodiments, w is 1. In certain embodiments, w is 2. In certain embodiments, w is 3.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (III-b):
+
+[![Figure US09439968-20160913-C00033](https://patentimages.storage.googleapis.com/31/cc/89/aafc03aac9ecab/US09439968-20160913-C00033.png)](https://patentimages.storage.googleapis.com/31/cc/89/aafc03aac9ecab/US09439968-20160913-C00033.png)
+
+or a salt thereof, wherein R1, j, w, and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (III-c):
+
+[![Figure US09439968-20160913-C00034](https://patentimages.storage.googleapis.com/27/0d/f3/1bc50a6f2d56b8/US09439968-20160913-C00034.png)](https://patentimages.storage.googleapis.com/27/0d/f3/1bc50a6f2d56b8/US09439968-20160913-C00034.png)
+
+wherein w and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (III-d):
+
+[![Figure US09439968-20160913-C00035](https://patentimages.storage.googleapis.com/e4/08/4f/6e6bad58104756/US09439968-20160913-C00035.png)](https://patentimages.storage.googleapis.com/e4/08/4f/6e6bad58104756/US09439968-20160913-C00035.png)
+
+wherein w, R1, and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (III-e):
+
+[![Figure US09439968-20160913-C00036](https://patentimages.storage.googleapis.com/21/b9/8d/5da08d8b617bd2/US09439968-20160913-C00036.png)](https://patentimages.storage.googleapis.com/21/b9/8d/5da08d8b617bd2/US09439968-20160913-C00036.png)
+
+wherein w, R1, and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the formula:
+
+[![Figure US09439968-20160913-C00037](https://patentimages.storage.googleapis.com/0c/34/4d/2000d2191f68da/US09439968-20160913-C00037.png)](https://patentimages.storage.googleapis.com/0c/34/4d/2000d2191f68da/US09439968-20160913-C00037.png)
+
+wherein R is as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (IV):
+
+[![Figure US09439968-20160913-C00038](https://patentimages.storage.googleapis.com/b3/7e/08/4fe79578bfa72e/US09439968-20160913-C00038.png)](https://patentimages.storage.googleapis.com/b3/7e/08/4fe79578bfa72e/US09439968-20160913-C00038.png)
+
+or a salt thereof,
+
+wherein
+
+each R is, independently, hydrogen or —CH2CH2C(═O)ORB;
+
+each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals;
+
+x is 1 or 2; and
+
+y is 1 or 2.
+
+As defined generally above, each R is, independently, hydrogen or —CH2CH2C(═O)ORB. In some embodiments, at least one R group is —CH2CH2C(═O)ORB. In some embodiments, at least two R groups are —CH2CH2C(═O)ORB. In some embodiments, at least three R groups are —CH2CH2C(═O)ORB. In some embodiments, at least four R groups are —CH2CH2C(═O)ORB. In some embodiments, all R groups are —CH2CH2C(═O)ORB.
+
+As defined generally above, each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals. In some embodiments, RB is substituted with one or more fluorine radicals. For example, in some embodiments, RB may be substituted with one fluoro, or in other embodiments, may be perfluorinated. In other embodiments, RB is unsubstituted. In some embodiments, all RB groups are the same. In certain embodiments, RB is C10 alkyl. In some embodiments, RB is n-decyl. In certain embodiments, RB is C11 alkyl. In some embodiments, RB is n-undecyl. In certain embodiments, RB is C12 alkyl. In some embodiments, RB is n-dodecyl. In certain embodiments, RB is C13 alkyl. In some embodiments, RB is n-tridecyl. In certain embodiments, RB is C14 alkyl. In some embodiments, RB is n-tetradecyl.
+
+In some embodiments, x is 1. In some embodiments, x is 2. In some embodiments, y is 1. In some embodiments, y is 2. In some embodiments, x is 1 and y is 1. In some embodiments, x is 2 and y is 2.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (IV-a):
+
+[![Figure US09439968-20160913-C00039](https://patentimages.storage.googleapis.com/b6/31/86/6e2ed34a48924d/US09439968-20160913-C00039.png)](https://patentimages.storage.googleapis.com/b6/31/86/6e2ed34a48924d/US09439968-20160913-C00039.png)
+
+or a salt thereof, wherein R is as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the Formula (V):
+
+[![Figure US09439968-20160913-C00040](https://patentimages.storage.googleapis.com/07/bf/b1/9bab92fbff4859/US09439968-20160913-C00040.png)](https://patentimages.storage.googleapis.com/07/bf/b1/9bab92fbff4859/US09439968-20160913-C00040.png)
+
+or a salt thereof, wherein
+
+each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals;
+
+each R2 is, independently, halo, C1-6 aliphatic optionally substituted with one or more fluorine radicals, —ORx, —N(Ry)2, —SRx, —CN, —C(═Z)Ry, —C(═Z)ZRy, or —ZC(═Z)ZRy;
+
+Z is O or N;
+
+each Rx is, independently, C1-6 aliphatic;
+
+each Ry is, independently, hydrogen or C1-6 aliphatic;
+
+g is 0, 1, 2, 3, or 4;
+
+each R is independently hydrogen or —CH2CH2C(═O)ORB; and
+
+each RB is independently C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals.
+
+As defined generally above, each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals. In some embodiments, L is substituted with one or more fluorine radicals. In other embodiments, L is unsubstituted. In some embodiments, L is branched. In other embodiments, L is unbranched. In certain embodiments, L is C1-4 alkylene. In certain embodiments, L is methylene, ethylene, or propylene.
+
+As defined generally above, each R is, independently, hydrogen or —CH2CH2C(═O)ORB. In some embodiments, at least one R group is —CH2CH2C(═O)ORB. In some embodiments, at least two R groups are —CH2CH2C(═O)ORB. In some embodiments, at least three R groups are —CH2CH2C(═O)ORB. In some embodiments, at least four R groups are —CH2CH2C(═O)ORB. In some embodiments, all R groups are —CH2CH2C(═O)ORB.
+
+As defined generally above, each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals. In some embodiments, RB is substituted with one or more fluorine radicals. For example, in some embodiments, RB may be substituted with one fluoro, or in other embodiments, may be perfluorinated. In other embodiments, RB is unsubstituted. In some embodiments, all RB groups are the same. In certain embodiments, RB is C10 alkyl. In some embodiments, RB is n-decyl. In certain embodiments, RB is C11 alkyl. In some embodiments, RB is n-undecyl. In certain embodiments, RB is C12 alkyl. In some embodiments, RB is n-dodecyl. In certain embodiments, RB is C13 alkyl. In some embodiments, RB is n-tridecyl. In certain embodiments, RB is C14 alkyl. In some embodiments, RB is n-tetradecyl.
+
+As defined generally above, each R2 is, independently, halo, C1-6 aliphatic optionally substituted with one or more fluorine radicals, —ORx, —N(Ry)2, —SW, —CN, —C(═Z)Ry, —C(═Z)ZRy, —ZC(═Z)ZRy; wherein Z is O or N; each Rx is, independently, C1-6 aliphatic; and each Ry is, independently, hydrogen or C1-6 aliphatic. In some embodiments, R2 is halo. In some embodiments, R2 is fluoro. In some embodiments, R2 is C1-6 aliphatic optionally substituted with one or more fluorine radicals. In some embodiments, R2 is C1-6 alkyl.
+
+In some embodiments, g is 0. In some embodiments, g is 1. In some embodiments, g is 2. In some embodiments, g is 3. In some embodiments, g is 4.
+
+In certain embodiments, a lipidoid of the present invention is of Formula (V-a):
+
+[![Figure US09439968-20160913-C00041](https://patentimages.storage.googleapis.com/5a/54/1a/143a8daa70320a/US09439968-20160913-C00041.png)](https://patentimages.storage.googleapis.com/5a/54/1a/143a8daa70320a/US09439968-20160913-C00041.png)
+
+or a salt thereof, wherein L, R2, g, and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of Formula (V-b):
+
+[![Figure US09439968-20160913-C00042](https://patentimages.storage.googleapis.com/b5/eb/bc/fe70930bc37eb1/US09439968-20160913-C00042.png)](https://patentimages.storage.googleapis.com/b5/eb/bc/fe70930bc37eb1/US09439968-20160913-C00042.png)
+
+or a salt thereof, wherein L and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of Formula (V-c):
+
+[![Figure US09439968-20160913-C00043](https://patentimages.storage.googleapis.com/3d/36/f1/07c626fd9a415b/US09439968-20160913-C00043.png)](https://patentimages.storage.googleapis.com/3d/36/f1/07c626fd9a415b/US09439968-20160913-C00043.png)
+
+or a salt thereof, wherein L and R are as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of Formula (V-d):
+
+[![Figure US09439968-20160913-C00044](https://patentimages.storage.googleapis.com/39/33/68/a1b1936e45a9eb/US09439968-20160913-C00044.png)](https://patentimages.storage.googleapis.com/39/33/68/a1b1936e45a9eb/US09439968-20160913-C00044.png)
+
+or a salt thereof, wherein R is as defined above and described herein.
+
+In certain embodiments, a lipidoid of the present invention is of the formula:
+
+[![Figure US09439968-20160913-C00045](https://patentimages.storage.googleapis.com/eb/aa/53/98b6529ac393bc/US09439968-20160913-C00045.png)](https://patentimages.storage.googleapis.com/eb/aa/53/98b6529ac393bc/US09439968-20160913-C00045.png)
+
+or a salt thereof, wherein
+
+each RA is, independently, branched or unbranched C1-6 alkyl, C3-7 cycloalkyl, or branched or unbranched C4-12 cycloalkylalkyl, wherein RA is optionally substituted with one or more fluorine radicals;
+
+each R is, independently, hydrogen or —CH2CH2C(═O)ORB; and
+
+each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals.
+
+As defined generally above, each RA is, independently, branched or unbranched C1-6 alkyl, C3-7 cycloalkyl, or branched or unbranched C4-12 cycloalkylalkyl, wherein RA is optionally substituted with one or more fluorine radicals. In some embodiments, RA is substituted with one or more fluorine radicals. For example, when RA is methyl, it may be substituted with one, two, or three fluorine radicals to give —CH2F, —CHF2, or —CF3. In other embodiments, RA is unsubstituted. In some embodiments, all RA groups are the same. In other embodiments, the RA groups are different. In some embodiments, RA is branched or unbranched C1-6 alkyl. In certain embodiments, RA is branched C1-6 alkyl. In certain embodiments, RA is unbranched C1-6 alkyl. In certain embodiments, RA is C1-3 alkyl. In certain embodiments, RA is methyl, ethyl, or propyl. In certain embodiments, RA is C3-7 cycloalkyl. In certain embodiments, RA is cyclohexyl. In certain embodiments, RA is cyclopropyl, cyclobutyl, or cyclopentyl. In certain embodiments, RA is cycloheptyl. In some embodiments, RA is branched or unbranched C4-12 cycloalkylalkyl.
+
+As defined generally above, each R is, independently, hydrogen or —CH2CH2C(═O)ORB. In some embodiments, at least one R group is —CH2CH2C(═O)ORB. In some embodiments, at least two R groups are —CH2CH2C(═O)ORB. In some embodiments, at least three R groups are —CH2CH2C(═O)ORB. In some embodiments, at least four R groups are —CH2CH2C(═O)ORB. In some embodiments, all R groups are —CH2CH2C(═O)ORB.
+
+As defined generally above, each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals. In some embodiments, RB is substituted with one or more fluorine radicals. For example, in some embodiments, RB may be substituted with one fluoro, or in other embodiments, may be perfluorinated. In other embodiments, RB is unsubstituted. In some embodiments, all RB groups are the same. In certain embodiments, RB is C10 alkyl. In some embodiments, RB is n-decyl. In certain embodiments, RB is C11 alkyl. In some embodiments, RB is n-undecyl. In certain embodiments, RB is C12 alkyl. In some embodiments, RB is n-dodecyl. In certain embodiments, RB is C13 alkyl. In some embodiments, RB is n-tridecyl. In certain embodiments, RB is C14 alkyl. In some embodiments, RB is n-tetradecyl.
+
+In certain embodiments, a lipidoid of the present invention is of the formula:
+
+[![Figure US09439968-20160913-C00046](https://patentimages.storage.googleapis.com/a8/70/c6/5845181885610d/US09439968-20160913-C00046.png)](https://patentimages.storage.googleapis.com/a8/70/c6/5845181885610d/US09439968-20160913-C00046.png)
+
+or a salt thereof, wherein R is as defined above and described herein.
+
+In some embodiments, a lipidoid of the present invention is a compound resulting from a Michael addition between any one of the amines shown in FIG. 1 or FIG. 2 and an acrylate shown in FIG. 1. In certain embodiments, the number of equivalents of acrylate can be controlled to obtain the desired number of lipid tails on the inventive lipidoid.
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 113 with acrylate O10, O11, O12, O13, or O14 to form compound 113O10, 113O11, 113O12, 113O13, or 113O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00047](https://patentimages.storage.googleapis.com/4d/85/9d/15ee7ea7203942/US09439968-20160913-C00047.png)](https://patentimages.storage.googleapis.com/4d/85/9d/15ee7ea7203942/US09439968-20160913-C00047.png)
+
+wherein z is 11 or 12.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00048](https://patentimages.storage.googleapis.com/0f/a4/68/b21ea16b8bea9d/US09439968-20160913-C00048.png)](https://patentimages.storage.googleapis.com/0f/a4/68/b21ea16b8bea9d/US09439968-20160913-C00048.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 123 with acrylate O10, O11, O12, O13, or O14 to form compound 123O10, 123O11, 123O12, 123O13, or 123O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00049](https://patentimages.storage.googleapis.com/7e/c7/27/701fa796459e8b/US09439968-20160913-C00049.png)](https://patentimages.storage.googleapis.com/7e/c7/27/701fa796459e8b/US09439968-20160913-C00049.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00050](https://patentimages.storage.googleapis.com/97/e2/d4/fe27214cc027b7/US09439968-20160913-C00050.png)](https://patentimages.storage.googleapis.com/97/e2/d4/fe27214cc027b7/US09439968-20160913-C00050.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 154 with acrylate O10, O11, O12, O13, or O14 to form compound 154O10, 154O11, 154O12, 154O13, or 154O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00051](https://patentimages.storage.googleapis.com/74/ae/48/b3dfa422a622d5/US09439968-20160913-C00051.png)](https://patentimages.storage.googleapis.com/74/ae/48/b3dfa422a622d5/US09439968-20160913-C00051.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00052](https://patentimages.storage.googleapis.com/9f/60/f7/84c896a0d4f747/US09439968-20160913-C00052.png)](https://patentimages.storage.googleapis.com/9f/60/f7/84c896a0d4f747/US09439968-20160913-C00052.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 191 with acrylate O10, O11, O12, O13, or O14 to form compound 191O10, 191O11, 191O12, 191O13, or 191O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00053](https://patentimages.storage.googleapis.com/dc/e1/98/cf65cb3dccba2c/US09439968-20160913-C00053.png)](https://patentimages.storage.googleapis.com/dc/e1/98/cf65cb3dccba2c/US09439968-20160913-C00053.png)
+
+wherein z is 10, 11, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00054](https://patentimages.storage.googleapis.com/ea/84/be/f442f19a4fde19/US09439968-20160913-C00054.png)](https://patentimages.storage.googleapis.com/ea/84/be/f442f19a4fde19/US09439968-20160913-C00054.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 192 with acrylate O10, O11, O12, O13, or O14 to form compound 192O10, 192O11, 192O12, 192O13, or 192O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00055](https://patentimages.storage.googleapis.com/50/0d/80/04150e7df2f95c/US09439968-20160913-C00055.png)](https://patentimages.storage.googleapis.com/50/0d/80/04150e7df2f95c/US09439968-20160913-C00055.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00056](https://patentimages.storage.googleapis.com/00/5a/cd/6d6ccc2200bb8c/US09439968-20160913-C00056.png)](https://patentimages.storage.googleapis.com/00/5a/cd/6d6ccc2200bb8c/US09439968-20160913-C00056.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 193 with acrylate O10, O11, O12, O13, or O14 to form compound 193O10, 193O11, 193O12, 193O13, or 193O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00057](https://patentimages.storage.googleapis.com/5b/17/b9/8cf5788be53f9e/US09439968-20160913-C00057.png)](https://patentimages.storage.googleapis.com/5b/17/b9/8cf5788be53f9e/US09439968-20160913-C00057.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00058](https://patentimages.storage.googleapis.com/75/7a/98/c3c3c296f1326d/US09439968-20160913-C00058.png)](https://patentimages.storage.googleapis.com/75/7a/98/c3c3c296f1326d/US09439968-20160913-C00058.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 195 with acrylate O10, O11, O12, O13, or O14 to form compound 195O10, 195O11, 195O12, 195O13, or 195O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00059](https://patentimages.storage.googleapis.com/32/9f/4f/23540acc0e80cc/US09439968-20160913-C00059.png)](https://patentimages.storage.googleapis.com/32/9f/4f/23540acc0e80cc/US09439968-20160913-C00059.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00060](https://patentimages.storage.googleapis.com/b3/56/43/c85f3997635cc3/US09439968-20160913-C00060.png)](https://patentimages.storage.googleapis.com/b3/56/43/c85f3997635cc3/US09439968-20160913-C00060.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 196 with acrylate O10, O11, O12, O13, or O14 to form compound 196O10, 196O11, 196O12, 196O13, or 196O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00061](https://patentimages.storage.googleapis.com/cf/4e/30/3916dcbea86915/US09439968-20160913-C00061.png)](https://patentimages.storage.googleapis.com/cf/4e/30/3916dcbea86915/US09439968-20160913-C00061.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00062](https://patentimages.storage.googleapis.com/c5/da/4a/923940b255f023/US09439968-20160913-C00062.png)](https://patentimages.storage.googleapis.com/c5/da/4a/923940b255f023/US09439968-20160913-C00062.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 200 with acrylate O10, O11, O12, O13, or O14 to form compound 200O10, 200O11, 200O12, 200O13, or 200O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00063](https://patentimages.storage.googleapis.com/ec/a3/fe/4c469779f5b2a3/US09439968-20160913-C00063.png)](https://patentimages.storage.googleapis.com/ec/a3/fe/4c469779f5b2a3/US09439968-20160913-C00063.png)
+
+[![Figure US09439968-20160913-C00064](https://patentimages.storage.googleapis.com/cd/77/23/8eac1ad65ba2b0/US09439968-20160913-C00064.png)](https://patentimages.storage.googleapis.com/cd/77/23/8eac1ad65ba2b0/US09439968-20160913-C00064.png)
+
+[![Figure US09439968-20160913-C00065](https://patentimages.storage.googleapis.com/74/46/8e/a45c3dcc38b839/US09439968-20160913-C00065.png)](https://patentimages.storage.googleapis.com/74/46/8e/a45c3dcc38b839/US09439968-20160913-C00065.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00066](https://patentimages.storage.googleapis.com/2b/f9/b2/f2fb89f85381ee/US09439968-20160913-C00066.png)](https://patentimages.storage.googleapis.com/2b/f9/b2/f2fb89f85381ee/US09439968-20160913-C00066.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 205 with acrylate O10, O11, O12, O13, or O14 to form compound 205O10, 205O11, 205O12, 205O13, or 205O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00067](https://patentimages.storage.googleapis.com/e9/35/e6/c220bb7ee77d01/US09439968-20160913-C00067.png)](https://patentimages.storage.googleapis.com/e9/35/e6/c220bb7ee77d01/US09439968-20160913-C00067.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00068](https://patentimages.storage.googleapis.com/21/f0/7b/19a96e8168ce75/US09439968-20160913-C00068.png)](https://patentimages.storage.googleapis.com/21/f0/7b/19a96e8168ce75/US09439968-20160913-C00068.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 217 with acrylate O10, O11, O12, O13, or O14 to form compound 217O10, 217O11, 217O12, 217O13, or 217O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00069](https://patentimages.storage.googleapis.com/66/b5/07/63297bba0cdc6d/US09439968-20160913-C00069.png)](https://patentimages.storage.googleapis.com/66/b5/07/63297bba0cdc6d/US09439968-20160913-C00069.png)
+
+wherein z is 11 or 12.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00070](https://patentimages.storage.googleapis.com/e8/10/d7/cb88e3de11996b/US09439968-20160913-C00070.png)](https://patentimages.storage.googleapis.com/e8/10/d7/cb88e3de11996b/US09439968-20160913-C00070.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 218 with acrylate O10, O11, O12, O13, or O14 to form compound 218O10, 218O11, 218O12, 218O13, or 218O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00071](https://patentimages.storage.googleapis.com/81/e1/b9/a83a3f79b14168/US09439968-20160913-C00071.png)](https://patentimages.storage.googleapis.com/81/e1/b9/a83a3f79b14168/US09439968-20160913-C00071.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00072](https://patentimages.storage.googleapis.com/13/97/f4/192dfae5115f67/US09439968-20160913-C00072.png)](https://patentimages.storage.googleapis.com/13/97/f4/192dfae5115f67/US09439968-20160913-C00072.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 232 with acrylate O10, O11, O12, O13, or O14 to form compound 232O10, 232O11, 232O12, 232O13, or 232O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00073](https://patentimages.storage.googleapis.com/e3/ef/f9/36f6641c220597/US09439968-20160913-C00073.png)](https://patentimages.storage.googleapis.com/e3/ef/f9/36f6641c220597/US09439968-20160913-C00073.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00074](https://patentimages.storage.googleapis.com/78/db/e5/8a4789fcdb26c4/US09439968-20160913-C00074.png)](https://patentimages.storage.googleapis.com/78/db/e5/8a4789fcdb26c4/US09439968-20160913-C00074.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 235 with acrylate O10, O11, O12, O13, or O14 to form compound 235O10, 235O11, 235O12, 235O13, or 235O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00075](https://patentimages.storage.googleapis.com/81/90/a6/55521ba4e70453/US09439968-20160913-C00075.png)](https://patentimages.storage.googleapis.com/81/90/a6/55521ba4e70453/US09439968-20160913-C00075.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00076](https://patentimages.storage.googleapis.com/f9/2b/5f/02579404cda0b3/US09439968-20160913-C00076.png)](https://patentimages.storage.googleapis.com/f9/2b/5f/02579404cda0b3/US09439968-20160913-C00076.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 302 with acrylate O10, O11, O12, O13, or O14 to form compound 302O10, 302O11, 302O12, 302O13, or 302O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00077](https://patentimages.storage.googleapis.com/44/f8/cb/0d30ab9bca308a/US09439968-20160913-C00077.png)](https://patentimages.storage.googleapis.com/44/f8/cb/0d30ab9bca308a/US09439968-20160913-C00077.png)
+
+wherein z is 12 or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00078](https://patentimages.storage.googleapis.com/69/c7/36/bcb860c0cd9c58/US09439968-20160913-C00078.png)](https://patentimages.storage.googleapis.com/69/c7/36/bcb860c0cd9c58/US09439968-20160913-C00078.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 303 with acrylate O10, O11, O12, O13, or O14 to form compound 303O10, 303O11, 303O12, 303O13, or 303O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00079](https://patentimages.storage.googleapis.com/6a/1c/df/71a697372e401b/US09439968-20160913-C00079.png)](https://patentimages.storage.googleapis.com/6a/1c/df/71a697372e401b/US09439968-20160913-C00079.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00080](https://patentimages.storage.googleapis.com/da/4f/a7/530043fb1d6d3a/US09439968-20160913-C00080.png)](https://patentimages.storage.googleapis.com/da/4f/a7/530043fb1d6d3a/US09439968-20160913-C00080.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 304 with acrylate O10, O11, O12, O13, or O14 to form compound 304O10, 304O11, 304O12, 304O13, or 304O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00081](https://patentimages.storage.googleapis.com/84/8b/f4/d65abd4effc20a/US09439968-20160913-C00081.png)](https://patentimages.storage.googleapis.com/84/8b/f4/d65abd4effc20a/US09439968-20160913-C00081.png)
+
+wherein z is 11 or 12.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00082](https://patentimages.storage.googleapis.com/71/b6/18/c16322c4684211/US09439968-20160913-C00082.png)](https://patentimages.storage.googleapis.com/71/b6/18/c16322c4684211/US09439968-20160913-C00082.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 305 with acrylate O10, O11, O12, O13, or O14 to form compound 305O10, 305O11, 305O12, 305O13, or 305O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00083](https://patentimages.storage.googleapis.com/61/c5/b3/b1a70e90e2beb1/US09439968-20160913-C00083.png)](https://patentimages.storage.googleapis.com/61/c5/b3/b1a70e90e2beb1/US09439968-20160913-C00083.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00084](https://patentimages.storage.googleapis.com/76/fa/0c/b074fabc024a11/US09439968-20160913-C00084.png)](https://patentimages.storage.googleapis.com/76/fa/0c/b074fabc024a11/US09439968-20160913-C00084.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 306 with acrylate O10, O11, O12, O13, or O14 to form compound 306O10, 306O11, 306O12, 306O13, or 306O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00085](https://patentimages.storage.googleapis.com/ce/9c/45/e234fe01b3b8ca/US09439968-20160913-C00085.png)](https://patentimages.storage.googleapis.com/ce/9c/45/e234fe01b3b8ca/US09439968-20160913-C00085.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00086](https://patentimages.storage.googleapis.com/36/81/a0/41ea785e9c8c78/US09439968-20160913-C00086.png)](https://patentimages.storage.googleapis.com/36/81/a0/41ea785e9c8c78/US09439968-20160913-C00086.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 313 with acrylate O10, O11, O12, O13, or O14 to form compound 313O10, 313O11, 313O12, 313O13, or 313O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00087](https://patentimages.storage.googleapis.com/6f/a8/de/7c6744574cf1ac/US09439968-20160913-C00087.png)](https://patentimages.storage.googleapis.com/6f/a8/de/7c6744574cf1ac/US09439968-20160913-C00087.png)
+
+wherein z is 9, 10, 11, or 12.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00088](https://patentimages.storage.googleapis.com/41/fd/ac/d8d0bc126f99b4/US09439968-20160913-C00088.png)](https://patentimages.storage.googleapis.com/41/fd/ac/d8d0bc126f99b4/US09439968-20160913-C00088.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 315 with acrylate O10, O11, O12, O13, or O14 to form compound 315O10, 315O11, 315O12, 315O13, or 315O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00089](https://patentimages.storage.googleapis.com/9a/20/31/3a77fba0a75f43/US09439968-20160913-C00089.png)](https://patentimages.storage.googleapis.com/9a/20/31/3a77fba0a75f43/US09439968-20160913-C00089.png)
+
+[![Figure US09439968-20160913-C00090](https://patentimages.storage.googleapis.com/12/e5/85/5d342574b67f42/US09439968-20160913-C00090.png)](https://patentimages.storage.googleapis.com/12/e5/85/5d342574b67f42/US09439968-20160913-C00090.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00091](https://patentimages.storage.googleapis.com/4a/29/b1/2d9cf811bbd67a/US09439968-20160913-C00091.png)](https://patentimages.storage.googleapis.com/4a/29/b1/2d9cf811bbd67a/US09439968-20160913-C00091.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 347 with acrylate O10, O11, O12, O13, or O14 to form compound 347O10, 347O11, 347O12, 347O13, or 347O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00092](https://patentimages.storage.googleapis.com/41/76/ba/e87bd552852922/US09439968-20160913-C00092.png)](https://patentimages.storage.googleapis.com/41/76/ba/e87bd552852922/US09439968-20160913-C00092.png)
+
+wherein z is 11 or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00093](https://patentimages.storage.googleapis.com/70/6c/0d/b84e93efa2d8ed/US09439968-20160913-C00093.png)](https://patentimages.storage.googleapis.com/70/6c/0d/b84e93efa2d8ed/US09439968-20160913-C00093.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 366 with acrylate O10, O11, O12, O13, or O14 to form compound 366O10, 366O11, 366O12, 366O13, or 366O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00094](https://patentimages.storage.googleapis.com/8a/cd/c5/c525277356fddd/US09439968-20160913-C00094.png)](https://patentimages.storage.googleapis.com/8a/cd/c5/c525277356fddd/US09439968-20160913-C00094.png)
+
+wherein z is 10 or 11.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00095](https://patentimages.storage.googleapis.com/d2/1b/1f/5f0709534d2744/US09439968-20160913-C00095.png)](https://patentimages.storage.googleapis.com/d2/1b/1f/5f0709534d2744/US09439968-20160913-C00095.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 371 with acrylate O10, O11, O12, O13, or O14 to form compound 371O10, 371O11, 371O12, 371O13, or 371O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00096](https://patentimages.storage.googleapis.com/d3/65/9e/64fca222e83ec4/US09439968-20160913-C00096.png)](https://patentimages.storage.googleapis.com/d3/65/9e/64fca222e83ec4/US09439968-20160913-C00096.png)
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00097](https://patentimages.storage.googleapis.com/69/cd/9a/a20ea2464ca475/US09439968-20160913-C00097.png)](https://patentimages.storage.googleapis.com/69/cd/9a/a20ea2464ca475/US09439968-20160913-C00097.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 500 with acrylate O10, O11, O12, O13, or O14 to form compound 500O10, 500O11, 500O12, 500O13, or 500O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00098](https://patentimages.storage.googleapis.com/c7/b0/a8/312b48925d9d4a/US09439968-20160913-C00098.png)](https://patentimages.storage.googleapis.com/c7/b0/a8/312b48925d9d4a/US09439968-20160913-C00098.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00099](https://patentimages.storage.googleapis.com/a7/4f/9b/0ddfb046713766/US09439968-20160913-C00099.png)](https://patentimages.storage.googleapis.com/a7/4f/9b/0ddfb046713766/US09439968-20160913-C00099.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 501 with acrylate O10, O11, O12, O13, O13, or O14 to form compound 501O10, 501O11, 501O12, 501O13, or 501O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00100](https://patentimages.storage.googleapis.com/eb/4f/03/d0007ae3fef891/US09439968-20160913-C00100.png)](https://patentimages.storage.googleapis.com/eb/4f/03/d0007ae3fef891/US09439968-20160913-C00100.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00101](https://patentimages.storage.googleapis.com/33/11/d0/ccd5e6f2a04da2/US09439968-20160913-C00101.png)](https://patentimages.storage.googleapis.com/33/11/d0/ccd5e6f2a04da2/US09439968-20160913-C00101.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 502 with acrylate O10, O11, O12, O13, or O14 to form compound 502O10, 502O11, 502O12, 502O13, or 502O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00102](https://patentimages.storage.googleapis.com/c7/b9/b1/04ba5dab04f638/US09439968-20160913-C00102.png)](https://patentimages.storage.googleapis.com/c7/b9/b1/04ba5dab04f638/US09439968-20160913-C00102.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00103](https://patentimages.storage.googleapis.com/c3/21/1f/c8a9b997c15e01/US09439968-20160913-C00103.png)](https://patentimages.storage.googleapis.com/c3/21/1f/c8a9b997c15e01/US09439968-20160913-C00103.png)
+
+ 
+
+[![Figure US09439968-20160913-C00104](https://patentimages.storage.googleapis.com/10/4f/02/e56b56c20e30cc/US09439968-20160913-C00104.png)](https://patentimages.storage.googleapis.com/10/4f/02/e56b56c20e30cc/US09439968-20160913-C00104.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 503 with acrylate O10, O11, O12, O13, or O14 to form compound 503O10, 503O11, 503O12, 503O13, or 503O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00105](https://patentimages.storage.googleapis.com/d3/dc/34/cba62f573ba8a2/US09439968-20160913-C00105.png)](https://patentimages.storage.googleapis.com/d3/dc/34/cba62f573ba8a2/US09439968-20160913-C00105.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00106](https://patentimages.storage.googleapis.com/0c/df/9e/d3763975d86a6c/US09439968-20160913-C00106.png)](https://patentimages.storage.googleapis.com/0c/df/9e/d3763975d86a6c/US09439968-20160913-C00106.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 504 with acrylate O10, O11, O12, O13, or O14 to form compound 504O10, 504O11, 504O12, 504O13, or 504O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00107](https://patentimages.storage.googleapis.com/5e/79/42/56aeb820759bde/US09439968-20160913-C00107.png)](https://patentimages.storage.googleapis.com/5e/79/42/56aeb820759bde/US09439968-20160913-C00107.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00108](https://patentimages.storage.googleapis.com/74/7a/03/03c37131c911a5/US09439968-20160913-C00108.png)](https://patentimages.storage.googleapis.com/74/7a/03/03c37131c911a5/US09439968-20160913-C00108.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 505 with acrylate O10, O11, O12, O13, or O14 to form compound 505O10, 505O11, 505O12, 505O13, or 505O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00109](https://patentimages.storage.googleapis.com/2c/60/9a/01a032d76a822b/US09439968-20160913-C00109.png)](https://patentimages.storage.googleapis.com/2c/60/9a/01a032d76a822b/US09439968-20160913-C00109.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00110](https://patentimages.storage.googleapis.com/41/33/c7/b3ff5619414146/US09439968-20160913-C00110.png)](https://patentimages.storage.googleapis.com/41/33/c7/b3ff5619414146/US09439968-20160913-C00110.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 506 with acrylate O10, O11, O12, O13, or O14 to form compound 506O10, 506O11, 506O12, 506O13, or 506O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00111](https://patentimages.storage.googleapis.com/2e/f1/66/757ad92071bad9/US09439968-20160913-C00111.png)](https://patentimages.storage.googleapis.com/2e/f1/66/757ad92071bad9/US09439968-20160913-C00111.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00112](https://patentimages.storage.googleapis.com/50/b3/a7/ed201f317bf985/US09439968-20160913-C00112.png)](https://patentimages.storage.googleapis.com/50/b3/a7/ed201f317bf985/US09439968-20160913-C00112.png)
+
+ 
+
+[![Figure US09439968-20160913-C00113](https://patentimages.storage.googleapis.com/ed/c4/30/11c06dfa2c648b/US09439968-20160913-C00113.png)](https://patentimages.storage.googleapis.com/ed/c4/30/11c06dfa2c648b/US09439968-20160913-C00113.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 507 with acrylate O10, O11, O12, O13, or O14 to form compound 507O10, 507O11, 507O12, 507O13, or 507O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00114](https://patentimages.storage.googleapis.com/0e/51/d9/c386d005042034/US09439968-20160913-C00114.png)](https://patentimages.storage.googleapis.com/0e/51/d9/c386d005042034/US09439968-20160913-C00114.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00115](https://patentimages.storage.googleapis.com/83/f4/5b/5a31da63c87995/US09439968-20160913-C00115.png)](https://patentimages.storage.googleapis.com/83/f4/5b/5a31da63c87995/US09439968-20160913-C00115.png)
+
+ 
+
+[![Figure US09439968-20160913-C00116](https://patentimages.storage.googleapis.com/ac/4a/a7/dc90da884fddb1/US09439968-20160913-C00116.png)](https://patentimages.storage.googleapis.com/ac/4a/a7/dc90da884fddb1/US09439968-20160913-C00116.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 508 with acrylate O10, O11, O12, O13, or O14 to form compound 508O10, 508O11, 508O12, 508O13, or 508O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00117](https://patentimages.storage.googleapis.com/7d/e4/25/18cb4ac4254c51/US09439968-20160913-C00117.png)](https://patentimages.storage.googleapis.com/7d/e4/25/18cb4ac4254c51/US09439968-20160913-C00117.png)
+
+[![Figure US09439968-20160913-C00118](https://patentimages.storage.googleapis.com/cc/b6/d5/55a8a807e7161e/US09439968-20160913-C00118.png)](https://patentimages.storage.googleapis.com/cc/b6/d5/55a8a807e7161e/US09439968-20160913-C00118.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00119](https://patentimages.storage.googleapis.com/dc/22/77/00aeb5ed572f8a/US09439968-20160913-C00119.png)](https://patentimages.storage.googleapis.com/dc/22/77/00aeb5ed572f8a/US09439968-20160913-C00119.png)
+
+ 
+
+[![Figure US09439968-20160913-C00120](https://patentimages.storage.googleapis.com/81/50/af/50af8442867310/US09439968-20160913-C00120.png)](https://patentimages.storage.googleapis.com/81/50/af/50af8442867310/US09439968-20160913-C00120.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 509 with acrylate O10, O11, O12, O13, or O14 to form compound 509O10, 509O11, 509O12, 509O13, or 509O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00121](https://patentimages.storage.googleapis.com/58/e5/2c/2523188ce12e6a/US09439968-20160913-C00121.png)](https://patentimages.storage.googleapis.com/58/e5/2c/2523188ce12e6a/US09439968-20160913-C00121.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00122](https://patentimages.storage.googleapis.com/78/0f/03/43e2bd7c103682/US09439968-20160913-C00122.png)](https://patentimages.storage.googleapis.com/78/0f/03/43e2bd7c103682/US09439968-20160913-C00122.png)
+
+ 
+
+[![Figure US09439968-20160913-C00123](https://patentimages.storage.googleapis.com/04/a1/f6/9ca12805acdaf5/US09439968-20160913-C00123.png)](https://patentimages.storage.googleapis.com/04/a1/f6/9ca12805acdaf5/US09439968-20160913-C00123.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 510 with acrylate O10, O11, O12, O13, or O14 to form compound 510O10, 510O11, 510O12, 510O13, or 510O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00124](https://patentimages.storage.googleapis.com/da/a6/79/b80553f21698e0/US09439968-20160913-C00124.png)](https://patentimages.storage.googleapis.com/da/a6/79/b80553f21698e0/US09439968-20160913-C00124.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00125](https://patentimages.storage.googleapis.com/29/9f/6b/929133b227bbf5/US09439968-20160913-C00125.png)](https://patentimages.storage.googleapis.com/29/9f/6b/929133b227bbf5/US09439968-20160913-C00125.png)
+
+ 
+
+[![Figure US09439968-20160913-C00126](https://patentimages.storage.googleapis.com/f2/37/58/80eca28a9f2d6e/US09439968-20160913-C00126.png)](https://patentimages.storage.googleapis.com/f2/37/58/80eca28a9f2d6e/US09439968-20160913-C00126.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 511 with acrylate O10, O11, O12, O13, or O14 to form compound 511O10, 511O11, 511O12, 511O13, or 511O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00127](https://patentimages.storage.googleapis.com/b0/91/7b/d9a11efd0f590b/US09439968-20160913-C00127.png)](https://patentimages.storage.googleapis.com/b0/91/7b/d9a11efd0f590b/US09439968-20160913-C00127.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00128](https://patentimages.storage.googleapis.com/5b/57/01/a20178107f8c59/US09439968-20160913-C00128.png)](https://patentimages.storage.googleapis.com/5b/57/01/a20178107f8c59/US09439968-20160913-C00128.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 512 with acrylate O10, O11, O12, O13, or O14 to form compound 512O10, 512O11, 512O12, 512O13, or 512O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00129](https://patentimages.storage.googleapis.com/7f/ba/57/02c275c06e01d7/US09439968-20160913-C00129.png)](https://patentimages.storage.googleapis.com/7f/ba/57/02c275c06e01d7/US09439968-20160913-C00129.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00130](https://patentimages.storage.googleapis.com/ac/c7/dc/35e12765ccf258/US09439968-20160913-C00130.png)](https://patentimages.storage.googleapis.com/ac/c7/dc/35e12765ccf258/US09439968-20160913-C00130.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 513 with acrylate O10, O11, O12, O13, or O14 to form compound 513O10, 513O11, 513O12, 513O13, or 513O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00131](https://patentimages.storage.googleapis.com/31/c8/48/ba5ee8b49b9ba4/US09439968-20160913-C00131.png)](https://patentimages.storage.googleapis.com/31/c8/48/ba5ee8b49b9ba4/US09439968-20160913-C00131.png)
+
+[![Figure US09439968-20160913-C00132](https://patentimages.storage.googleapis.com/cc/2f/2e/1142fde2e8a1f5/US09439968-20160913-C00132.png)](https://patentimages.storage.googleapis.com/cc/2f/2e/1142fde2e8a1f5/US09439968-20160913-C00132.png)
+
+[![Figure US09439968-20160913-C00133](https://patentimages.storage.googleapis.com/75/c6/73/e74d046448d93a/US09439968-20160913-C00133.png)](https://patentimages.storage.googleapis.com/75/c6/73/e74d046448d93a/US09439968-20160913-C00133.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00134](https://patentimages.storage.googleapis.com/f7/ff/09/2e48a433877ea4/US09439968-20160913-C00134.png)](https://patentimages.storage.googleapis.com/f7/ff/09/2e48a433877ea4/US09439968-20160913-C00134.png)
+
+ 
+
+[![Figure US09439968-20160913-C00135](https://patentimages.storage.googleapis.com/41/0a/11/82cd046b188399/US09439968-20160913-C00135.png)](https://patentimages.storage.googleapis.com/41/0a/11/82cd046b188399/US09439968-20160913-C00135.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 514 with acrylate O10, O11, O12, O13, or O14 to form compound 514O10, 514O11, 514O12, 514O13, or 514O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00136](https://patentimages.storage.googleapis.com/0a/77/c8/6d2de7f817b4bb/US09439968-20160913-C00136.png)](https://patentimages.storage.googleapis.com/0a/77/c8/6d2de7f817b4bb/US09439968-20160913-C00136.png)
+
+[![Figure US09439968-20160913-C00137](https://patentimages.storage.googleapis.com/23/6e/14/8ae8b095317378/US09439968-20160913-C00137.png)](https://patentimages.storage.googleapis.com/23/6e/14/8ae8b095317378/US09439968-20160913-C00137.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00138](https://patentimages.storage.googleapis.com/c4/a5/7d/cef3b4a7613193/US09439968-20160913-C00138.png)](https://patentimages.storage.googleapis.com/c4/a5/7d/cef3b4a7613193/US09439968-20160913-C00138.png)
+
+ 
+
+[![Figure US09439968-20160913-C00139](https://patentimages.storage.googleapis.com/15/58/11/ad9f133cb1c399/US09439968-20160913-C00139.png)](https://patentimages.storage.googleapis.com/15/58/11/ad9f133cb1c399/US09439968-20160913-C00139.png)
+
+In certain embodiments, an inventive lipidoid is prepared by reacting amine 515 with acrylate O10, O11, O12, O13, or O14 to form compound 515O10, 515O11, 515O12, 515O13, or 515O14. In certain embodiments, an inventive lipidoid is of one of the formulae below:
+
+[![Figure US09439968-20160913-C00140](https://patentimages.storage.googleapis.com/71/da/6c/d36f1813ea24a6/US09439968-20160913-C00140.png)](https://patentimages.storage.googleapis.com/71/da/6c/d36f1813ea24a6/US09439968-20160913-C00140.png)
+
+wherein z is 9, 10, 11, 12, or 13.
+
+In some embodiments, the present invention provides a composition of one or more of the above lipidoids. In certain embodiments, an inventive lipidoid is of the formula:
+
+[![Figure US09439968-20160913-C00141](https://patentimages.storage.googleapis.com/b3/fa/4d/260ac9f5cbd3c4/US09439968-20160913-C00141.png)](https://patentimages.storage.googleapis.com/b3/fa/4d/260ac9f5cbd3c4/US09439968-20160913-C00141.png)
+
+[![Figure US09439968-20160913-C00142](https://patentimages.storage.googleapis.com/da/b8/e4/66c02a7535ceab/US09439968-20160913-C00142.png)](https://patentimages.storage.googleapis.com/da/b8/e4/66c02a7535ceab/US09439968-20160913-C00142.png)
+
+Synthesis of Lipids
+
+Lipidoids described herein may be prepared by any method known in the art. In certain embodiments, inventive lipidoids are prepared via the conjugate addition of primary or secondary amines to acrylates. Such syntheses are described in detail in U.S. Publication No. 2011/0009641, incorporated herein by reference. In certain embodiments, inventive lipidoids are prepared from commercially available starting materials, such acrylates and amines. In other embodiments, inventive lipidoids are prepared from easily and/or inexpensively prepared starting materials. As would be appreciated by one of skill in the art, the lipidoids described herein can be prepared by total synthesis starting from commercially available starting materials. A particular lipidoid may be the desired final product of the synthesis, or a mixture of lipidoids may be the desired final product.
+
+Polynucleotide Complexes
+
+The ability of cationic compounds to interact with negatively charged polynucleotides through electrostatic interactions is well known. Cationic lipids such as Lipofectamine have been prepared and studied for their ability to complex and transfect polynucleotides. The interaction of the lipid with the polynucleotide is thought to at least partially prevent the degradation of the polynucleotide. By neutralizing the charge on the backbone of the polynucleotide, the neutral or slightly-positively-charged complex is also able to more easily pass through the hydrophobic membranes (e.g., cytoplasmic, lysosomal, endosomal, nuclear) of the cell. In certain embodiments, the complex is slightly positively charged. In certain embodiments, the complex has a positive ζ-potential. In certain embodiments, the ζ-potential is between +1 and +30.
+
+In certain embodiments, lipidoids of the present invention possess tertiary amines. Although these amines are hindered, they are available to interact with a polynucleotide (e.g., DNA, RNA, synthetic analogs of DNA and/or RNA, DNA/RNA hydrids, etc.). In certain embodiments, polynucleotides or derivatives thereof are contacted with the inventive lipidoids under conditions suitable to form polynucleotide/lipidoid complexes. In certain embodiments, the lipidoid is at least partially protonated so as to form a complex with the negatively charged polynucleotide. In certain embodiments, the polynucleotide/lipidoid complexes form nanoparticles that are useful in the delivery of polynucleotides to cells. In certain embodiments, multiple lipidoid molecules may be associated with a polynucleotide molecule. The complex may include 1-100 lipidoid molecules, 1-1000 lipidoid molecules, 10-1000 lipidoid molecules, or 100-10,000 lipidoid molecules. In certain embodiments, the complex may form a nanoparticle. In certain embodiments, the diameter of the nanoparticles ranges from 10-500 nm, from 10-1200 nm, or from 50-150 nm. In certain embodiments, nanoparticles may be associated with a targeting agent as described below.
+
+Polynucleotide
+
+A polynucleotide to be complexed, encapsulated by the inventive lipidoids, or included in a composition with the inventive lipidoids may be any nucleic acid including but not limited to RNA and DNA. In certain embodiments, the polynucleotide is DNA. In other embodiments, the polynucleotide is RNA. In certain embodiments, the polynucleotide is an siRNA. In certain embodiments, the polynucleotide is an shRNA. In certain embodiments, the polynucleotide is an mRNA. In certain embodiments, the polynucleotide is a dsRNA. In certain embodiments, the polynucleotide is an miRNA. In certain embodiments, the polynucleotide is an antisense RNA. The polynucleotides may be of any size or sequence, and they may be single- or double-stranded. In certain embodiments, the polynucleotide is greater than 100 base pairs long. In certain other embodiments, the polynucleotide is greater than 1000 base pairs long and may be greater than 10,000 base pairs long. In certain embodiments, the polynucleotide is purified and substantially pure. In certain embodiments, the polynucleotide is greater than 50% pure, greater than 75% pure, or greater than 95% pure. The polynucleotide may be provided by any means known in the art. In certain preferred embodiments, the polynucleotide has been engineered using recombinant techniques (for a more detailed description of these techniques, please see Ausubel et al. *Current Protocols in Molecular Biology* (John Wiley & Sons, Inc., New York, 1999); *Molecular Cloning: A Laboratory Manual,* 2nd Ed., ed. by Sambrook, Fritsch, and Maniatis (Cold Spring Harbor Laboratory Press: 1989); each of which is incorporated herein by reference). The polynucleotide may also be obtained from natural sources and purified from contaminating components found normally in nature. The polynucleotide may also be chemically synthesized in a laboratory. In certain embodiments, the polynucleotide is synthesized using standard solid phase chemistry.
+
+The polynucleotide may be modified by chemical or biological means. In certain embodiments, these modifications lead to increased stability of the polynucleotide. Modifications include methylation, phosphorylation, end-capping, etc.
+
+Derivatives of polynucleotides may also be used in the present invention. These derivatives include modifications in the bases, sugars, and/or phosphate linkages of the polynucleotide. Modified bases include, but are not limited to, those found in the following nucleoside analogs: 2-aminoadenosine, 2-thiothymidine, inosine, pyrrolo-pyrimidine, 3-methyl adenosine, 5-methylcytidine, C5-bromouridine, C5-fluorouridine, C5-iodouridine, C5-propynyl-uridine, C5-propynyl-cytidine, C5-methylcytidine, 7-deazaadenosine, 7-deazaguanosine, 8-oxoadenosine, 8-oxoguanosine, O(6)-methylguanine, and 2-thiocytidine. Modified sugars include, but are not limited to, 2′-fluororibose, ribose, 2′-deoxyribose, 3′-azido-2′,3′-dideoxyribose, 2′,3′-dideoxyribose, arabinose (the 2′-epimer of ribose), acyclic sugars, and hexoses. The nucleosides may be strung together by linkages other than the phosphodiester linkage found in naturally occurring DNA and RNA. Modified linkages include, but are not limited to, phosphorothioate and 5′-N-phosphoramidite linkages. Combinations of the various modifications may be used in a single polynucleotide. These modified polynucleotides may be provided by any means known in the art; however, as will be appreciated by those of skill in this art, the modified polynucleotides are preferably prepared using synthetic chemistry in vitro. The polynucleotides to be delivered may be in any form. For example, the polynucleotide may be a circular plasmid, a linearized plasmid, a cosmid, a viral genome, a modified viral genome, an artificial chromosome, etc.
+
+The polynucleotide may be of any sequence. In certain preferred embodiments, the polynucleotide encodes a protein or peptide. The encoded proteins may be enzymes, structural proteins, receptors, soluble receptors, ion channels, pharmaceutically active proteins, cytokines, interleukins, antibodies, antibody fragments, antigens, coagulation factors, albumin, growth factors, hormones, insulin, etc. The polynucleotide may also comprise regulatory regions to control the expression of a gene. These regulatory regions may include, but are not limited to, promoters, enhancer elements, repressor elements, TATA box, ribosomal binding sites, stop site for transcription, etc. In other particularly preferred embodiments, the polynucleotide is not intended to encode a protein. For example, the polynucleotide may be used to fix an error in the genome of the cell being transfected.
+
+The polynucleotide may also be provided as an antisense agent or RNA interference (RNAi) (Fire et al. *Nature* 391:806-811, 1998; incorporated herein by reference). Antisense therapy is meant to include, e.g., administration or in situ provision of single- or double-stranded oligonucleotides or their derivatives which specifically hybridize, e.g., bind, under cellular conditions, with cellular mRNA and/or genomic DNA, or mutants thereof, so as to inhibit expression of the encoded protein, e.g., by inhibiting transcription and/or translation (Crooke “Molecular mechanisms of action of antisense drugs” *Biochim. Biophys. Acta* 1489(1):31-44, 1999; Crooke “Evaluating the mechanism of action of antiproliferative antisense drugs” *Antisense Nucleic Acid Drug Dev.* 10(2):123-126, discussion 127, 2000*; Methods in Enzymology* volumes 313-314, 1999; each of which is incorporated herein by reference). The binding may be by conventional base pair complementarity, or, for example, in the case of binding to DNA duplexes, through specific interactions in the major groove of the double helix (i.e., triple helix formation) (Chan et al. *J. Mol. Med.* 75(4):267-282, 1997; incorporated herein by reference).
+
+In certain embodiments, the polynucleotide to be delivered comprises a sequence encoding an antigenic peptide or protein. Nanoparticles containing these polynucleotides can be delivered to an individual to induce an immunologic response sufficient to decrease the chance of a subsequent infection and/or lessen the symptoms associated with such an infection. The polynucleotide of these vaccines may be combined with interleukins, interferon, cytokines, and adjuvants such as cholera toxin, alum, Freund's adjuvant, etc. A large number of adjuvant compounds are known; a useful compendium of many such compounds is prepared by the National Institutes of Health and can be found on the internet (http:/www.niaid.nih.gov/daids/vaccine/pdf/compendium.pdf, incorporated herein by reference; see also Allison *Dev. Biol. Stand.* 92:3-11, 1998; Unkeless et al. *Annu. Rev. Immunol.* 6:251-281, 1998; and Phillips et al. Vaccine 10:151-158, 1992, each of which is incorporated herein by reference).
+
+An antigenic protein or peptides encoded by a polynucleotide may be derived from such bacterial organisms as *Streptococccus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyrogenes, Corynebacterium diphtheriae, Listeria monocytogenes, Bacillus anthracia, Clostridium tetani, Clostridium botulinum, Clostridium perfringens, Neisseria meningitidis, Neisseria gonorrhoeae, Streptococcus mutans, Pseudomonas aeruginosa, Salmonella typhi, Haemophilus parainfluenzae, Bordetella pertussis, Francisella tularensis, Yersinia pestis, Vibrio cholerae, Legionella pneumophila, Mycobacterium tuberculosis, Mycobacterium leprae, Treponema pallidum, Leptospirosis interrogans, Borrelia burgdorferi, Camphylobacter jejuni*, and the like; from such viruses as smallpox, influenza A and B, respiratory syncytial virus, parainfluenza, measles, HIV, varicella-zoster, herpes simplex 1 and 2, cytomegalovirus, Epstein-Barr virus, rotavirus, rhinovirus, adenovirus, papillomavirus, poliovirus, mumps, rabies, rubella, coxsackieviruses, equine encephalitis, Japanese encephalitis, yellow fever, Rift Valley fever, hepatitis A, B, C, D, and E virus, and the like; and from such fungal, protozoan, and parasitic organisms such as *Cryptococcus neoformans, Histoplasma capsulatum, Candida albicans, Candida tropicalis, Nocardia asteroides, Rickettsia ricketsii, Rickettsia typhi, Mycoplasma pneumoniae, Chlamydial psittaci, Chlamydial trachomatis, Plasmodium falciparum, Trypanosoma brucei, Entamoeba histolytica, Toxoplasma gondii, Trichomonas vaginalis, Schistosoma mansoni*, and the like.
+
+Microparticles and Nanoparticles
+
+The lipidoids of the present invention may also be used to form drug delivery devices. Inventive lipidoids may be used to encapsulate agents including polynucleotides, small molecules, proteins, peptides, metals, organometallic compounds, etc. Lipidoids described herein have several properties that make them particularly suitable in the preparation of drug delivery devices. These include 1) the ability of the lipid to complex and “protect” labile agents; 2) the ability to buffer the pH in the endosome; 3) the ability to act as a “proton sponge” and cause endosomolysis; and 4) the ability to neutralize the charge on negatively charged agents. In certain embodiments, the diameter of the particles range from between 1 micrometer to 1,000 micrometers. In certain embodiments, the diameter of the particles range from between from 1 micrometer to 100 micrometers. In certain embodiments, the diameter of the particles range from between from 1 micrometer to 10 micrometers. In certain embodiments, the diameter of the particles range from between from 10 micrometer to 100 micrometers. In certain embodiments, the diameter of the particles range from between from 100 micrometer to 1,000 micrometers. In certain embodiments, the particles range from 1-5 micrometers. In certain embodiments, the diameter of the particles range from between 1 nm to 1,000 nm. In certain embodiments, the diameter of the particles range from between from 1 nm to 100 nm. In certain embodiments, the diameter of the particles range from between from 1 nm to 10 nm. In certain embodiments, the diameter of the particles range from between from 10 nm to 100 nm. In certain embodiments, the diameter of the particles range from between from 100 nm to 1,000 nm. In certain embodiments, the diameter of the particles range from between from 20 nm to 2,000 nm. In certain embodiments, the particles range from 1-5 nm. In certain embodiments, the diameter of the particles range from between 1 pm to 1,000 pm. In certain embodiments, the diameter of the particles range from between from 1 pm to 100 pm. In certain embodiments, the diameter of the particles range from between from 1 pm to 10 pm. In certain embodiments, the diameter of the particles range from between from 10 pm to 100 pm. In certain embodiments, the diameter of the particles range from between from 100 pm to 1,000 pm. In certain embodiments, the particles range from 1-5 pm.
+
+The inventive particles may be prepared using any method known in this art. These include, but are not limited to, spray drying, single and double emulsion solvent evaporation, solvent extraction, phase separation, simple and complex coacervation, and other methods well known to those of ordinary skill in the art. In certain embodiments, methods of preparing the particles are the double emulsion process and spray drying. The conditions used in preparing the particles may be altered to yield particles of a desired size or property (e.g., hydrophobicity, hydrophilicity, external morphology, “stickiness”, shape, etc.). The method of preparing the particle and the conditions (e.g., solvent, temperature, concentration, air flow rate, etc.) used may also depend on the agent being encapsulated and/or the composition of the matrix. Methods developed for making particles for delivery of encapsulated agents are described in the literature (for example, please see Doubrow, M., Ed., “Microcapsules and Nanoparticles in Medicine and Pharmacy,” CRC Press, Boca Raton, 1992; Mathiowitz and Langer, J. *Controlled Release* 5:13-22, 1987; Mathiowitz et al., *Reactive Polymers* 6:275-283, 1987; Mathiowitz et al., *J. Appl. Polymer Sci.* 35:755-774, 1988; each of which is incorporated herein by reference).
+
+If the particles prepared by any of the above methods have a size range outside of the desired range, the particles can be sized, for example, using a sieve. The particle may also be coated. In certain embodiments, the particles are coated with a targeting agent. In other embodiments, the particles are coated to achieve desirable surface properties (e.g., a particular charge).
+
+In certain embodiments, the present invention provides a nanoparticle comprising an inventive lipidoid and one or more agents to be delivered. In certain embodiments, the agent is a polynucleotide, drug, protein or peptide, small molecule, or gas. In certain embodiments, the agent is RNA (e.g. mRNA, RNAi, dsRNA, siRNA, shRNA, miRNA, or antisense RNA). In certain embodiments, the nanoparticle further comprises cholesterol or a derivative thereof, such as 3β[N—(N′,N′-dimethylaminoethane)-carbamoyl]cholesterol (DC-cholesterol). In certain embodiments, the nanoparticle further comprises a PEG-based material. In certain embodiments, the PEG-based material is PEG-ceramide, PEG-DMG, PEG-PE, poloxamer, or DSPE carboxy PEG. For instance, in certain embodiments, the PEG-based material is C14 PEG2000 DMG, C15 PEG2000 DMG, C16 PEG2000 DMG, C18 PEG2000 DMG, C14 PEG 2000 ceramide, C15 PEG2000 ceramide, C16 PEG2000 ceramide, C18 PEG2000 ceramide, C14 PEG2000 PE, C15 PEG2000 PE, C16 PEG2000 PE, C18 PEG2000 PE, C14 PEG350 PE, C14 PEG5000 PE, poloxamer F-127, poloxamer F-68, poloxamer L-64, or DSPE carboxy PEG. In certain embodiments, the nanoparticle further comprises a lipid. For example, in certain embodiments, the nanoparticle further comprises DSPC, DOPC, or DOPE. In certain embodiments, the nanoparticle comprises a lipidoid, an agent (e.g., RNA), a lipid, cholesterol or a derivative thereof, and a PEG-based material.
+
+Micelles, Liposomes, and Lipoplexes
+
+Lipidoids described herein may also be used to prepare micelles or liposomes. In addition, any agent may be included in a micelle or liposome. Micelles and liposomes are particularly useful in delivering hydrophobic agents such as hydrophobic small molecules. When the micelle or liposome is complexed with (e.g., encapsulates or covers) a polynucleotide it is referred to as a “lipoplex.” Many techniques for preparing micelles, liposomes, and lipoplexes are known in the art, and any method may be used with the inventive lipidoids to make micelles and liposomes.
+
+In certain embodiments, liposomes (lipid vesicles) are formed through spontaneous assembly. In other embodiments, liposomes are formed when thin lipid films or lipid cakes are hydrated and stacks of lipid crystalline bilayers become fluid and swell. The hydrated lipid sheets detach during agitation and self-close to form large, multilamellar vesicles (LMV). This prevents interaction of water with the hydrocarbon core of the bilayers at the edges. Once these particles have formed, reducing the size of the particle can be modified through input of sonic energy (sonication) or mechanical energy (extrusion). See Walde, P. “Preparation of Vesicles (Liposomes)” In *Encylopedia of Nanoscience and Nanotechnology*; Nalwa, H. S. Ed. American Scientific Publishers: Los Angeles, 2004; Vol. 9, pp. 43-79; Szoka et al. “Comparative Properties and Methods of Preparation of Lipid Vesicles (Liposomes)” *Ann. Rev. Biophys. Bioeng.* 9:467-508, 1980; each of which is incorporated herein. The preparation of lipsomes involves preparing the lipid for hydration, hydrating the lipid with agitation, and sizing the vesicles to achieve a homogenous distribution of liposomes. Lipids are first dissolved in an organic solvent to assure a homogeneous mixture of lipids. The solvent is then removed to form a lipid film. This film is thoroughly dried to remove residual organic solvent by placing the vial or flask on a vacuum pump overnight. Hydration of the lipid film/cake is accomplished by adding an aqueous medium to the container of dry lipid and agitating the mixture. Disruption of LMV suspensions using sonic energy typically produces small unilamellar vesicles (SUV) with diameters in the range of 15-50 nm. Lipid extrusion is a technique in which a lipid suspension is forced through a polycarbonate filter with a defined pore size to yield particles having a diameter near the pore size of the filter used. Extrusion through filters with 100 nm pores typically yields large, unilamellar vesicles (LUV) with a mean diameter of 120-140 nm.
+
+In certain embodiments, liposomes are formed comprising an inventive lipid, a PEG-based material, cholesterol or a derivative thereof, and a polynucleotide. In certain embodiments, the polynucleotide is an RNA molecule (e.g., an siRNA). In other embodiments, the polynucleotide is a DNA molecule. In certain embodiments, the amount of lipidoid in the liposome ranges from 30-80 mol %, 40-70 mol %, or 60-70 mol %. In certain embodiments, the liposome comprises a PEG-based material. In certain embodiments, the amount of PEG-based material in the liposomes ranges from 5-20 mol %, 10-15 mol %, or 10 mol %. In certain embodiments, the liposome comprises cholesterol or a derivative thereof. In certain embodiments, the amount of cholesterol in the liposome ranges from 5-25 mol %, 10-20 mol %, or 15 mol %. In certain embodiments, the amount of cholesterol in the liposome is approximately 20 mol %. These liposomes may be prepared using any method known in the art. In certain embodiments (e.g., liposomes containing RNAi molecules), the liposomes are prepared by lipid extrusion.
+
+Certain lipidoids can spontaneously self assemble around certain molecules, such as DNA and RNA, to form liposomes. In some embodiments, the application is the delivery of polynucleotides. Use of these lipidoids allows for simple assembly of liposomes without the need for additional steps or devices such as an extruder.
+
+The following scientific papers described other methods for preparing liposomes and micelles: Narang et al. “Cationic Lipids with Increased DNA Binding Affinity for Nonviral Gene Transfer in Dividing and Nondividing Cells” *Bioconjugate Chem.* 16:156-68, 2005; Hofland et al. “Formation of stable cationic lipid/DNA complexes for gene transfer” *Proc. Natl. Acad. Sci. USA* 93:7305-7309, July 1996; Byk et al. “Synthesis, Activity, and Structure—Activity Relationship Studies of Novel Cationic Lipids for DNA Transfer” *J. Med. Chem.* 41(2):224-235, 1998; Wu et al. “Cationic Lipid Polymerization as a Novel Approach for Constructing New DNA Delivery Agents” *Bioconjugate Chem.* 12:251-57, 2001; Lukyanov et al. “Micelles from lipid derivatives of water-soluble polymers as delivery systems for poorly soluble drugs” *Advanced Drug Delivery Reviews* 56:1273-1289, 2004; Tranchant et al. “Physicochemical optimisation of plasmid delivery by cationic lipids” *J. Gene Med.* 6:S24-S35, 2004; van Balen et al. “Liposome/Water Lipophilicity: Methods, Information Content, and Pharmaceutical Applications” *Medicinal Research Rev.* 24(3):299-324, 2004; each of which is incorporated herein by reference.
+
+Agent
+
+The agents to be delivered by the system of the present invention may be therapeutic, diagnostic, or prophylactic agents. Any chemical compound to be administered to an individual may be delivered using the inventive inventive complexes, picoparticles, nanoparticles, microparticles, micelles, or liposomes. The agent may be a small molecule, organometallic compound, nucleic acid, protein, peptide, polynucleotide, targeting agent, an isotopically labeled chemical compound, drug, vaccine, immunological agent, etc.
+
+In certain embodiments, the agents are organic compounds with pharmaceutical activity. In another embodiment of the invention, the agent is a clinically used drug. In a particularly preferred embodiment, the drug is an antibiotic, chemotherapeutic, anti-viral agent, anesthetic, steroidal agent, anti-inflammatory agent, anti-neoplastic agent, antigen, vaccine, antibody, decongestant, antihypertensive, sedative, birth control agent, progestational agent, anti-cholinergic, analgesic, anti-depressant, anti-psychotic, β-adrenergic blocking agent, diuretic, cardiovascular active agent, vasoactive agent, non-steroidal anti-inflammatory agent, nutritional agent, etc.
+
+In certain embodiments, the agent to be delivered may be a mixture of agents.
+
+Diagnostic agents include gases; metals; commercially available imaging agents used in positron emissions tomography (PET), computer assisted tomography (CAT), single photon emission computerized tomography, x-ray, fluoroscopy, and magnetic resonance imaging (MRI); and contrast agents. Examples of suitable materials for use as contrast agents in MRI include gadolinium chelates, as well as iron, magnesium, manganese, copper, and chromium. Examples of materials useful for CAT and x-ray imaging include iodine-based materials. Prophylactic agents include, but are not limited to, antibiotics, nutritional supplements, and vaccines. Vaccines may comprise isolated proteins or peptides, inactivated organisms and viruses, dead organisms and viruses, genetically altered organisms or viruses, and cell extracts. Prophylactic agents may be combined with interleukins, interferon, cytokines, and adjuvants such as cholera toxin, alum, Freund's adjuvant, etc. Prophylactic agents include antigens of such bacterial organisms as *Streptococccus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyrogenes, Corynebacterium diphtheriae, Listeria monocytogenes, Bacillus anthracia, Clostridium tetani, Clostridium botulinum, Clostridium perfringens, Neisseria meningitidis, Neisseria gonorrhoeae, Streptococcus mutans, Pseudomonas aeruginosa, Salmonella typhi, Haemophilus parainfluenzae, Bordetella pertussis, Francisella tularensis, Yersinia pestis, Vibrio cholerae, Legionella pneumophila, Mycobacterium tuberculosis, Mycobacterium leprae, Treponema pallidum, Leptospirosis interrogans, Borrelia burgdorferi, Camphylobacter jejuni*, and the like; antigens of such viruses as smallpox, influenza A and B, respiratory syncytial virus, parainfluenza, measles, HIV, varicella-zoster,  herpes simplex  1 and 2, cytomegalovirus, Epstein-Barr virus, rotavirus, rhinovirus, adenovirus, papillomavirus, poliovirus, mumps, rabies, rubella, coxsackieviruses, equine encephalitis, Japanese encephalitis, yellow fever, Rift Valley fever, hepatitis A, B, C, D, and E virus, and the like; antigens of fungal, protozoan, and parasitic organisms such as *Cryptococcus neoformans, Histoplasma capsulatum, Candida albicans, Candida tropicalis, Nocardia asteroides, Rickettsia ricketsii, Rickettsia typhi, Mycoplasma pneumoniae, Chlamydial psittaci, Chlamydial trachomatis, Plasmodium falciparum, Trypanosoma brucei, Entamoeba histolytica, Toxoplasma gondii, Trichomonas vaginalis, Schistosoma mansoni*, and the like. These antigens may be in the form of whole killed organisms, peptides, proteins, glycoproteins, carbohydrates, or combinations thereof.
+
+Targeting Agents
+
+The inventive lipidoids, and the complexes, liposomes, micelles, microparticles, picoparticles and nanoparticles prepared therefrom, may be modified to include targeting agents since it is often desirable to target a particular cell, collection of cells, or tissue. A variety of targeting agents that direct pharmaceutical compositions to particular cells are known in the art (see, for example, Cotten et al. *Methods Enzym.* 217:618, 1993; incorporated herein by reference). The targeting agents may be included throughout the particle or may be only on the surface. The targeting agent may be a protein, peptide, carbohydrate, glycoprotein, lipid, small molecule, etc. The targeting agent may be used to target specific cells or tissues or may be used to promote endocytosis or phagocytosis of the particle. Examples of targeting agents include, but are not limited to, antibodies, fragments of antibodies, low-density lipoproteins (LDLs), transferrin, asialycoproteins, gp120 envelope protein of the human immunodeficiency virus (HIV), carbohydrates, receptor ligands, sialic acid, etc. If the targeting agent is included throughout the particle, the targeting agent may be included in the mixture that is used to form the particles. If the targeting agent is only on the surface, the targeting agent may be associated with (i.e., by covalent, hydrophobic, hydrogen bonding, van der Waals, or other interactions) the formed particles using standard chemical techniques.
+
+Compositions
+
+In certain embodiments, an inventive lipidoid is a component of a composition which may be useful in a variety of medical and non-medical applications. For example, pharmaceutical compositions comprising an inventive lipidoid may be useful in the delivery of an effective amount of an agent to a subject in need thereof. Nutraceutical compositions comprising an inventive lipidoid may be useful in the delivery of an effective amount of a nutraceutical, e.g., a dietary supplement, to a subject in need thereof. Cosmetic compositions comprising an inventive lipidoid may be formulated as a cream, ointment, balm, paste, film, or liquid, etc., and may be useful in the application of make-up, hair products, and materials useful for personal hygiene, etc.
+
+In certain embodiments, the composition comprises one or more lipidoids of the present invention. “One or more lipidoids” refers to one or more different types of lipidoids included in the composition, and encompasses 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 or more different types of lipidoids.
+
+In certain embodiments, the inventive lipidoids are useful in compositions, either for delivery of an effective amount of an agent to a subject in need thereof (e.g., a pharmaceutical composition, a cosmetic composition) or for use as an excipient. For example, cosmetic compositions may further use the inventive lipidoids as excipients rather than as a delivery system encapsulating an agent to be delivered. In certain embodiments, the composition is a pharmaceutical composition. In certain embodiments, the composition is a cosmetic composition.
+
+In certain embodiments, the composition further comprises an agent, as described herein. For example, in certain embodiments, the agent is a small molecule, organometallic compound, nucleic acid, protein, peptide, polynucleotide, metal, targeting agent, an isotopically labeled chemical compound, drug, vaccine, or immunological agent. In certain embodiments, the agent is a polynucleotide. In certain embodiments, the polynucleotide is DNA or RNA. In certain embodiments, the RNA is mRNA, RNAi, dsRNA, siRNA, shRNA, miRNA, or antisense RNA.
+
+In certain embodiments, the polynucleotide and the one or more lipidoids are not covalently attached.
+
+In certain embodiments, the one or more lipidoids are in the form of a particle. In certain embodiments, the particle is a nanoparticle or microparticle. In certain embodiments, the one or more conjugated lipidoids are in the form of liposomes or micelles. It is understood that, in certain embodiments, these lipidoids self-assemble to provide a particle, micelle or liposome. In certain embodiments, the particle, liposome, or micelle encapsulates an agent. The agent to be delivered by the particles, liposomes, or micelles may be in the form of a gas, liquid, or solid. The inventive lipidoids may be combined with polymers (synthetic or natural), surfactants, cholesterol, carbohydrates, proteins, lipids etc. to form the particles. These particles may be combined with an excipient to form pharmaceutical and cosmetic compositions.
+
+Once the complexes, micelles, liposomes, or particles have been prepared, they may be combined with one or more excipients to form a composition that is suitable to administer to animals including humans.
+
+As would be appreciated by one of skill in this art, the excipients may be chosen based on the route of administration as described below, the agent being delivered, time course of delivery of the agent, etc.
+
+In certain embodiments, provided is a composition comprising an inventive lipidoids and an excipient. As used herein, the term “excipient” means a non-toxic, inert solid, semi-solid or liquid filler, diluent, encapsulating material or formulation auxiliary of any type. Some examples of materials which can serve as excipients include, but are not limited to, sugars such as lactose, glucose, and sucrose; starches such as corn starch and potato starch; cellulose and its derivatives such as sodium carboxymethyl cellulose, ethyl cellulose, and cellulose acetate; powdered tragacanth; malt; gelatin; talc; excipients such as cocoa butter and suppository waxes; oils such as peanut oil, cottonseed oil; safflower oil; sesame oil; olive oil; corn oil and soybean oil; glycols such as propylene glycol; esters such as ethyl oleate and ethyl laurate; agar; detergents such as Tween 80; buffering agents such as magnesium hydroxide and aluminum hydroxide; alginic acid; pyrogen-free water; isotonic saline; Ringer's solution; ethyl alcohol; and phosphate buffer solutions, as well as other non-toxic compatible lubricants such as sodium lauryl sulfate and magnesium stearate, as well as coloring agents, releasing agents, coating agents, sweetening, flavoring and perfuming agents, preservatives and antioxidants can also be present in the composition, according to the judgment of the formulator. The compositions of this invention can be administered to humans and/or to animals, orally, rectally, parenterally, intracisternally, intravaginally, intranasally, intraperitoneally, topically (as by powders, creams, ointments, or drops), bucally, or as an oral or nasal spray.
+
+Liquid dosage forms for oral administration include emulsions, microemulsions, solutions, suspensions, syrups, and elixirs. In addition to the active ingredients (i.e., microparticles, nanoparticles, liposomes, micelles, polynucleotide/lipid complexes), the liquid dosage forms may contain inert diluents commonly used in the art such as, for example, water or other solvents, solubilizing agents and emulsifiers such as ethyl alcohol, isopropyl alcohol, ethyl carbonate, ethyl acetate, benzyl alcohol, benzyl benzoate, propylene glycol, 1,3-butylene glycol, dimethylformamide, oils (in particular, cottonseed, groundnut, corn, germ, olive, castor, and sesame oils), glycerol, tetrahydrofurfuryl alcohol, polyethylene glycols and fatty acid esters of sorbitan, and mixtures thereof. Besides inert diluents, the oral compositions can also include adjuvants such as wetting agents, emulsifying and suspending agents, sweetening, flavoring, and perfuming agents.
+
+Injectable preparations, for example, sterile injectable aqueous or oleaginous suspensions may be formulated according to the known art using suitable dispersing or wetting agents and suspending agents. The sterile injectable preparation may also be a sterile injectable solution, suspension, or emulsion in a nontoxic parenterally acceptable diluent or solvent, for example, as a solution in 1,3-butanediol. Among the acceptable vehicles and solvents that may be employed are water, Ringer's solution, U.S.P. and isotonic sodium chloride solution. In addition, sterile, fixed oils are conventionally employed as a solvent or suspending medium. For this purpose any bland fixed oil can be employed including synthetic mono- or diglycerides. In addition, fatty acids such as oleic acid are used in the preparation of injectables. In certain embodiments, the particles are suspended in a carrier fluid comprising 1% (w/v) sodium carboxymethyl cellulose and 0.1% (v/v) Tween 80.
+
+The injectable formulations can be sterilized, for example, by filtration through a bacteria-retaining filter, or by incorporating sterilizing agents in the form of sterile solid compositions which can be dissolved or dispersed in sterile water or other sterile injectable medium prior to use.
+
+Compositions for rectal or vaginal administration are preferably suppositories which can be prepared by mixing the particles with suitable non-irritating excipients or carriers such as cocoa butter, polyethylene glycol, or a suppository wax which are solid at ambient temperature but liquid at body temperature and therefore melt in the rectum or vaginal cavity and release the particles.
+
+Solid dosage forms for oral administration include capsules, tablets, pills, powders, and granules. In such solid dosage forms, the particles are mixed with at least one inert, pharmaceutically acceptable excipient or carrier such as sodium citrate or dicalcium phosphate and/or a) fillers or extenders such as starches, lactose, sucrose, glucose, mannitol, and silicic acid, b) binders such as, for example, carboxymethylcellulose, alginates, gelatin, polyvinylpyrrolidinone, sucrose, and acacia, c) humectants such as glycerol, d) disintegrating agents such as agar-agar, calcium carbonate, potato or tapioca starch, alginic acid, certain silicates, and sodium carbonate, e) solution retarding agents such as paraffin, f) absorption accelerators such as quaternary ammonium compounds, g) wetting agents such as, for example, cetyl alcohol and glycerol monostearate, h) absorbents such as kaolin and bentonite clay, and i) lubricants such as talc, calcium stearate, magnesium stearate, solid polyethylene glycols, sodium lauryl sulfate, and mixtures thereof. In the case of capsules, tablets, and pills, the dosage form may also comprise buffering agents.
+
+Solid compositions of a similar type may also be employed as fillers in soft and hard-filled gelatin capsules using such excipients as lactose or milk sugar as well as high molecular weight polyethylene glycols and the like.
+
+The solid dosage forms of tablets, dragees, capsules, pills, and granules can be prepared with coatings and shells such as enteric coatings and other coatings well known in the pharmaceutical formulating art. They may optionally contain opacifying agents and can also be of a composition that they release the active ingredient(s) only, or preferentially, in a certain part of the intestinal tract, optionally, in a delayed manner Examples of embedding compositions which can be used include polymeric substances and waxes.
+
+Solid compositions of a similar type may also be employed as fillers in soft and hard-filled gelatin capsules using such excipients as lactose or milk sugar as well as high molecular weight polyethylene glycols and the like.
+
+Dosage forms for topical or transdermal administration of an inventive pharmaceutical composition include ointments, pastes, creams, lotions, gels, powders, solutions, sprays, inhalants, or patches. The particles are admixed under sterile conditions with a pharmaceutically acceptable carrier and any needed preservatives or buffers as may be required. Ophthalmic formulation, ear drops, and eye drops are also contemplated as being within the scope of this invention.
+
+The ointments, pastes, creams, and gels may contain, in addition to the particles of this invention, excipients such as animal and vegetable fats, oils, waxes, paraffins, starch, tragacanth, cellulose derivatives, polyethylene glycols, silicones, bentonites, silicic acid, talc, and zinc oxide, or mixtures thereof.
+
+Powders and sprays can contain, in addition to the particles of this invention, excipients such as lactose, talc, silicic acid, aluminum hydroxide, calcium silicates, and polyamide powder, or mixtures of these substances. Sprays can additionally contain customary propellants such as chlorofluorohydrocarbons.
+
+Transdermal patches have the added advantage of providing controlled delivery of a compound to the body. Such dosage forms can be made by dissolving or dispensing the microparticles or nanoparticles in a proper medium. Absorption enhancers can also be used to increase the flux of the compound across the skin. The rate can be controlled by either providing a rate controlling membrane or by dispersing the particles in a polymer matrix or gel.
+
+Methods of Use
+
+In another aspect, provided are methods of using the inventive lipidoids, e.g., for the treatment of a disease, disorder or condition from which a subject suffers. It is contemplated that the inventive lipidoids will be useful in the treatment of a variety of diseases, disorders or conditions, especially as a system for delivering agents useful in the treatment of that particular disease, disorder or condition.
+
+For example, in one aspect, provided is a method of treating cancer comprising administering to a subject in need thereof an effective amount of a lipidoid of the present invention, or salt thereof, or a composition thereof. In certain embodiments, the method further comprises administering an anti-cancer agent. In certain embodiments, the lipidoid encapsulates the anti-cancer agent. In certain embodiments, the lipidoid and the anti-cancer agent form a particle (e.g., a nanoparticle, a microparticle, a micelle, a liposome, a lipoplex).
+
+A “subject” to which administration is contemplated includes, but is not limited to, humans (i.e., a male or female of any age group, e.g., a pediatric subject (e.g, infant, child, adolescent) or adult subject (e.g., young adult, middle-aged adult or senior adult)) and/or other non-human animals, for example mammals (e.g., primates (e.g., cynomolgus monkeys, rhesus monkeys); commercially relevant mammals such as cattle, pigs, horses, sheep, goats, cats, and/or dogs), birds (e.g., commercially relevant birds such as chickens, ducks, geese, and/or turkeys), reptiles, amphibians, and fish. In certain embodiments, the non-human animal is a mammal. The non-human animal may be a male or female and at any stage of development. A non-human animal may be a transgenic animal.
+
+As used herein, and unless otherwise specified, the terms “treat,” “treating” and “treatment” contemplate an action that occurs while a subject is suffering from the specified disease, disorder or condition, which reduces the severity of the disease, disorder or condition, or retards or slows the progression of the disease, disorder or condition (“therapeutic treatment”), and also contemplates an action that occurs before a subject begins to suffer from the specified disease, disorder or condition (“prophylactic treatment”).
+
+In general, the “effective amount” of a compound refers to an amount sufficient to elicit the desired biological response. As will be appreciated by those of ordinary skill in this art, the effective amount of a compound of the invention may vary depending on such factors as the desired biological endpoint, the pharmacokinetics of the compound, the disease being treated, the mode of administration, and the age, health, and condition of the subject. An effective amount encompasses therapeutic and prophylactic treatment.
+
+As used herein, and unless otherwise specified, a “therapeutically effective amount” of a compound is an amount sufficient to provide a therapeutic benefit in the treatment of a disease, disorder or condition, or to delay or minimize one or more symptoms associated with the disease, disorder or condition. A therapeutically effective amount of a compound means an amount of therapeutic agent, alone or in combination with other therapies, which provides a therapeutic benefit in the treatment of the disease, disorder or condition. The term “therapeutically effective amount” can encompass an amount that improves overall therapy, reduces or avoids symptoms or causes of disease or condition, or enhances the therapeutic efficacy of another therapeutic agent.
+
+As used herein, and unless otherwise specified, a “prophylactically effective amount” of a compound is an amount sufficient to prevent a disease, disorder or condition, or one or more symptoms associated with the disease, disorder or condition, or prevent its recurrence. A prophylactically effective amount of a compound means an amount of a therapeutic agent, alone or in combination with other agents, which provides a prophylactic benefit in the prevention of the disease, disorder or condition. The term “prophylactically effective amount” can encompass an amount that improves overall prophylaxis or enhances the prophylactic efficacy of another prophylactic agent.
+
+Exemplary cancers include, but are not limited to, acoustic neuroma, adenocarcinoma, adrenal gland cancer, anal cancer, angiosarcoma (e.g., lymphangiosarcoma, lymphangioendotheliosarcoma, hemangiosarcoma), appendix cancer, benign monoclonal gammopathy, biliary cancer (e.g., cholangiocarcinoma), bladder cancer, breast cancer (e.g., adenocarcinoma of the breast, papillary carcinoma of the breast, mammary cancer, medullary carcinoma of the breast), brain cancer (e.g., meningioma; glioma, e.g., astrocytoma, oligodendroglioma; medulloblastoma), bronchus cancer, carcinoid tumor, cervical cancer (e.g., cervical adenocarcinoma), choriocarcinoma, chordoma, craniopharyngioma, colorectal cancer (e.g., colon cancer, rectal cancer, colorectal adenocarcinoma), epithelial carcinoma, ependymoma, endotheliosarcoma (e.g., Kaposi's sarcoma, multiple idiopathic hemorrhagic sarcoma), endometrial cancer (e.g., uterine cancer, uterine sarcoma), esophageal cancer (e.g., adenocarcinoma of the esophagus, Barrett's adenocarinoma), Ewing sarcoma, eye cancer (e.g., intraocular melanoma, retinoblastoma), familiar hypereosinophilia, gall bladder cancer, gastric cancer (e.g., stomach adenocarcinoma), gastrointestinal stromal tumor (GIST), head and neck cancer (e.g., head and neck squamous cell carcinoma, oral cancer (e.g., oral squamous cell carcinoma (OSCC), throat cancer (e.g., laryngeal cancer, pharyngeal cancer, nasopharyngeal cancer, oropharyngeal cancer)), hematopoietic cancers (e.g., leukemia such as acute lymphocytic leukemia (ALL) (e.g., B-cell ALL, T-cell ALL), acute myelocytic leukemia (AML) (e.g., B-cell AML, T-cell AML), chronic myelocytic leukemia (CML) (e.g., B-cell CML, T-cell CML), and chronic lymphocytic leukemia (CLL) (e.g., B-cell CLL, T-cell CLL); lymphoma such as Hodgkin lymphoma (HL) (e.g., B-cell HL, T-cell HL) and non-Hodgkin lymphoma (NHL) (e.g., B-cell NHL such as diffuse large cell lymphoma (DLCL) (e.g., diffuse large B-cell lymphoma (DLBCL)), follicular lymphoma, chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL), mantle cell lymphoma (MCL), marginal zone B-cell lymphomas (e.g., mucosa-associated lymphoid tissue (MALT) lymphomas, nodal marginal zone B-cell lymphoma, splenic marginal zone B-cell lymphoma), primary mediastinal B-cell lymphoma, Burkitt lymphoma, lymphoplasmacytic lymphoma (i.e., “Waldenstrom's macroglobulinemia”), hairy cell leukemia (HCL), immunoblastic large cell lymphoma, precursor B-lymphoblastic lymphoma and primary central nervous system (CNS) lymphoma; and T-cell NHL such as precursor T-lymphoblastic lymphoma/leukemia, peripheral T-cell lymphoma (PTCL) (e.g., cutaneous T-cell lymphoma (CTCL) (e.g., mycosis fungiodes, Sezary syndrome), angioimmunoblastic T-cell lymphoma, extranodal natural killer T-cell lymphoma, enteropathy type T-cell lymphoma, subcutaneous panniculitis-like T-cell lymphoma, anaplastic large cell lymphoma); a mixture of one or more leukemia/lymphoma as described above; and multiple myeloma (MM)), heavy chain disease (e.g., alpha chain disease, gamma chain disease, mu chain disease), hemangioblastoma, inflammatory myofibroblastic tumors, immunocytic amyloidosis, kidney cancer (e.g., nephroblastoma a.k.a. Wilms' tumor, renal cell carcinoma), liver cancer (e.g., hepatocellular cancer (HCC), malignant hepatoma), lung cancer (e.g., bronchogenic carcinoma, small cell lung cancer (SCLC), non-small cell lung cancer (NSCLC), adenocarcinoma of the lung), leiomyosarcoma (LMS), mastocytosis (e.g., systemic mastocytosis), myelodysplastic syndrome (MDS), mesothelioma, myeloproliferative disorder (MPD) (e.g., polycythemia Vera (PV), essential thrombocytosis (ET), agnogenic myeloid metaplasia (AMM) a.k.a. myelofibrosis (MF), chronic idiopathic myelofibrosis, chronic myelocytic leukemia (CML), chronic neutrophilic leukemia (CNL), hypereosinophilic syndrome (HES)), neuroblastoma, neurofibroma (e.g., neurofibromatosis (NF) type 1 or type 2, schwannomatosis), neuroendocrine cancer (e.g., gastroenteropancreatic neuroendoctrine tumor (GEP-NET), carcinoid tumor), osteosarcoma, ovarian cancer (e.g., cystadenocarcinoma, ovarian embryonal carcinoma, ovarian adenocarcinoma), papillary adenocarcinoma, pancreatic cancer (e.g., pancreatic andenocarcinoma, intraductal papillary mucinous neoplasm (IPMN), Islet cell tumors), penile cancer (e.g., Paget's disease of the penis and scrotum), pinealoma, primitive neuroectodermal tumor (PNT), prostate cancer (e.g., prostate adenocarcinoma), rectal cancer, rhabdomyosarcoma, salivary gland cancer, skin cancer (e.g., squamous cell carcinoma (SCC), keratoacanthoma (KA), melanoma, basal cell carcinoma (BCC)), small bowel cancer (e.g., appendix cancer), soft tissue sarcoma (e.g., malignant fibrous histiocytoma (MFH), liposarcoma, malignant peripheral nerve sheath tumor (MPNST), chondrosarcoma, fibrosarcoma, myxosarcoma), sebaceous gland carcinoma, sweat gland carcinoma, synovioma, testicular cancer (e.g., seminoma, testicular embryonal carcinoma), thyroid cancer (e.g., papillary carcinoma of the thyroid, papillary thyroid carcinoma (PTC), medullary thyroid cancer), urethral cancer, vaginal cancer and vulvar cancer (e.g., Paget's disease of the vulva).
+
+Anti-cancer agents encompass biotherapeutic anti-cancer agents as well as chemotherapeutic agents.
+
+Exemplary biotherapeutic anti-cancer agents include, but are not limited to, interferons, cytokines (e.g., tumor necrosis factor, interferon α, interferon γ), vaccines, hematopoietic growth factors, monoclonal serotherapy, immunostimulants and/or immunodulatory agents (e.g., IL-1, 2, 4, 6, or 12), immune cell growth factors (e.g., GM-CSF) and antibodies (e.g. HERCEPTIN (trastuzumab), T-DM1, AVASTIN (bevacizumab), ERBITUX (cetuximab), VECTIBIX (panitumumab), RITUXAN (rituximab), BEXXAR (tositumomab)). Exemplary chemotherapeutic agents include, but are not limited to, anti-estrogens (e.g. tamoxifen, raloxifene, and megestrol), LHRH agonists (e.g. goscrclin and leuprolide), anti-androgens (e.g. flutamide and bicalutamide), photodynamic therapies (e.g. vertoporfin (BPD-MA), phthalocyanine, photosensitizer Pc4, and demethoxy-hypocrellin A (2BA-2-DMHA)), nitrogen mustards (e.g. cyclophosphamide, ifosfamide, trofosfamide, chlorambucil, estramustine, and melphalan), nitrosoureas (e.g. carmustine (BCNU) and lomustine (CCNU)), alkylsulphonates (e.g. busulfan and treosulfan), triazenes (e.g. dacarbazine, temozolomide), platinum containing compounds (e.g. cisplatin, carboplatin, oxaliplatin), vinca alkaloids (e.g. vincristine, vinblastine, vindesine, and vinorelbine), taxoids (e.g. paclitaxel or a paclitaxel equivalent such as nanoparticle albumin-bound paclitaxel (ABRAXANE), docosahexaenoic acid bound-paclitaxel (DHA-paclitaxel, Taxoprexin), polyglutamate bound-paclitaxel (PG-paclitaxel, paclitaxel poliglumex, CT-2103, XYOTAX), the tumor-activated prodrug (TAP) ANG 1005 (Angiopep-2 bound to three molecules of paclitaxel), paclitaxel-EC-1 (paclitaxel bound to the erbB2-recognizing peptide EC-1), and glucose-conjugated paclitaxel, e.g., 2′-paclitaxel methyl 2-glucopyranosyl succinate; docetaxel, taxol), epipodophyllins (e.g. etoposide, etoposide phosphate, teniposide, topotecan, 9-aminocamptothecin, camptoirinotecan, irinotecan, crisnatol, mytomycin C), anti-metabolites, DHFR inhibitors (e.g. methotrexate, dichloromethotrexate, trimetrexate, edatrexate), IMP dehydrogenase inhibitors (e.g. mycophenolic acid, tiazofurin, ribavirin, and EICAR), ribonuclotide reductase inhibitors (e.g. hydroxyurea and deferoxamine), uracil analogs (e.g. 5-fluorouracil (5-FU), floxuridine, doxifluridine, ratitrexed, tegafur-uracil, capecitabine), cytosine analogs (e.g. cytarabine (ara C), cytosine arabinoside, and fludarabine), purine analogs (e.g. mercaptopurine and Thioguanine), Vitamin D3 analogs (e.g. EB 1089, CB 1093, and KH 1060), isoprenylation inhibitors (e.g. lovastatin), dopaminergic neurotoxins (e.g. 1-methyl-4-phenylpyridinium ion), cell cycle inhibitors (e.g. staurosporine), actinomycin (e.g. actinomycin D, dactinomycin), bleomycin (e.g. bleomycin A2, bleomycin B2, peplomycin), anthracycline (e.g. daunorubicin, doxorubicin, pegylated liposomal doxorubicin, idarubicin, epirubicin, pirarubicin, zorubicin, mitoxantrone), MDR inhibitors (e.g. verapamil), Ca2+ ATPase inhibitors (e.g. thapsigargin), imatinib, thalidomide, lenalidomide, tyrosine kinase inhibitors (e.g., axitinib (AG013736), bosutinib (SKI-606), cediranib (RECENTIN™, AZD2171), dasatinib (SPRYCEL®, BMS-354825), erlotinib (TARCEVA®), gefitinib (IRESSA®), imatinib (Gleevec®, CGP57148B, STI-571), lapatinib (TYKERB®, TYVERB®), lestaurtinib (CEP-701), neratinib (HKI-272), nilotinib (TASIGNA®), semaxanib (semaxinib, SU5416), sunitinib (SUTENT®, SU11248), toceranib (PALLADIA®), vandetanib (ZACTIMA®, ZD6474), vatalanib (PTK787, PTK/ZK), trastuzumab (HERCEPTIN®), bevacizumab (AVASTIN®), rituximab (RITUXAN®), cetuximab (ERBITUX®), panitumumab (VECTIBIX®), ranibizumab (Lucentis®), nilotinib (TASIGNA®), sorafenib (NEXAVAR®), everolimus (AFINITOR®), alemtuzumab (CAMPATH®), gemtuzumab ozogamicin (MYLOTARG®), temsirolimus (TORISEL®), ENMD-2076, PCI-32765, AC220, dovitinib lactate (TKI258, CHIR-258), BIBW 2992 (TOVOK™), SGX523, PF-04217903, PF-02341066, PF-299804, BMS-777607, ABT-869, MP470, BIBF 1120 (VARGATEF®), AP24534, JNJ-26483327, MGCD265, DCC-2036, BMS-690154, CEP-11981, tivozanib (AV-951), OSI-930, MM-121, XL-184, XL-647, and/or XL228), proteasome inhibitors (e.g., bortezomib (VELCADE)), mTOR inhibitors (e.g., rapamycin, temsirolimus (CCI-779), everolimus (RAD-001), ridaforolimus, AP23573 (Ariad), AZD8055 (AstraZeneca), BEZ235 (Novartis), BGT226 (Norvartis), XL765 (Sanofi Aventis), PF-4691502 (Pfizer), GDC0980 (Genetech), SF1126 (Semafoe) and OSI-027 (OSI)), oblimersen, gemcitabine, carminomycin, leucovorin, pemetrexed, cyclophosphamide, dacarbazine, procarbizine, prednisolone, dexamethasone, campathecin, plicamycin, asparaginase, aminopterin, methopterin, porfiromycin, melphalan, leurosidine, leurosine, chlorambucil, trabectedin, procarbazine, discodermolide, carminomycin, aminopterin, and hexamethyl melamine
+
+EXAMPLES
+
+In order that the invention described herein may be more fully understood, the following examples are set forth. It should be understood that these examples are for illustrative purposes only and are not to be construed as limiting this invention in any manner.
+
+Lipidoid Synthesis
+
+Lipidoids were synthesized through the conjugate addition of alkyl-acrylates to amines. Amines were purchased from Sigma Aldrich (St. Louis, Mo.), Alfa Aesar, Acros Organics, and CHESS Organics. Acrylates were purchased from Scientific Polymer Products (Ontario, N.Y.) and Hampford Research, Inc. (Stratford, Conn.) Amines were combined with acrylates stoichiometrically in a glass scintillation vial and were stirred at 90° C. for either for 3 days. In vitro experiments were conducted with crude materials, and in vivo experiments were performed with lipidoids purified via a Teledyne Isco Chromatography system (Lincoln, Nebr.).
+
+Lipidoid Hydrolysis
+
+To a 25 ml round bottom flask was added 304O13 (0.250 g, 0.263 mmol, 1 equiv). For acidic hydrolysis, 10 ml of a solution of 6 N HCl was added to the flask to afford a cloudy heterogeneous solution. The reaction was heated to reflux to afford a clear, homogeneous solution and was stirred at reflux for 24 hours. For basic hydrolysis, 10 ml of a solution of KOH in EtOH/H2O (solution=5.61 g KOH in 47.5 ml EtOH w/2.5 ml distilled H2O) was added to the flask to afford a clear colorless solution. The reaction was heated to reflux and stirred for 41 h. Both acidic and basic reactions were cooled to room temperature and TLC analysis showed the presence of tridecanol (17.5% EtOAC/Hexanes) and the consumption of 304O13. Reactions were concentrated to dryness under reduced pressure and diluted with CDCl3. The basic reaction was filtered to remove excess KOH. Proton NMR analysis was performed in CDCl3. Proton nuclear magnetic resonance spectra were recorded with a Bruker Avance 400 spectrometer, are depicted in parts per million on the δ scale, and are referenced from the residual protium in the NMR solvent (CDCl3: δ 7.26 (CHCl3).
+
+Formulation of Lipid Nanoparticles
+
+Lipidoids were formulated into nanoparticles for all studies described in the Examples. Nanoparticles were formed by mixing lipidoids, cholesterol (Sigma Aldrich), DSPC (Avanti Polar Lipids, Alabaster, Ala.) and mPEG2000-DMG (MW 2660, gift from Alnylam Pharamceuticals, Cambridge, Mass.) at a molar ratio of 38.5:50:(11.5−X):X in a solution of 90% ethanol and 10% 10 mM sodium citrate (by volume). An siRNA solution was prepared by diluting siRNA in 10 mM sodium citrate such that the final weight ratio of total lipid (lipidoid+cholesterol+DSPC+PEG):siRNA was 10:1. Equal volumes of lipid solution and siRNA solution were rapidly mixed together using either a microfluidic device (Chen, D. et al. *J. Am. Chem. Soc.* 134, 120410134818007 (2012)) or by pipet to form nanoparticles. Particles were diluted in phosphate buffered saline (PBS, Invitrogen) and then dialyzed against PBS for 90 minutes in 3500 MWCO cassettes (Pierce/Thermo Scientific, Rockford, Ill.).
+
+In Vitro Transfection of Cell Lines with Lipid Nanoparticles
+
+HeLa cells stably modified to express both firefly and Renilla luciferase were maintained at 37° C. in high glucose Dulbecco's Modified Eagles Medium without phenol red (Invitrogen, Carlsbad, Calif.) supplemented with 10% fetal bovine serum (FBS, Invitrogen). 12-16 hours prior to transfection, cells were seeded in white 96-well plates at a density of 15,000 cells per well. Cells were transfected with a 40 nM concentration of anti-firefly luciferase siRNA (Dharmacon, Lafayette, Colo.) that had been formulated with lipidoids into nanoparticles. Firefly luciferase silencing was assessed with a Dual-Glo® Luciferase Assay kit (Promega, Madison, Wis.). Renilla luciferase activity served as a control. Data for certain lipidoids are shown in Table 1 below.
+
+| TABLE 1 |
+| --- |
+|  |
+| In vitro data |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | Relative |  |
+|  |  |  | Luciferase |
+|  | Amine | Lipid tail | Activity | Stdev |
+|  |  | | | | |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 98 | O10 | 0.52 | 0.02 |
+|  |  | O11 | 0.58 | 0.08 |
+|  |  | O12 | 0.63 | 0.06 |
+|  |  | O13 | 0.57 | 0.07 |
+|  |  | O14 | 0.61 | 0.07 |
+|  | 122 | O10 | 0.37 | 0.05 |
+|  |  | O11 | 0.61 | 0.04 |
+|  |  | O12 | 0.68 | 0.02 |
+|  |  | O13 | 0.75 | 0.03 |
+|  |  | O14 | 0.73 | 0.04 |
+|  | 123 | O10 | 0.73 | 0.05 |
+|  |  | O11 | 0.62 | 0.03 |
+|  |  | O12 | 0.70 | 0.03 |
+|  |  | O13 | 0.22 | 0.02 |
+|  |  | O14 | 0.68 | 0.14 |
+|  | 154 | O10 | 0.74 | 0.04 |
+|  |  | O11 | 0.72 | 0.04 |
+|  |  | O12 | 0.33 | 0.12 |
+|  |  | O13 | 0.87 | 0.06 |
+|  |  | O14 | 0.88 | 0.07 |
+|  | 174 | O10 | 0.40 | 0.01 |
+|  |  | O11 | 0.47 | 0.07 |
+|  |  | O12 | 0.69 | 0.05 |
+|  |  | O13 | 0.55 | 0.02 |
+|  |  | O14 | 0.24 | 0.01 |
+|  | 176 | O10 | 0.20 | 0.03 |
+|  |  | O11 | 0.17 | 0.01 |
+|  |  | O12 | 0.90 | 0.03 |
+|  |  | O13 | 0.79 | 0.03 |
+|  |  | O14 | 0.63 | 0.03 |
+|  | 191 | O10 | 0.71 | 0.09 |
+|  |  | O11 | 0.31 | 0.05 |
+|  |  | O12 | 0.32 | 0.03 |
+|  |  | O13 | 0.76 | 0.06 |
+|  |  | O14 | 0.34 | 0.08 |
+|  | 192 | O10 | 0.88 | 0.03 |
+|  |  | O11 | 0.49 | 0.04 |
+|  |  | O12 | 0.37 | 0.04 |
+|  |  | O13 | 0.80 | 0.04 |
+|  |  | O14 | 0.60 | 0.06 |
+|  | 193 | O10 | 0.55 | 0.06 |
+|  |  | O11 | 0.38 | 0.06 |
+|  |  | O12 | 0.28 | 0.03 |
+|  |  | O13 | 0.84 | 0.03 |
+|  |  | O14 | 0.55 | 0.04 |
+|  | 195 | O10 | 0.80 | 0.06 |
+|  |  | O11 | 0.75 | 0.04 |
+|  |  | O12 | 0.43 | 0.03 |
+|  |  | O13 | 0.28 | 0.02 |
+|  |  | O14 | 0.76 | 0.04 |
+|  | 196 | O10 | 0.92 | 0.03 |
+|  |  | O11 | 0.76 | 0.02 |
+|  |  | O12 | 0.85 | 0.09 |
+|  |  | O13 | 0.58 | 0.04 |
+|  |  | O14 | 0.38 | 0.05 |
+|  | 200 | O10 | 0.57 | 0.03 |
+|  |  | O11 | 0.64 | 0.03 |
+|  |  | O12 | 0.41 | 0.03 |
+|  |  | O13 | 0.53 | 0.05 |
+|  |  | O14 | 0.36 | 0.01 |
+|  | 205 | O10 | 0.67 | 0.04 |
+|  |  | O11 | 0.68 | 0.03 |
+|  |  | O12 | 0.53 | 0.05 |
+|  |  | O13 | 0.72 | 0.04 |
+|  |  | O14 | 0.43 | 0.02 |
+|  | 217 | O10 | NA | NA |
+|  |  | O11 | NA | NA |
+|  |  | O12 | 0.22 | 0.03 |
+|  |  | O13 | 0.33 | 0.05 |
+|  |  | O14 | NA | NA |
+|  | 218 | O10 | 0.91 | 0.04 |
+|  |  | O11 | 0.90 | 0.06 |
+|  |  | O12 | 0.80 | 0.03 |
+|  |  | O13 | 0.41 | 0.06 |
+|  |  | O14 | 0.57 | 0.08 |
+|  | 232 | O10 | 0.92 | 0.05 |
+|  |  | O11 | 0.90 | 0.07 |
+|  |  | O12 | 0.83 | 0.04 |
+|  |  | O13 | 0.39 | 0.05 |
+|  |  | O14 | 0.68 | 0.02 |
+|  | 235 | O10 | 0.85 | 0.10 |
+|  |  | O11 | 0.85 | 0.08 |
+|  |  | O12 | 0.85 | 0.11 |
+|  |  | O13 | 0.42 | 0.03 |
+|  |  | O14 | 0.72 | 0.03 |
+|  | 302 | O10 | 0.64 | 0.01 |
+|  |  | O11 | 0.64 | 0.03 |
+|  |  | O12 | 0.64 | 0.03 |
+|  |  | O13 | 0.34 | 0.05 |
+|  |  | O14 | 0.36 | 0.09 |
+|  | 303 | O10 | 0.07 | 0.01 |
+|  |  | O11 | 0.78 | 0.04 |
+|  |  | O12 | 0.40 | 0.07 |
+|  |  | O13 | 0.89 | 0.05 |
+|  |  | O14 | 0.89 | 0.08 |
+|  | 304 | O10 | 0.86 | 0.07 |
+|  |  | O11 | 0.45 | 0.02 |
+|  |  | O12 | 0.28 | 0.01 |
+|  |  | O13 | 0.08 | 0.01 |
+|  |  | O14 | 0.53 | 0.01 |
+|  | 306 | O10 | 0.13 | 0.02 |
+|  |  | O11 | 0.14 | 0.02 |
+|  |  | O12 | 0.09 | 0.01 |
+|  |  | O13 | 0.10 | 0.02 |
+|  |  | O14 | 0.08 | 0.01 |
+|  | 313 | O10 | 0.37 | 0.02 |
+|  |  | O11 | 0.32 | 0.02 |
+|  |  | O12 | 0.21 | 0.01 |
+|  |  | O13 | 0.23 | 0.04 |
+|  |  | O14 | 0.63 | 0.05 |
+|  | 315 | O10 | 0.98 | 0.08 |
+|  |  | O11 | 0.89 | 0.09 |
+|  |  | O12 | 0.30 | 0.01 |
+|  |  | O13 | 0.65 | 0.03 |
+|  |  | O14 | 0.80 | 0.04 |
+|  | 347 | O10 | 0.68 | 0.04 |
+|  |  | O11 | 0.57 | 0.02 |
+|  |  | O12 | 0.17 | 0.06 |
+|  |  | O13 | 0.55 | 0.07 |
+|  |  | O14 | 0.17 | 0.06 |
+|  | 366 | O10 | 0.50 | 0.09 |
+|  |  | O11 | 0.38 | 0.08 |
+|  |  | O12 | 0.38 | 0.04 |
+|  |  | O13 | 0.59 | 0.08 |
+|  |  | O14 | 0.55 | 0.11 |
+|  | 371 | O10 | 0.85 | 0.01 |
+|  |  | O11 | 0.40 | 0.01 |
+|  |  | O12 | 0.48 | 0.02 |
+|  |  | O13 | 0.76 | 0.04 |
+|  |  | O14 | 0.39 | 0.01 |
+|  | 500 | O10 | 0.14 | 0.03 |
+|  |  | O11 | 0.09 | 0.03 |
+|  |  | O12 | 0.06 | 0.01 |
+|  |  | O13 | 0.07 | 0.01 |
+|  |  | O14 | 0.02 | 0.00 |
+|  | 501 | O10 | 0.37 | 0.02 |
+|  |  | O11 | 0.37 | 0.04 |
+|  |  | O12 | 0.22 | 0.04 |
+|  |  | O13 | 0.24 | 0.03 |
+|  |  | O14 | 0.20 | 0.08 |
+|  | 502 | O10 | 0.18 | 0.03 |
+|  |  | O11 | 0.12 | 0.01 |
+|  |  | O12 | 0.08 | 0.01 |
+|  |  | O13 | 0.09 | 0.01 |
+|  |  | O14 | 0.08 | 0.02 |
+|  | 503 | O10 | 0.39 | 0.05 |
+|  |  | O11 | 0.39 | 0.06 |
+|  |  | O12 | 0.33 | 0.07 |
+|  |  | O13 | 0.07 | 0.00 |
+|  |  | O14 | 0.12 | 0.04 |
+|  |  | | | | |
+
+In Vivo Gene Silencing
+
+All animal experiments were conducted using institutionally-approved protocols. Female C57BL/6 mice (Charles River Laboratories, Wilmington, Mass.) received injections through the lateral tail vein injections of PBS (negative control), or lipidoid nanoparticles containing either non-targeting siRNA (negative control) or anti-Factor VII siRNA diluted in PBS at a volume of 0.01 ml/g. The sequence of the siFVII, provided by Alnylam Pharmaceuticals, was:
+
+|  |  |
+| --- | --- |
+|  | (SEQ ID NO.: 1) |
+|  | sense: 5′-GGAucAucucAAGucuuAcT\*T-3′ |
+|  |  |
+|  | (SEQ ID NO.: 2) |
+|  | antisense: 5′-GuAAGAcuuGAGAuGAuccT\*T-3′ |
+
+where 2′-fluoro-modified nucleotides are in lower case and phosphorothioate linkages are represented by asterisks. Two days post-injection, a 100 ul blood sample was obtained from mice and centrifuged at 13,000 rpm in serum separator tubes (Becton Dickinson). Serum levels of Factor VII were analyzed using a Biophen FVII assay kit as described previously (Aniara Corporation, Mason, Ohio) Semple, S. C. et al. *Nature Biotechnology* 1-7 (2010). Results shown in Table 2.
+
+| TABLE 2 |
+| --- |
+|  |
+| Original Library FVII Activity Data |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 5 mg/kg | 2 mg/kg | 0.5 mg/kg | 0.1 mg/kg |
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Rela- |  | Rela- |  | Rela- |  | Rela- |  |
+|  | tive | Stan- | tive | Stan- | tive | Stan- | tive | Stan- |
+|  | FVII | dard | FVII | dard | FVII | dard | FVII | dard |
+| Lip- | Ac- | Devi- | Ac- | Devi- | Ac- | Devi- | Ac- | Devi- |
+| idoid | tivity | ation | tivity | ation | tivity | ation | tivity | ation |
+|  | | | | | | | | |
+| 64O14 | 0.92 | 0.05 |  |  |  |  |  |  |
+| 68O10 | 0.91 | 0.20 |
+| 68O11 | 1.03 | 0.11 |
+| 77O13 | 0.85 | 0.10 |
+| 77O14 | 0.74 | 0.02 |
+| 80O13 | 0.66 | 0.23 |
+| 81O13 | 0.43 | 0.18 |
+| 86O12 | 0.87 | 0.07 |
+| 87O13 | 0.77 | 0.03 |
+| 94O14 | 0.13 | 0.06 |
+| 99O11 | 0.53 | 0.07 |
+| 109O11 | 0.85 | 0.05 |
+| 109O12 | 0.82 | 0.06 |
+| 109O13 | 0.38 | 0.09 |
+| 110O10 | 0.35 | 0.11 |
+| 110O13 | 0.75 | 0.07 |
+| 113O10 | 0.15 | 0.06 |
+| 113O11 | 0.57 | 0.20 |
+| 113O12 | 0.01 | 0.00 | 0.09 | 0.10 | 0.49 | 0.08 | 0.59 | 0.08 |
+| 113O13 | 0.00 | 0.00 | 0.00 | 0.00 | 0.04 | 0.11 | 0.48 | 0.12 |
+| 113O14 | 0.75 | 0.14 |
+| 120O11 | 0.93 | 0.04 |
+| 120O12 | 0.88 | 0.15 |
+| 120O13 | 0.92 | 0.08 |
+| 120O14 | 0.79 | 0.05 |
+| 122O10 | 0.13 | 0.06 |
+| 122O12 | 0.82 | 0.06 |
+| 123O12 | 0.93 | 0.07 |
+| 123O13 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 | 0.22 | 0.86 | 0.13 |
+| 134O13 | 0.89 | 0.16 |
+| 144O13 | 0.93 | 0.17 |
+| 154O12 | 0.99 | 0.11 |
+| 156O11 | 0.77 | 0.09 |
+| 156O12 | 1.06 | 0.06 |
+| 158O14 | 0.91 | 0.04 |
+| 159O14 | 0.80 | 0.01 |
+| 161O14 | 0.85 | 0.05 |
+| 164O14 | 0.90 | 0.08 |
+| 166O10 | 0.99 | 0.03 |
+| 166O14 | 0.83 | 0.08 |
+| 191O11 | 0.61 | 0.19 |
+| 191O12 | 0.80 | 0.19 |
+| 191O14 | 0.61 | 0.10 |
+| 193O10 | 0.70 | 0.12 |
+| 193O11 | 0.61 | 0.13 |
+| 193O12 | 0.70 | 0.09 |
+| 195O12 | 0.43 | 0.07 |
+| 195O13 | 0.56 | 0.04 |
+| 196O13 | 0.80 | 0.01 |
+| 196O14 | 0.82 | 0.06 |
+| 200O10 | 0.56 | 0.17 |
+| 200O11 | 0.67 | 0.07 |
+| 200O12 | 0.62 | 0.00 |
+| 200O13 | 0.40 | 0.10 |
+| 200O14 | 0.91 | 0.20 |
+| 205O12 | 0.78 | 0.10 |
+| 205O14 | 0.83 | 0.09 |
+| 217O12 | 0.58 | 0.13 |
+| 217O13 | 0.02 | 0.01 | 0.33 | 0.28 | 0.85 | 0.13 | 0.92 | 0.12 |
+| 218O13 | 0.73 | 0.16 |
+| 219O13 | 0.00 | 0.00 |
+| 235O13 | 0.39 | 0.07 |
+| 25O13 | 0.25 | 0.23 |
+| 302O13 | 1.03 | 0.22 |
+| 302O14 | 0.84 | 0.29 |
+| 303O10 | 0.95 | 0.26 |
+| 303O12 | 0.01 | 0.01 | 0.20 | 0.09 | 0.91 | 0.04 | 0.95 | 0.05 |
+| 304O11 | 0.57 | 0.02 |
+| 304O12 | 0.81 | 0.24 |
+| 304O13 | 0.01 | 0.00 | 0.02 | 0.01 | 0.23 | 0.06 | 0.54 | 0.26 |
+| 304O14 | 0.58 | 0.13 |
+| 305O12 | 0.75 | 0.11 |
+| 305O13 | 0.00 | 0.00 | 0.06 | 0.04 | 0.25 | 0.06 | 0.96 | 0.17 |
+| 306O10 | 0.00 | 0.00 | 0.00 | 0.01 | 0.23 | 0.07 | 0.69 | 0.13 |
+| 306O11 | 0.02 | 0.01 | 0.00 | 0.00 | 0.40 | 0.15 | 0.59 | 0.17 |
+| 306O12 | 0.00 | 0.00 | 0.00 | 0.00 | 0.20 | 0.15 | 0.37 | 0.02 |
+| 306O13 | 0.00 | 0.00 | 0.00 | 0.01 | 0.04 | 0.07 | 0.71 | 0.14 |
+| 306O14 | 0.85 | 0.05 |
+| 313O10 | 0.00 | 0.00 | 0.21 | 0.11 | 0.74 | 0.10 | 1.04 | 0.13 |
+| 313O11 | 0.01 | 0.02 | 0.38 | 0.16 | 0.75 | 0.05 | 0.73 | 0.07 |
+| 313O12 | 0.01 | 0.04 | 0.52 | 0.25 | 0.89 | 0.33 | 0.95 | 0.26 |
+| 313O13 | 0.01 | 0.01 | 0.09 | 0.04 | 0.09 | 0.08 | 0.86 | 0.24 |
+| 313O14 | 0.67 | 0.04 |
+| 315O12 | 0.99 | 0.39 |
+| 31O14 | 0.88 | 0.14 |
+| 32O14 | 0.80 | 0.06 |
+| 347O10 | 0.92 | 0.08 |
+| 347O11 | 0.85 | 0.16 |
+| 347O12 | 0.15 | 0.08 |
+| 347O13 | 0.67 | 0.22 |
+| 36O14 | 0.69 | 0.25 |
+| 371O11 | 0.78 | 0.09 |
+| 371O12 | 0.78 | 0.06 |
+| 371O14 | 0.85 | 0.03 |
+|  | | | | | | | | |
+
+Biodistribution and Immunostaining
+
+Female C57BL/6 mice received tail vein injections of lipid nanoparticles containing siRNA that had been labeled with Cy5.5 on the 5′ end of the sense strand (provided by Alnylam Pharmaceuticals). Animals were dosed at 1 mg/kg of siRNA and volume of 0.01 ml/g. At one hour post-injection, mice were euthanized and organs were removed. Body-wide biodistribution was assessed by imaging whole organs with an IVIS® Spectrum system (Caliper Life Sciences, Hopkinton, Mass.) at excitation and emission wavelengths of 675 nm and 720 nm, respectively. Cell-specific distribution within hepatocytes was assessed by embedding, sectioning, and staining the whole liver with antibodies. Imaging was conducted on a LSM 700 confocal microscope (Carl Zeiss, Inc., Peabody, Mass.). For Odyssey and confocal imaging, organs were snap frozen on dry ice and embedded in optimal cutting temperature compound (OCT, Life Technologies, Grand Island, N.Y.). Cryostat sections were cut and collected on superfrost plus treated slides. Prepared frozen sections where kept at −20° C. until needed. Odyssey imaging was conducted on 20 μm thick cryosections of tissue at a resolution of 21 μm (Lee, M. J.-E. et al., Rapid Pharmacokinetic and Biodistribution Studies Using Cholorotoxin-Conjugated Iron Oxide Nanoparticles: A Novel Non-Radioactive Method. PLoS ONE 5, e9536-e9536 (2010)).
+
+For confocal imaging, liver tissue was cryosectioned (12 pm) and fixed using 4% paraformaldehyde at room temperature for 30 min. All solutions were prepared in PBS. Sections were washed 2× with PBS, permeabilized for 30 min with 0.1% Triton X100, and blocked for 1 hour with 5% normal goat serum. Sections then incubated for 1 hour in an immunostaining cocktail solution consisting of DAPI (3 μM), Alexa Fluor 488 conjugated anti-mouse F4/80 (1:200 dilution, BioLegend, San Diego, Calif.), Alexa Fluor® 555 Phalloidin (1:200 dilution, Life Technologies), and 5% normal goat serum. Slides were washed 3× with 0.1% Tween 20 and mounted using ProLong® Gold Antifade (Life Technologies). Sections were imaged using an LSM 700 point scanning confocal microscope (Carl Zeiss, Inc, Jena Germany) equipped with a 40× oil immersion objective.
+
+Blood Clearance
+
+Blood clearance experiments were conducted by injecting LNPs containing Cy5.5-labeled siRNA at an siRNA dose of 0.5 mg/kg. Blood samples were collected as a function of time via the retroorbital vein, with the exception of final time points, which were collected via cardiac puncture. Serum, obtained by centrifugation, was diluted 1:30 in PBS and imaged and quantified using an Odyssey CLx imaging system (LI-COR Biosciences, Lincoln, Nebr.).
+
+Histology
+
+Organs were harvested from animals that had received various doses of either 304O13 or C12-200 lipid nanoparticles (C12-200 is a control non-degradable lipidoid shown below). Organs were fixed overnight in 4% paraformaldehyde and transferred to 70% ethanol prior to paraffin embedding, sectioning, and H & E staining.
+
+[![Figure US09439968-20160913-C00143](https://patentimages.storage.googleapis.com/50/d9/48/bcaf96950be2f1/US09439968-20160913-C00143.png)](https://patentimages.storage.googleapis.com/50/d9/48/bcaf96950be2f1/US09439968-20160913-C00143.png)
+
+Serum Chemistry and Hematology Analysis
+
+Post-sacrifice, cardiac sticks were immediately performed on animals that had been dosed with either 304O13 or C12-200 lipid nanoparticles. Blood was centrifuged in serum separator tubes at 5,000 rpm for 10 minutes, and serum was analyzed for various hematological parameters. Serum chemistry was evaluated on a Beckman Olympus AU400 Serum Chemistry Analyzer. Cytokines were analyzed using Bio-Plex Pro Mouse Cytokine 23-Plex Assay kits (Luminex Corporation, Austin, Tex.) on the Bio-Plex 200 system, according to manufacturer instructions.
+
+Cytokine Profiling
+
+Cytokine analysis was done by injecting either 304O13 or C12-200 nanoparticles at an siRNA dose of 3 mg/kg. Four hours post-injection, blood was harvested via cardiac stick and serum was isolated. Cytokine levels were quantified using an ELISA assay.
+
+Nanoparticle Characterization
+
+Lipid nanoparticles were diluted to an siRNA concentration of ˜5 ug/ml in 0.1× PBS, pH 7.3. siRNA entrapment efficiency was determined using the Quant-iT™ RiboGreen® RNA assay (Invitrogen). Particle sizes were measured with a ZETAPa1s analyzer (Brookhaven Instruments, Holtsville, N.Y.). Sizes reported are the average effective diameter of each LNP. Zeta potential measurements were acquired on a Zetasizer Nano ZS (Malvern, Westborough, Mass.), and reported values were the average of 10-25 runs.
+
+| TABLE 3 |
+| --- |
+|  |
+| Characterization Parameters for 304O13 |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | siRNA Entrapment | Diameter | Zeta Potential |  |
+|  | (%) | (nm) | (mV) | pKa |
+|  |  | | | | |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 304O13 | 84.2 | 86.0 | 13.7 | 6.8 |
+| 306O12 | 79.0 | 98.2 | 12.5 | 6.8 |
+| 113O13 | 75.8 | 91.1 | 16.5 | 6.0 |
+|  | | | | |
+
+Results and Discussion
+
+Michael addition chemistry was employed to rapidly synthesize a library of 1400 lipid-like materials with the potential to serve as effective, biodegradable delivery vehicles (FIG. 1). 280 alkyl-amines (FIG. 2) were reacted combinatorially with 5 alkyl-acrylates to form lipidoids consisting of a polar, ionizable core surrounded by hydrophobic carbon tails. Alkyl-amines, which were taken from commercially available supply, were chosen to maximize structural diversity and reactivity within a Michael addition scheme. We chose to work with alkyl-acrylate tails of intermediate length (10-14 carbon chain length), as previous studies indicated that shorter tails often lack efficacy while longer tails may cause insolubility during the nanoparticle formulation process (Akinc, A. et al.  *Nature Biotechnology* 26, 561-569 (2008); Love, K. T. et al. *Proc. Natl. Acad. Sci. USA* 107, 1864-1869 (2010)).
+
+The acrylate-based lipidoids provided herein also contain hydrolysable ester moieties, functional groups which are commonly incorporated into delivery vehicles to promote physiological degradation (Staubli, A., Ron, E. & Langer, R. *J. Am. Chem. Soc.* 112, 4419-4424 (1990); van Dijkhuizen-Radersma, et al. *Biomaterials* 23, 4719-4729 (2002); Geng, Y. & Discher, D. E. *J. Am. Chem. Soc.* 127, 12780-12781 (2005)). Proton NMR analysis indicated that a representative lipidoid, 304O13, degraded to the anticipated alkyl-alcohol product under hydrolytic conditions (FIGS. 11A and 11B).
+
+To determine the transfection ability of lipidoids, they were first formulated into lipid nanoparticles (LNPs) containing siRNA, cholesterol and the helper lipids, DSPC and PEG(MW2000)-DMG. The delivery potential of lipidoids was assessed by applying LNPs to HeLa cells that had been genetically modified to stably express two reporter luciferase proteins: firefly and Renilla. Firefly luciferase served as the target gene while Renilla luciferase served as a built-in control for toxicity and off-targeting effects. Relative luciferase activity, which is the ratio of firefly to Renilla activity, is shown in FIG. 3*a*  after treatment with each LNP at an siRNA concentration of 40 nM. Of the 1400 members of the lipidoid library, ˜7% mediated target gene silencing of >50% (shown in red circles).
+
+In order to extract structure-function information from the in vitro data, we asked whether various structural properties were more or less common within the group of efficacious lipidoids (red data points) compared to the bulk library. FIG. 3*b*  examines the importance of tail length on transfection. Because there were five tails used in this library, each tail length made up 20% of the library. Of the LNPs that were effective in vitro, however, only 12% contained an O10 tail. Occurrence rate (the y-axis value) was calculated as (the occurrence rate in the library)−(the occurrence rate in the group with >50% silencing). Therefore, the occurrence rate for O10 is 12%-20%=−8%, indicating that it was significantly underrepresented among materials with transfection potential. On the other hand, O12 and O13 tails were overrepresented in the efficacious group compared to the library at large, suggesting such tail lengths are associated with efficacious lipidoids. FIG. 3*c*  suggests that lipidoids with the greatest transfection potential were synthesized from alkyl-amines with three or more substitution sites. The effect of various functional groups within the alkyl-amine is analyzed in FIG. 3*d* . The presence of tertiary and secondary amines, alcohols, and branched or linear chains conferred efficacy, while ethers and rings generally did not. Piperazine rings, however, were an exception, and generally produced efficacious materials.
+
+Previous studies have indicated that materials capable of conferring >50% luciferase silencing activity in cell culture have the potential to mediate siRNA delivery in vivo (Whitehead, K. A. et al. In Vitro-In VivoTranslation of Lipid Nanoparticles for Hepatocellular siRNA Delivery. ACS Nano 120706143602000 (2012).doi:10.1021/nn301922x). Selected lipidoids (those data points shown in red in FIG. 3*a* ) were analyzed for siRNA delivery to hepatocytes in a murine model of the blood coagulation Factor VII. The Factor VII model, which has been well-validated in the literature (Akinc, A. et al.  *Nature Biotechnology* 26, 561-569 (2008); John, M. et al. *Nature* 449, 745-747 (2007); Semple, S. C. et al. *Nature Biotechnology* 1-7 (2010)), allows silencing to be assessed from a few drops of blood using a commercially-available assay. In these experiments, LNPs containing anti-Factor VII siRNA were injected intravenously into mice, and Factor VII activity levels were quantified two days post-injection. Fifteen of the 108 lipidoids analyzed in vivo mediated complete knockdown of Factor VII protein levels at an siRNA dose of 5 mg/kg (FIG. 4*a* ). For these top LNP candidates, control experiments conducted using non-targeting siRNA at 5 mg/kg resulted in no FVII knockdown and suggested that reductions in protein activity were not due to off-targeting or toxicity-mediated gene downregulation. Silencing for these top candidates was dose dependent (FIG. 8), with EC50 values ranging from 0.05 to 2 mg/kg when LNPs were formulated at a lipidoid:cholesterol:DSPC:PEG standard testing molar ratio of 50:38.5:10:1.5.
+
+While seeking an optimal molar ratio for the top LNPs (e.g. 306O12, 113O13, and 304O13), the PEG molar percentage was found to have an effect on LNP efficacy. FIG. 4*c*  reveals that, for the lipidoid 304O13, there is a range of PEG % between 0.5 and 1.0 where optimal hepatocellular delivery is achieved. The optimized 304O13 formulation (PEG %=0.75) has an EC50 value, 0.01 mg/kg, that is a full order of magnitude lower than when using 1.5% PEG. Optimized 304O13 behaved in a dose dependent fashion (FIG. 4*d* ), and after a single injection at 0.1 mg/kg, Factor VII levels returned to baseline within 18 days.
+
+In addition to examining hepatocellular delivery, we also explored the ability of biodegradable lipidoid materials to deliver siRNA to leukocyte populations in vivo Immune cells are attractive targets for RNA interference therapy, as they have been implicated in various aspects of disease initiation and progression, including inflammation and autoimmune responses (Geissmann, F. et al.  *Science* 327, 656-661 (2010); Grivennikov, et al. *Cell* 140, 883-899 (2010)). Although moderate levels of gene silencing have been achieved recently in leukocytes (Leuschner, F. et al. *Nature Biotechnology* 29, 1005-1010 (2011); Novobrantseva, T. I. et al. *Molecular Therapy—Nucleic Acids* 1, e4 (2012)), it will be important clinically that compounds can be degraded and eliminated from the body. In these experiments, LNPs were formulated with siRNA specific against CD45, which is a tyrosine phosphatase protein found on the surface of all white blood cells. Three days following the intravenous delivery of LNPs in mice, immune cells were harvested from the peritoneal cavity and spleen. Cells were stained with fluorescent antibodies, and CD45 protein silencing was quantified in specific immune cell subsets via flow cytometry analysis. Results were normalized to CD45 levels after delivery of the same LNP containing a non-targeting siRNA. Of the five lipidoid materials evaluated in this model, 304O13 and 306O13 mediated the most robust CD45 silencing in immune cells isolated from both the peritoneal cavity and the spleen (FIG. 4*e* and *f* ). CD11b+ and CD11c+populations (monocyte/macrophages and dendritic cells, respectively) were subject to high levels of knockdown within the peritoneal cavity (up to 90%) and to a lesser degree within the spleen (up to 40%). The lipidoids 306O12, 306O14, and 315O12 also offered modest CD45 silencing in several immune cell subpopulations (FIG. 9).
+
+Nanoparticle characterization parameters for three of the top LNP candidates were similar (Table 1). Entrapment of siRNA refers to the percentage of siRNA in solution that is incorporated into the nanoparticle during formulation, as measured by an RNA dye-binding assay (Nolan, T., Hands, R. E. & Bustin, S. A. Quantification of mRNA using real-time RT-PCR. Nat. Protoc 1, 1559-1582 (2006)). These results are in keeping with a previous finding that efficacious lipidoid nanoparticles often have entrapment values of approximately 75%17. Zeta potential measurements were conducted under neutral pH conditions. pKa values, which were obtained using a toluene nitrosulphonic acid (TNS) assay, evaluated the pKa of the nanoparticle surface (Heyes, J., Palmer, L., Bremner, K. & MacLachlan, I. Cationic lipid saturation influences intracellular delivery of encapsulated nucleic acids. J Control Release 107, 276-287 (2005)). The pKa values of top LNP candidates corroborate the results of another study in which surface pKa values in the 6-7 range conveyed efficacy in vivo (Jayaraman, M. M. et al., Maximizing the Potency of siRNA Lipid Nanoparticles for Hepatic Gene Silencing In Vivo. Angew. Chem. Int. Ed. 51, 8529-8533 (2012)).
+
+Several analyses were performed to assess the biodistribution of the lead compound, 304O13, in mice. For these experiments, nanoparticles were formulated with Cy5.5-labeled siRNA. Whole organ IVIS images (FIG. 5*a* ) and Odyssey scans (FIG. 5*b* ) showed that naked siRNA accumulated in the kidneys at 1 hour post-injection, suggesting rapid renal clearance. Quantification of IVIS signal indicated that 14%, 1%, and 71% of naked siRNA signal appeared in the liver, spleen, and kidneys, respectively. In contrast, at 1 hour post injection, 304O13 localized primarily within the liver (42%) and spleen (24%), with only 18% distributing to the kidneys.
+
+Given their effectiveness for silencing the hepatocellular target, FVII, we examined how 304O13 nanoparticles were distributing within the liver. Confocal imaging was performed on liver tissues harvested one hour post-injection and stained with nuclear, actin, and macrophage markers (FIG. 7*c* ). Images were taken near the central vein in liver lobules (black void near the center of images). Hepatocytes are outlined in green and macrophages, which appear sporadically, are colored magenta. Only 304O13 was able to mediate siRNA accumulation throughout nearly all hepatocellular tissue (in red).
+
+Serum clearance kinetics were assessed by measuring Cy5.5 signal in the mouse bloodstream as a function of time (FIG. 5*d* ). It should be noted that, while the first blood sample was drawn as quickly as possible (20 seconds), maximum signal may have occurred even earlier. Half of the material initially detected at 20 seconds had distributed to tissues by 6 minutes. At 90 minutes post-injection, only 4% of signal remained.
+
+A preliminary safety assessment was conducted on the lead LNP, 304O13, and it was compared to another previously-discovered LNP formulation, C12-200 (Love, K. T. et al. Lipid-like materials for low-dose, in vivo gene silencing. PNAS 107, 1864-1869 (2010)). C12-200 is a 5-tailed, lipidoid that has the same EC50 as 304O13 (0.01 mg/kg). It was chosen for comparison purposes because it does not contain any functional groups that are overtly sensitive to hydrolysis. We chose to examine the effect of doses that were at least 100-fold higher than the EC50. Serum cytokine levels for both materials were assessed in mice four hours after a 3 mg/kg IV bolus injection (total siRNA). IL-6, IP-10, KC, and MCP-1 were elevated in the C12-200 group compared to both PBS negative control and 304O13 groups under these conditions (FIG. 6). Clinical chemistry parameters were evaluated for both materials 72 hours after a single dose of 3 mg/kg and after four once weekly doses of 3 mg/kg each. There were no toxicologically significant increases in albumin, ALT, AST, ALP, total bilirubin, or GGT for either 304O13 or C12-200 after single or multiple doses (FIG. 12).
+
+Histological analysis was performed through H&E staining on sections from the liver, spleen, kidneys and pancreas. In single-dose studies (0, 1, 2, 3, 5, 7.5, 10 mg/kg), liver necrosis was observed in mice administered 7.5 mg/kg of C12-200 and at 10 mg/kg of 304O13. Pancreatic inflammation and islet cell enlargement were detected at C12-200 doses ≧2 mg/kg. A small amount of apoptosis in splenic red pulp was observed at 10 mg/kg for 304O13. Multi-dose studies were also conducted in which mice received four injections of 0.3, 1, 2, 3, or 5 mg/kg, once per week for four weeks. Liver necrosis and inflammation were observed in mice administered ≧1 mg/kg of C12-200. There was no sign of liver toxicity in any of the 304O13 groups up to 5 mg/kg. Based on this limited evaluation, the collective data suggest an improved toxicity profile for 304O13 compared to C12-200 in mice.
+
+The data from the 108 materials tested in vivo at a total siRNA dose of 5 mg/kg are shown in FIG. 7*a* . Of the 108 materials tested in mice, 25 of them contained an O13 tail, 66 of them had three or more tails, and 42 of them had been synthesized from an alkyl-amine that contained at least one tertiary amine.
+
+FIG. 7*b*  shows a second generation library of lipidoids from certain amines conjugated to an O13 tail. When tested in vivo, 10 out of 12 of these materials mediated 100% Factor VII silencing at a dose of 5 mg/kg (FIG. 7*c* ). Knockdown was dose-dependent, with EC50 values varying from 0.05-1 mg/kg (FIG. 7*c*  **1**). Formulation optimization of the best second generation material, 503O13, markedly decreased the EC50 value to 0.01 mg/kg (FIG. 7*e* ). Several second generation materials also facilitated significant CD45 knockdown in monocyte, macrophage, dendritic cell, and B cell populations (FIG. 13).
+
+Since the ability of materials to take on a positive charge with decreasing pH has been shown to confer transfection efficacy (Zhang, J. J., Fan, H. H., Levorse, D. A. D. & Crocker, L. S. L. Ionization behavior of amino lipids for siRNA delivery: determination of ionization constants, SAR, and the impact of lipid pKa on cationic lipid-biomembrane interactions. Langmuir 27, 1907-1914 (2011)), the surface pKa values of 59 distinct lipidoid nanoparticles were measured. The data in FIG. 10 indicate that pKa values play a decisive role in this LNP delivery system, with a critical pKa value of approximately 5.5. Materials demonstrating considerable in vivo efficacy (red data points) had surface pKa values of approximately 5.5 or higher. For values less than approximately 5.5, average efficacy decreased monotonically with pKa. Therefore, surface pKa can be used as an indicator of in vivo potency, improving our predictive capability for this data set.
+
+OTHER EMBODIMENTS
+
+All patents, patent applications, and literature references cited herein are incorporated herein by reference.
+
+Having now described some illustrative embodiments of the invention, it should be apparent to those skilled in the art that the foregoing is merely illustrative and not limiting, having been presented by way of example only. Numerous modifications and other illustrative embodiments are within the scope of one of ordinary skill in the art and are contemplated as falling within the scope of the invention. In particular, although many of the examples presented herein involve specific combinations of method acts or system elements, it should be understood that those acts and those elements may be combined in other ways to accomplish the same objectives. Acts, elements, and features discussed only in connection with one embodiment are not intended to be excluded from a similar role in other embodiments. Further, for the one or more means-plus-function limitations recited in the following claims, the means are not intended to be limited to the means disclosed herein for performing the recited function, but are intended to cover in scope any means, known now or later developed, for performing the recited function. Use of terms such as “first”, “second”, “third”, etc., in the claims to modify a claim element does not by itself connote any priority, precedence, or order of one claim element over another or the temporal order in which acts of a method are performed, but are used merely as labels to distinguish one claim element having a certain name from another element having a same name (but for use of the ordinal term) to distinguish the claim elements. Similarly, use of a), b), etc., or i), ii), etc. does not by itself connote any priority, precedence, or order of steps in the claims. Similarly, the use of these terms in the specification does not by itself connote any required priority, precedence, or order.
+
+The foregoing written specification is considered to be sufficient to enable one skilled in the art to practice the invention. The present invention is not to be limited in scope by examples provided, since the examples are intended as a single illustration of one aspect of the invention and other functionally equivalent embodiments are within the scope of the invention. Various modifications of the invention in addition to those shown and described herein will become apparent to those skilled in the art from the foregoing description and fall within the scope of the appended claims. The advantages and objects of the invention are not necessarily encompassed by each embodiment of the invention.

@@ -1,0 +1,15 @@
+{
+  "input": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/data/molpatent-240.infringement_input.json",
+  "output": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/outputs/molpatent-240.infringement_results.first_image_retry.json",
+  "summary": {
+    "total": 10,
+    "completed": 0,
+    "ok": 0,
+    "error": 0,
+    "caption_from_first_image": 0,
+    "caption_from_dataset": 0,
+    "workers": 3,
+    "caption_empty_retries": 3
+  },
+  "records": []
+}

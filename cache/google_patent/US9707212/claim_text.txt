@@ -1,0 +1,136 @@
+Claims (14)
+-----------
+
+What is claimed is:
+
+1. A method of treating a patient suffering from a disease or disorder selected from the group consisting of pulmonary hypertension, ARDS, asthma, pneumonia, pulmonary fibrosis/interstitial lung diseases, cystic fibrosis, chronic obstructive pulmonary disease (COPD), inflammatory bowel disease (IBD), Crohn's disease and colitis, which comprises administering to a patient in need thereof a therapeutically effective amount of a compound of formula (I) or a pharmaceutically acceptable salt thereof
+
+[![Figure US09707212-20170718-C00037](https://patentimages.storage.googleapis.com/2d/fb/af/6228a9bf173e4a/US09707212-20170718-C00037.png)](https://patentimages.storage.googleapis.com/2d/fb/af/6228a9bf173e4a/US09707212-20170718-C00037.png)
+
+wherein
+
+X is selected from the group consisting of O and S;
+
+Y is selected from the group consisting of O and S;
+
+Z is selected from the group consisting of Z1, Z2, Z3, and Z4, wherein
+
+Z1 is
+
+[![Figure US09707212-20170718-C00038](https://patentimages.storage.googleapis.com/67/95/b4/a2a876508bc45a/US09707212-20170718-C00038.png)](https://patentimages.storage.googleapis.com/67/95/b4/a2a876508bc45a/US09707212-20170718-C00038.png)
+
+ 
+
+Z2 is
+
+[![Figure US09707212-20170718-C00039](https://patentimages.storage.googleapis.com/80/a9/80/0796d9b334e51b/US09707212-20170718-C00039.png)](https://patentimages.storage.googleapis.com/80/a9/80/0796d9b334e51b/US09707212-20170718-C00039.png)
+
+ 
+
+Z3 is
+
+[![Figure US09707212-20170718-C00040](https://patentimages.storage.googleapis.com/8b/ba/5e/7885d4f0c3f13b/US09707212-20170718-C00040.png)](https://patentimages.storage.googleapis.com/8b/ba/5e/7885d4f0c3f13b/US09707212-20170718-C00040.png)
+
+and
+
+Z4 is
+
+[![Figure US09707212-20170718-C00041](https://patentimages.storage.googleapis.com/21/76/e1/eea4c88cd58895/US09707212-20170718-C00041.png)](https://patentimages.storage.googleapis.com/21/76/e1/eea4c88cd58895/US09707212-20170718-C00041.png)
+
+provided that Z is only Z4 when at least one of X or Y is S;
+
+R1 is selected from the group consisting of hydrogen, (C1-C6)alkyl, (C3-C7)cycloalkyl, (C1-C6)haloalkyl, unsubstituted aryl(C1-C4)alkyl, substituted aryl(C1-C6)alkyl, (C1-C6)heteroalkyl, substituted or unsubstituted aryl, and substituted or unsubstituted heteroaryl;
+
+R2 is selected from the group consisting of hydrogen, halogen, cyano, and (C1-C6) alkoxy;
+
+R3 is selected from the group consisting of hydrogen, halogen, (C1-C6) alkyl, (C1-C6) haloalkyl, (C1-C6) alkoxy, cyano, and N, N-dimethylamino;
+
+R4 is selected from the group consisting of tetrazole, oxadiazolone, thiadiazolone, methylsulfonylcarbamoyl, and N-hydroxycarbamoyl; and
+
+R5 is selected from the group consisting of carboxy, tetrazole, oxadiazolone, thiadiazolone, methylsulfonylcarbamoyl, and N-hydroxycarbamoyl.
+
+2. The method of claim 1 wherein
+
+R4 is selected from the group consisting of tetrazole, 1,2,4-oxadiazol-5(4H)-one-3-yl, 1,2,4-thiadiazol-5(4H)-one-3-yl, 1,3,4-oxadiazol-2(3H)-one-5-yl, 1,3,4-thiadiazol-2(3H)-one-5-yl, 1,2,4-thiadiazol-3(2H)-one-5-yl, 1,2,4-oxadiazol-3(2H)-one-5-yl, methylsulfonylcarbamoyl, and N-hydroxycarbamoyl; and
+
+R5 is selected from the group consisting of carboxy, tetrazole, 1,2,4-oxadiazol-5(4H)-one-3-yl, 1,2,4-thiadiazol-5(4H)-one-3-yl, 1,3,4-oxadiazol-2(3H)-one-5-yl, 1,3,4-thiadiazol-2(3H)-one-5-yl, 1,2,4-thiadiazol-3(2H)-one-5-yl, 1,2,4-oxadiazol-3(2H)-one-5-yl, methylsulfonylcarbamoyl, and N-hydroxycarbamoyl.
+
+3. The method of claim 1 wherein
+
+R1 is selected from the group consisting of hydrogen, CF3, CF2H, CF2CH3, CF2CH2CH3, methyl, isopropyl, isobutyl, cyclopentyl, CH2OCH3, SCH3, benzyl, 4-carboxy benzyl, thiophen-2-yl, and thiophen-3-yl;
+
+R2 is selected from the group consisting of hydrogen, fluoro, chloro, methoxy, and cyano; and
+
+R3 is selected from the group consisting of hydrogen, fluoro, chloro, methyl, CF3, methoxy, cyano, and N, N-dimethylamino.
+
+4. The method of claim 1 wherein R1 is selected from the group consisting of hydrogen, CF3, CF2H, methyl, and 4-carboxybenzyl;
+
+R2 is selected from the group consisting of hydrogen and fluoro;
+
+R3 is selected from the group consisting of hydrogen, fluoro, chloro, and methyl;
+
+R4 is selected from the group consisting of tetrazole, 1,2,4-oxadiazol-5(4H)-one-3-yl, 1,2,4-thiadiazol-5(4H)-one-3-yl, 1,3,4-oxadiazol-2(3H)-one-5-yl, methylsulfonylcarbamoyl, and N-hydroxycarbamoyl; and
+
+R5 is selected from the group consisting of carboxy, tetrazole, 1,2,4-oxadiazol-5(4H)-one-3-yl, 1,2,4-thiadiazol-5(4H)-one-3-yl, 1,3,4-oxadiazol-2(3H)-one-5-yl, methylsulfonylcarbamoyl, and N-hydroxycarbamoyl.
+
+5. The method of claim 1 selected from the group consisting of
+
+3-(4-(1H-tetrazol-5-yl)phenyl)-7-hydroxy-2-(trifluoromethyl)-4H-chromen-4-one;
+
+5-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)thiophene-2-carboxylic acid;
+
+(trans)-4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)cyclohexanecarboxylic acid;
+
+(cis)-4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)cyclohexanecarboxylic acid;
+
+3-(4-(1H-tetrazol-5-yl)phenyl)-2-(difluoromethyl)-7-hydroxy-4H-chromen-4-one;
+
+3-(4-(1H-tetrazol-5-yl)phenyl)-7-hydroxy-2-methyl-4H-chromen-4-one;
+
+4-(2-(4-carboxybenzyl)-7-hydroxy-4-oxo-4H-thiochromen-3-yl)benzoic acid;
+
+4-(7-hydroxy-2-methyl-4-oxo-4H-thiochromen-3-yl)benzoic acid;
+
+3-(4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)phenyl)-1,2,4-oxadiazol-5(4H)-one;
+
+4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)-N-(methylsulfonyl)benzamide;
+
+3-(4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)phenyl)-1,2,4-thiadiazol-5(4H)-one;
+
+3-(4-(1H-tetrazol-5-yl)phenyl)-7-hydroxy-2-methyl-4H-thiochromen-4-one;
+
+5-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)thiophene-3-carboxylic acid;
+
+3-((trans)-4-(1H-tetrazol-5-yl)cyclohexyl)-7-hydroxy-2-(trifluoromethyl)-4H-chromen-4-one;
+
+N-hydroxy-4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)benzamide;
+
+3-(2-chloro-4-(1H-tetrazol-5-yl)phenyl)-7-hydroxy-2-(trifluoromethyl)-4H-chromen-4-one;
+
+3-(3-chloro-4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)phenyl)-1,2,4-oxadiazol-5(4H)-one;
+
+3-(3-fluoro-4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)phenyl)-1,2,4-oxadiazol-5(4H)-one;
+
+3-(3-chloro-4-(1H-tetrazol-5-yl)phenyl)-7-hydroxy-2-(trifluoromethyl)-4H-chromen-4-one; and
+
+3-(4-(1H-tetrazol-5-yl)phenyl)-7-hydroxy-4H-chromen-4-one; and
+
+5-(4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)phenyl)-1,3,4-oxadiazol-2(3H)-one.
+
+6. The method of claim 1 wherein the disorder is asthma.
+
+7. The method of claim 1 wherein the disorder is chronic obstructive pulmonary disease (COPD).
+
+8. The method of claim 1 wherein the disorder is cystic fibrosis.
+
+9. The method of claim 1 wherein the disease is inflammatory bowel disease (IBD).
+
+10. A method of treating a patient suffering from a disease or disorder selected from the group consisting of pulmonary hypertension, ARDS, asthma, pneumonia, pulmonary fibrosis/interstitial lung diseases, cystic fibrosis, chronic obstructive pulmonary disease (COPD), inflammatory bowel disease (IBD), Crohn's disease, and colitis, which comprises administering to the patient in need thereof a therapeutically effective amount of a compound or a pharmaceutically acceptable salt thereof selected from the group consisting of 3-fluoro-4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)benzoic acid, 4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)-3-methylbenzoic acid and 4-(8-fluoro-7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)benzoic acid.
+
+11. The method of claim 10 wherein the disorder is asthma.
+
+12. The method of claim 10 wherein the disorder is chronic obstructive pulmonary disease (COPD).
+
+13. The method of claim 10 wherein the disorder is cystic fibrosis.
+
+14. The method of claim 10 wherein the disease is inflammatory bowel disease (IBD).

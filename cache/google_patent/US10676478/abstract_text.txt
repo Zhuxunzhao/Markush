@@ -1,0 +1,6 @@
+Abstract
+--------
+
+The present invention relates to a 7-(thiazol-5-yl)pyrrolopyrimidine compound as a TLR7 agonist, and particularly relates to a compound shown in formula (I), pharmaceutically acceptable salt and preparation method thereof, a pharmaceutical composition containing such a compound, and usage thereof in preparing an antiviral drug.
+
+[![Figure US10676478-20200609-C00001](https://patentimages.storage.googleapis.com/09/37/fd/4282904e91508a/US10676478-20200609-C00001.png)](https://patentimages.storage.googleapis.com/09/37/fd/4282904e91508a/US10676478-20200609-C00001.png)

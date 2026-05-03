@@ -1,0 +1,548 @@
+Claims (50)
+-----------
+
+**1**. A compound having the structure of Formula I or a pharmaceutically acceptable form thereof, wherein the pharmaceutically acceptable form is selected from the group consisting of pharmaceutically acceptable salts, esters, stereoisomers, tautomers, polymorphs, solvates, oxynitrides, isotopically labeled compounds, metabolites and prodrugs;
+
+[![Figure US20230303562A1-20230928-C00194](https://patentimages.storage.googleapis.com/ca/7c/70/9fda0c32506a88/US20230303562A1-20230928-C00194.png)](https://patentimages.storage.googleapis.com/ca/7c/70/9fda0c32506a88/US20230303562A1-20230928-C00194.png)
+
+ 
+
+wherein,
+
+R1 is selected from the group consisting of C6-10 aryl and 5- to 10-membered heteroaryl; wherein the C6-10 aryl or 5- to 10-membered heteroaryl is optionally substituted with one or more R5;
+
+R2 is selected from the group consisting of C6-10 aryl and 5- to 10-membered heteroaryl; wherein the C6-10 aryl or 5- to 10-membered heteroaryl is optionally substituted with one or more R6;
+
+R3 is selected from the group consisting of hydrogen, halogen, C1-6 alkyl, C1-6 haloalkyl, C3-8 cycloalkyl, C1-6 alkoxyl and C1-6 alkylamino;
+
+R4 is selected from the group consisting of hydrogen, C1-6 alkyl, C1-6 haloalkyl, C3-8 cycloalkyl, C3-8 cycloalkyl-C1-6 alkylamino, 3- to 8-membered heterocyclylamino, hydroxyalkyl, aminoalkyl, C1-6 alkyloxy, C1-6 alkylthio, cyano, hydroxyl, amino, C1-6 alkylamino, C1-6 haloalkylamino, C3-8 cycloalkylamino, phenylamino, benzylamino, 5- to 10-membered heteroarylamino and 5- to 10-membered heteroarylalkylamino; wherein the C1-6 alkyl, C1-6 haloalkyl, C3-8 cycloalkyl, C3-8 cycloalkyl-C1-6 alkylamino, 3- to 8-membered heterocyclylamino, hydroxyalkyl, aminoalkyl, C1-6 alkyloxy, C1-6 alkylthio, C1-6 alkylamino, C1-6 haloalkylamino, C3-8 cycloalkylamino, phenylamino, benzylamino, 5- to 10-membered heteroarylamino and 5- to 10-membered heteroarylalkylamino are each optionally substituted with one or more groups independently selected from the group consisting of: C1-6 alkyl, halogen, cyano, amido, carbamoyl, mono- or di-C1-6 alkyl-substituted carbamoyl, sulfonyl, phenyl, halophenyl and 4- to 6-membered heterocyclyl;
+
+or, R3 and R4 together with the attached carbon atoms form a 5- to 7-membered saturated carbocyclic ring or a 5- to 7-membered saturated heterocyclic ring, and the 5- to 7-membered saturated heterocyclic ring is not a lactam structure, and the 5- to 7-membered carbocyclic ring and the 5- to 7-membered saturated heterocyclic ring are optionally substituted with one or more R8;
+
+R5 at each occurrence is independently selected from the group consisting of hydrogen, deuterium, halogen, cyano, C1-6 alkyl, C1-6 haloalkyl and C3-8 cycloalkyl;
+
+R6 at each occurrence is independently selected from the group consisting of hydrogen, deuterium, cyano, halogen, C1-6 alkyl, C1-6 haloalkyl, C1-6 alkoxyalkyl, C3-8 cycloalkyl, 3- to 8-membered heterocyclylalkyl, 3- to 8-membered heterocyclyl, C6-10 aryl, 5- to 10-membered heteroaryl, —NRaRb, —NRaC(═O)Rb, —ORc, —OC(═O)Rc, —C(═O)Rc, —C(═O)ORc, —C(═O)NRaRb, —(CRaRb)mC(═O)NRaRb, —(CRc═CRc)mC(═O)NRaRb and —(C≡C)mC(═O)NRaRb [H]; wherein the C1-6 alkyl, C1-6 haloalkyl, C1-6 alkoxyalkyl, C3-8 cycloalkyl, 3- to 8-membered heterocyclylalkyl, 3- to 8-membered heterocyclyl, C6-10 aryl, 5- to 10-membered heteroaryl, —NRaRb, —OC(═O)Rc and —NRaC(═O)Rb are optionally substituted with one or more R7;
+
+R7 at each occurrence is independently selected from the group consisting of hydrogen, deuterium, halogen, C1-6 alkyl, C1-6 haloalkyl, hydroxy-C1-6 alkyl, C1-6 alkoxyalkyl, substituted or unsubstituted carbamoyl, 3- to 8-membered heterocyclylalkyl, 3- to 8-membered heterocyclyl optionally substituted with C1-6 alkyl, —(CRaRb)mS(═O)n—Rc, —ORc, —NRaRb, —C(═O)Rc, —C(═O)ORc and —C(═O)NRaRb;
+
+R8 at each occurrence is independently selected from the group consisting of C1-6 alkyl, C1-6 haloalkyl and C3-6 cycloalkyl;
+
+Ra and Rb at each occurrence are each independently selected from the group consisting of hydrogen, C1-6 alkyl, hydroxy-C1-6 alkyl, C1-6 alkoxyalkyl, C1-6 alkylaminoalkyl, C3-8 cycloalkyl, 3- to 8-membered heterocyclyl and 3- to 8-membered heterocyclylalkyl, or Ra and Rb together with the atom to which they are attached form a 4- to 7-membered ring;
+
+Rc at each occurrence is independently selected from the group consisting of hydrogen, C1-6 alkyl, C3-8 cycloalkyl, 3- to 8-membered heterocyclylalkyl, 3- to 8-membered heterocyclyl and substituted or unsubstituted carbamoyl;
+
+m is 0, 1 or 2; and
+
+n is 1 or 2;
+
+provided that,
+
+(1) when R4 is selected from the group consisting of cyano, amino, hydroxyl, C1-6 alkyl, C1-6 alkoxy and C1-6 alkylthio, R3 is not hydrogen; and
+
+(2) when R3 and R4 are both hydrogen or C1-6 alkyl, or R3 is C1-6 alkyl, R4 is hydrogen, or R3 and R4 together with the attached carbon atoms form a 5- to 7-membered saturated carbocyclic ring, and R1 is substituted or unsubstituted pyridyl, R2 is not substituted or unsubstituted thienopyridine nor substituted or unsubstituted quinazolinone.
+
+**2**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein,
+
+R1 is selected from the group consisting of phenyl and 5- to 6-membered heteroaryl; wherein the phenyl or 5- to 6-membered heteroaryl is optionally substituted with one or more R5;
+
+R2 is selected from the group consisting of phenyl and 5- to 10-membered heteroaryl; wherein the phenyl or 5- to 10-membered heteroaryl is optionally substituted with one or more R6;
+
+R3 is selected from the group consisting of hydrogen, C1-6 alkyl, C1-6 haloalkyl, C3-6 cycloalkyl, C1-6 alkoxy and C1-6 alkylamino;
+
+R4 is selected from the group consisting of hydrogen, C1-6 alkyl, C3-8 cycloalkyl-C1-6 alkylamino, 3- to 8-membered heterocyclylamino, hydroxyl-C1-6 alkyl, amino-C1-6 alkyl, C1-6 alkoxy, C1-6 alkylthio, hydroxyl, amino, C1-6 alkylamino, C1-6 haloalkylamino, C3-8 cycloalkylamino, phenylamino, benzylamino, 5- to 6-membered heteroarylamino and 5- to 6-membered heteroarylalkylamino; wherein the C1-6 alkyl, hydroxyl-C1-6 alkyl, C3-8 cycloalkyl-C1-6 alkylamino, 3- to 8-membered heterocyclylamino, amino-C1-6 alkyl, C1-6 alkoxy, C1-6 alkylthio, C1-6 alkylamino, C1-6 haloalkylamino, C3-8 cycloalkylamino, phenylamino, benzylamino, 5- to 6-membered heteroarylamino, and 5- to 6-membered heteroarylalkylamino are each optionally substituted with one or more groups independently selected from the group consisting of: C1-6 alkyl, halogen, cyano, amido, carbamoyl, mono- or di-C1-6 alkyl-substituted carbamoyl, sulfonyl, phenyl, halophenyl, C3-6 cycloalkyl and 4- to 6-membered heterocyclyl;
+
+or, R3 and R4 together with the attached carbon atoms form a 5- to 7-membered saturated carbocyclic ring or a 5- to 7-membered saturated heterocyclic ring, and the 5- to 7-membered saturated heterocyclic ring is not a lactam structure, and the 5- to 7-membered saturated carbocyclic ring and 5- to 7-membered saturated heterocyclic ring are optionally substituted with one or more R8;
+
+R5 at each occurrence is independently selected from the group consisting of hydrogen, deuterium, halogen, C1-6 alkyl, C1-6 haloalkyl and C3-8 cycloalkyl;
+
+R6 at each occurrence is independently selected from the group consisting of hydrogen, deuterium, cyano, halogen, C1-6 alkyl, C1-6 haloalkyl, C1-6 alkoxyalkyl, C3-8 cycloalkyl, 4- to 8-membered heterocyclylalkyl, 4- to 8-membered heterocyclyl, phenyl, 5- to 10-membered heteroaryl, —NRaRb, —NRaC(═O)Rb, —ORc, —OC(═O)Rc, —C(═O)Rc, —C(═O)ORc, —C(═O)NRaRb, —(CRaRb)mC(═O)NRaRb, —(CRc═CRc)mC(═O)NRaRb, and —(C≡C)mC(═O)NRaRb; wherein the C1-6 alkyl, C1-6 haloalkyl, C1-6 alkoxyalkyl, C3-8 cycloalkyl, 4- to 8-membered heterocyclylalkyl, 4- to 8-membered heterocyclyl, phenyl, 5- to 10-membered heteroaryl, —NRaRb, —OC(═O)Rc and —NRaC(═O)Rb— are optionally substituted with one or more R7;
+
+R7 at each occurrence is independently selected from the group consisting of hydrogen, deuterium, halogen, C1-6 alkyl, C1-6 haloalkyl, hydroxyl-C1-6 alkyl, C1-6 alkoxyalkyl, substituted or unsubstituted carbamoyl, 4- to 8-membered heterocyclylalkyl, 3- to 8-membered heterocyclyl optionally substituted with C1-6 alkyl, —(CRaRb)mS(═O)n—Rc, —ORc, —NRaRb, —C(═O)Rc, —C(═O)ORc and —C(═O)NRaRb;
+
+R8 at each occurrence is independently selected from the group consisting of C1-6 alkyl, C1-6 haloalkyl and C3-6 cycloalkyl;
+
+Ra and Rb at each occurrence are each independently selected from the group consisting of hydrogen, C1-6 alkyl, hydroxyl-C1-6 alkyl, C1-6 alkoxyalkyl, C1-6 alkylaminoalkyl, C3-8 cycloalkyl, 4- to 8-membered heterocyclyl and 4- to 8-membered heterocyclylalkyl, or Ra and Rb together with the atom to which they are attached form a 4- to 7-membered ring;
+
+Rc at each occurrence is independently selected from the group consisting of hydrogen, C1-6 alkyl, C3-8 cycloalkyl, 4- to 8-membered heterocyclylalkyl, 4- to 8-membered heterocyclyl, and substituted or unsubstituted carbamoyl;
+
+m is 0, 1 or 2; and
+
+n is 1 or 2;
+
+provided that,
+
+(1) when R4 is selected from the group consisting of cyano, amino, hydroxyl, C1-6 alkyl, C1-6 alkoxy and C1-6 alkylthio, R3 is not hydrogen; and
+
+(2) when R3 and R4 are both hydrogen or C1-6 alkyl, or R3 is C1-6 alkyl, R4 is hydrogen, or R3 and R4 together with the attached carbon atoms form a 5- to 7-membered saturated carbocyclic ring, and R1 is a substituted or unsubstituted pyridyl, R2 is not substituted or unsubstituted thienopyridine nor substituted or unsubstituted quinazolinone.
+
+**3**. The compound according to claim 1 or 2, or a pharmaceutically acceptable form thereof, wherein the compound has the structure of Formula I-1,
+
+[![Figure US20230303562A1-20230928-C00195](https://patentimages.storage.googleapis.com/b0/b3/4e/f61218a6e18456/US20230303562A1-20230928-C00195.png)](https://patentimages.storage.googleapis.com/b0/b3/4e/f61218a6e18456/US20230303562A1-20230928-C00195.png)
+
+ 
+
+wherein:
+
+R1, R2 and R3 are as defined in claim 1 or 2.
+
+**4**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein the compound has the structure of Formula I-2,
+
+[![Figure US20230303562A1-20230928-C00196](https://patentimages.storage.googleapis.com/d3/fd/17/05b619b77e386e/US20230303562A1-20230928-C00196.png)](https://patentimages.storage.googleapis.com/d3/fd/17/05b619b77e386e/US20230303562A1-20230928-C00196.png)
+
+ 
+
+wherein:
+
+R1, R2 and R8 are as defined in claim 1 or 2;
+
+q is 1, 2 or 3; and
+
+p is 0, 1, 2 or 3.
+
+**5**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein the compound has the structure of Formula I-3,
+
+[![Figure US20230303562A1-20230928-C00197](https://patentimages.storage.googleapis.com/bf/98/83/9c6080cf08841f/US20230303562A1-20230928-C00197.png)](https://patentimages.storage.googleapis.com/bf/98/83/9c6080cf08841f/US20230303562A1-20230928-C00197.png)
+
+ 
+
+wherein R1 and R2 are as defined in claim 1;
+
+X is selected from the group consisting of —NR9—, —O— and —S—;
+
+Y is selected from the group consisting of —CR11R12—, —O—, —S— and —NR9—;
+
+R9, R11 and R12 at each occurrence are each independently selected from the group consisting of hydrogen, C1-6 alkyl, C1-6 haloalkyl, and C3-8 cycloalkyl, or R11 and R12 together with the carbon atom to which they are attached form a 3- to 7-membered ring;
+
+q is 1, 2 or 3;
+
+Y is selected from the group consisting of —CH2—, —O—, —S— and —NH—; and
+
+q is 1, 2 or 3.
+
+**6**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein the compound has the structure of Formula I-4,
+
+[![Figure US20230303562A1-20230928-C00198](https://patentimages.storage.googleapis.com/ab/97/2d/82887674f9ec9e/US20230303562A1-20230928-C00198.png)](https://patentimages.storage.googleapis.com/ab/97/2d/82887674f9ec9e/US20230303562A1-20230928-C00198.png)
+
+ 
+
+wherein R1, R2 and R3 are as defined in claim 1; and
+
+R10 is selected from the group consisting of C1-6 alkyl, C1-6 haloalkyl, C3-8 cycloalkyl, C3-8 cycloalkyl-C1-6 alkyl, 3- to 8-membered heterocyclyl, benzyl, 5- to 6-membered heteroarylalkyl, phenyl and 5- to 6-membered heteroaryl wherein; wherein the C1-6 alkyl, C1-6 haloalkyl, C3-8 cycloalkyl, C3-8 cycloalkyl-C1-6 alkyl, 3- to 8-membered heterocyclyl, benzyl, 5- to 6-membered heteroarylalkyl, phenyl and 5- to 6-membered heteroaryl are each optionally substituted with one or more groups independently selected from the group consisting of: C1-6 alkyl, halogen, cyano, amido, carbamoyl, mono- or di-C1-6 alkyl-substituted carbamoyl, sulfonyl, phenyl, halophenyl and 4- to 6-membered heterocyclyl.
+
+**7**. The compound according to claim 1, or a pharmaceutically acceptable form thereof,
+
+wherein, R1 is selected from the group consisting of C6-10 aryl and 5- to 10-membered heteroaryl, and the C6-10 aryl or 5- to 10-membered heteroaryl is optionally substituted with one or more R5; and
+
+R5 at each occurrence is independently C1-6 alkyl.
+
+**8**. The compound according to claim 1, or a pharmaceutically acceptable form thereof,
+
+wherein, R2 is selected from the group consisting of phenyl and 5- to 10-membered heteroaryl, and the phenyl or 5- to 10-membered heteroaryl is optionally substituted with one or more R6;
+
+R6 at each occurrence is independently selected from the group consisting of hydrogen, deuterium and —C(═O)NRaRb; and
+
+Ra and Rb at each occurrence are each independently selected from the group consisting of hydrogen, C1-6 alkyl and hydroxy-C1-6 alkyl.
+
+**9**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein,
+
+R3 is selected from the group consisting of hydrogen and C1-6 alkyl.
+
+**10**. (canceled)
+
+**10**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein,
+
+R3 and R4 together with the attached carbon atoms form a 5- to 6-membered saturated carbocyclic ring or a 5- to 6-membered saturated heterocyclic ring, and the 5- to 6-membered saturated heterocyclic ring is not a lactam structure.
+
+**11**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein,
+
+R1 is selected from the group consisting of the following moieties:
+
+[![Figure US20230303562A1-20230928-C00199](https://patentimages.storage.googleapis.com/47/8d/63/2883e88d7bb882/US20230303562A1-20230928-C00199.png)](https://patentimages.storage.googleapis.com/47/8d/63/2883e88d7bb882/US20230303562A1-20230928-C00199.png)
+
+ 
+
+R2 is selected from the group consisting of the following structures:
+
+[![Figure US20230303562A1-20230928-C00200](https://patentimages.storage.googleapis.com/4f/d0/bf/4cbf8d1113d18b/US20230303562A1-20230928-C00200.png)](https://patentimages.storage.googleapis.com/4f/d0/bf/4cbf8d1113d18b/US20230303562A1-20230928-C00200.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00201](https://patentimages.storage.googleapis.com/af/66/b6/0f21e745fe8c9b/US20230303562A1-20230928-C00201.png)](https://patentimages.storage.googleapis.com/af/66/b6/0f21e745fe8c9b/US20230303562A1-20230928-C00201.png)
+
+ 
+
+R3 is selected from the group consisting of hydrogen, methyl, ethyl, isopropyl, cyclopropyl, difluoroethyl, alkoxy and alkylamino;
+
+R4 is selected from the group consisting of hydrogen and —NHR10;
+
+R10 is selected from:
+
+[![Figure US20230303562A1-20230928-C00202](https://patentimages.storage.googleapis.com/1e/6b/ad/c6cdfde3bfdfa6/US20230303562A1-20230928-C00202.png)](https://patentimages.storage.googleapis.com/1e/6b/ad/c6cdfde3bfdfa6/US20230303562A1-20230928-C00202.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00203](https://patentimages.storage.googleapis.com/06/b0/5c/8fd4730f85704d/US20230303562A1-20230928-C00203.png)](https://patentimages.storage.googleapis.com/06/b0/5c/8fd4730f85704d/US20230303562A1-20230928-C00203.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00204](https://patentimages.storage.googleapis.com/3a/f5/83/967cffcbb6b089/US20230303562A1-20230928-C00204.png)](https://patentimages.storage.googleapis.com/3a/f5/83/967cffcbb6b089/US20230303562A1-20230928-C00204.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00205](https://patentimages.storage.googleapis.com/8f/1f/71/4196aae975bb53/US20230303562A1-20230928-C00205.png)](https://patentimages.storage.googleapis.com/8f/1f/71/4196aae975bb53/US20230303562A1-20230928-C00205.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00206](https://patentimages.storage.googleapis.com/9c/35/7c/d33efe1115fe6f/US20230303562A1-20230928-C00206.png)](https://patentimages.storage.googleapis.com/9c/35/7c/d33efe1115fe6f/US20230303562A1-20230928-C00206.png)
+
+ 
+
+or, R3 and R4 together with the attached carbon atoms form cyclopentyl ring, cyclohexyl ring, pyrrolidine ring or piperidine ring.
+
+**12**. The compound according to claim 1, or a pharmaceutically acceptable salt, ester, stereoisomer, tautomer, polymorph, solvate, oxynitride, isotopically labeled compound, metabolite or prodrug thereof, wherein the compound is selected from:
+
+[![Figure US20230303562A1-20230928-C00207](https://patentimages.storage.googleapis.com/c1/c6/a2/20c3653afeff67/US20230303562A1-20230928-C00207.png)](https://patentimages.storage.googleapis.com/c1/c6/a2/20c3653afeff67/US20230303562A1-20230928-C00207.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00208](https://patentimages.storage.googleapis.com/0a/f7/2a/146baf40c6a8c6/US20230303562A1-20230928-C00208.png)](https://patentimages.storage.googleapis.com/0a/f7/2a/146baf40c6a8c6/US20230303562A1-20230928-C00208.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00209](https://patentimages.storage.googleapis.com/ae/c1/63/1109faafc8f80d/US20230303562A1-20230928-C00209.png)](https://patentimages.storage.googleapis.com/ae/c1/63/1109faafc8f80d/US20230303562A1-20230928-C00209.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00210](https://patentimages.storage.googleapis.com/59/1d/49/2eefcdab8b1d02/US20230303562A1-20230928-C00210.png)](https://patentimages.storage.googleapis.com/59/1d/49/2eefcdab8b1d02/US20230303562A1-20230928-C00210.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00211](https://patentimages.storage.googleapis.com/67/93/b4/9176ce2c76e8fd/US20230303562A1-20230928-C00211.png)](https://patentimages.storage.googleapis.com/67/93/b4/9176ce2c76e8fd/US20230303562A1-20230928-C00211.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00212](https://patentimages.storage.googleapis.com/de/6b/28/fae6ec749f6248/US20230303562A1-20230928-C00212.png)](https://patentimages.storage.googleapis.com/de/6b/28/fae6ec749f6248/US20230303562A1-20230928-C00212.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00213](https://patentimages.storage.googleapis.com/84/82/9f/b80cf7cc560670/US20230303562A1-20230928-C00213.png)](https://patentimages.storage.googleapis.com/84/82/9f/b80cf7cc560670/US20230303562A1-20230928-C00213.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00214](https://patentimages.storage.googleapis.com/f0/62/d2/5906a742ac99f8/US20230303562A1-20230928-C00214.png)](https://patentimages.storage.googleapis.com/f0/62/d2/5906a742ac99f8/US20230303562A1-20230928-C00214.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00215](https://patentimages.storage.googleapis.com/10/4b/0c/9a453c6675cb61/US20230303562A1-20230928-C00215.png)](https://patentimages.storage.googleapis.com/10/4b/0c/9a453c6675cb61/US20230303562A1-20230928-C00215.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00216](https://patentimages.storage.googleapis.com/18/7f/54/4c2fb30f91e713/US20230303562A1-20230928-C00216.png)](https://patentimages.storage.googleapis.com/18/7f/54/4c2fb30f91e713/US20230303562A1-20230928-C00216.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00217](https://patentimages.storage.googleapis.com/5e/a5/c9/f920918f2d006b/US20230303562A1-20230928-C00217.png)](https://patentimages.storage.googleapis.com/5e/a5/c9/f920918f2d006b/US20230303562A1-20230928-C00217.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00218](https://patentimages.storage.googleapis.com/3e/0e/47/0d881386edb6fa/US20230303562A1-20230928-C00218.png)](https://patentimages.storage.googleapis.com/3e/0e/47/0d881386edb6fa/US20230303562A1-20230928-C00218.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00219](https://patentimages.storage.googleapis.com/47/bd/ae/4a8058be9327a9/US20230303562A1-20230928-C00219.png)](https://patentimages.storage.googleapis.com/47/bd/ae/4a8058be9327a9/US20230303562A1-20230928-C00219.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00220](https://patentimages.storage.googleapis.com/3e/71/4a/945425bb2aaf34/US20230303562A1-20230928-C00220.png)](https://patentimages.storage.googleapis.com/3e/71/4a/945425bb2aaf34/US20230303562A1-20230928-C00220.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00221](https://patentimages.storage.googleapis.com/1e/f5/93/4a35bfd930b2cb/US20230303562A1-20230928-C00221.png)](https://patentimages.storage.googleapis.com/1e/f5/93/4a35bfd930b2cb/US20230303562A1-20230928-C00221.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00222](https://patentimages.storage.googleapis.com/b5/2d/66/92da078598de63/US20230303562A1-20230928-C00222.png)](https://patentimages.storage.googleapis.com/b5/2d/66/92da078598de63/US20230303562A1-20230928-C00222.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00223](https://patentimages.storage.googleapis.com/58/ff/f9/167f1c1cd186b5/US20230303562A1-20230928-C00223.png)](https://patentimages.storage.googleapis.com/58/ff/f9/167f1c1cd186b5/US20230303562A1-20230928-C00223.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00224](https://patentimages.storage.googleapis.com/34/56/9e/3e026a78e8a33a/US20230303562A1-20230928-C00224.png)](https://patentimages.storage.googleapis.com/34/56/9e/3e026a78e8a33a/US20230303562A1-20230928-C00224.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00225](https://patentimages.storage.googleapis.com/81/f6/c1/2506086620778d/US20230303562A1-20230928-C00225.png)](https://patentimages.storage.googleapis.com/81/f6/c1/2506086620778d/US20230303562A1-20230928-C00225.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00226](https://patentimages.storage.googleapis.com/ea/4a/3a/4f62436d8437a4/US20230303562A1-20230928-C00226.png)](https://patentimages.storage.googleapis.com/ea/4a/3a/4f62436d8437a4/US20230303562A1-20230928-C00226.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00227](https://patentimages.storage.googleapis.com/bd/d2/6f/911ad38d8ff162/US20230303562A1-20230928-C00227.png)](https://patentimages.storage.googleapis.com/bd/d2/6f/911ad38d8ff162/US20230303562A1-20230928-C00227.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00228](https://patentimages.storage.googleapis.com/31/98/02/e595909ddf09c2/US20230303562A1-20230928-C00228.png)](https://patentimages.storage.googleapis.com/31/98/02/e595909ddf09c2/US20230303562A1-20230928-C00228.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00229](https://patentimages.storage.googleapis.com/93/ab/28/1adca16843750d/US20230303562A1-20230928-C00229.png)](https://patentimages.storage.googleapis.com/93/ab/28/1adca16843750d/US20230303562A1-20230928-C00229.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00230](https://patentimages.storage.googleapis.com/5d/a1/1c/0a0365bdb7a7e1/US20230303562A1-20230928-C00230.png)](https://patentimages.storage.googleapis.com/5d/a1/1c/0a0365bdb7a7e1/US20230303562A1-20230928-C00230.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00231](https://patentimages.storage.googleapis.com/c0/a0/12/ebec0f969a153f/US20230303562A1-20230928-C00231.png)](https://patentimages.storage.googleapis.com/c0/a0/12/ebec0f969a153f/US20230303562A1-20230928-C00231.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00232](https://patentimages.storage.googleapis.com/75/5b/61/a70b989068885a/US20230303562A1-20230928-C00232.png)](https://patentimages.storage.googleapis.com/75/5b/61/a70b989068885a/US20230303562A1-20230928-C00232.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00233](https://patentimages.storage.googleapis.com/5e/89/72/c54414bb95921e/US20230303562A1-20230928-C00233.png)](https://patentimages.storage.googleapis.com/5e/89/72/c54414bb95921e/US20230303562A1-20230928-C00233.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00234](https://patentimages.storage.googleapis.com/91/a4/9e/0622fca96f71a5/US20230303562A1-20230928-C00234.png)](https://patentimages.storage.googleapis.com/91/a4/9e/0622fca96f71a5/US20230303562A1-20230928-C00234.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00235](https://patentimages.storage.googleapis.com/63/19/10/0027c18138111f/US20230303562A1-20230928-C00235.png)](https://patentimages.storage.googleapis.com/63/19/10/0027c18138111f/US20230303562A1-20230928-C00235.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00236](https://patentimages.storage.googleapis.com/d7/c8/ec/63eff67635f96a/US20230303562A1-20230928-C00236.png)](https://patentimages.storage.googleapis.com/d7/c8/ec/63eff67635f96a/US20230303562A1-20230928-C00236.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00237](https://patentimages.storage.googleapis.com/43/c0/13/84b2ebcad02ef7/US20230303562A1-20230928-C00237.png)](https://patentimages.storage.googleapis.com/43/c0/13/84b2ebcad02ef7/US20230303562A1-20230928-C00237.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00238](https://patentimages.storage.googleapis.com/ad/62/90/e39bc125532f1d/US20230303562A1-20230928-C00238.png)](https://patentimages.storage.googleapis.com/ad/62/90/e39bc125532f1d/US20230303562A1-20230928-C00238.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00239](https://patentimages.storage.googleapis.com/45/71/37/7dd78d92a2f022/US20230303562A1-20230928-C00239.png)](https://patentimages.storage.googleapis.com/45/71/37/7dd78d92a2f022/US20230303562A1-20230928-C00239.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00240](https://patentimages.storage.googleapis.com/5b/3f/4e/c4939633d6029b/US20230303562A1-20230928-C00240.png)](https://patentimages.storage.googleapis.com/5b/3f/4e/c4939633d6029b/US20230303562A1-20230928-C00240.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00241](https://patentimages.storage.googleapis.com/2f/d7/84/87c2080d670a04/US20230303562A1-20230928-C00241.png)](https://patentimages.storage.googleapis.com/2f/d7/84/87c2080d670a04/US20230303562A1-20230928-C00241.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00242](https://patentimages.storage.googleapis.com/4d/67/c4/3e63c8ca155648/US20230303562A1-20230928-C00242.png)](https://patentimages.storage.googleapis.com/4d/67/c4/3e63c8ca155648/US20230303562A1-20230928-C00242.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00243](https://patentimages.storage.googleapis.com/bb/53/ce/46831817f2a01e/US20230303562A1-20230928-C00243.png)](https://patentimages.storage.googleapis.com/bb/53/ce/46831817f2a01e/US20230303562A1-20230928-C00243.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00244](https://patentimages.storage.googleapis.com/af/19/b7/128a7847753856/US20230303562A1-20230928-C00244.png)](https://patentimages.storage.googleapis.com/af/19/b7/128a7847753856/US20230303562A1-20230928-C00244.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00245](https://patentimages.storage.googleapis.com/46/43/f7/9cb109b1869184/US20230303562A1-20230928-C00245.png)](https://patentimages.storage.googleapis.com/46/43/f7/9cb109b1869184/US20230303562A1-20230928-C00245.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00246](https://patentimages.storage.googleapis.com/b0/08/32/da10109b54f105/US20230303562A1-20230928-C00246.png)](https://patentimages.storage.googleapis.com/b0/08/32/da10109b54f105/US20230303562A1-20230928-C00246.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00247](https://patentimages.storage.googleapis.com/66/64/e0/e27c9f7c5b5e2a/US20230303562A1-20230928-C00247.png)](https://patentimages.storage.googleapis.com/66/64/e0/e27c9f7c5b5e2a/US20230303562A1-20230928-C00247.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00248](https://patentimages.storage.googleapis.com/6e/f5/29/6e8d8042e87a3a/US20230303562A1-20230928-C00248.png)](https://patentimages.storage.googleapis.com/6e/f5/29/6e8d8042e87a3a/US20230303562A1-20230928-C00248.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00249](https://patentimages.storage.googleapis.com/b0/dc/fd/8f1a601981cad0/US20230303562A1-20230928-C00249.png)](https://patentimages.storage.googleapis.com/b0/dc/fd/8f1a601981cad0/US20230303562A1-20230928-C00249.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00250](https://patentimages.storage.googleapis.com/9b/8a/6e/a0810341383d7d/US20230303562A1-20230928-C00250.png)](https://patentimages.storage.googleapis.com/9b/8a/6e/a0810341383d7d/US20230303562A1-20230928-C00250.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00251](https://patentimages.storage.googleapis.com/e7/39/fd/fe2dd4ab282dda/US20230303562A1-20230928-C00251.png)](https://patentimages.storage.googleapis.com/e7/39/fd/fe2dd4ab282dda/US20230303562A1-20230928-C00251.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00252](https://patentimages.storage.googleapis.com/ea/08/8c/c8d05a807761b2/US20230303562A1-20230928-C00252.png)](https://patentimages.storage.googleapis.com/ea/08/8c/c8d05a807761b2/US20230303562A1-20230928-C00252.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00253](https://patentimages.storage.googleapis.com/fc/b1/b6/bad1c2de43d9ba/US20230303562A1-20230928-C00253.png)](https://patentimages.storage.googleapis.com/fc/b1/b6/bad1c2de43d9ba/US20230303562A1-20230928-C00253.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00254](https://patentimages.storage.googleapis.com/06/0d/4b/f00ea5a0eefe56/US20230303562A1-20230928-C00254.png)](https://patentimages.storage.googleapis.com/06/0d/4b/f00ea5a0eefe56/US20230303562A1-20230928-C00254.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00255](https://patentimages.storage.googleapis.com/ba/4e/79/8849e45c709a2e/US20230303562A1-20230928-C00255.png)](https://patentimages.storage.googleapis.com/ba/4e/79/8849e45c709a2e/US20230303562A1-20230928-C00255.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00256](https://patentimages.storage.googleapis.com/48/27/f5/c5361b3c38cf9c/US20230303562A1-20230928-C00256.png)](https://patentimages.storage.googleapis.com/48/27/f5/c5361b3c38cf9c/US20230303562A1-20230928-C00256.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00257](https://patentimages.storage.googleapis.com/17/32/21/8fddeb62a37223/US20230303562A1-20230928-C00257.png)](https://patentimages.storage.googleapis.com/17/32/21/8fddeb62a37223/US20230303562A1-20230928-C00257.png)
+
+**13**. A pharmaceutical composition, which comprises at least one compound according to claim 1, or a pharmaceutically acceptable form thereof, and one or more pharmaceutically acceptable carriers.
+
+**14**. A kit product, which comprises:
+
+a) at least one compound according to claim 1 or a pharmaceutically acceptable form thereof as a first therapeutic agent, or pharmaceutical composition as a first pharmaceutical composition.
+
+**15**. (canceled)
+
+**16**. A method for preventing and/or treating a disease or disorder mediated at least in part by TGFβR1, comprising administering a prophylactically and/or therapeutically effective amount of the compound according to claim 1 or a pharmaceutically acceptable form thereof, or the pharmaceutical composition comprising the same to an individual in need thereof.
+
+**17**. A pharmaceutical composition, which comprises at least one compound according to claim 13, or a pharmaceutically acceptable form thereof, and one or more pharmaceutically acceptable carriers.
+
+**18**. A kit product, which comprises:
+
+a) at least one compound according to claim 13 or a pharmaceutically acceptable form thereof as a first therapeutic agent, or a pharmaceutical composition comprising the same as a first pharmaceutical composition.
+
+**19**. A method for preventing and/or treating a disease or disorder mediated at least in part by TGFβR1, comprising administering a prophylactically and/or therapeutically effective amount of the compound according to claim 13 or a pharmaceutically acceptable form thereof, or the pharmaceutical composition comprising the same to an individual in need thereof.
+
+**20**. The compound of claim 3, wherein R3 is hydrogen or C1-6 alkyl.
+
+**21**. The compound of claim 4, wherein p is 0.
+
+**22**. The compound of claim 5, wherein X is selected from the group consisting of —NH—, —O— and —S—.
+
+**23**. The compound of claim 6, where R10 is selected from the group consisting of C1-6 alkyl, C3-6 cycloalkyl, C3-6 cycloalkyl-C1-4 alkyl, 3- to 6-membered heterocyclyl, benzyl, 5- to 6-membered heteroarylalkyl, phenyl and 5- to 6-membered heteroaryl; wherein the C1-6 alkyl, C3-6 cycloalkyl, C3-6 cycloalkyl-C1-4 alkyl, 3- to 6-membered heterocyclyl, benzyl, 5- to 6-membered heteroarylalkyl, phenyl and 5- to 6-membered heteroaryl are each optionally substituted with one or more groups independently selected from the group consisting of C1-6 alkyl, halogen, cyano, amido, carbamoyl, mono- or di-C1-4 alkyl-substituted carbamoyl and sulfonyl.
+
+**24**. The compound of claim 6, wherein R10 is selected from the group consisting of C1-6 alkyl, C3-6 cycloalkyl, benzyl, pyridyl and pyrazolyl; wherein the C1-6 alkyl, C3-6 cycloalkyl, benzyl, pyridyl and pyrazolyl are each optionally substituted with one or more groups independently selected from the group consisting of methyl, fluoro, chloro, bromo, and cyano.
+
+**25**. The compound of claim 7, wherein R1 is selected from the following moieties:
+
+[![Figure US20230303562A1-20230928-C00258](https://patentimages.storage.googleapis.com/e1/9b/b3/7fcbcad9cf1a9a/US20230303562A1-20230928-C00258.png)](https://patentimages.storage.googleapis.com/e1/9b/b3/7fcbcad9cf1a9a/US20230303562A1-20230928-C00258.png)
+
+**26**. The compound of claim 7, wherein R1 is
+
+[![Figure US20230303562A1-20230928-C00259](https://patentimages.storage.googleapis.com/06/43/d9/c7d289d5d9fca3/US20230303562A1-20230928-C00259.png)](https://patentimages.storage.googleapis.com/06/43/d9/c7d289d5d9fca3/US20230303562A1-20230928-C00259.png)
+
+**27**. The compound of claim 8, wherein R2 is
+
+[![Figure US20230303562A1-20230928-C00260](https://patentimages.storage.googleapis.com/be/83/8e/fc03851d2c555a/US20230303562A1-20230928-C00260.png)](https://patentimages.storage.googleapis.com/be/83/8e/fc03851d2c555a/US20230303562A1-20230928-C00260.png)
+
+ 
+
+wherein ring A is a benzene ring or a 6-membered heteroaromatic ring;
+
+ring B is a 5-membered heteroaromatic ring;
+
+A1-A6 and B1-B3 are selected from the group consisting of C, CH, N, NH, O and S;
+
+R6 at each occurrence is independently selected from the group consisting of hydrogen, deuterium and —C(═O)NRaRb; and
+
+Ra and Rb at each occurrence are each independently selected from the group consisting of hydrogen, C1-6 alkyl and hydroxyl-C1-6 alkyl.
+
+**28**. The compound of claim 8, wherein R2 is selected from the following moieties:
+
+[![Figure US20230303562A1-20230928-C00261](https://patentimages.storage.googleapis.com/2b/d1/e5/bf099e08e70cc8/US20230303562A1-20230928-C00261.png)](https://patentimages.storage.googleapis.com/2b/d1/e5/bf099e08e70cc8/US20230303562A1-20230928-C00261.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00262](https://patentimages.storage.googleapis.com/63/c8/6a/11e4f1b0abfe96/US20230303562A1-20230928-C00262.png)](https://patentimages.storage.googleapis.com/63/c8/6a/11e4f1b0abfe96/US20230303562A1-20230928-C00262.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00263](https://patentimages.storage.googleapis.com/b2/79/aa/301cd83c68719d/US20230303562A1-20230928-C00263.png)](https://patentimages.storage.googleapis.com/b2/79/aa/301cd83c68719d/US20230303562A1-20230928-C00263.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00264](https://patentimages.storage.googleapis.com/b3/16/5a/6b735b956732ea/US20230303562A1-20230928-C00264.png)](https://patentimages.storage.googleapis.com/b3/16/5a/6b735b956732ea/US20230303562A1-20230928-C00264.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00265](https://patentimages.storage.googleapis.com/a4/f4/29/5b766dc6e8a073/US20230303562A1-20230928-C00265.png)](https://patentimages.storage.googleapis.com/a4/f4/29/5b766dc6e8a073/US20230303562A1-20230928-C00265.png)
+
+**29**. The compound of claim 8, wherein R2 is selected from:
+
+[![Figure US20230303562A1-20230928-C00266](https://patentimages.storage.googleapis.com/94/7a/b6/9455199cff0393/US20230303562A1-20230928-C00266.png)](https://patentimages.storage.googleapis.com/94/7a/b6/9455199cff0393/US20230303562A1-20230928-C00266.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00267](https://patentimages.storage.googleapis.com/6b/86/ba/1bcfa6cdcbb201/US20230303562A1-20230928-C00267.png)](https://patentimages.storage.googleapis.com/6b/86/ba/1bcfa6cdcbb201/US20230303562A1-20230928-C00267.png)
+
+**30**. The compound of claim 8, wherein R2 is selected from:
+
+[![Figure US20230303562A1-20230928-C00268](https://patentimages.storage.googleapis.com/9f/8c/0a/8c692d24916d0a/US20230303562A1-20230928-C00268.png)](https://patentimages.storage.googleapis.com/9f/8c/0a/8c692d24916d0a/US20230303562A1-20230928-C00268.png)
+
+**31**. The compound of claim 9, wherein R3 is selected from the group consisting of hydrogen, methyl, ethyl, propyl and isopropyl.
+
+**32**. The compound of claim 9, wherein R3 is selected from the group consisting of hydrogen and isopropyl.
+
+**33**. The compound of claim 9, wherein R3 is hydrogen.
+
+**34**. The compound of claim 9, wherein R3 is isopropyl.
+
+**35**. The compound according to claim 1, or a pharmaceutically acceptable form thereof, wherein,
+
+R4 is selected from the group consisting of hydrogen, C1-6 alkylamino, C3-8 cycloalkylamino, benzylamino and 5- to 10-membered heteroarylalkylamino, wherein the C1-6 alkylamino, C3-8 cycloalkylamino, benzylamino and 5- to 10-membered heteroarylalkylamino are each optionally substituted with one or more groups independently selected from the group consisting of the followings: C1-6 alkyl, halogen and cyano.
+
+**36**. The compound of claim 35, wherein R4 is selected from the group consisting of hydrogen, C1-6 alkylamino, C3-6 cycloalkylamino, benzylamino and 5- to 6-membered heteroaryl-C1-4 alkylamino, and the C1-6 alkylamino, C3-6 cycloalkylamino, benzylamino and 5- to 6-membered heteroaryl-C1-4 alkylamino are each optionally substituted with one or more groups selected from the group consisting of the followings: C1-6 alkyl, halogen and cyano.
+
+**37**. The compound of claim 35, wherein R4 is selected from the group consisting of hydrogen and —NHR10; wherein R10 is selected from the group consisting of C1-6 alkyl, C3-6 cycloalkyl, benzyl and 5- to 6-membered heteroaryl-C1-4 alkyl, and the C1-6 alkyl, C3-6 cycloalkyl, benzyl and 5- to 6-membered heteroaryl-C1-4 alkyl are each optionally substituted with one or more groups independently selected from the group consisting of the followings: C1-6 alkyl, fluoro, chloro, bromo, and cyano.
+
+**38**. The compound of claim 37, wherein R10 is selected from the group consisting of C1-6 alkyl, C3-6 cycloalkyl, benzyl, pyridyl and pyrazolyl, and the C1-6 alkyl, C3-6 cycloalkyl, benzyl, pyridyl and pyrazolyl are each optionally substituted with one or more groups independently selected from the group consisting of the followings: methyl, fluoro, chloro, bromo, and cyano.
+
+**39**. The compound of claim 35, wherein R4 is selected from the group consisting of hydrogen and —NHR10; wherein R10 is selected from the group consisting of C1-6 alkyl, benzyl and pyridylmethyl, and the benzyl and pyridylmethyl are each optionally substituted with one or more groups independently selected from the group consisting of the followings: C1-6 alkyl, fluoro, chloro, bromo, and cyano.
+
+**40**. The compound of claim 39, wherein R10 is selected from the group consisting of C1-6 alkyl, benzyl and pyridylmethyl, and the benzyl and pyridylmethyl are each optionally substituted with one or more groups independently selected from the group consisting of the followings: methyl and fluoro.
+
+**41**. The compound of claim 35, wherein R4 is selected from the group consisting of hydrogen and —NHR10; R10 is selected from:
+
+[![Figure US20230303562A1-20230928-C00269](https://patentimages.storage.googleapis.com/58/ab/84/ae550ed2689b31/US20230303562A1-20230928-C00269.png)](https://patentimages.storage.googleapis.com/58/ab/84/ae550ed2689b31/US20230303562A1-20230928-C00269.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00270](https://patentimages.storage.googleapis.com/68/e2/7d/4b854a5681c2eb/US20230303562A1-20230928-C00270.png)](https://patentimages.storage.googleapis.com/68/e2/7d/4b854a5681c2eb/US20230303562A1-20230928-C00270.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00271](https://patentimages.storage.googleapis.com/94/10/e1/fef3094294dc23/US20230303562A1-20230928-C00271.png)](https://patentimages.storage.googleapis.com/94/10/e1/fef3094294dc23/US20230303562A1-20230928-C00271.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00272](https://patentimages.storage.googleapis.com/0f/c5/03/fd54ab06f7897e/US20230303562A1-20230928-C00272.png)](https://patentimages.storage.googleapis.com/0f/c5/03/fd54ab06f7897e/US20230303562A1-20230928-C00272.png)
+
+ 
+
+[![Figure US20230303562A1-20230928-C00273](https://patentimages.storage.googleapis.com/e2/c7/19/65e4158885fdf7/US20230303562A1-20230928-C00273.png)](https://patentimages.storage.googleapis.com/e2/c7/19/65e4158885fdf7/US20230303562A1-20230928-C00273.png)
+
+**42**. The compound of claim 35, wherein R4 is selected from the group consisting of hydrogen and —NHR10; R10 is selected from:
+
+[![Figure US20230303562A1-20230928-C00274](https://patentimages.storage.googleapis.com/78/7f/4a/27512dd1fbfe73/US20230303562A1-20230928-C00274.png)](https://patentimages.storage.googleapis.com/78/7f/4a/27512dd1fbfe73/US20230303562A1-20230928-C00274.png)
+
+**43**. The compound of claim 10, wherein R3 and R4 together with the attached carbon atoms form a cyclopentyl ring, cyclohexyl ring, pyrrolidine ring or piperidine ring.
+
+**44**. The kit of claim 14, wherein the kit further comprises b) at least one additional therapeutic agent as a second therapeutic agent, or a pharmaceutical composition comprising the additional therapeutic agent as a second pharmaceutical composition.
+
+**45**. The kit of claim 14, wherein the kit further comprises c) packaging and/or instruction.
+
+**46**. The method of claim 16, wherein the disease or disorder mediated at least in part by TGFβR1 is a cancer or fibrotic disease.
+
+**47**. The kit of claim 18, wherein the kit further comprises b) at least one additional therapeutic agent as a second therapeutic agent, or a pharmaceutical composition comprising the additional therapeutic agent as a second pharmaceutical composition.
+
+**48**. The kit of claim 18, wherein the kit further comprises c) packaging and/or instruction.
+
+**49**. The method of claim 19, wherein the disease or disorder mediated at least in part by TGFβR1 is a cancer or fibrotic disease.

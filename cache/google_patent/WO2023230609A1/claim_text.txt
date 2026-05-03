@@ -1,0 +1,89 @@
+Claims
+------
+
+CLAIMS 1. A compound of formula I:
+
+[![Figure imgf000289_0001](https://patentimages.storage.googleapis.com/34/16/ce/cd9f0abb9374e4/imgf000289_0001.png)](https://patentimages.storage.googleapis.com/34/16/ce/cd9f0abb9374e4/imgf000289_0001.png)
+
+or a pharmaceutically acceptable salt, isomer, enantiomer, or tautomer thereof, wherein: X is selected from C-R6 and N; X′ is selected from C-R6′ and N, wherein X and X′ are not simultaneously N; R1 is C1-4 aliphatic; R2 is C1-6 aliphatic substituted by 0-4 instances of R7; R3 is C1-6 aliphatic substituted by 0-3 instances of R8; R4 is halogen or C1-4 aliphatic; R5 is halogen; each R6 and R6′ is independently selected from hydrogen, C1-6 aliphatic, -L1(R9)q, and -O-L2- (R9)p; each R7 is independently selected from halogen, -OR, -N(R)2, and -Cy; each R8 is independently selected from halogen, -OR, -N(R)2, -C(O)N(R)2, and -Cy; each R9 is independently selected from halogen, -CN, -OR, -N(R)2, -C(O)R, -C(O)OR, - OC(O)R, -C(O)N(R)2, -N(R)C(O)R, -N(R)C(O)OR, -OC(O)N(R)2, and –Cy; L1 is a covalent bond or C1-4 aliphatic; L2 is C1-4 aliphatic; each Cy is independently selected from a 3- to 7-membered saturated or partially unsaturated carbocyclic ring, phenyl, a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 10-membered bicyclic aryl ring, 5- to 6-membered heteroaryl ring having 1-4 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10-membered bicyclic heteroaryl ring having 1-4 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy is substituted by 0-3 instances of R10;
+each R10 is independently selected from halogen, –OR, -N(R)2, -CN, -C(O)R, -C(O)OR, - C(O)N(R)2, oxo, and an optionally substituted group selected from C1-6 aliphatic and a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur; each R is independently hydrogen or an optionally substituted group selected from C1-6 aliphatic, a 3- to 7-membered saturated or partially unsaturated carbocyclic ring, phenyl, a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and a 5- to 6- membered heteroaryl ring having 1-4 heteroatoms independently selected from nitrogen, oxygen, and sulfur; each m and n is independently 0 or 1; and each of p and q is independently 1-4.
+
+2. The compound according to claim 1, wherein the compound is selected from a compound of formulae I-a I-b I-c I-d I-e I-f I-g and I-h:
+
+[![Figure imgf000290_0001](https://patentimages.storage.googleapis.com/82/0e/e1/d41fc9c8405654/imgf000290_0001.png)](https://patentimages.storage.googleapis.com/82/0e/e1/d41fc9c8405654/imgf000290_0001.png)
+
+[![Figure imgf000291_0001](https://patentimages.storage.googleapis.com/e5/f8/a8/89eadb292d8da4/imgf000291_0001.png)](https://patentimages.storage.googleapis.com/e5/f8/a8/89eadb292d8da4/imgf000291_0001.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+3. The compound according to claim 2, wherein the compound is selected from a compound of formulae I-a-i, I-a-ii, I-b-i, I-b-ii, I-c-i, I-c-ii, I-d-i, I-d-ii, I-e-i, I-e-ii, I-f-i, I-f-ii, I-g-i, I-g-ii, I- h-i, and I-h-ii:
+
+[![Figure imgf000291_0002](https://patentimages.storage.googleapis.com/b6/b9/b8/1c0d1ef1aebbb7/imgf000291_0002.png)](https://patentimages.storage.googleapis.com/b6/b9/b8/1c0d1ef1aebbb7/imgf000291_0002.png)
+
+[![Figure imgf000292_0001](https://patentimages.storage.googleapis.com/57/48/fb/33706ff09efb81/imgf000292_0001.png)](https://patentimages.storage.googleapis.com/57/48/fb/33706ff09efb81/imgf000292_0001.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+4. The compound according to any one of claims 1-3, wherein R1 is –CH3.
+
+5. The compound according to any one of claims 1-4, wherein R5 is fluoro.
+
+6. The compound according to any one of claims 1-5, wherein m is 0.
+
+7. The compound according to any one of claims 1-5, wherein m is 1.
+
+8. The compound according to any one of claims 1-5 and 7, wherein R4 is halogen.
+
+9. The compound according to any one of claims 1-5 and 7, wherein R4 is C1-6 aliphatic.
+
+10. The compound according to any one of claims 1-9, wherein R2 is C1-6 aliphatic substituted by 1-4 instances of R7.
+
+11. The compound according to claim 10, wherein R2 is C1–4 aliphatic substituted by 1-4 instances of R7.
+
+12. The compound according to any one of claims 1-11, wherein R2 is selected from the group consisting of
+
+[![Figure imgf000293_0002](https://patentimages.storage.googleapis.com/87/4a/53/a65c795b4666e7/imgf000293_0002.png)](https://patentimages.storage.googleapis.com/87/4a/53/a65c795b4666e7/imgf000293_0002.png)
+
+.
+
+13. The compound according to any one of claims 1-12, wherein R3 is selected from –CH2CH3, -CH(CH3)2,
+
+[![Figure imgf000293_0001](https://patentimages.storage.googleapis.com/80/2c/0b/ad832e0411df98/imgf000293_0001.png)](https://patentimages.storage.googleapis.com/80/2c/0b/ad832e0411df98/imgf000293_0001.png)
+
+[![Figure imgf000294_0001](https://patentimages.storage.googleapis.com/1e/72/1d/6bbe829a076739/imgf000294_0001.png)](https://patentimages.storage.googleapis.com/1e/72/1d/6bbe829a076739/imgf000294_0001.png)
+
+14. The compound according to any one of claims 1-13, wherein R6 is selected from hydrogen, –CH3, -CH2CH3, -CH(CH3)2, -CF3, -CN, halogen, -OCH3, -N(CH3)2,
+
+[![Figure imgf000295_0001](https://patentimages.storage.googleapis.com/62/bc/76/8d412af3cc9d2d/imgf000295_0001.png)](https://patentimages.storage.googleapis.com/62/bc/76/8d412af3cc9d2d/imgf000295_0001.png)
+
+[![Figure imgf000296_0001](https://patentimages.storage.googleapis.com/c4/83/ad/61fe055dc560b5/imgf000296_0001.png)](https://patentimages.storage.googleapis.com/c4/83/ad/61fe055dc560b5/imgf000296_0001.png)
+
+[![Figure imgf000297_0001](https://patentimages.storage.googleapis.com/8d/78/00/be0e3253a1ec4d/imgf000297_0001.png)](https://patentimages.storage.googleapis.com/8d/78/00/be0e3253a1ec4d/imgf000297_0001.png)
+
+[![Figure imgf000298_0001](https://patentimages.storage.googleapis.com/1c/58/2a/c84af33ac8af92/imgf000298_0001.png)](https://patentimages.storage.googleapis.com/1c/58/2a/c84af33ac8af92/imgf000298_0001.png)
+
+.
+
+15. The compound according to any one of claims 1-14, wherein R6′ is selected from hydrogen, fluoro, chloro, -CN, -OH, -OCH3, -CF3, -CH3, -CH2CH3, -CH(CH3)2, -C(CH3)3,
+
+[![Figure imgf000298_0002](https://patentimages.storage.googleapis.com/c6/62/33/d49e459a34adc9/imgf000298_0002.png)](https://patentimages.storage.googleapis.com/c6/62/33/d49e459a34adc9/imgf000298_0002.png)
+
+.
+
+16. A pharmaceutically acceptable composition comprising the compound according to any one of claims 1-15, and a pharmaceutically acceptable carrier, adjuvant, or vehicle.
+
+17. A method of inhibiting PAD4 in a subject or in a biological sample comprising the step of contacting the PAD4 with a compound according to any one of claims 1-15.
+
+18. A method of treating a PAD4-mediated disease, disorder, or condition in a subject in need thereof comprising the step of administering to said subject the composition according to claim 16.
+
+19. The method according to claim 18, wherein the PAD4-mediated disease, disorder, or condition is selected from the group consisting of acid-induced lung injury, acne (PAPA), acute lymphocytic leukemia, acute, respiratory distress syndrome, Addison’s disease, adrenal hyperplasia, adrenocortical insufficiency, ageing, AIDS, alcoholic hepatitis, alcoholic hepatitis, alcoholic liver disease, allergen induced asthma, allergic bronchopulmonary, aspergillosis, allergic conjunctivitis, alopecia, Alzheimer’s disease, amyloidosis, amyotropic lateral sclerosis, and weight loss, angina pectoris, angioedema, anhidrotic ecodermal dysplasia-ID, ankylosing spondylitis, anterior segment, inflammation, antiphospholipid syndrome, aphthous stomatitis, appendicitis, arthritis, asthma, atherosclerosis, atopic dermatitis, autoimmune diseases, autoimmune hepatitis, bee sting-induced inflammation, behcet’s disease, Behcet’s syndrome, Bells Palsey, berylliosis, Blau syndrome, bone pain, bronchiolitis, burns, bursitis, cancer, cardiac hypertrophy, carpal tunnel syndrome, catabolic disorders, cataracts, cerebral aneurysm, chemical irritant-induced inflammation, chorioretinitis, chronic heart failure, chronic lung disease of prematurity, chronic lymphocytic leukemia, chronic obstructive pulmonary disease, colitis, complex regional pain syndrome, connective tissue disease, corneal ulcer, crohn’s disease, cryopyrin-associated periodic syndromes, cyrptococcosis, cystic fibrosis, deficiency of the interleukin-1–receptor antagonist (DIRA), dermatitis, dermatitis endotoxemia, dermatomyositis, diffuse intrinsic pontine glioma, endometriosis, endotoxemia, epicondylitis, erythroblastopenia, familial amyloidotic polyneuropathy, familial cold urticarial, familial mediterranean fever, fetal growth retardation, glaucoma, glomerular disease, glomerular nephritis, gout, gouty arthritis, graft-versus-host disease, gut diseases, head injury, headache, hearing loss, heart disease, hemolytic anemia, Henoch- Scholein purpura, hepatitis, hereditary periodic fever syndrome, herpes zoster and simplex, HIV- 1, Hodgkin’s disease, Huntington’s disease, hyaline membrane disease, hyperammonemia, hypercalcemia, hypercholesterolemia, hyperimmunoglobulinemia D with recurrent fever (HIDS),
+hypoplastic and other anemias, hypoplastic anemia, idiopathic thrombocytopenic purpura, incontinentia pigmenti, infectious mononucleosis, inflammatory bowel disease, inflammatory lung disease, inflammatory neuropathy, inflammatory pain, insect bite-induced inflammation, iritis, irritant-induced inflammation, ischemia/reperfusion, juvenile rheumatoid arthritis, keratitis, kidney disease, kidney injury caused by parasitic infections, kidney injury caused by parasitic infections, kidney transplant rejection prophylaxis, leptospiriosis, leukemia, Loeffler’s syndrome, lung injury, lung injury, lupus, lupus, lupus nephritis, lymphoma, meningitis, mesothelioma, mixed connective tissue disease, Muckle-Wells syndrome (urticaria deafness amyloidosis), multiple sclerosis, muscle wasting, muscular dystrophy, myasthenia gravis, myocarditis, mycosis fungiodes, mycosis fungoides, myelodysplastic syndrome, myositis, nasal sinusitis, necrotizing enterocolitis, neonatal onset multisystem inflammatory disease (NOMID), nephrotic syndrome, neuritis, neuropathological diseases, non-allergen induced asthma, obesity, ocular allergy, optic neuritis, organ transplant, osterarthritis, otitis media, paget’s disease, pain, pancreatitis, Parkinson’s disease, pemphigus, pericarditis, periodic fever, periodontitis, peritoneal endometriosis, pertussis, pharyngitis and adenitis (PFAPA syndrome), plant irritant-induced inflammation, pneumonia, pneumonitis, pneumosysts infection, poison ivy/ urushiol oil-induced inflammation, polyarteritis nodosa, polychondritis, polycystic kidney disease, polymyositis, psoriasis, psoriasis, psoriasis, psoriasis, psychosocial stress diseases, pulmonary disease, pulmonary hypertension, pulmonayr fibrosis, pyoderma gangrenosum, pyogenic sterile arthritis, renal disease, retinal disease, rheumatic carditis, rheumatic disease, rheumatoid arthritis, sarcoidosis, seborrhea, sepsis, severe pain, sickle cell, sickle cell anemia, silica-induced disease, Sjogren’s syndrome, skin diseases, sleep apnea, solid tumors, spinal cord injury, Stevens-Johnson syndrome, stroke, subarachnoid hemorrhage, sunburn, temporal arteritis, tenosynovitis, thrombocytopenia, thyroiditis, tissue transplant, TNF receptor associated periodic syndrome (TRAPS), toxoplasmosis, transplant, traumatic brain injury, tuberculosis, type 1 diabetes, type 2 diabetes, ulcerative colitis, urticarial, uveitis, and Wegener’s granulomatosis.
+
+20. A compound of formula I’:
+
+[![Figure imgf000300_0001](https://patentimages.storage.googleapis.com/54/e7/93/83b1d01489f044/imgf000300_0001.png)](https://patentimages.storage.googleapis.com/54/e7/93/83b1d01489f044/imgf000300_0001.png)
+
+[![Figure imgf000301_0001](https://patentimages.storage.googleapis.com/e7/b9/c6/5fde19a42ec1bb/imgf000301_0001.png)](https://patentimages.storage.googleapis.com/e7/b9/c6/5fde19a42ec1bb/imgf000301_0001.png)
+
+or a pharmaceutically acceptable salt, isomer, enantiomer, or tautomer thereof, wherein: X is selected from C-R6 and N; X′ is selected from C-R6′ and N, wherein X and X′ are not simultaneously N; R1 is C1-4 aliphatic; R2 is C1-6 aliphatic substituted by 0-4 instances of R7; R3 is C1-6 aliphatic substituted by 0-3 instances of R8; R4 is halogen or C1-4 aliphatic; R5 is halogen; each R6 and R6′ is independently selected from hydrogen, C1-6 aliphatic, -L1(R9)q, and -O-L2- (R9)p; each R7 is independently selected from halogen, -OR, -N(R)2, and -Cy; each R8 is independently selected from halogen, -OR, -N(R)2, -C(O)N(R)2, and -Cy; each R9 is independently selected from halogen, -CN, -OR, -N(R)2, -C(O)R, -C(O)OR, - OC(O)R, -C(O)N(R)2, -N(R)C(O)R, -N(R)C(O)OR, -OC(O)N(R)2, and –Cy; L1 is a covalent bond or C1–4 aliphatic; L2 is C1–4 aliphatic; each Cy is independently selected from a 3- to 7-membered saturated or partially unsaturated carbocyclic ring, phenyl, a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 10-membered bicyclic aryl ring, 5- to 6-membered heteroaryl ring having 1-4 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10-membered bicyclic heteroaryl ring having 1-4 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy is substituted by 0-3 instances of R10; each R10 is independently selected from halogen, –OR, -N(R)2, -CN, -C(O)R, -C(O)OR, - C(O)N(R)2, oxo, and an optionally substituted group selected from C1-6 aliphatic and a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulphur, wherein R10 is substituted with 0-3 instances of R; each R is independently hydrogen or an optionally substituted group selected from C1-6 aliphatic, oxo, -CH2OCH3, a 3- to 7-membered saturated or partially unsaturated
+carbocyclic ring, phenyl, a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and a 5- to 6-membered heteroaryl ring having 1-4 heteroatoms independently selected from nitrogen, oxygen, and sulphur, wherein R is substituted with 0-3 instances of halogen, C1-6 aliphatic, or -OH; each m and n is independently 0 or 1; and each of p and q is independently 1-4.

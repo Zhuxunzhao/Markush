@@ -1,0 +1,74 @@
+Claims
+------
+
+CLAIMS We Claim: 
+
+1. A compound of F ormul a I :
+
+[![Figure imgf000123_0001](https://patentimages.storage.googleapis.com/80/c9/a5/46068c5f557db7/imgf000123_0001.png)](https://patentimages.storage.googleapis.com/80/c9/a5/46068c5f557db7/imgf000123_0001.png)
+
+I
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+X1 is N or C-Rxl;
+
+X2 is N or C-Rx2;
+
+X3 is N or C-Rx3;
+
+X4 is N or C-Rx4;
+
+provided that one or two of X1, X2, X3 and X4 is N;
+
+each of Rxl, Rx2, Rx3, and Rx4 is independently selected from -R or -OR;
+
+L1 is selected from a covalent bond, -0-, -N(R)-, -C(0)N(R)-, -S(0)2-, and -S(0)2N(R)-;
+
+L2 is selected from a covalent bond, -0-, -N(R)-, -N(R)C(0)-, and -N(R)S(0)2-;
+
+R1 is selected from halogen, CN, and -R;
+
+R2 is -R; and
+
+R is selected from hydrogen or an optionally substituted group selected from Ci-6 aliphatic, phenyl, a 4- to 6-membered heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, or sulfur, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, or sulfur, and an 8- to 10- membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, or sulfur.
+
+2 The compound according to claim 1, wherein the compound is selected from:
+
+[![Figure imgf000124_0001](https://patentimages.storage.googleapis.com/a9/78/e2/ca1a5ea57276db/imgf000124_0001.png)](https://patentimages.storage.googleapis.com/a9/78/e2/ca1a5ea57276db/imgf000124_0001.png)
+
+I-a I-b I-c or a pharmaceutically acceptable salt thereof.
+
+3. The compound according to claim 1, wherein the compound is:
+
+[![Figure imgf000124_0002](https://patentimages.storage.googleapis.com/f6/76/f0/ec86bdd125d764/imgf000124_0002.png)](https://patentimages.storage.googleapis.com/f6/76/f0/ec86bdd125d764/imgf000124_0002.png)
+
+I-d
+
+or a pharmaceutically acceptable salt thereof.
+
+4. The compound according to claim 3, wherein the compound is selected from:
+
+[![Figure imgf000124_0003](https://patentimages.storage.googleapis.com/c6/7c/11/e18716c2cbfcdf/imgf000124_0003.png)](https://patentimages.storage.googleapis.com/c6/7c/11/e18716c2cbfcdf/imgf000124_0003.png)
+
+I-a-/ I-b-/ I-c-/ or a pharmaceutically acceptable salt thereof.
+
+5. The compound according to claim 4, wherein the compound is selected from:
+
+[![Figure imgf000125_0001](https://patentimages.storage.googleapis.com/5a/03/3c/f6bd23db28e2b1/imgf000125_0001.png)](https://patentimages.storage.googleapis.com/5a/03/3c/f6bd23db28e2b1/imgf000125_0001.png)
+
+I-a-w I-b-H I-C-H or a pharmaceutically acceptable salt thereof.
+
+6. The compound according to claim 1, wherein the compound is selected from:
+
+[![Figure imgf000125_0002](https://patentimages.storage.googleapis.com/b2/ef/89/8d2bba1f768618/imgf000125_0002.png)](https://patentimages.storage.googleapis.com/b2/ef/89/8d2bba1f768618/imgf000125_0002.png)
+
+1-c-iii I-c-iv I-c-v or a pharmaceutically acceptable salt thereof.
+
+7. A method comprising a step of:
+
+administering a compound of any one of claims 1-6 to a subject who (i) has a condition characterized by axonal degeneration or (ii) is at risk of developing a condition characterized by axonal degeneration.
+
+8. A method of treating or preventing axonal degeneration comprising administering to a subject in need thereof a compound of any one of claims 1-6.
+
+9. A method of inhibiting SARM1 comprising contacting a biological sample with a compound of any one of claims 1-6.

@@ -1,0 +1,202 @@
+Claims (26)
+-----------
+
+We claim:
+
+1. A compound of formula (I)
+
+[![Figure US09980929-20180529-C00118](https://patentimages.storage.googleapis.com/75/b8/22/7eda3ada6b0b1d/US09980929-20180529-C00118.png)](https://patentimages.storage.googleapis.com/75/b8/22/7eda3ada6b0b1d/US09980929-20180529-C00118.png)
+
+ 
+
+wherein
+
+R1 is alkyl, haloalkyl or cycloalkyl;
+
+R2 is hydrogen, alkyl, haloalkyl or cycloalkyl;
+
+R3 is hydrogen, alkyl or cycloalkyl;
+
+R4 is optionally substituted aryl, optionally substituted arylalkyl, optionally substituted heteroaryl or optionally substituted heteroarylalkyl, wherein each moiety is optionally substituted by one to three substituents independently selected from halogen, alkyl, haloalkyl, cycloalkyl, cyano, hydroxy, alkoxy or haloalkoxy;
+
+R5 is H, alkyl, haloalkyl or cycloalkyl;
+
+R6 is H, alkyl or cycloalkyl;
+
+R7 is optionally substituted adamantanylalkyl, optionally substituted cycloalkyl, optionally substituted cycloalkylalkyl, optionally substituted dicycloalkylalkyl, optionally substituted heterocycloalkylarylalkyl, optionally substituted aryloxycycloalkylalkyl, optionally substituted aryl, optionally substituted arylalkyl, optionally substituted arylalkenyl, optionally substituted diarylalkyl, optionally substituted aryloxyalkyl, optionally substituted diaryloxyalkyl, optionally substituted arylaryloxyalkyl, optionally substituted heteroaryl, optionally substituted heteroarylalkyl, optionally substituted heteroarylalkenyl, optionally substituted arylheteroarylalkyl or optionally substituted aryloxyheteroarylalkyl, wherein the optional substituents are one to three groups independently selected from halogen, alkyl, haloalkyl, cycloalkyl, cyano, hydroxy, alkoxy, haloalkoxy or phenyl;
+
+or a pharmaceutically acceptable salt thereof.
+
+2. The compound according to claim 1, wherein
+
+R1 is alkyl, haloalkyl or cycloalkyl;
+
+R2 is hydrogen, alkyl, haloalkyl or cycloalkyl;
+
+R3 is hydrogen, alkyl or cycloalkyl;
+
+R4 is optionally substituted aryl, optionally substituted arylalkyl, optionally substituted heteroaryl or optionally substituted heteroarylalkyl, wherein the optional substituents are one to three groups independently selected from halogen, alkyl, haloalkyl, cycloalkyl, cyano, hydroxy, alkoxy or haloalkoxy;
+
+R5 is hydrogen, alkyl, haloalkyl or cycloalkyl;
+
+R6 is hydrogen, alkyl or cycloalkyl;
+
+R7 is optionally substituted adamantanylalkyl, optionally substituted cycloalkyl, optionally substituted cycloalkylalkyl, optionally substituted dicycloalkylalkyl, optionally substituted aryl, optionally substituted arylalkyl, optionally substituted arylalkenyl, optionally substituted diarylalkyl, optionally substituted aryloxyalkyl, optionally optionally substituted diaryloxyalkyl, optionally substituted arylaryloxyalkyl, optionally substituted heteroaryl, optionally substituted heteroarylalkyl, optionally substituted heteroarylalkenyl, optionally substituted arylheteroarylalkyl or optionally substituted aryloxyheteroarylalkyl, wherein the optional substituents are one to three groups independently selected from halogen, alkyl, haloalkyl, cycloalkyl, cyano, hydroxy, alkoxy, haloalkoxy or phenyl;
+
+or a pharmaceutically acceptable salt thereof.
+
+3. The compound according to claim 1 wherein R1 is alkyl.
+
+4. The compound according to claim 1 wherein R2 is hydrogen.
+
+5. The compound according to claim 1 wherein R3 is hydrogen and alkyl.
+
+6. The compound according to claim 1 wherein R3 is hydrogen.
+
+7. The compound according to claim 1 wherein R4 is optionally substituted phenyl, optionally substituted phenylalkyl or optionally substituted pyridinylalkyl, wherein the optional substituents are one to three groups independently selected from alkoxy or halogen.
+
+8. The compound according to claim 7 wherein R4 phenylalkyl optionally substituted by one halogen or phenyl optionally substituted by one alkoxy.
+
+9. The compound according to claim 8 wherein R4 is phenylmethyl, phenyl, methoxyphenyl or chlorophenylmethyl.
+
+10. The compound according to claim 1 wherein R1 is alkyl, R2 is hydrogen, R3 is hydrogen or alkyl, and R4 is phenylalkyl optionally substituted by one halogen or phenyl optionally substituted by one alkoxy.
+
+11. The compound according to claim 1 wherein R5 is hydrogen.
+
+12. The compound according to claim 1 wherein R6 is hydrogen.
+
+13. The compound according to claim 1 wherein R1 is alkyl, R2, R5 and R6 are hydrogen, R3 is hydrogen or alkyl and R4 phenylalkyl optionally substituted by one halogen or phenyl optionally substituted by one alkoxy.
+
+14. The compound according to claim 1 wherein R7 is optionally substituted adamantanylalkyl, optionally substituted cycloalkylalkyl, optionally substituted 1,1-dioxo-1,4-thiazinanylphenylalkyl, optionally substituted phenoxycycloalkylalkyl, optionally substituted phenylalkyl, optionally substituted phenylalkenyl, optionally substituted diphenylalkyl, optionally substituted phenoxyalkyl, optionally substituted phenylphenoxyalkyl, optionally substituted benzofuranyl or optionally substituted benzothiophenyl, wherein the optional substituents are one to three groups independently selected from halogen, alkoxy or phenyl.
+
+15. The compound according to claim 1 wherein R7 is optionally substituted adamantanylalkyl, optionally substituted cycloalkylalkyl, optionally substituted phenylalkyl, optionally substituted phenylalkenyl, optionally substituted diphenylalkyl, optionally substituted phenoxyalkyl, optionally substituted phenylphenoxyalkyl, optionally substituted benzofuranyl or optionally substituted benzothiophenyl, wherein the optional substituents are one to three groups independently selected from halogen, alkoxy or phenyl.
+
+16. The compound according to claim 1 wherein R7 is, dichlorophenoxymethyl, dichlorophenylethyl, 1,1-dioxo-1,4-thiazinanyl-dichlorophenylethyl or dichlorophenylethylenyl.
+
+17. The compound according to claim 1 wherein R7 is dichlorophenoxymethyl or dichlorophenylethylenyl.
+
+18. The compound according to claim 1 wherein the compound is of formula (Ia)
+
+[![Figure US09980929-20180529-C00119](https://patentimages.storage.googleapis.com/cf/43/5e/11363d1b5f547b/US09980929-20180529-C00119.png)](https://patentimages.storage.googleapis.com/cf/43/5e/11363d1b5f547b/US09980929-20180529-C00119.png)
+
+19. The compound according to claim 1 wherein
+
+R1 is alkyl;
+
+R2, R3, R5 and R6 are hydrogen;
+
+R4 is phenylalkyl optionally substituted by one halogen or phenyl optionally substituted by one alkoxy;
+
+R7 is optionally substituted 1,1-dioxo-1,4-thiazinanylphenylalkyl, optionally substituted phenylalkyl, optionally substituted phenylalkenyl, optionally substituted diphenylalkyl, optionally substituted phenoxyalkyl or optionally substituted phenylphenoxyalkyl, wherein the optional substituents are one to three independently selected halogens;
+
+or, a pharmaceutically acceptable salt thereof.
+
+20. The compound according to claim 18 wherein
+
+R1 is alkyl;
+
+R2, R3, R5 and R6 are hydrogen;
+
+R4 is phenylalkyl optionally substituted by a halogen or phenyl optionally substituted by one alkoxy;
+
+R7 is optionally substituted 1,1-dioxo-1,4-thiazinanylphenylalkyl, optionally substituted phenylalkyl, optionally substituted phenylalkenyl, optionally substituted diphenylalkyl, optionally substituted phenoxyalkyl or optionally substituted phenylphenoxyalkyl, wherein the optional substituents are one to three groups independently selected halogen substituents;
+
+or, a pharmaceutically acceptable salt thereof.
+
+21. The compound according to claim 1 wherein
+
+R1 is alkyl;
+
+R2, R3, R5 and R6 are hydrogen;
+
+R4 is phenylalkyl optionally substituted by one halogen or phenyl optionally substituted one alkoxy;
+
+R7 is optionally substituted phenylalkenyl, optionally substituted diphenylalkyl, optionally substituted phenoxyalkyl or optionally substituted phenylphenoxyalkyl, wherein the optional substituents are one to three independently selected halogen substituents;
+
+or, a pharmaceutically acceptable salt thereof.
+
+22. The compound according to claim 18 wherein
+
+R1 is alkyl;
+
+R2, R3, R5 and R6 are hydrogen;
+
+R4 is phenylalkyl optionally substituted by on halogen or phenyl optionally substituted by one alkoxy;
+
+R7 is optionally substituted phenylalkenyl, optionally substituted diphenylalkyl, optionally substituted phenoxyalkyl or optionally substituted phenylphenoxyalkyl, wherein the optional substituents are one to three groups independently selected halogen substituents;
+
+or, a pharmaceutically acceptable salt thereof.
+
+23. The compound according to claim 1 which compound is selected from the group consisting of:
+
+(2R)-2-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-phenylpropanamide;
+
+(2R/S)-(3,4-Dichlorophenoxy)-3-(3,4-dichlorophenyl)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]propanamide;
+
+(3R or 3S)-(4-Chlorophenyl)-2-(4-methoxyphenyl)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]propanamide;
+
+(3S or 3R)-(4-Chlorophenyl)-2-(4-methoxyphenyl)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]propanamide;
+
+(3S or 3R)-(3,4-Dichlorophenyl)-3-(1,1-dioxo-1,4-thiazinan-4-yl)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]propanamide;
+
+(3R or 3S)-(3,4-Dichlorophenyl)-3-(1,1-dioxo-1,4-thiazinan-4-yl)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]propanamide;
+
+(S)-2-(3-(3,5-Difluorophenyl)propanamido)-3-phenyl-N—((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)propanamide;
+
+(R)-2-(3,5-Dichlorophenoxy)-N—((S)-1-oxo-3-phenyl-1-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)amino)propan-2-yl)-3-phenylpropanamide;
+
+3-(3,5-Difluorophenyl)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]propanamide;
+
+(R)-2-(3,5-Difluorophenoxy)-N-((1S and 1R)-2-oxo-1-phenyl-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)amino)ethyl)-3-phenylpropanamide;
+
+(3R/S)-Cyclohexyl-2-(3,5-dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]propanamide;
+
+(2S and 2R)-2-[[2-(3,5-Difluorophenoxy)acetyl]amino]-2-phenyl-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]acetamide;
+
+(2S)-2-[[(2S/R)-3-Cyclohexyl-2-(3,5-dichlorophenoxy)propanoyl]amino]-3-phenyl-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]propanamide;
+
+(2S or 2R)-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyrazin-2-ylpropanamide;
+
+(2R or 2S)-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyrazin-2-ylpropanamide;
+
+(2S or 2R)-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-2-ylpropanamide;
+
+(2R or 2S)-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-3-ylpropanamide;
+
+(2S or 2R)-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-3-ylpropanamide;
+
+(2R or 2S)-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-3-ylpropanamide;
+
+(2S or 2R)-(3,5-Dichlorophenoxy)-N-[(1S)-1-(4-methoxyphenyl)-2-oxo-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-2-ylpropanamide;
+
+(2R or 2S)-(3,5-Dichlorophenoxy)-N-[(1S)-1-(4-methoxyphenyl)-2-oxo-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-2-ylpropanamide;
+
+(2S or 2R)-(3,5-Dichlorophenoxy)-N—((S)-1-(4-methoxyphenyl)-2-oxo-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)amino)ethyl)-3-(pyrazin-2-yl)propanamide;
+
+(2R or 2S)-(3,5-Dichlorophenoxy)-N—((S)-1-(4-methoxyphenyl)-2-oxo-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)amino)ethyl)-3-(pyrazin-2-yl)propanamide; and,
+
+(S)-2-(2-(3-Cyanophenoxy)acetamido)-2-(4-methoxyphenyl)-N—((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)acetamide;
+
+or, a pharmaceutically acceptable salt thereof.
+
+24. The compound according to claim 1 which compound is selected from the group consisting of:
+
+(2R)-2-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-phenylpropanamide;
+
+(2S or 2R)-(3,5-Dichlorophenoxy)-N-[(1S and 1R)-2-oxo-1-phenyl-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-2-ylpropanamide;
+
+(2R or 2S)-(3,5-Dichlorophenoxy)-N-[(1S)-1-(4-methoxyphenyl)-2-oxo-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]amino]ethyl]-3-pyridin-2-ylpropanamide; and,
+
+(2S or 2R)-(3,5-Dichlorophenoxy)-N—((S)-1-(4-methoxyphenyl)-2-oxo-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)amino)ethyl)-3-(pyrazin-2-yl)propanamide;
+
+or, a pharmaceutically acceptable salt thereof.
+
+25. A process to prepare a compound according to claim 1 comprising oxidizing a compound of formula (II)
+
+[![Figure US09980929-20180529-C00120](https://patentimages.storage.googleapis.com/fb/dd/39/8f595a5ac409c0/US09980929-20180529-C00120.png)](https://patentimages.storage.googleapis.com/fb/dd/39/8f595a5ac409c0/US09980929-20180529-C00120.png)
+
+ 
+
+wherein IV, R2, R3, R4, R5, R6 and R7 are as defined in any of claim 1.
+
+26. A pharmaceutical composition comprising a compound according to claim 1 and at least one pharmaceutically acceptable carrier, diluent or excipient.

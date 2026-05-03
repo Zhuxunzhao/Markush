@@ -1,0 +1,106 @@
+Claims (10)
+-----------
+
+What is claimed is:
+
+1. A compound of formula (II)
+
+[![Figure US09895330-20180220-C00209](https://patentimages.storage.googleapis.com/94/eb/17/a40bbbe6e66ae2/US09895330-20180220-C00209.png)](https://patentimages.storage.googleapis.com/94/eb/17/a40bbbe6e66ae2/US09895330-20180220-C00209.png)
+
+ 
+
+wherein:
+
+[![Figure US09895330-20180220-C00210](https://patentimages.storage.googleapis.com/aa/86/30/dff1542a43c070/US09895330-20180220-C00210.png)](https://patentimages.storage.googleapis.com/aa/86/30/dff1542a43c070/US09895330-20180220-C00210.png)
+
+ 
+
+is phenyl optionally substituted with halo,
+
+R1 is COOH or tetrazol-5-yl;
+
+R2 and R3 are independently H;
+
+R4 and R5 are independently H or halo;
+
+R6 is H;
+
+R7 and R8 are independently H, C1-C6 alkyl optionally substituted with halogen, C3-C8 cycloalkyl, C3-C8 cycloalkenyl, aryl, C1-C6 alkoxyl optionally substituted with C1-C6 alkyl, C3-C8 cycloalkyl optionally substituted with C1-C6 alkyl, and aryl C1-C6 alkyl,
+
+provided that only one of R7 and R8 is H,
+
+or R7 and R8 are taken together with the nitrogen to which they are attached to form
+
+[![Figure US09895330-20180220-C00211](https://patentimages.storage.googleapis.com/ed/ec/03/d949c3e8943274/US09895330-20180220-C00211.png)](https://patentimages.storage.googleapis.com/ed/ec/03/d949c3e8943274/US09895330-20180220-C00211.png)
+
+ 
+
+R9 is
+
+[![Figure US09895330-20180220-C00212](https://patentimages.storage.googleapis.com/72/86/7a/bd1cccc4846bb8/US09895330-20180220-C00212.png)](https://patentimages.storage.googleapis.com/72/86/7a/bd1cccc4846bb8/US09895330-20180220-C00212.png)
+
+ 
+
+or —COOR12;
+
+R10 is aryl optionally substituted with C1-C6 alkyl, CN, haloalkyl, or halogen, C1-C6 alkyl, 5- to 7-membered monocyclic heteroaryl optionally substituted with C1-C6 alkyl, halo and CN;
+
+R11 is H or OH;
+
+R12 is aryl optionally substituted with C1-C6 alkyl, nitro, halogen, alkoxyl, aryloxyl or benzodioxolyl;
+
+and/or a stereoisomer, a tautomer or a pharmaceutically acceptable salt thereof.
+
+2. The compound as defined in claim 1 wherein
+
+[![Figure US09895330-20180220-C00213](https://patentimages.storage.googleapis.com/6b/c7/9a/d912cf17347120/US09895330-20180220-C00213.png)](https://patentimages.storage.googleapis.com/6b/c7/9a/d912cf17347120/US09895330-20180220-C00213.png)
+
+is phenyl, and/or a stereoisomer, a tautomer or a pharmaceutically acceptable salt thereof.
+
+3. The compound as defined in claim 1 wherein:
+
+R1 is tetrazol-5-yl or COOH;
+
+R2 is H and
+
+R3 is H,
+
+and/or a stereoisomer, a tautomer or a pharmaceutically acceptable salt thereof.
+
+4. The compound as defined in claim 1 wherein:
+
+R7 and R8 are independently optionally substituted C1-C6 alkoxyl, or optionally substituted C3-C8 cycloalkyl;
+
+or R7 and R8 are taken together with the nitrogen to which they are attached to form
+
+[![Figure US09895330-20180220-C00214](https://patentimages.storage.googleapis.com/d2/56/94/fe96f06c78d34c/US09895330-20180220-C00214.png)](https://patentimages.storage.googleapis.com/d2/56/94/fe96f06c78d34c/US09895330-20180220-C00214.png)
+
+and
+
+R9 is
+
+[![Figure US09895330-20180220-C00215](https://patentimages.storage.googleapis.com/e1/31/4b/7335642abeb12b/US09895330-20180220-C00215.png)](https://patentimages.storage.googleapis.com/e1/31/4b/7335642abeb12b/US09895330-20180220-C00215.png)
+
+or —COOR12;
+
+R11 is H; and
+
+R12 is naphthyl, nitroaryl, phenyl, C1-C6 alkylphenyl, C1-C6 alkoxyphenyl,
+
+[![Figure US09895330-20180220-C00216](https://patentimages.storage.googleapis.com/1d/c3/2b/0bbbabec69c298/US09895330-20180220-C00216.png)](https://patentimages.storage.googleapis.com/1d/c3/2b/0bbbabec69c298/US09895330-20180220-C00216.png)
+
+C1-C6 alkoxy(halo)phenyl, halophenyl, or phenyl-C1-C6-alkoxyphenyl;
+
+and/or a stereoisomer, a tautomer or a pharmaceutically acceptable salt thereof.
+
+5. A compound selected from the group consisting of 4′-(Diisobutylamino)-5-fluoro-3′-(2-p-tolylacetamido)biphenyl-2-carboxylic acid; N-(4-(Diisobutylamino)-2′-(1H-tetrazol-5-yl)biphenyl-3-yl)-2-p-tolylacetamide; N,N-(4-(Benzyl(isobutyl)amino)-2′-(1H-tetrazol-5-yl)biphenyl-3-yl)-2-(2-(trifluoromethyl)phenyl)acetamide; 4′-(diisobutylamino)-3′-(2-p-tolylacetamido)biphenyl-2-carboxylic acid; 4′-(cyclohexyl(isobutyl)amino)-3′-(2-(2-fluorophenyl)acetamido)biphenyl-2-carboxylic acid; 4′-(cyclohexyl(isobutyl)amino)-5-fluoro-3′-(2-(2-fluorophenyl)acetamido)biphenyl-2-carboxylic acid; and N-(4-(cyclohexyl(isobutyl)amino)-2′-(1H-tetrazol-5-yl)biphenyl-3-yl)-2-(2-(trifluoromethyl) phenyl)acetamide and/or a stereoisomer, a tautomer or a pharmaceutically acceptable salt thereof.
+
+6. The compound that is 4′-(Diisobutylamino)-5-fluoro-3′-(2-p -tolylacetamido)biphenyl-2-carboxylic acid; N-(4-(Diisobutylamino)-2′-(1H-tetrazol-5-yl)biphenyl-3-yl)-2-p -tolylacetamide or a pharmaceutically acceptable salt thereof.
+
+7. The compound that is N-(4-(Diisobutylamino)-2′-(1H-tetrazol-5-yl)biphenyl-3-yl)-2-p-tolylacetamide or a pharmaceutically acceptable salt thereof.
+
+8. The compound that is N,N-(4-(Benzyl(isobutyl)amino)-2′-(1H-tetrazol-5-yl)biphenyl-3-yl)-2-(2-(trifluoromethyl)phenyl)acetamide or a pharmaceutically acceptable salt thereof.
+
+9. The compound that is 4′-(cyclohexyl(isobutyl)amino)-3′-(2-(2-fluorophenyl)acetamido)biphenyl-2-carboxylic acid or a pharmaceutically acceptable salt thereof.
+
+10. A pharmaceutical composition comprising one or more compounds according to claim 1 and a pharmaceutically acceptable carrier or diluent.

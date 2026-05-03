@@ -1,0 +1,92 @@
+Claims (16)
+-----------
+
+The invention claimed is:
+
+1. A compound of formula (Ia), or a pharmaceutically acceptable salt thereof:
+
+[![Figure US10183949-20190122-C00658](https://patentimages.storage.googleapis.com/09/a7/b4/8dd3045f6f6cbe/US10183949-20190122-C00658.png)](https://patentimages.storage.googleapis.com/09/a7/b4/8dd3045f6f6cbe/US10183949-20190122-C00658.png)
+
+ 
+
+wherein:
+
+R1 is hydrogen,
+
+R2 is a group represented by the formula:
+
+[![Figure US10183949-20190122-C00659](https://patentimages.storage.googleapis.com/cd/36/00/87533444df314b/US10183949-20190122-C00659.png)](https://patentimages.storage.googleapis.com/cd/36/00/87533444df314b/US10183949-20190122-C00659.png)
+
+ 
+
+wherein:
+
+X is a single bond or O,
+
+Ring B is a benzene ring, a 6-membered aromatic heterocycle, a 6-membered non-aromatic carbocycle or a 6-membered non-aromatic heterocycle,
+
+R6 is halogen, cyano, or substituted or unsubstituted alkyloxy,
+
+R7 is each independently, substituted or unsubstituted alkyl, substituted or unsubstituted amino, substituted or unsubstituted alkylcarbonyl, substituted or unsubstituted alkenylcarbonyl, substituted or unsubstituted alkynylcarbonyl, substituted or unsubstituted alkyloxycarbonyl, substituted or unsubstituted alkenyloxycarbonyl, substituted or unsubstituted alkynyloxycarbonyl, substituted or unsubstituted carbamoyl, substituted or unsubstituted sulfamoyl, substituted or unsubstituted alkylsulfinyl, substituted or unsubstituted alkenylsulfinyl, substituted or unsubstituted alkynylsulfinyl, substituted or unsubstituted alkylsulfonyl, substituted or unsubstituted alkenylsulfonyl or substituted or unsubstituted alkynylsulfonyl,
+
+n is integer of 0 to 4,
+
+R4a is substituted or unsubstituted alkyl,
+
+R5 is a group represented by formula: R11—(C(R10a)(R10b))m-,
+
+wherein
+
+R10a is each independently hydrogen, halogen or substituted or unsubstituted alkyl,
+
+R10b is each independently hydrogen, halogen or substituted or unsubstituted alkyl,
+
+m is integer of 1 to 6,
+
+R11 is substituted or unsubstituted aromatic carbocyclyl, substituted or unsubstituted aromatic heterocyclyl, substituted or unsubstituted non-aromatic carbocyclyl, substituted or unsubstituted non-aromatic heterocyclyl, substituted or unsubstituted aromatic carbocyclylcarbonyl, substituted or unsubstituted aromatic heterocyclylcarbonyl, substituted or unsubstituted non-aromatic carbocyclylcarbonyl, substituted or unsubstituted non-aromatic heterocyclylcarbonyl, substituted or unsubstituted alkyloxycarbonyl, substituted or unsubstituted alkenyloxycarbonyl, substituted or unsubstituted alkynyloxycarbonyl, substituted or unsubstituted aromatic carbocyclyloxycarbonyl, substituted or unsubstituted aromatic heterocyclyloxycarbonyl, substituted or unsubstituted non-aromatic carbocyclyloxycarbonyl, substituted or unsubstituted non-aromatic heterocyclyloxycarbonyl, substituted or unsubstituted carbamoyl, or substituted or unsubstituted sulfamoyl.
+
+2. The compound according to claim 1, wherein R4a is alkyl optionally substituted with one or more substitutent(s) selected from Substituent group α, alkenyl optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkynyl optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkylamino optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkenylamino optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkynylamino optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkyloxy optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkenyloxy optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkynyloxy optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkylthio optionally substituted with one or more substitutent(s) selected from the Substituent group α, alkenylthio optionally substituted with one or more substitutent(s) selected from the Substituent group α, or alkynylthio optionally substituted with one or more substitutent(s) selected from the Substituent group α,
+
+wherein the one or more substitutent(s) of Substituent group α is selected from the group consisting of cyano, halogen, substituted or unsubstituted alkyloxy, substituted or unsubstituted alkenyloxy, substituted or unsubstituted alkynyloxy, substituted or unsubstituted non-aromatic carbocyclylalkyloxy, substituted or unsubstituted aromatic carbocyclylalkyloxy, substituted or unsubstituted non-aromatic heterocyclylalkyloxy and substituted or unsubstituted aromatic heterocyclylalkyloxy,
+
+or its pharmaceutically acceptable salt.
+
+3. The compound according to claim 1, wherein R11 is substituted or unsubstituted aromatic carbocyclylcarbonyl, substituted or unsubstituted aromatic heterocyclylcarbonyl, substituted or unsubstituted non-aromatic carbocyclylcarbonyl, substituted or unsubstituted non-aromatic heterocyclylcarbonyl, substituted or unsubstituted alkyloxycarbonyl, substituted or unsubstituted alkenyloxycarbonyl, substituted or unsubstituted alkynyloxycarbonyl, substituted or unsubstituted aromatic carbocyclyloxycarbonyl, substituted or unsubstituted aromatic heterocyclyloxycarbonyl, substituted or unsubstituted non-aromatic carbocyclyloxycarbonyl, substituted or unsubstituted non-aromatic heterocyclyloxycarbonyl, substituted or unsubstituted carbamoyl or substituted or unsubstituted sulfamoyl, or its pharmaceutically acceptable salt.
+
+4. The compound according to claim 1, wherein R11 is substituted or unsubstituted aromatic carbocyclylcarbonyl, substituted or unsubstituted aromatic heterocyclylcarbonyl, substituted or unsubstituted non-aromatic carbocyclylcarbonyl, substituted or unsubstituted non-aromatic heterocyclylcarbonyl, substituted or unsubstituted alkyloxycarbonyl, substituted or unsubstituted alkenyloxycarbonyl, substituted or unsubstituted alkynyloxycarbonyl, substituted or unsubstituted aromatic carbocyclyloxycarbonyl, substituted or unsubstituted aromatic heterocyclyloxycarbonyl, substituted or unsubstituted non-aromatic carbocyclyloxycarbonyl, substituted or unsubstituted non-aromatic heterocyclyloxycarbonyl, substituted or unsubstituted carbamoyl or substituted or unsubstituted sulfamoyl, or its pharmaceutically acceptable salt.
+
+5. The compound according to claim 1, wherein R11 is carbamoyl optionally substituted with one or more substitutent(s) selected from the group consisting of substituted or unsubstituted alkyl, substituted or unsubstituted alkenyl, substituted or unsubstituted alkynyl, substituted or unsubstituted aromatic carbocyclyl, substituted or unsubstituted aromatic heterocyclyl, substituted or unsubstituted non-aromatic carbocyclyl and substituted or unsubstituted non-aromatic heterocyclyl, or its pharmaceutically acceptable salt.
+
+6. A pharmaceutical composition comprising the compound according to claim 1 or its pharmaceutically acceptable salt as an active ingredient and a pharmaceutical additive.
+
+7. A method for the treatment of a disease related to autotaxin, comprising administering an effective amount of the compound according to claim 1 or a pharmaceutically acceptable salt thereof to a patient in need thereof,
+
+wherein the disease is selected from the group consisting of urinary extraction failure, chronic kidney disease, renal fibrosis, interstitial pneumonitis, pulmonary fibrosis, scleroderma, pain, fibromyalgia, rheumatoid arthritis, angiogenesis, cancer, formation, growth and propagation of tumor, arteriosclerosis, an ocular disease, choroidal neovascularization, diabetic retinopathy, an inflammatory disease, arthritis, neurodegeneration, restenosis, wound healing, transplant rejection and endometriosis.
+
+8. A pharmaceutical composition comprising the compound according to claim 2 or its pharmaceutically acceptable salt as an active ingredient and a pharmaceutical additive.
+
+9. A pharmaceutical composition comprising the compound according to claim 3 or its pharmaceutically acceptable salt as an active ingredient and a pharmaceutical additive.
+
+10. A pharmaceutical composition comprising the compound according to claim 4 or its pharmaceutically acceptable salt as an active ingredient and a pharmaceutical additive.
+
+11. A pharmaceutical composition comprising the compound according to claim 5 or its pharmaceutically acceptable salt as an active ingredient and a pharmaceutical additive.
+
+12. A method for the treatment of a disease related to autotaxin, comprising administering an effective amount of the compound according to claim 2 or a pharmaceutically acceptable salt thereof to a patient in need thereof,
+
+wherein the disease is selected from the group consisting of urinary extraction failure, chronic kidney disease, renal fibrosis, interstitial pneumonitis, pulmonary fibrosis, scleroderma, pain, fibromyalgia, rheumatoid arthritis, angiogenesis, cancer, formation, growth and propagation of tumor, arteriosclerosis, an ocular disease, choroidal neovascularization, diabetic retinopathy, an inflammatory disease, arthritis, neurodegeneration, restenosis, wound healing, transplant rejection and endometriosis.
+
+13. A method for the treatment of a disease related to autotaxin, comprising administering an effective amount of the compound according to claim 3 or a pharmaceutically acceptable salt thereof to a patient in need thereof,
+
+wherein the disease is selected from the group consisting of urinary extraction failure, chronic kidney disease, renal fibrosis, interstitial pneumonitis, pulmonary fibrosis, scleroderma, pain, fibromyalgia, rheumatoid arthritis, angiogenesis, cancer, formation, growth and propagation of tumor, arteriosclerosis, an ocular disease, choroidal neovascularization, diabetic retinopathy, an inflammatory disease, arthritis, neurodegeneration, restenosis, wound healing, transplant rejection and endometriosis.
+
+14. A method for the treatment of a disease related to autotaxin, comprising administering an effective amount of the compound according to claim 4 or a pharmaceutically acceptable salt thereof to a patient in need thereof,
+
+wherein the disease is selected from the group consisting of urinary extraction failure, chronic kidney disease, renal fibrosis, interstitial pneumonitis, pulmonary fibrosis, scleroderma, pain, fibromyalgia, rheumatoid arthritis, angiogenesis, cancer, formation, growth and propagation of tumor, arteriosclerosis, an ocular disease, choroidal neovascularization, diabetic retinopathy, an inflammatory disease, arthritis, neurodegeneration, restenosis, wound healing, transplant rejection and endometriosis.
+
+15. A method for the prevention or treatment of a disease related to autotaxin, comprising administering an effective amount of the compound according to claim 5 or a pharmaceutically acceptable salt thereof to a patient in need thereof,
+
+wherein the disease is selected from the group consisting of urinary extraction failure, chronic kidney disease, renal fibrosis, interstitial pneumonitis, pulmonary fibrosis, scleroderma, pain, fibromyalgia, rheumatoid arthritis, angiogenesis, cancer, formation, growth and propagation of tumor, arteriosclerosis, an ocular disease, choroidal neovascularization, diabetic retinopathy, an inflammatory disease, arthritis, neurodegeneration, restenosis, wound healing, transplant rejection and endometriosis.
+
+16. A method for the treatment of a disease related to autotaxin, comprising administering an effective amount of the compound according to claim 1 or a pharmaceutically acceptable salt thereof to a patient in need thereof,
+
+wherein the disease is selected from the group consisting of urinary extraction failure, interstitial lung disease, fibroid lung, renal fibrosis, hepatic fibrosis, pachyderma, pain, fibromyalgia syndrome, arthritis, rheumatism, disseminated sclerosis and endometriosis.

@@ -1,0 +1,198 @@
+Claims (18)
+-----------
+
+**1**-**23**. (canceled)
+
+**24**. A compound represented by Formula I:
+
+[![Figure US20110076230A1-20110331-C00080](https://patentimages.storage.googleapis.com/4b/04/dc/8c7a347105e834/US20110076230A1-20110331-C00080.png)](https://patentimages.storage.googleapis.com/4b/04/dc/8c7a347105e834/US20110076230A1-20110331-C00080.png)
+
+or a pharmaceutically acceptable salt, solvate or in vivo hydrolysable ester thereof, wherein:
+
+R3 is pyridyl optionally substituted with 1 to 3 groups of R4, R5, or R6, with the proviso that when two of R4, R5 and R6, is hydrogen and the remainder of R4, R5 or R6 is N(R2)2, piperazinyl or methyl piperazinyl, and one of R1 and R2 is hydrogen then the other of R1 and R2 is not methoxy or halogen;
+
+R represents hydrogen, or —C1-6alkyl, said alkyl optionally substituted with halo;
+
+R1, R2, R4, R5, and R6 independently represent hydrogen, —C5-10 aryl, —C5-10 heterocyclyl, —N(R2)2, CN, —(CH2)nhalo, CF3, —O(CH2)nR, —O(CH2)nC5-10 heterocyclyl, —C1-6alkyl, —OCF3, —O(CH2)sF, —(O(CH2)s)p(CH2)shalo, —(O(CH2)s)pOR, said alkyl, aryl, and heterocyclyl optionally substituted with 1 to 3 groups of Ra, or when two of R4, R5 and R6 are adjacent to each other on the R3 pyridyl then they may combine with the atoms to which they are attached to form a 9-10 membered heterocyclic ring optionally interrupted by NR, O, or S, said heterocyclyl optionally substituted with 1 to 3 groups of Ra;
+
+Ra represents —CN, NO2, halo, CF3, —C1-6alkyl, —C1-6alkenyl, —C1-6alkynyl, —(CH2)nhalo, —OR, —NRR1, —C(═NR1)NR2R5,—NR1COR2, —NR1CO2R2, —NR1SO2R5, —NR1CONR2R5,—SR5, —SOR5, —SO2R5, —SO2NR1R2, —COR1, —CO2R1, —CONR1R2, —C(═NR1)R2, or —C(═NOR1)R2;
+
+n represents 0-6;
+
+s represents 1-6; and
+
+p represents 1-3.
+
+**25**. The compound according to claim 24 wherein R3 is substituted with halo, methylamine, piperazinyl, triazolyl, imidazolyl, or pyrazolyl.
+
+**26**. The compound according to claim 24 wherein R3 is pyridyl substituted with florine, triazolyl, or imidazolyl.
+
+**27**. The compound according to claim 24 wherein when two of R4, R5 and R6 adjacent to each other on the R3 pyridyl combine with the atoms to which they are attached to form a 9-10 membered heterocyclic ring including fused rings, optionally interrupted by NR, O, or S, said heterocyclic ring optionally substituted with Ra.
+
+**28**. The compound according to claim 27 represented by structural formula II:
+
+[![Figure US20110076230A1-20110331-C00081](https://patentimages.storage.googleapis.com/6c/5a/42/16ef75b59f750a/US20110076230A1-20110331-C00081.png)](https://patentimages.storage.googleapis.com/6c/5a/42/16ef75b59f750a/US20110076230A1-20110331-C00081.png)
+
+or a pharmaceutically acceptable salt, solvate or in vivo hydrolysable ester thereof, wherein:
+
+X1-X5 are Nor CH, provided only one of X1-X3 is N at any given time; and X6 is NR, —O—, CH2 or S and all other variables are as previously described.
+
+**29**. The compound according to claim 28 wherein X1 through X6 form a pyrrolo pyridinyl and all other variables are as previously described.
+
+**30**. The compound according to claim 24 wherein R1 and R2 are selected from the group consisting of hydrogen, CN, —(CH2)nhalo, —O(CH2)nR, —O(CH2)nhalo, —O(CH2)nC5-10 heterocyclyl, O(CH2)nC6-10 aryl or —C1-6alkyl.
+
+**31**. The compound according to claim 30 wherein one of R1 and R2 is hydrogen and the other is O(CH2)nF, F, Br, Cl, CN, methoxy, methyl, hydroxyl, benzyloxy.
+
+**32**. The compound according to claim 24 wherein the compounds of formula I are isotopically labeled with 2H, 3H, 11C, 13C, 14C, 13N, 15N, 15O, 17O, 18O, 18F, 35S, 36Cl, 82Br, 76Br, 77Br, 123I, 124I or 131I.
+
+**33**. A compound which is:
+
+6-(benzyloxy)-2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-1H-indole,
+
+6-chloro-2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-1H-indole,
+
+2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-6-methyl-1H-indole,
+
+2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-6-methoxy-1H-indole,
+
+2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-1H-indole-6-carbonitrile,
+
+5-fluoro-2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-1H-indole,
+
+2-[6-(1H-imidazol-1-yl)pyridin-3 -yl]-5-methyl-1H-indole,
+
+2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-1H-indol-5-ol,
+
+2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-5-methoxy-1H-indole,
+
+5-bromo-2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-1H-indole,
+
+2-[6-(1H-imidazol-1-yl)pyridin-3-yl]-1H-indole-5-carbonitrile,
+
+5-(6-chloro-1H-indol-2-yl)-N-methylpyridin-2-amine,
+
+N-methyl-5-(6-methyl-1H-indol-2-yl)pyridin-2-amine,
+
+5-(6-methoxy-1H-indol-2-yl)-N-methylpyridin-2-amine,
+
+2-[6-(methylamino)pyridin-3-yl]-1H-indole-6-carbonitrile,
+
+5-(5-fluoro-1H-indol-2-yl)-N-methylpyridin-2-amine,
+
+N-methyl-5-(5-methyl-1H-indol-2-yl)pyridin-2-amine,
+
+5-(5-methoxy-1H-indol-2-yl)-N-methylpyridin-2-amine,
+
+5-(5-bromo-1H-indol-2-yl)-N-methylpyridin-2-amine,
+
+2-[6-(methylamino)pyridin-3-yl]-1H-indole-5-carbonitrile,
+
+6-(benzyloxy)-2-(6-fluoropyridin-3-yl)-1H-indole,
+
+6-chloro-2-(6-fluoropyridin-3-yl)-1H-indole,
+
+2-(6-fluoropyridin-3-yl)-6-methyl-1H-indole,
+
+2-(6-fluoropyridin-3-yl)-6-methoxy-1H-indole,
+
+2-(6-fluoropyridin-3-yl)-1H-indole-6-carbonitrile,
+
+5-fluoro-2-(6-fluoropyridin-3-yl)-1H-indole,
+
+2-(6-fluoropyridin-3-yl)-5-methyl-1H-indole,
+
+2-(6-fluoropyridin-3-yl)-1H-indol-5-ol,
+
+2-(6-fluoropyridin-3-yl)-5-methoxy-1H-indole,
+
+5-bromo-2-(6-fluoropyridin-3-yl)-1H-indole,
+
+2-(6-fluoropyridin-3-yl)-1H-indole-5-carbonitrile,
+
+6-(benzyloxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+6-chloro-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+6-methyl-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+6-methoxy-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole-6-carbonitrile,
+
+5-fluoro-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-methyl-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-methoxy-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-bromo-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+6-(benzyloxy)-2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole,
+
+6-chloro-2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole,
+
+6-methyl-2-[6-(4-methylpiperazin-1-yl)pyridin-3 -yl]-1H-indole,
+
+6-methoxy-2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole,
+
+2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole-6-carbonitrile,
+
+5-fluoro-2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole,
+
+5-methyl-2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole,
+
+2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indol-5-ol,
+
+5-methoxy-2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole,
+
+5-bromo-2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole,
+
+2-[6-(4-methylpiperazin-1-yl)pyridin-3-yl]-1H-indole-5-carbonitrile,
+
+6-(3-fluoropropoxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-(3-fluoropropoxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+6-(2-fluoroethoxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-(2-fluoroethoxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-(6-methyl-1H-indol-2-yl)-1H-pyrrolo[2,3-b]pyridine,
+
+2-(1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-indole-6-carbonitrile,
+
+5-(5-methoxy-1H-indol-2-yl)-1H-pyrrolo[2,3-b]pyridine,
+
+5-(5-bromo-1H-indol-2-yl)-1H-pyrrolo[2,3-b]pyridine,
+
+2-(1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-indole-5-carbonitrile,
+
+5-(6-methoxy-1H-indol-2-yl)-1H-pyrrolo[2,3-b]pyridine,
+
+5-(5-methyl-1H-indol-2-yl)-1H-pyrrolo[2,3-b]pyridine,
+
+5-(6-chloro-1H-indol-2-yl)-1H-pyrrolo[2,3-b]pyridine,
+
+or a pharmaceutically acceptable salt, solvate or in vivo hydrolysable ester thereof.
+
+**34**. The compound according to claim 34 which isotopically labeled as 11C, 13C, 14C, 18F, 15O, 13N, 35S, 2H, or 3H.
+
+**35**. The compound according to claim 34 which is
+
+6-(3-fluoropropoxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-(3-fluoropropoxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+6-(2-fluoroethoxy)-2-[6-(1H-1,2,4-triazol-1-yl)pyridin-3-yl]-1H-indole,
+
+5-(2-fluoroethoxy)-2-[6-(1H-1,2,4-triazol-1 -yl)pyridin-3 -yl]-1H-indole, or a pharmaceutically acceptable salt, solvate or in vivo hydrolysable ester thereof.
+
+**36**. A pharmaceutical composition comprising a compound according to claim 24 and a pharmaceutically acceptable carrier.
+
+**37**. A composition for imaging of amyloid deposits, comprising a radio-labeled compound of claim 24 and a pharmaceutically acceptable carrier.
+
+**38**. A method of inhibiting amyloid plaque aggregation in a mammal, or for measuring amyloid deposits in a patient comprising administering the composition of claim 37 in an amount effective to inhibit amyloid plaque aggregation.
+
+**39**. The method according to claim 38 wherein detection is carried out by performing positron emission tomography (PET) imaging, single photon emission computed tomography (SPECT), magnetic resonance imaging, or autoradiography.
+
+**40**. A method for preventing and/or treating or for diagnosing and monitoring the treatment of Alzhemier's Disease, familial Alzheimer's Disease, Cognitive Deficit in Schizophrenia, Down's Syndrome and homozygotes for the apolipoprotein E4 allele comprising administering to a patient in need thereof a therapeutically effective amount of a compound according to claim 24.

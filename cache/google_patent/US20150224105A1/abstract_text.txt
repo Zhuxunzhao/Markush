@@ -1,0 +1,4 @@
+Abstract
+--------
+
+The present invention is directed to triazolopyrimidine, phenylpyrimidine, pyridopyridazine, and pyridotriazine compounds which are microtubule-stabilizing compounds and their use in the treatment of neurodegenerative disorders, in particular, tauopathies, such as for example, Alzheimer's disease, frontotemporal lobar degeneration, Pick's disease, progressive supranuclear palsy (PSP), and corticobasal degeneration. In addition, the compounds of the invention may be useful for other diseases where tau pathology is a comorbidity or where microtubule function is compromised, for example, schizophrenia, Parkinson's disease (PD), PD with dementia, Lewy body disease with dementia, and amyotrophic lateral sclerosis.

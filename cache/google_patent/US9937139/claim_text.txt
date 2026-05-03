@@ -1,0 +1,88 @@
+Claims (9)
+----------
+
+What is claimed is:
+
+1. A compound of Formula (1):
+
+[![Figure US09937139-20180410-C00055](https://patentimages.storage.googleapis.com/f2/28/64/2e367829eabd81/US09937139-20180410-C00055.png)](https://patentimages.storage.googleapis.com/f2/28/64/2e367829eabd81/US09937139-20180410-C00055.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 comprises a nitrogen mustard;
+
+R4 is selected from hydrogen, deuterio, C1-6 alkyl, and C1-6 alkoxy;
+
+each of the other of R2, R3, and R5 is independently selected from hydrogen, deuterio, and C1-6 alkyl;
+
+R6 is —COOH;
+
+each R7 is independently selected from hydrogen and deuterio;
+
+R8 is selected from hydrogen, deuterio, and C1-6 alkyl; and
+
+L is selected from a bond and —CH2—.
+
+2. The compound of claim 1, wherein,
+
+R4 is C1-6 alkyl;
+
+each of R2, R4, and R5 is hydrogen; and
+
+R8 is methyl.
+
+3. The compound of claim 1, wherein,
+
+R4 is methyl;
+
+each of R2, R3, and R5 is hydrogen; and
+
+R8 is methyl.
+
+4. The compound of claim 1, wherein, the nitrogen mustard is a moiety of Formula (2):
+
+[![Figure US09937139-20180410-C00056](https://patentimages.storage.googleapis.com/e9/25/98/18928f0a681670/US09937139-20180410-C00056.png)](https://patentimages.storage.googleapis.com/e9/25/98/18928f0a681670/US09937139-20180410-C00056.png)
+
+wherein,
+
+A is selected from a bond (“-”), oxygen (—O—), sulfur (—S—), amino (—NR10—), methylene (—CH2—), methyleneoxy (—CH2—O—), oxycarbonyl (—O—C(═O)—), thiocarbonyl (—S—C(═O)—), aminocarbonyl (—NR10—C(═O)—), oxythiocarbonyl (—O—C(═S)—), thiothiocarbonyl (—S—C(═S)—), aminothiocarbonyl (—NR10—C(═S)—), methyleneoxycarbonyl (—CH2—O—C(═O)—), methylenethiocarbonyl (—CH2—S—C(═O)—), methyleneaminocarbonyl (—CH2—NR10—C(═O)—), methyleneoxythiocarbonyl (—CH2—O—C(═S)—), methylenethiothiocarbonyl (—CH2—S—C(═S)—), methyleneaminothiocarbonyl (—CH2—NR10—C(═S)—), carbonyl (—C(═O)—), methylencarbonyl (—CH2—C(═O)—), thiocarbonyl (—C(═S)—), and methylenethiocarbonyl (—CH2—C(═S)—);
+
+Z is selected from a bond (“-”) and oxygen (—O—);
+
+Q is selected from —O− (a negatively charged oxygen atom) that is bound to a positively charged nitrogen atom) and a free electron pair (:), with the proviso that when Q is —O− (a negatively charged oxygen atom that is bound to a positively charged nitrogen atom), then A is selected from a bond (“-”) and methylene (—CH2—), Z is a bond (“-”), and N is positively charged;
+
+each R11 is independently selected from hydrogen, deuterio, and C1-3 alkyl; and
+
+each R9 is independently selected from fluoro (—F), chloro (—Cl), bromo (—Br), iodo (—I), alkyl sulfonate (—OSO2R40, wherein R40 is selected from C1-4 alkyl), C1-4(per)fluoroalklyl sulfonate (—OSO2R40, wherein R40 is selected from C1-4(per)fluoroalkyl), and (substituted) aryl sulfonate (—OSO2R40, wherein R40 is selected from C6-10 aryl).
+
+5. The compound of claim 1, wherein the nitrogen mustard is a moiety having the structure of formula (2a):
+
+-A-NQ(-Z—C(R11)2—C(R11)2—R9)(—C(R11)2—C(R11)2—R9)  (2a)
+
+wherein,
+
+A is selected from a bond (“-”), methylene (—CH2—), oxygen (—O—), methyleneoxy (—CH2—O—), carbonyl (—C(═O)—), methylenecarbonyl (—CH2—C(═O)—), oxycarbonyl (—O—C(═O)—), and methyleneoxycarbonyl (—CH2—O—C(═O)—);
+
+Z is selected from a bond (“-”) and oxygen (—O—);
+
+Q is selected from —O− (a negatively charged oxygen atom that is bound to a positively charged nitrogen atom) and a free electron pair (:);
+
+each R11 is independently selected from hydrogen and deuterio; and
+
+each R9 is independently selected from fluoro (—F), chloro (—Cl), bromo (—Br), iodo (—I), alkyl sulfonate (—OSO2R40, wherein R40 is C1-4 alkyl), C1-4(per)fluoroalklyl sulfonate (—OSO2R40, wherein R40 is C1-4(per)fluoroalkyl), and (substituted) aryl sulfonate (—OSO2R40, wherein R40 is C6-10 aryl);
+
+each of the other of R1, R2, R3, R4, and R5 is independently selected from hydrogen, deuterio, halogen, —OH, —N(R10)2, —NO2, —NO, —CN, —COOR10, —CON(R10)2, C1-4 alkylsulfanyl, C1-4 alkylsulfinyl, C1-4 alkylsulfonyl, C1-6 alkyl, substituted C1-6 alkyl, C3-6 cycloalkyl, and substituted C3-6 cycloalkyl.
+
+6. The compound of claim 1, wherein the nitrogen mustard is selected from —N(—CH2—CH2—R9)2, —CH2—N(—CH2—CH2—R9)2, —N+(—O−)(—CH2—CH2—R9)2, —CH2—N+(—O−)(—CH2—CH2—R9)2, —N(—O—CH2—CH2—R9)(—CH—CH2—R9), —CH2—N(—O—CH2—CH2—R9)(—CH2—CH2—CH2—R9), —O—N(—CH2—CH2—R9)2, —CH2—O—N(—CH2—CH2—R9)2, —CO—N(—CH2—CH2—R9)2, —CH2—CO—N(—CH2—CH2—R9)2, —O—CO—N(—CH2—CH2—R9)2, and —CH2—O—CO—N(—CH2—CH2—R9)2, wherein, each R9 is independently selected chloro (—Cl), bromo (—Br), iodo (—I), methylsulfonyloxy (—OSO2CH3), and trifluoromethylsulfonyloxy (—OSO2CF3).
+
+7. The compound of claim 1, wherein the nitrogen mustard has the structure —N—(—CH2—CH2—Cl)2.
+
+8. The compound of claim 1, which exhibits:
+
+a LAT1/4F2hc-dependent uptake of at least 10% that of gabapentin measured at an extracellular concentration of 1 mM (1 mmol/L); and
+
+a system A-, system N-, a system ASC-, and a LAT2/4F2hc-dependent uptake of less than 50% that of L-leucine measured at an extracellular concentration of 1 mM (1 mmol/L).
+
+9. A pharmaceutical composition comprising the compound of claim 1 and a pharmaceutically acceptable vehicle.

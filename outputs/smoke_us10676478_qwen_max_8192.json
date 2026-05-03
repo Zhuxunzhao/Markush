@@ -1,0 +1,17 @@
+{
+  "patent_id": "US10676478",
+  "target_smiles": "CC1CCC(C)CC1",
+  "is_protected": false,
+  "confidence": "very_low",
+  "markush_structure": {
+    "cxsmiles": "",
+    "substituent_table": {},
+    "caption": "*C1CC(*)CC1<sep><a>0:R[1]</a><a>3:R[2]</a>",
+    "source_image_path": "",
+    "score": 0.0,
+    "is_markush": true
+  },
+  "fused_match": null,
+  "requirements": null,
+  "report": "Error during match fusion: LLM call failed after 3 retries: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Range of max_tokens should be [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_parameter_error'}, 'id': 'chatcmpl-20508728-f73d-95b8-8610-9a53117c2804', 'request_id': '20508728-f73d-95b8-8610-9a53117c2804'}"
+}

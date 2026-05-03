@@ -1,0 +1,4 @@
+Abstract
+--------
+
+The present invention provides a compound of Formula (I) and the pharmaceutically acceptable salts, esters, and prodrugs thereof, which are PRMT5 inhibitors. Also provided are methods of making compounds of Formula I, pharmaceutical compositions comprising compounds of Formula I, and methods of using these compounds to treat cancer, sickle cell, and hereditary persistence of foetal hemoglobin (HPFH) mutations.

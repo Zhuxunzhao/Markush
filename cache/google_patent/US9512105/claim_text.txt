@@ -1,0 +1,38 @@
+Claims (11)
+-----------
+
+The invention claimed is:
+
+1. A compound represented by the formula:
+
+[![Figure US09512105-20161206-C00017](https://patentimages.storage.googleapis.com/0a/01/38/6eec682b83e731/US09512105-20161206-C00017.png)](https://patentimages.storage.googleapis.com/0a/01/38/6eec682b83e731/US09512105-20161206-C00017.png)
+
+ 
+
+wherein
+
+W, X, Y and Z are, independently, hydrogen, C1-3 alkyl, OC1-3 alkyl, F, OH, Br, Cl, CN, CF3, NO2, SO2CH3, SO2CF3 or SO2NH2.
+
+2. The compound of claim 1, wherein W, X, Y and Z are, independently, hydrogen, methyl, methoxy, F, Cl or OH.
+
+3. The compound of claim 1, wherein W, V, X, Y and Z are, independently, hydrogen, methyl, Cl or OH.
+
+4. The compound of claim 1, wherein W is hydrogen, methyl or Cl.
+
+5. The compound of claim 1, wherein X is hydrogen, methoxy or OH.
+
+6. The compound of claim 1, wherein Y is hydrogen, methyl or methoxy.
+
+7. The compound of claim 1, wherein Z is hydrogen, F, methyl or methoxy.
+
+8. The compound of claim 1, which is represented by the formula:
+
+[![Figure US09512105-20161206-C00018](https://patentimages.storage.googleapis.com/31/9f/b7/a4a49a0b397be3/US09512105-20161206-C00018.png)](https://patentimages.storage.googleapis.com/31/9f/b7/a4a49a0b397be3/US09512105-20161206-C00018.png)
+
+9. The compound of claim 1, which is represented by the formula:
+
+[![Figure US09512105-20161206-C00019](https://patentimages.storage.googleapis.com/b8/e7/f1/09d7c6052b51ee/US09512105-20161206-C00019.png)](https://patentimages.storage.googleapis.com/b8/e7/f1/09d7c6052b51ee/US09512105-20161206-C00019.png)
+
+10. The compound of claim 1, which is a pharmaceutically acceptable salt.
+
+11. A pharmaceutical composition, comprising the compound of claim 1 and a pharmaceutically acceptable carrier.

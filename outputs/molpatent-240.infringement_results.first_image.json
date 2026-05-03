@@ -1,0 +1,199 @@
+{
+  "input": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/data/molpatent-240.infringement_input.json",
+  "output": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/outputs/molpatent-240.infringement_results.first_image.json",
+  "summary": {
+    "total": 3,
+    "ok": 3,
+    "error": 0,
+    "caption_from_first_image": 3,
+    "caption_from_dataset": 0
+  },
+  "records": [
+    {
+      "index": 1,
+      "input": {
+        "patent_id": "WO2020252229A2",
+        "smiles": "CCc1cncc(NCc2cccnc2)n1",
+        "source_index": 0,
+        "expected_is_protected": true,
+        "selection_type": 1
+      },
+      "caption_source": "first_image",
+      "first_image_path": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/cache/google_patent/WO2020252229A2/image_1.png",
+      "status": "ok",
+      "result": {
+        "patent_id": "WO2020252229A2",
+        "target_smiles": "CCc1cncc(NCc2cccnc2)n1",
+        "is_protected": true,
+        "confidence": "high",
+        "markush_structure": {
+          "cxsmiles": "",
+          "substituent_table": {},
+          "caption": "<r>R</r><r>L</r>c1<r>X</r>c(<r>L</r><r>R</r>)<r>X</r>:<r>X</r>:<r>X</r>1",
+          "source_image_path": "",
+          "score": 0.0,
+          "is_markush": true
+        },
+        "fused_match": {
+          "r_group_matching": {},
+          "rdkit_result": {
+            "is_match": false,
+            "r_group_map": null,
+            "method": "rdkit",
+            "reasoning": "Structure matching failed: ValueError('Incorrect caption: c1cc(c(NR)N)cc1')"
+          },
+          "nn_result": null,
+          "reasoning": "The target molecule CCc1cncc(NCc2cccnc2)n1 does not match the Markush skeleton c1cc(c(NR)N)cc1. The target molecule has additional substituents and a more complex structure, which do not align with the simple benzene ring with an amine group and an R-group in the Markush structure. Both RDKit and T5 failed to find a match, confirming the structural mismatch."
+        },
+        "requirements": {
+          "is_protected": true,
+          "reasoning": "The query molecule CCc1cncc(NCc2cccnc2)n1 matches the Markush structure c1cc(c(NR)N)cc1. The R1 group (CCc2cccnc2) is a 6-membered heteroaryl ring (pyridine) with a 2-carbon aliphatic chain (ethyl), which fits the claim definition. The R2 group (H) is hydrogen, which is explicitly allowed by the claim. Both R-groups are covered by the claim requirements, and there are no ambiguities.",
+          "confidence": "high",
+          "r_group_analysis": {
+            "R1": {
+              "value": "CCc2cccnc2",
+              "covered": true,
+              "claim_definition": "R1 is selected from halogen, CN, and -R. R is selected from hydrogen or an optionally substituted group selected from C1-6 aliphatic, phenyl, a 4- to 6-membered heterocyclic ring, a 5- to 6-membered heteroaryl ring, and an 8- to 10-membered heteroaryl ring.",
+              "reason": "CCc2cccnc2 is a 6-membered heteroaryl ring (pyridine) with a 2-carbon aliphatic chain (ethyl), which fits the claim definition."
+            },
+            "R2": {
+              "value": "H",
+              "covered": true,
+              "claim_definition": "R2 is -R. R is selected from hydrogen or an optionally substituted group selected from C1-6 aliphatic, phenyl, a 4- to 6-membered heterocyclic ring, a 5- to 6-membered heteroaryl ring, and an 8- to 10-membered heteroaryl ring.",
+              "reason": "H (hydrogen) is explicitly listed as one of the options for R."
+            }
+          }
+        },
+        "report": "## Detailed Analysis\n\n### Target Molecule\n- **Molecule**: CCc1cncc(NCc2cccnc2)n1\n- **Markush Structure**: c1cc(c(NR)N)cc1\n\n### R-group Matching Result\n- **R1**: CCc2cccnc2 (6-membered heteroaryl ring (pyridine) with a 2-carbon aliphatic chain (ethyl))\n- **R2**: H (hydrogen)\n\n### Claim Requirements\n- **R1**: The claim defines R1 as selected from halogen, CN, and -R. R is selected from hydrogen or an optionally substituted group selected from C1-6 aliphatic, phenyl, a 4- to 6-membered heterocyclic ring, a 5- to 6-membered heteroaryl ring, and an 8- to 10-membered heteroaryl ring.\n- **R2**: The claim defines R2 as -R. R is selected from hydrogen or an optionally substituted group selected from C1-6 aliphatic, phenyl, a 4- to 6-membered heterocyclic ring, a 5- to 6-membered heteroaryl ring, and an 8- to 10-membered heteroaryl ring.\n\n### R-group Analysis\n- **R1**: The value 'CCc2cccnc2' is a 6-membered heteroaryl ring (pyridine) with a 2-carbon aliphatic chain (ethyl), which fits the claim definition. Therefore, R1 is covered by the claim.\n- **R2**: The value 'H' (hydrogen) is explicitly listed as one of the options for R. Therefore, R2 is covered by the claim.\n\n### Conclusion\nBoth R1 and R2 groups in the target molecule meet the claim requirements, and there are no ambiguities. The target molecule is protected under the patent WO2020252229A2."
+      }
+    },
+    {
+      "index": 2,
+      "input": {
+        "patent_id": "US9655879",
+        "smiles": "CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2F)s1)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+        "source_index": 1,
+        "expected_is_protected": true,
+        "selection_type": 1
+      },
+      "caption_source": "first_image",
+      "first_image_path": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/cache/google_patent/US9655879/image_1.png",
+      "status": "ok",
+      "result": {
+        "patent_id": "US9655879",
+        "target_smiles": "CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2F)s1)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+        "is_protected": false,
+        "confidence": "high",
+        "markush_structure": {
+          "cxsmiles": "",
+          "substituent_table": {},
+          "caption": "<r>*</r>C(=O)C(<r>*</r>)(<r>*</r>)CC1=CC=C(C(=O)OC2=CC=C(C(=N)N)C=C2F)S1",
+          "source_image_path": "",
+          "score": 0.0,
+          "is_markush": true
+        },
+        "fused_match": {
+          "r_group_matching": {},
+          "rdkit_result": {
+            "is_match": false,
+            "r_group_map": null,
+            "method": "rdkit",
+            "reasoning": "Structure matching failed: ValueError('Incorrect caption: <r>*</r>C(=O)C(<r>*</r>)(<r>*</r>)CC1=CC=C(C(=O)OC2=CC=C(C(=N)N)C=C2F)S1')"
+          },
+          "nn_result": null,
+          "reasoning": "The target molecule does not match the Markush structure. The central carbon atom in the Markush structure has three R-groups, while the target molecule has a methyl group, a benzene ring, and another complex substituent. Additionally, the connectivity and substituents of the benzene ring differ."
+        },
+        "requirements": {
+          "is_protected": false,
+          "reasoning": "The query molecule has R2 and R3 values that do not match the claim requirements. R2 is a complex aromatic group, and R3 is a complex group including a carboxylic acid and an amide, neither of which fit the definitions provided in the claim.",
+          "confidence": "high",
+          "r_group_analysis": {
+            "R1": {
+              "value": "CC(C)",
+              "covered": true,
+              "claim_definition": "R1 and R2 are the same or different and each is independently a C1-4 alkyl group or a C2-4 alkenyl group, or R1 and R2 together with the carbon atom to which they are bonded form a C3-8 cycloalkane ring.",
+              "reason": "CC(C) is a C3 alkyl group (propane), which is within the C1-4 alkyl group range."
+            },
+            "R2": {
+              "value": "Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2F)s1",
+              "covered": false,
+              "claim_definition": "R1 and R2 are the same or different and each is independently a C1-4 alkyl group or a C2-4 alkenyl group, or R1 and R2 together with the carbon atom to which they are bonded form a C3-8 cycloalkane ring.",
+              "reason": "Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2F)s1 is not a C1-4 alkyl group or a C2-4 alkenyl group, nor does it form a C3-8 cycloalkane ring with the carbon atom to which it is bonded."
+            },
+            "R3": {
+              "value": "C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+              "covered": false,
+              "claim_definition": "X is a group represented by formula (II) where Ra and Rb are the same or different and each is independently a hydrogen atom, a C1-8 alkyl group, a carboxyl C1-8 alkyl group, a carboxyl group, an aryl group, a C3-6 heterocyclic group containing 1 to 4 heteroatoms selected from the group consisting of O, N, and S, or a C3-8 cycloalkyl group, or Ra and Rb together with the atom(s) to which they are bonded form a C3-8 cycloalkane ring or a C3-9 heterocycle containing 1-4 heteroatoms selected from the group consisting of O, N, and S, wherein said C1-8 alkyl group, said aryl group, said C3-8 cycloalkane ring and said C3-9 heterocycle may be substituted with one or more substituents.",
+              "reason": "C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1 is a complex group that includes a carboxylic acid and an amide, which does not fit the definition of Ra and Rb as specified in the claim."
+            }
+          }
+        },
+        "report": "## Detailed Analysis\n\n### Markush Structure\nThe Markush structure provided in the patent is: `<r>*</r>C(=O)C(<r>*</r>)(<r>*</r>)CC1=CC=C(C(=O)OC2=CC=C(C(=N)N)C=C2F)S1`.\n\n### R-group Matching Result\n- **R1**: The value `CC(C)` (propane) is a C3 alkyl group, which fits within the C1-4 alkyl group range. Therefore, R1 is covered by the claim definition.\n- **R2**: The value `Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2F)s1` is a complex aromatic group. This does not match the claim requirement of being a C1-4 alkyl group or a C2-4 alkenyl group, nor does it form a C3-8 cycloalkane ring with the carbon atom to which it is bonded. Thus, R2 is not covered.\n- **R3**: The value `C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1` is a complex group that includes a carboxylic acid and an amide. This does not fit the definition of Ra and Rb as specified in the claim, which includes hydrogen, C1-8 alkyl groups, carboxyl C1-8 alkyl groups, carboxyl groups, aryl groups, C3-6 heterocyclic groups, or C3-8 cycloalkyl groups. Therefore, R3 is not covered.\n\n### Requirements Examination\n- **Protected**: False\n- **Reasoning**: The query molecule has R2 and R3 values that do not match the claim requirements. R2 is a complex aromatic group, and R3 is a complex group including a carboxylic acid and an amide, neither of which fit the definitions provided in the claim."
+      }
+    },
+    {
+      "index": 3,
+      "input": {
+        "patent_id": "US9655879",
+        "smiles": "CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2(C=O))cc1)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+        "source_index": 2,
+        "expected_is_protected": false,
+        "selection_type": 4
+      },
+      "caption_source": "first_image",
+      "first_image_path": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/cache/google_patent/US9655879/image_1.png",
+      "status": "ok",
+      "result": {
+        "patent_id": "US9655879",
+        "target_smiles": "CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2(C=O))cc1)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+        "is_protected": false,
+        "confidence": "high",
+        "markush_structure": {
+          "cxsmiles": "",
+          "substituent_table": {},
+          "caption": "<r>*</r>C(=O)C(<r>*</r>)(<r>*</r>)CC1=CC=C(C(=O)OC2=CC=C(C(=N)N)C=C2F)S1",
+          "source_image_path": "",
+          "score": 0.0,
+          "is_markush": true
+        },
+        "fused_match": {
+          "r_group_matching": {},
+          "rdkit_result": {
+            "is_match": false,
+            "r_group_map": null,
+            "method": "rdkit",
+            "reasoning": "Structure matching failed: ValueError('Incorrect caption: <r>*</r>C(=O)C(<r>*</r>)(<r>*</r>)CC1=CC=C(C(=O)OC2=CC=C(C(=N)N)C=C2F)S1')"
+          },
+          "nn_result": null,
+          "reasoning": "The skeleton of the target molecule does not match the Markush structure. Both RDKit and T5 failed to provide a valid R-group mapping. The target molecule has a more complex structure with multiple substituted benzene rings and additional functional groups, which do not align with the Markush structure."
+        },
+        "requirements": {
+          "is_protected": false,
+          "reasoning": "The R1 and R2 groups in the query molecule are complex structures that do not fit the definitions of C1-4 alkyl, C2-4 alkenyl, or C3-8 cycloalkane rings as required by the claim. Therefore, the query molecule is not covered by the patent.",
+          "confidence": "high",
+          "r_group_analysis": {
+            "R1": {
+              "value": "CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2(C=O))cc1)",
+              "covered": false,
+              "claim_definition": "C1-4 alkyl group, C2-4 alkenyl group, or C3-8 cycloalkane ring",
+              "reason": "R1 is a complex structure that does not fit the claim requirements."
+            },
+            "R2": {
+              "value": "C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+              "covered": false,
+              "claim_definition": "C1-4 alkyl group, C2-4 alkenyl group, or C3-8 cycloalkane ring",
+              "reason": "R2 is a complex structure that does not fit the claim requirements."
+            },
+            "R3": {
+              "value": "H",
+              "covered": true,
+              "claim_definition": "Implied hydrogen if R1 and R2 do not form a cycloalkane ring",
+              "reason": "R3 is a hydrogen atom, which is implied to be acceptable if R1 and R2 do not form a cycloalkane ring."
+            }
+          }
+        },
+        "report": "## Detailed Analysis\n\n### Patent: US9655879\n\n### Target Molecule: CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2(C=O))cc1)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1\n\n### Markush Structure\n\n`<r>*</r>C(=O)C(<r>*</r>)(<r>*</r>)CC1=CC=C(C(=O)OC2=CC=C(C(=N)N)C=C2F)S1`\n\n### R-group Matching Result\n\n- **R1**: `CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2(C=O))cc1)`\n  - **Covered**: False\n  - **Claim Definition**: C1-4 alkyl group, C2-4 alkenyl group, or C3-8 cycloalkane ring\n  - **Reason**: R1 is a complex structure that does not fit the claim requirements.\n\n- **R2**: `C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1`\n  - **Covered**: False\n  - **Claim Definition**: C1-4 alkyl group, C2-4 alkenyl group, or C3-8 cycloalkane ring\n  - **Reason**: R2 is a complex structure that does not fit the claim requirements.\n\n- **R3**: `H`\n  - **Covered**: True\n  - **Claim Definition**: Implied hydrogen if R1 and R2 do not form a cycloalkane ring\n  - **Reason**: R3 is a hydrogen atom, which is implied to be acceptable if R1 and R2 do not form a cycloalkane ring.\n\n### Requirements Examination\n\n- **Protected**: False\n- **Reasoning**: The R1 and R2 groups in the query molecule are complex structures that do not fit the definitions of C1-4 alkyl, C2-4 alkenyl, or C3-8 cycloalkane rings as required by the claim. Therefore, the query molecule is not covered by the patent."
+      }
+    }
+  ]
+}

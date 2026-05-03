@@ -1,0 +1,315 @@
+Claims
+------
+
+1. A chemical compound or salt thereof having formula (I):
+
+[![Figure imgf000104_0001](https://patentimages.storage.googleapis.com/9a/94/8b/44d23d964bc37e/imgf000104_0001.png)](https://patentimages.storage.googleapis.com/9a/94/8b/44d23d964bc37e/imgf000104_0001.png)
+
+wherein at least one of R2, R4, R5, R6, or R7 is a nitro group, and wherein each non-nitrated R2, R5, R6, or R7 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group, and wherein RSA and RSB are a hydrogen atom, an alkyl group, an aryl group, or an acyl group.
+
+2. A chemical compound according to claim 1 , wherein R2 is a nitro group, R5, R6 and R7 are each a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group.
+
+3. A chemical compound according to claim 1 , wherein R4 is a nitro group and R2, R5, R6 and R7 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+4. A chemical compound according to claim 1 , wherein R5 is a nitro group, R2, R6 and R7 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group.
+
+5. A chemical compound according to claim 1 , wherein R6 is a nitro group, R2, R5 and R7 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group.
+
+6. A chemical compound according to claim 1 , wherein R? is a nitro group, R2, R5 and R6 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 are a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group.
+
+7. A chemical compound according to claim 1 , wherein at least two of R2, R4, R5, R6 or R? are a nitro group.
+
+8. A chemical compound according to claim 1 , wherein R2 and R4 are a nitro group, and R5, R6 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+9. A chemical compound according to claim 1 , wherein R2 and R5 are a nitro group, R6 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+10. A chemical compound according to claim 1 , wherein R2 and R6 are a nitro group, R5 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+11. A chemical compound according to claim 1 , wherein R2 and R7 is a nitro group, R5 and R6 is a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+12. A chemical compound according to claim 1 , wherein R4 and R5 is a nitro group, and R2, R6 and R7 is a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+13. A chemical compound according to claim 1 , wherein R4 and R6 is a nitro group, and R2, R5 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+14. A chemical compound according to claim 1 , wherein R4 and R7 are a nitro group and R2 R5 and R6 are a hydrogen atom or an alkyl O-alkyl or O-aryl group
+
+15. A chemical compound according to claim 1 , wherein R5 and R6 are a nitro group, R2 and R? are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+16. A chemical compound according to claim 1 , wherein R5 and R7 is a nitro group, R2 and R6 is a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+17. A chemical compound according to claim 1 , wherein R6 and R7 are a nitro group, R2 and R5 is a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+A chemical compound according to claim 1 , wherein R4 when it is not nitrated is a hydrogen atom.
+
+19. A chemical compound according to claim 1 , wherein R4 when it is not nitrated is a hydroxy group.
+
+20. A chemical compound according to claim 1 , wherein R4 when it is not nitrated is an alkyl group.
+
+21. A chemical compound according to claim 1 , wherein R4 when it is not nitrated is a phosphate group.
+
+22. A chemical compound according to claim 1 , wherein three, four or all five of R2, R4, R5, R6 or R7 are a nitro group.
+
+23. A chemical compound according to claim 1 , wherein the chemical compound is selected from the group consisting of compounds having formulas (III); (IV); (V); (VI); (VII); (VIII); (IX); (X); (XXVIII); and (XXIX):
+
+[![Figure imgf000107_0001](https://patentimages.storage.googleapis.com/1a/b4/57/25f83e8910b485/imgf000107_0001.png)](https://patentimages.storage.googleapis.com/1a/b4/57/25f83e8910b485/imgf000107_0001.png)
+
+24. A chemical compound according to claim 1 , wherein the compound is at least about 95% (w/w) pure.
+
+25. A pharmaceutical or recreational drug formulation comprising an effective amount of the chemical compound of claim 1 together with a pharmaceutically acceptable excipient, diluent or carrier.
+
+26. A method for treating a psychiatric disorder, the method comprising administering to a subject in need thereof a pharmaceutical formulation comprising the chemical compound of claim 1 , wherein the pharmaceutical formulation is administered in an effective amount to treat the psychiatric disorder in the subject.
+
+27. A method according to claim 26, wherein the disorder is a 5-HT2A receptor mediated disorder
+
+28. A method according to claim 26 or 27, wherein a dose is administered of about 0.001 mg to about 5,000 mg.
+
+29. A method of making a nitrated psilocybin derivative the method comprising: reacting a reactant psilocybin derivative compound or a salt thereof having the formula (II):
+
+[![Figure imgf000108_0001](https://patentimages.storage.googleapis.com/ac/50/2f/d1815d2eaaf1bd/imgf000108_0001.png)](https://patentimages.storage.googleapis.com/ac/50/2f/d1815d2eaaf1bd/imgf000108_0001.png)
+
+wherein, at least one of R2, R4, R5, R6, or R7 is a reactant group, and wherein each R2, R5, R6, or R7 which is not a reactant group is a hydrogen atom or an alkyl, O- alkyl or O-aryl group, wherein R4 when it is not a reactant group is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group, and wherein RSA and RSB are a hydrogen atom, an alkyl group, an aryl group or an acyl group, with a nitro group donating compound under conditions sufficient to form the chemical compound of claim 1 .
+
+30. A method according to claim 29, wherein the nitro group donating compound is selected from nitric acid (HNO3); a nitrate salt; an acyl nitrate; trifluomethansulfonyl nitrate; and trifluoracetyl nitrate.
+
+31. A method of making a chemical compound of claim 1 , the method comprising:
+
+(a) reacting a compound having the chemical formula (XI):
+
+[![Figure imgf000108_0002](https://patentimages.storage.googleapis.com/83/02/31/6fd21f9e081879/imgf000108_0002.png)](https://patentimages.storage.googleapis.com/83/02/31/6fd21f9e081879/imgf000108_0002.png)
+
+wherein, R2, R5, R6, and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, wherein R4 is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group; with 1-(dimethylamino)-2-nitroethylene under the catalysis of an acid to form a compound having chemical formula (XII):
+
+[![Figure imgf000109_0001](https://patentimages.storage.googleapis.com/a2/27/77/7bafbbc9087315/imgf000109_0001.png)](https://patentimages.storage.googleapis.com/a2/27/77/7bafbbc9087315/imgf000109_0001.png)
+
+(b) reacting the compound having chemical formula (XII) with sodium borohydride in an alcohol solution to form a compound having formula (XIII):
+
+[![Figure imgf000109_0002](https://patentimages.storage.googleapis.com/c7/31/a6/99593ac35d4f5b/imgf000109_0002.png)](https://patentimages.storage.googleapis.com/c7/31/a6/99593ac35d4f5b/imgf000109_0002.png)
+
+(c) reacting the compound having chemical formula (XIII) under suitable reducing conditions to form a compound having the chemical formula (XIV):
+
+[![Figure imgf000109_0003](https://patentimages.storage.googleapis.com/8f/52/76/04c193379e0e64/imgf000109_0003.png)](https://patentimages.storage.googleapis.com/8f/52/76/04c193379e0e64/imgf000109_0003.png)
+
+(d) reacting the compound having chemical formula (XIV) with a protecting reagent to form a compound having the chemical formula (XV), or (XVI) or (XVII):
+
+[![Figure imgf000110_0001](https://patentimages.storage.googleapis.com/ea/7f/46/92ca2c7343931b/imgf000110_0001.png)](https://patentimages.storage.googleapis.com/ea/7f/46/92ca2c7343931b/imgf000110_0001.png)
+
+wherein PG is a protecting group;
+
+(e) reacting the compound having chemical formula (XV), (XVI) or (XVII) with a nitro group donating compound to form a compound having the chemical formula (XVIII), ( XIX) or (XX):
+
+[![Figure imgf000111_0001](https://patentimages.storage.googleapis.com/f5/cb/10/f9ff024b597d65/imgf000111_0001.png)](https://patentimages.storage.googleapis.com/f5/cb/10/f9ff024b597d65/imgf000111_0001.png)
+
+wherein at least one of R2, R5, R6 and R7 is a nitro group, wherein R2, R5, R6, or R7 which are not nitrated are a hydrogen atom or an alkyl, O- alkyl or O-aryl group, wherein R4 when it is not nitrated is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group, and wherein at least one of R3a and R3b is an alkyl group; and
+
+(f) substituting protective group (PG) in the compound having chemical formula (XVIII), (XIX) or (XX) with a reagent to substitute the protective group to form a compound having the chemical formula (XXI):
+
+[![Figure imgf000111_0002](https://patentimages.storage.googleapis.com/6b/f5/ed/63b6552c15c815/imgf000111_0002.png)](https://patentimages.storage.googleapis.com/6b/f5/ed/63b6552c15c815/imgf000111_0002.png)
+
+wherein at least one of R2, R5, R6 and R7 is a nitro group, wherein R2, R5, R6, or R7 which are not nitrated are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a phosphate group, a
+hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group, and wherein at least one of R3a and R3b is an alkyl group.
+
+32. A method according to claim 31 , wherein the method further comprises step (g) comprising reacting the compound having chemical formula (XXI) with (i) an aldehyde or ketone group under reductive amination conditions or (ii) an alkyl electrophile or a,p-unsaturated reagent, to form a compound having the chemical formula (XXII):
+
+[![Figure imgf000112_0001](https://patentimages.storage.googleapis.com/7c/ba/d7/6791125bb25d06/imgf000112_0001.png)](https://patentimages.storage.googleapis.com/7c/ba/d7/6791125bb25d06/imgf000112_0001.png)
+
+wherein at least one of R2, R5, R6 and R7 is a nitro group, wherein R2, R5, R6, or R7 which are not nitrated are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group, and wherein at least one of R3a and R3b is an alkyl group.
+
+33. A method according to claim 32, wherein the method further comprises step (h) comprising reacting the compound having chemical formula (XXII) with an acylating reagent to form a compound having the chemical formula (XXIII):
+
+[![Figure imgf000112_0002](https://patentimages.storage.googleapis.com/4a/d6/66/c73599cf8722ca/imgf000112_0002.png)](https://patentimages.storage.googleapis.com/4a/d6/66/c73599cf8722ca/imgf000112_0002.png)
+
+wherein at least one of R2, R5, R6 and R7 is a nitro group, wherein R2, R5, R6, or R7 which are not nitrated are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group, and wherein at least one of R3a and R3b is an alkyl group.
+
+34. A method according to claim 32, wherein the method further comprises step (h) comprising reacting the compound having chemical formula (XXII).
+
+35. A method according to claim 31, wherein suitable reducing conditions in step (b) are a reacting in the presence of ammonium formate and palladium on charcoal, or lithium aluminum hydride, or sodium borohydride-BFs.EfeO.
+
+36. A method according to claim 31 , wherein in step (d) the protecting group is selected from an alkyl group, an acyl group, or carbamate group.
+
+37. A method according to claim 31 , wherein the nitro group donating compound in step (e) is selected from AgNOs-acyl halide, NO2BF4, nitric acid- H2SO4, and nitric acid-trifluoroacetic acid.
+
+38. A method according to claim 31 , wherein the reagent to substitute the protective group in step (f) is trifluoroacetic acid in dichloromethane.
+
+39. The method of any one of any one of claims 32 to 38, wherein in the compounds having chemical formula (XII) or (XIII) two of R3a and R3b are alkyl groups.
+
+40. A method according to any one of claims 29 to 39, wherein R2 in the compound having formula (I) is a nitro group, R5, R6 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group.
+
+41. A method according to any one of claims 29 to 39, wherein R4 in the compound having formula (I) is a nitro group and R2, R5, R6 and R7 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+42. A method according to any one of claims 29 to 39, wherein R5 in the compound having formula (I) is a nitro group, R2, R6 and R7 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a phosphate group, a hydrogen atom a hydroxy group or an alkyl O-alkyl or O-aryl group
+
+43. A method according to any one of claims 29 to 39, wherein R6 in the compound having formula (I) is a nitro group atom, R2, R5 and R7 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group.
+
+44. A method according to any one of claims 29 to 39, wherein R7 in the compound having formula (I) is a nitro group, R2, R5 and R6 each are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a phosphate group, a hydrogen atom, a hydroxy group, or an alkyl, O-alkyl or O-aryl group.
+
+45. A method according to any one of claims 29 to 39, wherein at least two of R2, R4, R5, R6 or R7 in the compound formula (I) are a nitro group.
+
+46. A chemical compound according to any one of claims 29 to 39, wherein R2 and R4 in the compound having formula (I) are a nitro group, and R5, R6 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+47. A method according to any one of claims 29 to 39, wherein R2 and R5 in the compound having formula (I) are a nitro group, R6 and R7 are a hydrogen atom, or an alkyl, O-alkyl or O-aryl group, and R4 are a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+48. A method according to any one of claims 29 to 39, wherein R2 and R6 in the compound having formula (I) are a nitro group, R5 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+49. A method according to any one of claims 29 to 39, wherein R2 and R7 in the compound having formula (I) are a nitro group, R5 and R6 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 are a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+50. A method according to any one of claims 29 to 39, wherein R4 and R5 in the compound having formula (I) are a nitro group, and R2, R6 and R7 are a hydrogen atom or an alkyl O-alkyl or O-aryl group
+
+51. A method according to any one claims 29 to 39, wherein R4 and R6 in the compound having formula (I) are a nitro group, and R2, R5 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+52. A method according to any one of claims 29 to 39, wherein R4 and R7 in the compound having formula (I) are a nitro group and R2, R5 and R6 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group.
+
+53. A method according to any one of claims 29 to 39, wherein R5 and R6 in the compound having formula (I) are a nitro group, R2 and R7 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 are a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+54. A method according to any one of claims 29 to 39, wherein R5 and R7 in the compound having formula (I) are a nitro group, R2 and R6 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+55. A method according to any one of claims 29 to 39, wherein R6 and R7 in the compound having formula (I) are a nitro group, R2 and R5 are a hydrogen atom or an alkyl, O-alkyl or O-aryl group, and R4 is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group.
+
+56. A method according to any one of claims 29 to 39, wherein R4 in the compound having formula (I) when it is not nitrated is a hydrogen atom.
+
+57. A method compound according to any one of claims 29 to 39, wherein R4 in the compound having formula (I) when it is not nitrated is a hydroxy group.
+
+58. A method compound according to any one of claims 29 to 39, wherein R4 in the compound having formula (I) when it is not nitrated is an alkyl group.
+
+59. A method according to any one of claims 29 to 39, wherein R4 in the compound having formula (I) when it is not nitrated is a phosphate group.
+
+60. A method according to any one of claims 29 to 39, wherein three, four or all five of R2, R4, R5, R6 or R7 in the compound having formula (I) are a nitro group.
+
+61 . A method according to any one of claims 29 to 39, wherein the compound having formula (I) is selected from the group consisting of compounds having formulas (III); (IV); (V); (VI); (VII); (VIII); (IX); (X); (XXVIII); and (XXIX):
+
+[![Figure imgf000116_0001](https://patentimages.storage.googleapis.com/d0/cc/ec/012cef2be39d0e/imgf000116_0001.png)](https://patentimages.storage.googleapis.com/d0/cc/ec/012cef2be39d0e/imgf000116_0001.png)
+
+62. A method of making a chemical compound according to claim 1 , the method comprising:
+
+(a) contacting a nitrated psilocybin precursor compound with a host cell comprising a psilocybin biosynthetic enzyme complement; and
+
+(b) growing the host cell to produce the chemical compound of claim 1 .
+
+63. A method according to claim 62, wherein the psilocybin biosynthetic enzyme complement comprises at least one enzyme encoded by a nucleic acid selected from:
+(a) SEQ.ID NO: 4, SEQ.ID NO: 6, and SEQ.ID NO: 11 ;
+
+(b) a nucleic acid sequence that is substantially identical to any one of the nucleic acid sequences of (a);
+
+(c) a nucleic acid sequence that is substantially identical to any one of the nucleic acid sequences of (a) but for the degeneration of the genetic code;
+
+(d) a nucleic acid sequence that is complementary to any one of the nucleic acid sequences of (a);
+
+(e) a nucleic acid sequence encoding a polypeptide having any one of the amino acid sequences set forth in SEQ.ID NO: 5, SEQ.ID NO: 7 or SEQ.ID NO: 12;
+
+(f) a nucleic acid sequence that encodes a functional variant of any one of the amino acid sequences set forth in SEQ.ID NO: 5, SEQ.ID NO:7 or SEQ.ID NO: 12; and
+
+(g) a nucleic acid sequence that hybridizes under stringent conditions to any one of the nucleic acid sequences set forth in (a), (b), (c), (d), (e) or (f).
+
+64. A method according to claim 62, wherein the nitrated psilocybin precursor compound is a compound, having the formula (XXIV):
+
+[![Figure imgf000117_0001](https://patentimages.storage.googleapis.com/83/92/6a/9e1f8f7e32973c/imgf000117_0001.png)](https://patentimages.storage.googleapis.com/83/92/6a/9e1f8f7e32973c/imgf000117_0001.png)
+
+wherein at least one of R2, R4, R5, R6 and R7 is a nitro group, wherein R2, R4, R5, R6 and R7 when they are not nitrated are hydrogen atoms, or an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group; wherein the psilocybin biosynthetic enzyme complement comprises: a tryptophan decarboxylase encoded by a nucleic acid sequence selected from: (a) SEQ.ID NO: 11 ;
+(b) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a);
+
+(c) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a) but for the degeneration of the genetic code;
+
+(d) a nucleic acid sequence that is complementary to the nucleic acid sequence of (a);
+
+(e) a nucleic acid sequence encoding a polypeptide having any one of the amino acid sequences set forth in SEQ.ID NO: 12;
+
+(f) a nucleic acid sequence that encodes a functional variant of the amino acid sequence set forth in SEQ.ID NO: 12; and
+
+(g) a nucleic acid sequence that hybridizes under stringent conditions to any one of the nucleic acid sequences set forth in (a), (b), (c), (d), (e) or (f); and wherein the formed chemical compound is a chemical compound according to claim 1 having formula (XXV):
+
+[![Figure imgf000118_0001](https://patentimages.storage.googleapis.com/fa/d3/47/921ed7f0ccf4aa/imgf000118_0001.png)](https://patentimages.storage.googleapis.com/fa/d3/47/921ed7f0ccf4aa/imgf000118_0001.png)
+
+wherein at least one of R2, R4, R5, R6, or R7 is a nitro group, and wherein each non-nitrated R2, R5, R6, or R7 is a hydrogen atom or an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group, and wherein at least one of RSA and RSB are hydrogen atom.
+
+65. A method according to claim 62, wherein the nitrated psilocybin precursor compound is a nitrated indole compound having the formula (XXVI):
+
+[![Figure imgf000118_0002](https://patentimages.storage.googleapis.com/7a/eb/6b/cf7fdecfde2f97/imgf000118_0002.png)](https://patentimages.storage.googleapis.com/7a/eb/6b/cf7fdecfde2f97/imgf000118_0002.png)
+
+wherein at least one of R2, R4, R5, R6 and R7 is a nitro group, wherein R2, R4, R5, R6 and R7 when they are not nitrated are hydrogen atoms, or an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group; wherein the psilocybin biosynthetic enzyme complement comprises:
+
+(i) a tryptophan synthase subunit B polypeptide encoded by a nucleic acid selected from:
+
+(a) SEQ.ID NO: 6;
+
+(b) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a);
+
+(c) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a) but for the degeneration of the genetic code;
+
+(d) a nucleic acid sequence that is complementary to the nucleic acid sequence of (a);
+
+(e) a nucleic acid sequence encoding a polypeptide having any one of the amino acid sequences set forth in SEQ.ID NO: 7;
+
+(f) a nucleic acid sequence that encodes a functional variant of the amino acid sequence set forth in SEQ.ID NO: 7; and
+
+(g) a nucleic acid sequence that hybridizes under stringent conditions to any one of the nucleic acid sequences set forth in (a), (b), (c), (d), (e) or (f); and
+
+(ii) a tryptophan decarboxylase encoded by a nucleic acid sequence selected from:
+
+(a) SEQ.ID NO: 11 ;
+
+(b) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a);
+
+(c) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a) but for the degeneration of the genetic code;
+
+(d) a nucleic acid sequence that is complementary to the nucleic acid sequence of (a);
+
+(e) a nucleic acid sequence encoding a polypeptide having any one of the amino acid sequences set forth in SEQ.ID NO: 12;
+(f) a nucleic acid sequence that encodes a functional variant of the amino acid sequence set forth in SEQ.ID NO: 12; and
+
+(g) a nucleic acid sequence that hybridizes under stringent conditions to any one of the nucleic acid sequences set forth in (a), (b), (c), (d), (e) or (f); and wherein the formed chemical compound is a chemical compound according to claim 1 having formula (XXV):
+
+[![Figure imgf000120_0001](https://patentimages.storage.googleapis.com/9f/a9/9a/a699afd03eca5e/imgf000120_0001.png)](https://patentimages.storage.googleapis.com/9f/a9/9a/a699afd03eca5e/imgf000120_0001.png)
+
+wherein at least one of R2, R4, R5, R6, or R7 is a nitro group, and wherein each non-nitrated R2, R5, R6, or R7 is a hydrogen atom or an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group, and wherein at least one of RSA and RSB are hydrogen atom.
+
+66. A method according to claim 65, wherein RSA and RSB in formula (XXV) are each hydrogen atom.
+
+67. A method according to any one of claims 64 to 66, wherein the psilocybin biosynthetic enzyme complement further comprises an N-acetyl transferase.
+
+68. A method according to claim 65, wherein the N-acetyl transferase is an enzyme encoded by. a nucleic acid sequence selected from:
+
+(a) SEQ.ID NO: 4;
+
+(b) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a);
+
+(c) a nucleic acid sequence that is substantially identical to the nucleic acid sequence of (a) but for the degeneration of the genetic code;
+
+(d) a nucleic acid sequence that is complementary to the nucleic acid sequence of (a);
+(e) a nucleic acid sequence encoding a polypeptide having any one of the amino acid sequences set forth in SEQ.ID NO: 5;
+
+(f) a nucleic acid sequence that encodes a functional variant of the amino acid sequence set forth in SEQ.ID NO: 5; and
+
+(g) a nucleic acid sequence that hybridizes under stringent conditions to any one of the nucleic acid sequences set forth in (a), (b), (c), (d), (e) or (f).
+
+69. A method according to claim 67, wherein the formed chemical compounds is a compound according to claim 1 having the formula (XXVII):
+
+[![Figure imgf000121_0001](https://patentimages.storage.googleapis.com/33/53/70/9f8aba1b147ca2/imgf000121_0001.png)](https://patentimages.storage.googleapis.com/33/53/70/9f8aba1b147ca2/imgf000121_0001.png)
+
+wherein, at least one of R2, R4, R5, R6 or R7 is a nitro group, wherein each non-nitrated R2, R5, R6, or R7 is a hydrogen atom or an alkyl group or O- alkyl group, wherein R4 when it is not nitrated is a phosphate group, a hydrogen atom or an alkyl group or O-alkyl group.
+
+70. A method according to any one of claims 61 to 68, wherein the formed chemical compound according to claim 1 is selected from the group consisting of compounds having formulas (III); (IV); (V); (VI); (VII); (VIII); (IX); (X); (XXVIII); and (XXIX):
+
+[![Figure imgf000121_0002](https://patentimages.storage.googleapis.com/e8/0e/76/c90f1311186644/imgf000121_0002.png)](https://patentimages.storage.googleapis.com/e8/0e/76/c90f1311186644/imgf000121_0002.png)
+
+[![Figure imgf000122_0001](https://patentimages.storage.googleapis.com/8a/9b/cc/af7b50545c0a26/imgf000122_0001.png)](https://patentimages.storage.googleapis.com/8a/9b/cc/af7b50545c0a26/imgf000122_0001.png)
+
+71. A method according to any one of claims 61 to 69, wherein the nitrated psilocybin precursor compound is contacted with the host cell by including the nitrated psilocybin precursor compound in a growth medium for the host cell.
+
+72. A method according to any one of claims 61 to 70, wherein the method further includes a step comprising isolating the nitrated psilocybin derivative.
+
+73. A method according to any one of claims 61 to 71 , wherein the host cell is a microbial cell.
+
+74. A method according to any one of claims 61 to 71 , wherein the host is a bacterial cell or a yeast cell.
+
+75. A method for modulating a 5-HT2A receptor, the method comprising contacting a 5-HT2A receptor with a chemical compound of claim 1 under reaction conditions sufficient to thereby modulate receptor activity.
+
+76. A method according to claim 74, wherein the reaction conditions are in vitro reaction conditions.
+
+77. A method according to claim 74, wherein the reaction conditions are in vivo reaction conditions.
+
+78. A use of a chemical compound according to claim 1 in the manufacture of a pharmaceutical or recreational drug formulation.
+
+79. A use according to claim 77, wherein the manufacture comprises formulating the chemical compound with an excipient, diluent or carrier.
+
+80. A use according to claim 77, wherein the manufacture further includes a step comprising derivatizing the chemical compound of claim 1 by substituting the nitro group with another group or an atom.
+
+81. A use of a chemical compound of claim 1 , together with a diluent, carrier, or excipient as a pharmaceutical or recreational drug formulation.

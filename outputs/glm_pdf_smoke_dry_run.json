@@ -1,0 +1,40 @@
+{
+  "input": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/data/molpatent-240.infringement_input.json",
+  "output": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/outputs/glm_pdf_smoke_dry_run.json",
+  "summary": {
+    "total": 1,
+    "completed": 1,
+    "ok": 0,
+    "error": 1,
+    "dry_run_ok": 0,
+    "skipped_existing": 0,
+    "model": "glm-5.1",
+    "base_url": "https://api.z.ai/api/paas/v4/",
+    "api_key_env": null,
+    "max_pdf_chars": 12000,
+    "started_at": "2026-04-25T17:21:29Z",
+    "finished_at": "2026-04-25T17:24:09Z"
+  },
+  "records": [
+    {
+      "index": 2,
+      "input": {
+        "patent_id": "US9655879",
+        "smiles": "CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2F)s1)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+        "source_index": 1,
+        "expected_is_protected": true,
+        "selection_type": 1
+      },
+      "model": "glm-5.1",
+      "status": "error",
+      "pdf": {
+        "path": "/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/cache/patent_pdf/US9655879/US9655879.pdf",
+        "source": "uspto",
+        "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9655879",
+        "text_chars": 0
+      },
+      "error": "PDF text extraction returned empty text",
+      "elapsed_sec": 160.52
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+Claims (14)
+-----------
+
+The invention claimed is:
+
+1. A compound represented by formula (I):
+
+[![Figure US09655879-20170523-C00170](https://patentimages.storage.googleapis.com/0b/ee/a9/aa04106b0c511c/US09655879-20170523-C00170.png)](https://patentimages.storage.googleapis.com/0b/ee/a9/aa04106b0c511c/US09655879-20170523-C00170.png)
+
+wherein:
+
+R1 and R2 are the same or different and each is independently a C1-4 alkyl group or a C2-4 alkenyl group, or R1 and R2 together with the carbon atom to which they are bonded form a C3-8 cycloalkane ring;
+
+X is a group represented by formula (II):
+
+[![Figure US09655879-20170523-C00171](https://patentimages.storage.googleapis.com/aa/c0/40/9efb908cd0854b/US09655879-20170523-C00171.png)](https://patentimages.storage.googleapis.com/aa/c0/40/9efb908cd0854b/US09655879-20170523-C00171.png)
+
+wherein:
+
+R6 is a hydrogen atom, a C1-8 alkyl group, a carboxyl C1-8 alkyl group, or a C3-8 alkenyl group, wherein said C1-8 alkyl group and said C3-8 alkenyl group may be substituted with one or more substituents;
+
+Ra and Rb are the same or different and each is independently a hydrogen atom, a C1-8 alkyl group, a carboxyl C1-8 alkyl group, a carboxyl group, an aryl group, a C3-6 heterocyclic group containing 1 to 4 heteroatoms selected from the group consisting of O, N, and S, or a C3-8 cycloalkyl group, or Ra and Rb together with the atom(s) to which they are bonded form a C3-8 cycloalkane ring or a C3-9 heterocycle containing 1-4 heteroatoms selected from the group consisting of O, N, and S, wherein said C1-8 alkyl group, said aryl group, said C3-8 cycloalkane ring and said C3-9 heterocycle may be substituted with one or more substituents;
+
+Ring A is an arene, a C3-6 heterocycle containing 1-4 heteroatoms selected from the group consisting of O, N, and S, or a C3-8 cycloalkane ring;
+
+Ya is a hydrogen atom, a halogen atom, a carboxyl group, a hydroxyl group, a carbonyl group, a carboxyl C1-3 alkyl group or a sulfo group;
+
+Yb is a hydrogen atom, a halogen atom, a carboxyl group, a hydroxyl group, a carbonyl group, a carboxyl C1-3 alkyl group, a nitro group, a cyano group or a C1-3 alkoxyl group;
+
+p is 0 or 1;
+
+q is 1; and
+
+R7 is a hydrogen atom, a halogen atom or a nitro group, or a pharmaceutically acceptable salt thereof.
+
+2. The compound or salt according to claim 1, wherein R6 is a hydrogen atom or a C1-8 alkyl group.
+
+3. The compound or salt according to claim 1, wherein p =0.
+
+4. The compound or salt according to claim 1, wherein p =1, and Ra and Rb are the same or different and each is independently a hydrogen atom or a C1-8 alkyl group, or Ra and Rb together with the atom(s) to which they are bonded form a C3-8 cycloalkane ring, wherein said C1-8 alkyl group and said C3-8 cycloalkane ring may substituted with a group selected from the group consisting of a hydrogen atom, a carboxyl group, a carbamoyl group, a hydroxyl group, a phenyl group, and a C3-8 cycloalkyl group.
+
+5. The compound or salt according to claim 1, wherein R1 and R2 are the same or different and each is independently a methyl group, an ethyl group or a propyl group, or R1 and R2 together with the carbon atom to which they are bonded form a cyclobutane ring or a cyclopentane ring.
+
+6. The compound or salt according to claim 1, wherein Ring A is a benzene ring, a pyridine ring, or a C3-6 heterocycle containing 1-4 oxygen atoms.
+
+7. The compound or salt according to claim 1, wherein Ya is a halogen atom, a carboxyl group, a carboxyl C1-3 alkyl group, a hydroxyl group, a sulfo group, or a carbonyl group, and Yb is a hydrogen atom, a halogen atom, a carboxyl group, or a hydroxyl group.
+
+8. The compound or salt according to claim 1, wherein, when Ra or Rb has substituent(s), said substituent is selected from the group consisting of a carboxyl group, a hydroxyl group, a phenyl group, an amino group, a methylthio group, a sulfanyl group, a carbamoyl group, a guanidino group, a C3-8 cycloalkyl group, and a C1-8 heterocyclic group containing 1-4 heteroatoms selected from the group consisting of O, N, and S.
+
+9. A pharmaceutical composition, comprising a compound or salt according to claim 1 and at least one pharmaceutically acceptable carrier or excipient.
+
+10. A compound represented by any of the following formulas:
+
+[![Figure US09655879-20170523-C00172](https://patentimages.storage.googleapis.com/3a/23/19/66e0670016bdb3/US09655879-20170523-C00172.png)](https://patentimages.storage.googleapis.com/3a/23/19/66e0670016bdb3/US09655879-20170523-C00172.png)
+
+ 
+
+[![Figure US09655879-20170523-C00173](https://patentimages.storage.googleapis.com/f8/2c/99/defc035b577366/US09655879-20170523-C00173.png)](https://patentimages.storage.googleapis.com/f8/2c/99/defc035b577366/US09655879-20170523-C00173.png)
+
+or a pharmaceutically acceptable salt of said compound.
+
+11. The compound or salt according to claim 1, wherein p =1.
+
+12. A pharmaceutical composition, comprising a compound or salt according to claim 10 and at least one pharmaceutically acceptable carrier or excipient.
+
+13. A compound represented by the following formula:
+
+[![Figure US09655879-20170523-C00174](https://patentimages.storage.googleapis.com/69/93/c5/62f597b794f119/US09655879-20170523-C00174.png)](https://patentimages.storage.googleapis.com/69/93/c5/62f597b794f119/US09655879-20170523-C00174.png)
+
+or a pharmaceutically acceptable salt of said compound.
+
+14. A pharmaceutical composition, comprising a compound or salt according to claim 13 and at least one pharmaceutically acceptable carrier or excipient.

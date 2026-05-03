@@ -1,0 +1,88 @@
+Claims (16)
+-----------
+
+The invention claimed is:
+
+1. A method of treating a disease in a metabolically active cell, using targeted photodynamic therapy, wherein the method comprises:
+
+a) providing to the metabolically-active cell a compound of formula (I)
+
+[![Figure US11746094-20230905-C00011](https://patentimages.storage.googleapis.com/41/d2/2a/484bbc049d43ce/US11746094-20230905-C00011.png)](https://patentimages.storage.googleapis.com/41/d2/2a/484bbc049d43ce/US11746094-20230905-C00011.png)
+
+or a derivative or a salt thereof; and
+
+b) activating the compound with visible light, resulting in singlet oxygen generation and concomitant cell death;
+
+wherein
+
+R1 is selected from the group consisting of amines, anilines, phenols, thiophenols, selenols and aryl groups;
+
+R2 and R3 independently are H or halogen;
+
+R4 is nitro; and
+
+R5 and R6 independently are either absent or oxygen or methyl.
+
+2. The method according to claim 1 wherein R1 is an amine or an aniline.
+
+3. The method according to claim 1 wherein R4 is nitro.
+
+4. The method according to claim 1 wherein R2 and/or R3 are/is H.
+
+5. The method according to claim 1 wherein R5 and/or R6 are/is absent.
+
+6. The method compound according to claim 1 which is selected from the group consisting of the following compounds:
+
+[![Figure US11746094-20230905-C00012](https://patentimages.storage.googleapis.com/48/0b/83/df234437f8cec4/US11746094-20230905-C00012.png)](https://patentimages.storage.googleapis.com/48/0b/83/df234437f8cec4/US11746094-20230905-C00012.png)
+
+ 
+
+[![Figure US11746094-20230905-C00013](https://patentimages.storage.googleapis.com/9c/36/8c/80e1b7eb48021f/US11746094-20230905-C00013.png)](https://patentimages.storage.googleapis.com/9c/36/8c/80e1b7eb48021f/US11746094-20230905-C00013.png)
+
+ 
+
+[![Figure US11746094-20230905-C00014](https://patentimages.storage.googleapis.com/03/cd/60/9a23b51530d2a4/US11746094-20230905-C00014.png)](https://patentimages.storage.googleapis.com/03/cd/60/9a23b51530d2a4/US11746094-20230905-C00014.png)
+
+ 
+
+[![Figure US11746094-20230905-C00015](https://patentimages.storage.googleapis.com/15/a2/9f/0e68990566c3f9/US11746094-20230905-C00015.png)](https://patentimages.storage.googleapis.com/15/a2/9f/0e68990566c3f9/US11746094-20230905-C00015.png)
+
+ 
+
+and a derivative or a salt thereof.
+
+7. The method according to claim 6 which is selected from the group consisting of the following compounds:
+
+[![Figure US11746094-20230905-C00016](https://patentimages.storage.googleapis.com/ea/bf/56/0d00e831bc5e59/US11746094-20230905-C00016.png)](https://patentimages.storage.googleapis.com/ea/bf/56/0d00e831bc5e59/US11746094-20230905-C00016.png)
+
+ 
+
+[![Figure US11746094-20230905-C00017](https://patentimages.storage.googleapis.com/4a/d1/ff/9e40933e007136/US11746094-20230905-C00017.png)](https://patentimages.storage.googleapis.com/4a/d1/ff/9e40933e007136/US11746094-20230905-C00017.png)
+
+ 
+
+and a derivative or a salt thereof.
+
+8. The method according to claim 1 wherein the method further comprises one or more of labelling biomolecules, tracking biomolecules, and imaging biomolecules.
+
+9. The method of claim 1 wherein the disease is cancer.
+
+10. The method of claim 1 wherein the compound is conjugated to a biomolecule via R1.
+
+11. The method of claim 10 wherein the biomolecule is selected from a group consisting of metabolites, saccharides, lipids, proteins, antibodies, peptides, nucleic acids, aptamers, derivative thereof and nanoparticles.
+
+12. The method of claim 10 wherein the biomolecule is a derivative of an amino acid, peptide, protein, glucose, lactic acid or biolipid.
+
+13. The method of claim 1 wherein the compound is small enough to retain the transport and uptake properties of the biomolecule.
+
+14. The method of claim 1 wherein the compound of formula (I) is neutral.
+
+15. The method of claim 1 wherein R1 is an amine and the conjugation of the metabolite to the compound is;
+
+a) via an amino group,
+
+b) via an inherent amino group present in the metabolite, or;
+
+c) via an amino-containing spacer.
+
+16. The method of claim 8 wherein the metabolically active cell is in vivo, in vitro, or ex vivo.

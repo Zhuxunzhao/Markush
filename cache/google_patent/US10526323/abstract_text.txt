@@ -1,0 +1,8 @@
+Abstract
+--------
+
+Compounds, including those of the following formula:
+
+[![Figure US10526323-20200107-C00001](https://patentimages.storage.googleapis.com/49/a8/90/365b915f3e90f1/US10526323-20200107-C00001.png)](https://patentimages.storage.googleapis.com/49/a8/90/365b915f3e90f1/US10526323-20200107-C00001.png)
+
+wherein the variables are defined herein, which are useful as allosteric potentiators/positive allosteric modulators of the metabotropic glutamate receptor subtype 4 (mGluR4); synthetic methods for making the compounds; pharmaceutical compositions comprising the compounds; and methods of using the compounds, for example, in treating neurological and psychiatric disorders or other disease state associated with glutamate dysfunction.

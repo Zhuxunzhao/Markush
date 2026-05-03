@@ -1,0 +1,88 @@
+Claims (16)
+-----------
+
+**1**-**120**. (canceled)
+
+**121**. A pharmaceutical composition comprising: a compound having a formula of
+
+[![Figure US20190008803A1-20190110-C00227](https://patentimages.storage.googleapis.com/4e/bb/5a/f4edbe7537e4cf/US20190008803A1-20190110-C00227.png)](https://patentimages.storage.googleapis.com/4e/bb/5a/f4edbe7537e4cf/US20190008803A1-20190110-C00227.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R21 and R22 are independently H or CH3;
+
+D1 is an optionally substituted aryl;
+
+B3 is H or optionally substituted alkyl; and
+
+B5 is an optionally substituted aryl or heteroaryl;
+
+at least one of a CYP2D6 inhibitor and a CYP3A4 inhibitor; and
+
+a pharmaceutically acceptable carrier.
+
+**122**. The pharmaceutical composition of claim 121, wherein the pharmaceutical composition comprises either a CYP2D6 inhibitor or a CYP3A4 inhibitor, or both an CYP2D6 inhibitor and a CYP3A4 inhibitor.
+
+**123**. The pharmaceutical composition of claim 121, wherein the CYP2D6 inhibitor is fluoxetine or paroxetine or the CY3A4 inhibitor is ritonavir, indinavir, nelfinavir, saquinavir, clarithromycin, telithromycin, chloramphenicol, ketoconazole, itraconazole, nefazodone, bergamottin, verapamil, diltiazem, erythromycin, fluconazole, fluoxetine, norfluoxetine, or buprenorphine.
+
+**124**. The pharmaceutical composition of claim 121, wherein D1 is pyridyl or 2-pyridyl.
+
+**125**. The pharmaceutical composition of claim 121, wherein B5 is
+
+[![Figure US20190008803A1-20190110-C00228](https://patentimages.storage.googleapis.com/44/6d/1b/261acb612129e9/US20190008803A1-20190110-C00228.png)](https://patentimages.storage.googleapis.com/44/6d/1b/261acb612129e9/US20190008803A1-20190110-C00228.png)
+
+ 
+
+wherein R23, R24, and R30 are each independently H, OH, cycle, aryl, branched or unbranched alkyl alcohol, halo, branched or unbranched alkyl, amide, cyano, alkoxy, haloalkyl, aklylsulfonyl, nitrite, alkylsulfanyl; or R23 and R24 together form an aryl or cycle that is attached to one or more of the atoms of B5.
+
+**126**. The pharmaceutical composition of claim 125, wherein R23 is alkoxy, a halo substituted or haloalkyl substituted pyridyl, or C1-C6 alkyl.
+
+**127**. The pharmaceutical composition of claim 126, wherein R23 is methoxy, methyl, chloro, fluoro, or CF3.
+
+**128**. The pharmaceutical composition of claim 121, wherein the compound is selected from the group consisting of:
+
+[![Figure US20190008803A1-20190110-C00229](https://patentimages.storage.googleapis.com/82/50/69/c6522847981352/US20190008803A1-20190110-C00229.png)](https://patentimages.storage.googleapis.com/82/50/69/c6522847981352/US20190008803A1-20190110-C00229.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+**129**. A fixed dosage form comprising:
+
+a compound having a formula of
+
+[![Figure US20190008803A1-20190110-C00230](https://patentimages.storage.googleapis.com/8c/9d/d9/4ec71c3f9aecf3/US20190008803A1-20190110-C00230.png)](https://patentimages.storage.googleapis.com/8c/9d/d9/4ec71c3f9aecf3/US20190008803A1-20190110-C00230.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein: R21 and R22 are independently H or CH3; D1 is an optionally substituted aryl; B3 is H or optionally substituted alkyl; and B5 is an optionally substituted aryl or heteroaryl; and at least one of a CYP2D6 inhibitor and a CYP3A4 inhibitor.
+
+**130**. The fixed dosage form of claim 129, wherein the CYP2D6 inhibitor is fluoxetine or paroxetine or the CY3A4 inhibitor is ritonavir, indinavir, nelfinavir, saquinavir, clarithromycin, telithromycin, chloramphenicol, ketoconazole, itraconazole, nefazodone, bergamottin, verapamil, diltiazem, erythromycin, fluconazole, fluoxetine, norfluoxetine, or buprenorphine.
+
+**131**. The fixed dosage form of claim 129, wherein the compound is selected from the group consisting of:
+
+[![Figure US20190008803A1-20190110-C00231](https://patentimages.storage.googleapis.com/bd/2c/bc/0a900854910fca/US20190008803A1-20190110-C00231.png)](https://patentimages.storage.googleapis.com/bd/2c/bc/0a900854910fca/US20190008803A1-20190110-C00231.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+**132**. A method of treating pain comprising administering to a subject the pharmaceutical composition of claim **120**.
+
+**133**. A method of treating pain comprising administering to a subject the fixed dosage form of claim 129.
+
+**134**. A method of increasing bioavailability of a compound having a formula of:
+
+[![Figure US20190008803A1-20190110-C00232](https://patentimages.storage.googleapis.com/e4/32/e7/a7c997984f6834/US20190008803A1-20190110-C00232.png)](https://patentimages.storage.googleapis.com/e4/32/e7/a7c997984f6834/US20190008803A1-20190110-C00232.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R21 and R22 are independently H or CH3; D1 is an optionally substituted aryl; B3 is H or optionally substituted alkyl; and B5 is an optionally substituted aryl or heteroaryl in a subject,
+
+wherein the method comprising administering the compound, or a pharmaceutically acceptable salt thereof, to the subject with at least one cytochrome p450 inhibitor.
+
+**135**. The method of claim 134, wherein the compound is selected from the group consisting of:
+
+[![Figure US20190008803A1-20190110-C00233](https://patentimages.storage.googleapis.com/f8/f1/e0/dacb5adb87fef8/US20190008803A1-20190110-C00233.png)](https://patentimages.storage.googleapis.com/f8/f1/e0/dacb5adb87fef8/US20190008803A1-20190110-C00233.png)
+
+or a pharmaceutically acceptable salt thereof.

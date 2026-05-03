@@ -1,0 +1,212 @@
+Claims (21)
+-----------
+
+What is claimed is:
+
+**1**. A compound having formula (I):
+
+[![Figure US20230399337A1-20231214-C00169](https://patentimages.storage.googleapis.com/98/91/f9/5a7b22fbf4fd2e/US20230399337A1-20231214-C00169.png)](https://patentimages.storage.googleapis.com/98/91/f9/5a7b22fbf4fd2e/US20230399337A1-20231214-C00169.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, prodrugs, and complexes thereof, wherein:
+
+R1 is selected from the group consisting of C1-6 alkyl and nitrile;
+
+R2 is selected from the group consisting of
+
+[![Figure US20230399337A1-20231214-C00170](https://patentimages.storage.googleapis.com/cd/2b/84/1cbf69aa5efd00/US20230399337A1-20231214-C00170.png)](https://patentimages.storage.googleapis.com/cd/2b/84/1cbf69aa5efd00/US20230399337A1-20231214-C00170.png)
+
+ 
+
+and optionally substituted five membered heteoaromatic ring containing one to three atoms selected from nitrogen and sulfur;
+
+R3 is selected from the group consisting of C1-6 alkyl, C1-6 alkoxy, C1-6 haloalkyl, C1-6 haloalkoxy, halogen, and —CONR9aR9b;
+
+R4 is selected from the group consisting of hydrogen, C1-6 alkyl, C1-6 alkoxy, C1-6 haloalkyl, C1-6 haloalkoxy, halogen, and —CONR9aR9b;
+
+R5 is selected from the group consisting of hydrogen,
+
+[![Figure US20230399337A1-20231214-C00171](https://patentimages.storage.googleapis.com/c9/7f/d5/6d1280b1129de4/US20230399337A1-20231214-C00171.png)](https://patentimages.storage.googleapis.com/c9/7f/d5/6d1280b1129de4/US20230399337A1-20231214-C00171.png)
+
+ 
+
+R6 is selected from the group consisting of hydrogen, halogen
+
+[![Figure US20230399337A1-20231214-C00172](https://patentimages.storage.googleapis.com/59/77/4e/43cf6beba8959f/US20230399337A1-20231214-C00172.png)](https://patentimages.storage.googleapis.com/59/77/4e/43cf6beba8959f/US20230399337A1-20231214-C00172.png)
+
+ 
+
+R7 is selected from the group consisting of hydrogen,
+
+[![Figure US20230399337A1-20231214-C00173](https://patentimages.storage.googleapis.com/77/b4/03/50b196ca943207/US20230399337A1-20231214-C00173.png)](https://patentimages.storage.googleapis.com/77/b4/03/50b196ca943207/US20230399337A1-20231214-C00173.png)
+
+ 
+
+R9a is selected from the group consisting of hydrogen and C1-6 alkyl;
+
+and R9b is selected from the group consisting of hydrogen and C1-6 alkyl; wherein the following compounds are outside the scope of the invention:
+
+[![Figure US20230399337A1-20231214-C00174](https://patentimages.storage.googleapis.com/d2/29/b9/ad5d0cc0060730/US20230399337A1-20231214-C00174.png)](https://patentimages.storage.googleapis.com/d2/29/b9/ad5d0cc0060730/US20230399337A1-20231214-C00174.png)
+
+ 
+
+[![Figure US20230399337A1-20231214-C00175](https://patentimages.storage.googleapis.com/2d/28/08/557c17ffeabb56/US20230399337A1-20231214-C00175.png)](https://patentimages.storage.googleapis.com/2d/28/08/557c17ffeabb56/US20230399337A1-20231214-C00175.png)
+
+ 
+
+[![Figure US20230399337A1-20231214-C00176](https://patentimages.storage.googleapis.com/d4/dc/8f/3ffe2eb3edac24/US20230399337A1-20231214-C00176.png)](https://patentimages.storage.googleapis.com/d4/dc/8f/3ffe2eb3edac24/US20230399337A1-20231214-C00176.png)
+
+ 
+
+[![Figure US20230399337A1-20231214-C00177](https://patentimages.storage.googleapis.com/67/16/d0/b588bdb724f8c1/US20230399337A1-20231214-C00177.png)](https://patentimages.storage.googleapis.com/67/16/d0/b588bdb724f8c1/US20230399337A1-20231214-C00177.png)
+
+**2**. The compound of claim 1 wherein;
+
+R2 is selected from the group consisting of
+
+[![Figure US20230399337A1-20231214-C00178](https://patentimages.storage.googleapis.com/38/eb/5f/fb53f7149cab2a/US20230399337A1-20231214-C00178.png)](https://patentimages.storage.googleapis.com/38/eb/5f/fb53f7149cab2a/US20230399337A1-20231214-C00178.png)
+
+ 
+
+and R8 is selected from the group consisting of hydrogen, C1-6 alkyl, C1-6 haloalkyl, C3-7 branched alkyl, and C3-7 cycloalkyl.
+
+**3**. The compound of claim 1 having the formula (II)
+
+[![Figure US20230399337A1-20231214-C00179](https://patentimages.storage.googleapis.com/f9/08/91/658d753fc4471d/US20230399337A1-20231214-C00179.png)](https://patentimages.storage.googleapis.com/f9/08/91/658d753fc4471d/US20230399337A1-20231214-C00179.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**4**. The compound of claim 1 having the formula (III)
+
+[![Figure US20230399337A1-20231214-C00180](https://patentimages.storage.googleapis.com/78/3e/d1/5424e5d81814d5/US20230399337A1-20231214-C00180.png)](https://patentimages.storage.googleapis.com/78/3e/d1/5424e5d81814d5/US20230399337A1-20231214-C00180.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**5**. The compound of claim 1 having the formula (IV)
+
+[![Figure US20230399337A1-20231214-C00181](https://patentimages.storage.googleapis.com/57/dc/f7/adb022e4f9f20d/US20230399337A1-20231214-C00181.png)](https://patentimages.storage.googleapis.com/57/dc/f7/adb022e4f9f20d/US20230399337A1-20231214-C00181.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**6**. The compound of claim 1 having the formula (V)
+
+[![Figure US20230399337A1-20231214-C00182](https://patentimages.storage.googleapis.com/6f/7a/af/874530dc97feb4/US20230399337A1-20231214-C00182.png)](https://patentimages.storage.googleapis.com/6f/7a/af/874530dc97feb4/US20230399337A1-20231214-C00182.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**7**. The compound of claim 1 having the formula (VI)
+
+[![Figure US20230399337A1-20231214-C00183](https://patentimages.storage.googleapis.com/ed/ca/af/4c7df699f68a05/US20230399337A1-20231214-C00183.png)](https://patentimages.storage.googleapis.com/ed/ca/af/4c7df699f68a05/US20230399337A1-20231214-C00183.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**8**. The compound of claim 1 having the formula (VII)
+
+[![Figure US20230399337A1-20231214-C00184](https://patentimages.storage.googleapis.com/38/14/a2/a3b90aafea5099/US20230399337A1-20231214-C00184.png)](https://patentimages.storage.googleapis.com/38/14/a2/a3b90aafea5099/US20230399337A1-20231214-C00184.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**9**. The compound of claim 1 having the formula (VIII)
+
+[![Figure US20230399337A1-20231214-C00185](https://patentimages.storage.googleapis.com/75/24/04/8d9f3699a7a41d/US20230399337A1-20231214-C00185.png)](https://patentimages.storage.googleapis.com/75/24/04/8d9f3699a7a41d/US20230399337A1-20231214-C00185.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**10**. The compound of claim 1 having the formula (IX)
+
+[![Figure US20230399337A1-20231214-C00186](https://patentimages.storage.googleapis.com/be/51/5d/96e42420a2054f/US20230399337A1-20231214-C00186.png)](https://patentimages.storage.googleapis.com/be/51/5d/96e42420a2054f/US20230399337A1-20231214-C00186.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**11**. The compound of claim 1 having the formula (X)
+
+[![Figure US20230399337A1-20231214-C00187](https://patentimages.storage.googleapis.com/6a/8c/be/9c31d36b11c03c/US20230399337A1-20231214-C00187.png)](https://patentimages.storage.googleapis.com/6a/8c/be/9c31d36b11c03c/US20230399337A1-20231214-C00187.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**12**. The compound of claim 1 having the formula (XI)
+
+[![Figure US20230399337A1-20231214-C00188](https://patentimages.storage.googleapis.com/5a/e4/1c/dd3495515caeec/US20230399337A1-20231214-C00188.png)](https://patentimages.storage.googleapis.com/5a/e4/1c/dd3495515caeec/US20230399337A1-20231214-C00188.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**13**. The compound of claim 1 having the formula (XII)
+
+[![Figure US20230399337A1-20231214-C00189](https://patentimages.storage.googleapis.com/69/82/f1/2f1436d6e25ec3/US20230399337A1-20231214-C00189.png)](https://patentimages.storage.googleapis.com/69/82/f1/2f1436d6e25ec3/US20230399337A1-20231214-C00189.png)
+
+ 
+
+including enantiomers, diastereomers, tautomers, hydrates, solvates, pharmaceutically acceptable salts, and complexes thereof.
+
+**14**. The compound according to claim 1 that is:
+
+N-(2-chloro-6-methylphenyl)-2-({8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-yl}sulfanyl)acetamide;
+
+2-({8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-yl}sulfanyl)-N-(4-fluoro-2-methylphenyl)acetamide;
+
+2-[2-(8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-ylsulfanyl)acetamido]benzamide;
+
+4-[2-(8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-ylsulfanyl)acetamido]-3-methyl-N-4-[(4-methylpiperazin-1-yl)methyl]phenylbenzamide;
+
+2-[(8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)sulfanyl]-N-[2-methyl-5-(pyrrolidin-1-ylmethyl)phenyl]acetamide;
+
+2-((8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)thio)-N-(2-methyl-4-(pyrrolidin-1-ylmethyl)phenyl)acetamide;
+
+2-((8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)thio)-N-(1,3-dimethyl-1H-pyrazol-5-yl)acetamide;
+
+2-((8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)thio)-N-(1,3-dimethyl-1H-pyrazol-4-yl)acetamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**15**. A composition comprising an effective amount of at least one compound according to claim 1.
+
+**16**. The composition according to claim 15, further comprising at least one excipient.
+
+**17**. The composition according to claim 12, wherein the at least one compound is at least one member selected from the group consisting of:
+
+N-(2-chloro-6-methylphenyl)-2-({8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-yl}sulfanyl)acetamide;
+
+2-({8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-yl}sulfanyl)-N-(4-fluoro-2-methylphenyl)acetamide;
+
+2-[2-(8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-ylsulfanyl)acetamido]benzamide;
+
+4-[2-(8-cyano-2H,3H-[1,4]dioxino[2,3-g]quinolin-7-ylsulfanyl)acetamido]-3-methyl-N-4-[(4-methylpiperazin-1-yl)methyl]phenylbenzamide;
+
+2-[(8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)sulfanyl]-N-[2-methyl-5-(pyrrolidin-1-ylmethyl)phenyl]acetamide;
+
+2-((8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)thio)-N-(2-methyl-4-(pyrrolidin-1-ylmethyl)phenyl)acetamide;
+
+2-((8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)thio)-N-(1,3-dimethyl-1H-pyrazol-5-yl)acetamide;
+
+2-((8-cyano-2,3-dihydro-[1,4]dioxino[2,3-g]quinolin-7-yl)thio)-N-(1,3-dimethyl-1H-pyrazol-4-yl)acetamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**18**. A method for treating or preventing cancer, said method comprising administering to a subject an effective amount of at least one compound according to claim 1.
+
+**19**. The method of claim 18, wherein the at least one compound is administered in a composition further comprising at least one excipient.
+
+**20**. The method of claim 18 wherein said cancer is selected from the group consisting of chronic myeloid leukemia, acute lymphoblastic leukemia, acute myeloid leukemia, chronic lymphocytic leukemia, multiple myeloma, lymphomas, and metastatic carcinoma.
+
+**21**. The method of claim 19 wherein said cancer is selected from the group consisting of chronic myeloid leukemia, acute lymphoblastic leukemia, acute myeloid leukemia, chronic lymphocytic leukemia, multiple myeloma, lymphomas, and metastatic carcinoma.

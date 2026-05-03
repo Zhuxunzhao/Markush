@@ -1,0 +1,134 @@
+Claims (13)
+-----------
+
+**1**. A compound of the following formula (I):
+
+[![Figure US20170304277A1-20171026-C00051](https://patentimages.storage.googleapis.com/df/8d/22/9fc3f62fcbeaf5/US20170304277A1-20171026-C00051.png)](https://patentimages.storage.googleapis.com/df/8d/22/9fc3f62fcbeaf5/US20170304277A1-20171026-C00051.png)
+
+Wherein:
+
+R1 is C1-6 alkyl, where the alkyl is unsubstituted or substituted with one to three substituents independently selected from halogen;
+
+R2 is selected from the group consisting of (1) phenyl, (2) CH2-phenyl(CH2OH), and (3) CH2-pyridyl; where the benzene ring or the pyridine ring is unsubstituted or substituted with one to two substituents independently selected from (1) halogen, (2) C1-6 alkyl, which may have substituents selected from halogen, and hydroxyl, and (3) C1-6 alkylsulfonyl;
+
+R3 is (1) benzyl, or (2) CH2-(2-pyridyl); where the benzene ring or the pyridine ring is unsubstituted or substituted with one to two substituents independently selected from (1) halogen and (2) C1-6 alkyl, which may have substituents selected from halogen, hydroxyl, and C1-6 alkylsulfonyl;
+
+or a pharmaceutically acceptable salt thereof.
+
+**2**. The compound represented by the above formula (I) according to claim 1,
+
+wherein:
+
+R1 is methyl or trifluoroethyl;
+
+or a pharmaceutically acceptable salt thereof.
+
+**3**. The compound represented by the above formula (I) according to claim 1,
+
+wherein:
+
+R1 is methyl or trifluoroethyl;
+
+R2 is selected from the group consisting of (1) phenyl, (2) CH2-phenyl(CH2OH), and (3) CH2-pyridyl; where the benzene ring or the pyridine ring is unsubstituted or substituted with one to two substituents independently selected from (1) halogen, (2) methyl, (3) difluoromethyl, (4) trifluoromethyl, (5) hydroxymethyl, and (6) methanesulfonyl;
+
+R3 is (1) benzyl or (2) CH2-(2-pyridyl), where the benzene ring or the pyridine ring is unsubstituted;
+
+or a pharmaceutically acceptable salt thereof.
+
+**4**. The compound represented by the above formula (I) according to claim 1,
+
+wherein:
+
+R1 is methyl or trifluoroethyl;
+
+when R2 is (1) phenyl, a compound where the benzene ring is unsubstituted or substituted with one to two substituents independently selected from halogen and hydroxymethyl; when R2 is (2) CH2-phenyl(CH2OH), a compound where the benzene ring is unsubstituted; when R2 is (3) CH2-pyridyl, a compound where the pyridine ring is unsubstituted or substituted with one to two substituents independently selected from difluoromethyl and trifluoromethyl;
+
+R3 is (1) benzyl or (2) CH2-(2-pyridyl) where the benzene ring or the pyridine ring is unsubstituted;
+
+or a pharmaceutically acceptable salt thereof.
+
+**5**. The compound represented by the above formula (I) according to claim 1,
+
+wherein HLM CLint of the compound is lower than 65 mL/min/kg
+
+or a pharmaceutically acceptable salt thereof.
+
+**6**. The compound according to claim 1, which is selected from the group consisting of:
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-(methylsulfonyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-1-oxo-4-phenylbutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-chloro-4-(hydroxymethyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-fluoro-4-(hydroxymethyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-fluoro-5-(hydroxymethyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-(hydroxymethyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(3-(hydroxymethyl)phenyl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(2-(hydroxymethyl)phenyl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-1-oxo-5-(pyridin-2-yl)pentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-1-oxo-5-(6-(trifluoromethyl)pyridin-2-yl)pentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(5-fluoropyridin-2-yl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(6-methylpyridin-2-yl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(6-(difluoromethyl)pyridin-2-yl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-2-methyl-N-((R)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-phenylbutan-2-yl)propanamide;
+
+2-amino-2-methyl-N-((R)-4-(2-(methylsulfonyl)phenyl)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)butan-2-yl)propanamide;
+
+2-amino-N-((R)-4-(4-(hydroxymethyl)phenyl)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)butan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-4-(4-(fluoromethyl)-2-(hydroxymethyl)phenyl)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)butan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-4-(3-fluoro-4-(hydroxymethyl)phenyl)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)butan-2-yl)-2-methylpropanamide; and
+
+2-amino-N4R)-4-(5-fluoro-2-(hydroxymethyl)phenyl)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)butan-2-yl)-2-methylpropanamide;
+
+or a pharmaceutically acceptable salt thereof.
+
+**7**. The compound according to claim 1, which is selected from the group consisting of:
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-1-oxo-4-phenylbutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-chloro-4-(hydroxymethyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-fluoro-4-(hydroxym ethyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-(2-fluoro-5-(hydroxym ethyl)phenyl)-1-oxobutan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(3-(hydroxymethyl)phenyl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(2-(hydroxymethyl)phenyl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-1-oxo-5-(pyridin-2-yl)pentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-1-oxo-5-(6-(trifluoromethyl)pyridin-2-yl)pentan-2-yl)-2-methylpropanamide;
+
+2-amino-N-((R)-1-((R)-3a-benzyl-2-methyl-3-oxo-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-5-(6-(difluoromethyl)pyridin-2-yl)-1-oxopentan-2-yl)-2-methylpropanamide;
+
+2-amino-2-methyl-N-((R)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)-4-phenylbutan-2-yl)propanamide; and
+
+2-amino-N-((R)-4-(4-(fluoromethyl)-2-(hydroxymethyl)phenyl)-1-oxo-1-((R)-3-oxo-3a-(pyridin-2-ylmethyl)-2-(2,2,2-trifluoroethyl)-3a,4,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridin-5(3H)-yl)butan-2-yl)-2-methylpropanamide;
+
+or a pharmaceutically acceptable salt thereof.
+
+**8**. A pharmaceutical composition comprising a compound or a pharmaceutically acceptable salt thereof, as described in claim 1, and a pharmaceutically acceptable carrier.
+
+**9**. The pharmaceutical composition as described in claim 8, further comprising another pharmacologically active agent.
+
+**10**. A method of treatment of an animal including human suffering from a condition or disorder mediated by the ghrelin receptor, which comprises administering to the said subject an effective amount of a compound of the formula (I) or a pharmaceutically acceptable salt according to claim 1.
+
+**11**. The method as described in claim 10, wherein the said condition or disorder is selected from the group consisting of: cancer anorexia/cachexia; cachexia and anorexia by anti-cancer drugs; hyperalgesia by anti-cancer drugs; COPD/COPD cachexia; sarcopenia; eating disorders and neurological eating disorders; weight loss suppression; early postoperative recovery of cancer patients; chronic respiratory tract infection; inflammation; IBD; FD; constipation; diabetic gastroparesis and gastroparesis; heart failure; myocardial infarction; diabetic neuropathy; Parkinson's disease; multiple sclerosis; diagnosis and treatment of growth hormone deficiency; elderly QOL improvement; bowel movement disturbance of spinal cord injury patients; postoperative ileus; and morphine induced ileus. and combinations thereof.
+
+**12**-**14**. (canceled)
+
+**15**. A process for preparing a pharmaceutical composition comprising mixing a compound described in claim 1 or a pharmaceutically acceptable salt thereof with a pharmaceutically acceptable carrier, diluent or excipient.

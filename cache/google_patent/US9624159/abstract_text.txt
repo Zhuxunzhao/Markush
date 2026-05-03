@@ -1,0 +1,6 @@
+Abstract
+--------
+
+The present invention relates to therapeutic applications of aniline derivatives of formula (I), for example in treating glaucoma: Formula (I), R1a represents H, an halogen, a (C1-C6)alkyl or a CN; R1b represents H, an halogen or a (C1-C6)alkyl; R1c represents H or a (C1-C6)alkyl; R2 represents H, an halogen, an OH, an O—(C1-C6)alkyl or (C1-C6)alkyl; R3 represents H, an halogen, a (C1-C6)alkyl, an OH, an O—(C1-C6)alkyl, a CONH2 or CN; R4 represents H, an halogen or a (C1-C6)alkyl; R5 represents H or F: R7 represents H or F; R8 represents H or F; R9 represents H or (C1-C6)alkyl, or one of its enantiomers.
+
+[![Figure US09624159-20170418-C00001](https://patentimages.storage.googleapis.com/c8/1c/ee/1653a71178d428/US09624159-20170418-C00001.png)](https://patentimages.storage.googleapis.com/c8/1c/ee/1653a71178d428/US09624159-20170418-C00001.png)

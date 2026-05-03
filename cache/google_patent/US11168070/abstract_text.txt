@@ -1,0 +1,4 @@
+Abstract
+--------
+
+The present invention relates to compounds of formula (I) and formula (II):and to salts thereof, wherein R1-R4 of formula (I) and R5-R6 of formula (II) have any of the values defined herein, and compositions and uses thereof. The compounds are useful as inhibitors of CBP and/or EP300. Also included are pharmaceutical compositions comprising a compound of formula (I) of formula (II), or a pharmaceutically acceptable salt thereof, and methods of using such compounds and salts in the treatment of various CBP and/or EP300-mediated disorders.

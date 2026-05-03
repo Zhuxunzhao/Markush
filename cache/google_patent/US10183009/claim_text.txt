@@ -1,0 +1,380 @@
+Claims (22)
+-----------
+
+We claim:
+
+1. A compound of formula (I):
+
+[![Figure US10183009-20190122-C00264](https://patentimages.storage.googleapis.com/3e/0f/8d/fea9477605a125/US10183009-20190122-C00264.png)](https://patentimages.storage.googleapis.com/3e/0f/8d/fea9477605a125/US10183009-20190122-C00264.png)
+
+or a salt thereof, wherein:
+
+R1 is methyl substituted with one or more groups Rm, ethyl substituted with one or more groups Rn, C3-12alkyl, C2-12alkenyl, C2-12alkynyl, or heterocyclyl, wherein any C3-12alkyl, C2-12alkenyl, C2-12alkynyl, or heterocyclyl of R1 is optionally substituted with one or more groups Ra;
+
+R2 is H, C1-12alkyl, C2-12alkenyl, C2-12alkynyl, or C3-8cycloalkyl, wherein each C1-12alkyl, C2-12alkenyl, C2-12alkynyl, or C3-8cycloalkyl of R2 is optionally substituted with one or more groups Rb;
+
+Q is carbocyclyl or heterocyclyl, which carbocyclyl or heterocyclyl is optionally substituted with one or more groups Rc;
+
+each Ra is independently selected from the group consisting of oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, heterocyclyl, —F, —Cl, —Br, —I, —NO2, —N(Rv)2, —CN, —C(O)—N(Rv)2, —S(O)—N(Rv)2, —S(O)2—N(Rv)2, —O—Rv, —S—Rv, —O—C(O)—Rv, —O—C(O)—O—Rv, —C(O)—Rv, —C(O)—O—Rv, —S(O)—Rv, —S(O)2—Rv, —O—C(O)—N(Rv)2, —N(Rv)—C(O)—ORv, —N(Rv)—C(O)—N(Rv)2, —N(Rv)—C(O)—Rv, —N(Rv)—S(O)—Rv, —N(Rv)—S(O)2—Rv, —N(Rv)—S(O)—N(Rv)2, and —N(Rv)—S(O)2—N(Rv)2;
+
+each Rb is independently selected from the group consisting of oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, heterocyclyl, —F, —Cl, —Br, —I, —NO2, —N(Rw)2, —CN, —C(O)—N(Rw)2, —S(O)—N(Rw)2, —S(O)2—N(Rw)2, —O—Rw, —S—Rw, —O—C(O)—Rw, —O—C(O)—O—Rw, —C(O)—Rw, —C(O)—O—Rw, —S(O)—Rw, —S(O)2—Rw, —O—C(O)—N(Rw)2, —N(Rw)—C(O)—ORw, —N(Rw)—C(O)—N(Rw)2, —N(Rw)—C(O)—Rw, —N(Rw)—S(O)—Rw, —N(Rw)—S(O)2—Rw, —N(Rw)—S(O)—N(Rw)2, and —N(Rw)—S(O)2—N(Rw)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, or heterocyclyl of Rb is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —NO2, —N(Rw)2, —CN, —C(O)—N(Rw)2, —S(O)—N(Rw)2, —S(O)2—N(Rw)2, —O—Rw, —S—Rw, —O—C(O)—Rw, —C(O)—Rw, —C(O)—O—Rw, —S(O)—Rw, —S(O)2—Rw, —C(O)—N(Rw)2, —N(Rw)—C(O)—Rw, —N(Rw)—S(O)—Rw, —N(Rw)—S(O)2—Rw and C1-6alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo;
+
+each Rc is independently selected from the group consisting of oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, heterocyclyl, —F, —Cl, —Br, —I, —NO2, —N(Ru)2, —CN, —C(O)—N(Ru)2, —S(O)—N(Ru)2, —S(O)2—N(Ru)2, —O—Ru, —S—Ru, —O—C(O)—Ru, —O—C(O)—O—Ru, —C(O)—Ru, —C(O)—O—Ru, —S(O)—Ru, —S(O)2—Ru, —O—C(O)—N(Ru)2, —N(Ru)—C(O)—ORu, —N(Ru)—C(O)—N(Ru)2, —N(Ru)—S(O)—Ru, —N(Ru)—S(O)2—Ru, —N(Ru)—S(O)—N(Ru)2, and —N(Ru)—S(O)2—N(Ru)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, or heterocyclyl of R is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —NO2, —N(Ru)2, —CN, —C(O)—N(Ru)2, —S(O)—N(Ru)2, —S(O)2—N(Ru)2, —O—Ru, —S—Ru, —O—C(O)—Ru, —C(O)—Ru, —C(O)—O—Ru, —S(O)—Ru, —S(O)2—Ru, —N(Ru)—C(O)—Ru, —N(Ru)—S(O)—Ru, —N(Ru)—S(O)2—Ru and C1-6alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo;
+
+each Rm is independently selected from the group consisting of oxo, carbocyclyl, heterocyclyl, —F, —NO2, —CN, —C(O)—N(Rv)2, —S(O)—N(Rv)2, —S(O)2—N(Rv)2, —C(O)—Rv, —C(O)—O—Rv, —S(O)—Rv, and —S(O)2—Rv, wherein carbocyclyl is optionally substituted with one or more —O—Rv;
+
+each Rn is independently selected from the group consisting of oxo, carbocyclyl, heterocyclyl, —F, —Cl, —Br, —I, —NO2, —N(Rv)2, —CN, —C(O)—N(Rv)2, —S(O)—N(Rv)2, —S(O)2—N(Rv)2, —O—Rv, —S—Rv, —O—C(O)—Rv, —O—C(O)—O—Rv, —C(O)—Rv, —C(O)—O—Rv, —S(O)—Rv, —S(O)2—Rv, —O—C(O)—N(Rv)2, —N(Rv)—C(O)—ORv, —N(Rv)—C(O)—N(Rv)2, —N(Rv)—C(O)—Rv, —N(Rv)—S(O)—Rv, —N(Rv)—S(O)2—Rv, —N(Rv)—S(O)—N(Rv)2, and —N(Rv)—S(O)2—N(Rv)2;
+
+each Ru is independently selected from the group consisting of hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, or heterocyclyl of Ru is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —N(Rua)2, hydroxyl, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo; or two Ru are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, C1-3alkyl and heteroaryl wherein C1-3alkyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, hydroxyl, —N(Rua)2, halo, and heteroaryl that is optionally substituted with one or more —N(Rua)2;
+
+each Rv is independently selected from the group consisting of hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, or heterocyclyl of Rv is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —N(Rva)2, hydroxyl, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo; or two Rv are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo;
+
+each Rw is independently selected from the group consisting of hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, or heterocyclyl of Rw is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —N(Rwa)2, hydroxyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo; or two Rw are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo;
+
+each Rua is independently selected from the group consisting of hydrogen and C1-6alkyl;
+
+each Rva is independently selected from the group consisting of hydrogen and C1-6alkyl; and
+
+each Rwa is independently selected from the group consisting of hydrogen and C1-6alkyl.
+
+2. The compound of claim 1 wherein R1 is methyl that is substituted with one or more groups Rm.
+
+3. The compound of claim 1 wherein R1 is ethyl that is substituted with one or more groups Rn.
+
+4. The compound of claim 1 wherein R1 is butyl, 2-cyclopropylethyl, cyclopentylmethyl, 2-penten-1-yl, cyclohexylmethyl, cyclobutylmethyl, 2-cyclohexylethyl, pentyl, 2-methylpropyl, 2-buten-1-yl, butyl, 2-furylmethyl, 3-methylbut-1-yl, 2-propenyl, 3-methyl-2-buten-1-yl, 3-buten-1-yl, 2-methoxyethyl, 3-methoxypropyl, or 4-methoxybenzyl.
+
+5. The compound of claim 1 wherein R2 is methyl.
+
+6. The compound of claim 1 wherein Q is C3-C8cycloalkyl that is optionally substituted with one or more groups Rc.
+
+7. The compound of claim 1 wherein Q is aryl that is optionally substituted with one or more groups Rc.
+
+8. The compound of claim 1 wherein Q is phenyl that is optionally substituted with one or more groups Rc.
+
+9. The compound of claim 1 wherein Q is C3-C8heterocycloalkyl that is optionally substituted with one or more groups Rc.
+
+10. The compound of claim 1 wherein Q is heteroaryl that is optionally substituted with one or more groups Rc.
+
+11. The compound of claim 1 wherein Q is:
+
+[![Figure US10183009-20190122-C00265](https://patentimages.storage.googleapis.com/83/df/f5/cadada435b88f5/US10183009-20190122-C00265.png)](https://patentimages.storage.googleapis.com/83/df/f5/cadada435b88f5/US10183009-20190122-C00265.png)
+
+wherein:
+
+ring A is optionally substituted with one or more groups Rg, or ring A is optionally fused with a carbocyclyl or a heterocyclyl to form a polycyclyl that is optionally substituted with one or more groups Rg;
+
+Re is hydrogen, —F, —Cl, —Br, —I, —CN, —O—Rx, C1-6alkyl, C2-6alkenyl, or C2-6alkynyl, wherein each C1-6alkyl, C2-6alkenyl, or C2-6alkynyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, —F, —Cl, —Br, —I, —NO2, —N(Rx)2, —CN, —C(O)—N(Rx)2, —S(O)—N(Rx)2, —S(O)2—N(Rx)2, —O—Rx, —S—Rx, —O—C(O)—Rx, —C(O)—Rx, —C(O)—O—Rx, —S(O)—Rx, —S(O)2—Rx, —N(Rx)—C(O)—Rx, —N(Rx)—S(O)—Rx, and —N(Rx)—S(O)2—Rx;
+
+Rf is hydrogen, —F, —Cl, —Br, —I, —CN, —O—Ry, C1-6alkyl, C2-6alkenyl, or C2-6alkynyl, wherein each C1-6alkyl, C2-6alkenyl, or C2-6alkynyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, —F, —Cl, —Br, —I, —NO2, —N(Ry)2, —CN, —C(O)—N(Ry)2, —S(O)—N(Ry)2, —S(O)2—N(Ry)2, —O—Ry, —S—Ry, —O—C(O)—Ry, —C(O)—Ry, —C(O)—O—Ry, —S(O)—Ry, —S(O)2—Ry, —N(Ry)—C(O)—Ry, —N(Ry)—S(O)—Ry and —N(Ry)—S(O)2—Ry;
+
+each Rg is independently selected from the group consisting of oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, heterocyclyl, —F, —Cl, —Br, —I, —NO2, —N(Rz)2, —CN, —C(O)—N(Rz)2, —S(O)—N(Rz)2, —S(O)2—N(Rz)2, —O—Rz, —S—Rz, —O—C(O)—Rz, —O—C(O)—O—Rz, —C(O)—Rz, —C(O)—O—Rz, —S(O)—Rz, —S(O)2—Rz, —O—C(O)—N(Rz)2, —N(Rz)—C(O)—ORz, —N(Rz)—C(O)—N(Rz)2, —N(Rz)—C(O)—Rz, —N(Rz)—S(O)—Rz, —N(Rz)—S(O)2—Rz, —N(Rz)—S(O)—N(Rz)2, and —N(Rz)—S(O)2—N(Rz)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, or heterocyclyl of Rg is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —NO2, —N(Rz)2, —CN, —C(O)—N(Rz)2, —S(O)—N(Rz)2, —S(O)2—N(Rz)2, —O—Rz, —S—Rz, —O—C(O)—Rz, —C(O)—Rz, —C(O)—O—Rz, —S(O)—Rz, —S(O)2—Rz, —N(Rz)—C(O)—Rz, —N(Rz)—S(O)—Rz, —N(Rz)—S(O)2—Rz and C1-6alkyl and heteroaryl wherein C1-3alkyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, hydroxyl, —N(Rua)2, halo, and heteroaryl that is optionally substituted with one or more —N(Rua)2;
+
+each Rx is independently selected from the group consisting of hydrogen, C1-6alkyl, C2-6alkenyl, and C2-6alkynyl, wherein each C1-6alkyl, C2-6alkenyl, or C2-6alkynyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, amino, hydroxyl, and C1-C6 alkyl;
+
+each Ry is independently selected from the group consisting of hydrogen, C1-6alkyl, C2-6alkenyl, and C2-6alkynyl, wherein each C1-6alkyl, C2-6alkenyl, or C2-6alkynyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, amino, hydroxyl, and C1-C6 alkyl; and
+
+each Rz is independently selected from the group consisting of hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, or heterocyclyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, amino, hydroxyl, heterocyclyl, carbocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo; or two Rz are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo.
+
+12. The compound of claim 1, wherein each Rc is independently selected from the group consisting of oxo, C1-6alkyl, heterocyclyl, —F, —Cl, —CN, —C(O)—N(Ru)2, —O—Ru, and —N(Ru)—S(O)2—Ru, wherein any C1-6alkyl or heterocyclyl is optionally substituted with one or more groups independently selected from the group consisting of —O—Ru and C1-6alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo.
+
+13. The compound of claim 1 wherein Q is selected from the group consisting of:
+
+[![Figure US10183009-20190122-C00266](https://patentimages.storage.googleapis.com/62/c3/b4/12a318a517d89e/US10183009-20190122-C00266.png)](https://patentimages.storage.googleapis.com/62/c3/b4/12a318a517d89e/US10183009-20190122-C00266.png)
+
+ 
+
+[![Figure US10183009-20190122-C00267](https://patentimages.storage.googleapis.com/4d/b9/68/f6250cf35a6123/US10183009-20190122-C00267.png)](https://patentimages.storage.googleapis.com/4d/b9/68/f6250cf35a6123/US10183009-20190122-C00267.png)
+
+ 
+
+[![Figure US10183009-20190122-C00268](https://patentimages.storage.googleapis.com/ea/12/1b/69c6b53de3b9dd/US10183009-20190122-C00268.png)](https://patentimages.storage.googleapis.com/ea/12/1b/69c6b53de3b9dd/US10183009-20190122-C00268.png)
+
+ 
+
+[![Figure US10183009-20190122-C00269](https://patentimages.storage.googleapis.com/53/54/d5/444dcc7f9c97c9/US10183009-20190122-C00269.png)](https://patentimages.storage.googleapis.com/53/54/d5/444dcc7f9c97c9/US10183009-20190122-C00269.png)
+
+ 
+
+[![Figure US10183009-20190122-C00270](https://patentimages.storage.googleapis.com/68/08/0a/ad7eba237645d7/US10183009-20190122-C00270.png)](https://patentimages.storage.googleapis.com/68/08/0a/ad7eba237645d7/US10183009-20190122-C00270.png)
+
+ 
+
+[![Figure US10183009-20190122-C00271](https://patentimages.storage.googleapis.com/fe/80/fd/bd072e4bfccc83/US10183009-20190122-C00271.png)](https://patentimages.storage.googleapis.com/fe/80/fd/bd072e4bfccc83/US10183009-20190122-C00271.png)
+
+ 
+
+[![Figure US10183009-20190122-C00272](https://patentimages.storage.googleapis.com/1f/d7/96/4723b7299c8f7f/US10183009-20190122-C00272.png)](https://patentimages.storage.googleapis.com/1f/d7/96/4723b7299c8f7f/US10183009-20190122-C00272.png)
+
+ 
+
+[![Figure US10183009-20190122-C00273](https://patentimages.storage.googleapis.com/a4/2b/d3/6811c41cd0fcd0/US10183009-20190122-C00273.png)](https://patentimages.storage.googleapis.com/a4/2b/d3/6811c41cd0fcd0/US10183009-20190122-C00273.png)
+
+ 
+
+[![Figure US10183009-20190122-C00274](https://patentimages.storage.googleapis.com/34/27/16/ae5133f6c40b8e/US10183009-20190122-C00274.png)](https://patentimages.storage.googleapis.com/34/27/16/ae5133f6c40b8e/US10183009-20190122-C00274.png)
+
+14. The compound of claim 1 that is selected from the group consisting of:
+
+3-(6-allyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+3-(6-butyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+N,N-dimethyl-3-[6-(3-methylbut-2-enyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]benzamide;
+
+3-[6-(2-cyclopropylethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+3-[6-(cyclopentylmethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+3-[6-[(4-methoxyphenyl)methyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+N,N-dimethyl-3-[7-oxo-6-[(E)-pent-2-enyl]-1H-pyrrolo[2,3-c]pyridin-4-yl]benzamide;
+
+3-(6-but-3-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+3-[6-(cyclohexylmethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+3-(6-isopentyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+3-[6-(cyclobutylmethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+3-[6-(2-cyclohexylethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+N,N-dimethyl-3-(7-oxo-6-pentyl-1H-pyrrolo[2,3-c]pyridin-4-yl)benzamide;
+
+3-[6-(2-methoxyethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+3-[6-(3-methoxypropyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+3-(6-isobutyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+3-[6-(cyclopropylmethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N,N-dimethylbenzamide;
+
+6-but-3-enyl-4-[3-(5-methyl-1,3,4-oxadiazol-2-yl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-5-fluoro-N,N-dimethylbenzamide;
+
+4-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-fluorobenzamide;
+
+6-but-2-enyl-4-[4-(4-methylpiperazine-1-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-5-fluorobenzamide;
+
+6-but-2-enyl-4-(4-tert-butylphenyl)-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+4-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N-methylbenzamide;
+
+3-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N-methylbenzamide;
+
+3-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N-cyclopropylbenzamide;
+
+6-but-2-enyl-4-[3-(pyrrolidine-1-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+4-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N-cyclopropylbenzamide;
+
+6-but-2-enyl-4-[4-(hydroxymethyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)benzamide;
+
+6-but-2-enyl-4-(4-isopropylphenyl)-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+6-but-2-enyl-4-[4-(pyrrolidine-1-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+N-[4-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)phenyl]methanesulfonamide;
+
+3-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N-isopropylbenzamide;
+
+4-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+6-but-2-enyl-4-[4-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-(6-but-2-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-4-methoxy-benzonitrile;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-fluorobenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-fluorobenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-fluoro-N,N-dimethylbenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-fluoro-N,N-dimethylbenzamide;
+
+4-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-chloro-N,N-dimethylbenzamide;
+
+4-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-chlorobenzamide;
+
+6-(2-furylmethyl)-4-phenyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-(6-butyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-4-methoxy-benzonitrile;
+
+3-[6-(2-cyclopropylethyl)-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-benzonitrile;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-cyclopropyl-4-methoxybenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-N,N-dimethylbenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-N-tetrahydrofuran-3-ylbenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-ethyl-4-methoxybenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-N-methylbenzamide;
+
+6-[(E)-but-2-enyl]-4-[2-methoxy-5-(pyrrolidine-1-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-(2,2-difluoroethyl)-4-methoxybenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-isobutyl-4-methoxybenzamide;
+
+4-[5-(azetidine-1-carbonyl)-2-methoxy-phenyl]-6-[(E)-but-2-enyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-[2-(dimethylamino)ethyl]-4-methoxybenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-(2-hydroxyethyl)-4-methoxybenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-N-propylbenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-cyclobutyl-4-methoxybenzamide;
+
+3-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-N-(cyclopropylmethyl)-4-methoxybenzamide;
+
+4-[5-(6-acetyl-2,6-diazaspiro[3.3]heptane-2-carbonyl)-2-methoxy-phenyl]-6-[(E)-but-2-enyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+4-[5-(6-acetyl-2,6-diazaspiro[3.3]heptane-2-carbonyl)-2-methoxy-phenyl]-6-butyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[4-(1-hydroxy-1-methyl-ethyl)-2-methoxy-phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-butyl-4-[4-(1-hydroxy-1-methyl-ethyl)-2-methoxy-phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[4-(1-hydroxy-1-methyl-ethyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-butyl-4-(4-(2-hydroxypropan-2-yl)phenyl)-1H-pyrrolo[2,3-c]pyridin-7(6H)-one;
+
+6-(2-cyclopropylethyl)-4-[4-(1-hydroxy-1-methyl-ethyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-(6-(2-cyclopropylethyl)-2-methyl-7-oxo-6,7-dihydro-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+3-(6-butyl-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethylbenzamide;
+
+3-(6-butyl-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-4-methoxy-N,N-dimethylbenzamide;
+
+3-[6-(2-cyclopropylethyl)-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-N,N-dimethylbenzamide;
+
+7-[6-[(E)-but-2-enyl]-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methyl-1,3,4,5-tetrahydro-1,5-benzodiazepin-2-one;
+
+6-but-3-enyl-4-[3,4-difluoro-5-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[3-fluoro-5-(3-methylmorpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-(6-but-3-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-5-(morpholine-4-carbonyl)benzonitrile
+
+6-[(E)-but-2-enyl]-4-[3-chloro-4-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[3-chloro-4-(pyrrolidine-1-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[3-fluoro-5-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[4-fluoro-3-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[3-(difluoromethoxy)-5-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[6-(morpholine-4-carbonyl)-1H-benzimidazol-4-yl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+7-(6-but-3-enyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl)-N,N-dimethyl-3H-benzimidazole-5-carboxamide;
+
+6-but-3-enyl-4-[7-(morpholine-4-carbonyl)-3H-benzimidazol-5-yl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[3-methyl-7-(morpholine-4-carbonyl)benzimidazol-5-yl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[3-ethyl-7-(morpholine-4-carbonyl)benzimidazol-5-yl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[1-methyl-7-(morpholine-4-carbonyl)benzimidazol-5-yl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[1-methyl-6-(morpholine-4-carbonyl)benzimidazol-4-yl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[4-chloro-3-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-2-methyl-4-[4-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-2-methyl-4-[4-(pyrrolidine-1-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one
+
+6-[(E)-but-2-enyl]-4-[3-chloro-4-(pyrrolidine-1-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[2,3-difluoro-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[3-methoxy-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[3-chloro-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[3-fluoro-5-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-but-3-enyl-4-[4-fluoro-3-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[5-chloro-6-(morpholine-4-carbonyl)-3-pyridyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[3-chloro-4-(4-methylpiperazine-1-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-2-methyl-4-[3-methyl-4-(morpholine-4-carbonyl)phenyl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-allyl-4-[3-chloro-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-allyl-4-[2,5-dimethoxy-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[3-methoxy-5-(morpholine-4-carbonyl)-2-pyridyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[4-chloro-5-(morpholine-4-carbonyl)-2-pyridyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-2-methyl-4-[2-(morpholine-4-carbonyl)pyrimidin-5-yl]-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+5-[6-[(E)-but-2-enyl]-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-(morpholine-4-carbonyl)benzonitrile;
+
+6-[(E)-but-2-enyl]-4-[4-(1-hydroxy-1-methyl-ethyl)-2-methoxy-phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one
+
+6-[(E)-but-2-enyl]-4-[2,5-dimethoxy-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-[6-[(E)-but-2-enyl]-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-N-(pyrazin-2-ylmethyl)benzamide
+
+6-but-2-enyl-4-[3-methoxy-5-(4-methylpiperazine-1-carbonyl)-2-pyridyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[6-chloro-5-(morpholine-4-carbonyl)-2-pyridyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+1-[4-[6-[(E)-but-2-enyl]-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-chloro-benzoyl]piperidine-4-carboxylic acid;
+
+1-[4-[6-[(E)-but-2-enyl]-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-2-chloro-benzoyl]piperidine-4-carboxamide;
+
+6-[(E)-but-2-enyl]-4-[3-isopropoxy-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[3-(cyclopropylmethoxy)-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[3-chloro-4-(piperazine-1-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+4-[4-[3-(3-aminopyrazol-1-yl)azetidine-1-carbonyl]-3-chloro-phenyl]-6-[(E)-but-2-enyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+4-[4-[3-(3-aminopyrazol-1-yl)azetidine-1-carbonyl]phenyl]-6-[(E)-but-2-enyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-[(E)-but-2-enyl]-4-[4-(1-hydroxy-1-methyl-ethyl)-2,5-dimethoxy-phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+3-[6-[(E)-but-2-enyl]-2-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridin-4-yl]-4-methoxy-N-(pyrimidin-5-ylmethyl)benzamide;
+
+6-butyl-4-[2,5-dimethoxy-4-(morpholine-4-carbonyl)phenyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+6-butyl-4-[3-methoxy-5-(4-methylpiperazine-1-carbonyl)-2-pyridyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one; and
+
+6-butyl-4-[3-methoxy-5-(morpholine-4-carbonyl)-2-pyridyl]-2-methyl-1H-pyrrolo[2,3-c]pyridin-7-one;
+
+or a salt thereof.
+
+15. A composition comprising a compound of formula (I) as described in claim 1 or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable adjuvant, carrier, or vehicle.
+
+16. A method for treating a bromodomain-mediated disorder in an animal comprising administering a compound of formula (I), or a pharmaceutically acceptable salt thereof as described in claim 1, to the animal, wherein the bromodomain-mediated disorder is cancer.
+
+17. A method of increasing efficacy of a cancer treatment comprising a cytotoxic agent in an animal comprising administering to the animal an effective amount of a compound of formula (I) or a pharmaceutically acceptable salt thereof as described in claim 1.
+
+18. A method of delaying or preventing development of cancer resistance to a cytotoxic agent in an animal, comprising administering to the animal a compound of formula (I) or a pharmaceutically acceptable salt thereof as described in claim 1.
+
+19. A method of extending the duration of response to a cancer therapy in an animal, comprising administering to an animal undergoing the cancer therapy a compound of formula (I) or a pharmaceutically acceptable salt thereof, as described in claim 1, wherein the duration of response to the cancer therapy when the compound of formula (I) or the pharmaceutically acceptable salt thereof is administered is extended over the duration of response to the cancer therapy in the absence of the administration of the compound of formula (I) or the pharmaceutically acceptable salt thereof.
+
+20. A method of treating cancer in an individual comprising administering to the individual (a) a compound of formula (I) or a pharmaceutically acceptable salt thereof as described in claim 1, and (b) a cytotoxic agent.
+
+21. The compound of claim 1, wherein each Rc is independently selected from the group consisting of oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, heterocyclyl, —F, —Cl, —N(Ru)2, —CN, —C(O)—N(Ru)2, —O—Ru, and —N(Ru)—S(O)2—Ru, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6haloalkyl, carbocyclyl, or heterocyclyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —NO2, —N(Ru)2, —CN, —C(O)—N(Ru)2, —S(O)—N(Ru)2, —S(O)2—N(Ru)2, —O—Ru, —S—Ru, —O—C(O)—Ru, —C(O)—Ru, —C(O)—O—Ru, —S(O)—Ru, —S(O)2—Ru, —N(Ru)—C(O)—Ru, —N(Ru)—S(O)—Ru, —N(Ru)—S(O)2—Ru, and C1-6alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo.
+
+22. The compound of claim 1, wherein each R is independently selected from the group consisting of oxo, C1-6alkyl, heterocyclyl, —F, —Cl, —CN, —C(O)—N(Ru)2, —O—Ru, and —N(Ru)—S(O)2—Ru, wherein any C1-6alkyl or heterocyclyl is optionally substituted with one or more groups independently selected from the group consisting of oxo, halo, —NO2, —N(Ru)2, —CN, —C(O)—N(Ru)2, —S(O)—N(Ru)2, —S(O)2—N(Ru)2, —O—Ru, —S—Ru, —O—C(O)—Ru, —C(O)—Ru, —C(O)—O—Ru, —S(O)—Ru, —S(O)2—Ru, —N(Ru)—C(O)—Ru, —N(Ru)—S(O)—Ru, —N(Ru)—S(O)2—Ru and C1-6alkyl that is optionally substituted with one or more groups independently selected from the group consisting of oxo and halo.

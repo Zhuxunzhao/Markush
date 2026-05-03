@@ -1,0 +1,1236 @@
+Claims (90)
+-----------
+
+What is claimed is:
+
+**1**. A compound of Formula (I)
+
+[![Figure US20230295110A1-20230921-C00683](https://patentimages.storage.googleapis.com/9d/ab/55/aacf016b67a78b/US20230295110A1-20230921-C00683.png)](https://patentimages.storage.googleapis.com/9d/ab/55/aacf016b67a78b/US20230295110A1-20230921-C00683.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is optionally substituted C1-3 alkyl, optionally substituted C3-6 cycloalkyl, or optionally substituted 3- to 6-membered heterocycloalkyl;
+
+R2 is hydrogen, optionally substituted C1-3 alkyl, halogen, CN, or optionally substituted cycloalkyl;
+
+R3 is hydrogen, optionally substituted aryl, optionally substituted heteroaryl, optionally substituted cycloalkyl, optionally substituted heterocycloalkyl, carbonyl, ether, thioether, optionally substituted arylsulfonyl, optionally substituted heteroarylsulfonyl, optionally substituted arylalkyl, optionally substituted alkynyl, or optionally substituted heteroalkynyl;
+
+R4 and R5 are independently hydrogen, optionally substituted C1-3 alkyl, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl; and
+
+R6 is OH or ester.
+
+**2**. The compound of claim 1, having a structure according to Formula (I)
+
+[![Figure US20230295110A1-20230921-C00684](https://patentimages.storage.googleapis.com/bf/91/76/b9702c358889bc/US20230295110A1-20230921-C00684.png)](https://patentimages.storage.googleapis.com/bf/91/76/b9702c358889bc/US20230295110A1-20230921-C00684.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, and wherein R7 is C1-3 alkyl optionally substituted with aryl, or R1 is C3-6 cycloalkyl or 3- to 6-membered heterocycloalkyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R3 is selected from the group consisting of:
+
+hydrogen;
+
+[![Figure US20230295110A1-20230921-C00685](https://patentimages.storage.googleapis.com/e7/64/86/4b834a82d67b0c/US20230295110A1-20230921-C00685.png)](https://patentimages.storage.googleapis.com/e7/64/86/4b834a82d67b0c/US20230295110A1-20230921-C00685.png)
+
+wherein X is a covalent bond, O, S, SO2, C1-4 alkylene, C2-4 alkynylene, or C2-4 heteroalkynylene; each A is independently N or CR9, R8 and R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens, and R10 is C1-3 alkyl or aryl;
+
+[![Figure US20230295110A1-20230921-C00686](https://patentimages.storage.googleapis.com/40/88/3b/2e2ff6da150716/US20230295110A1-20230921-C00686.png)](https://patentimages.storage.googleapis.com/40/88/3b/2e2ff6da150716/US20230295110A1-20230921-C00686.png)
+
+wherein B is N or CR11, D is N, NH, or CR11, E is N, CR11, or CHR12, and R11 and R12 are independently hydrogen or C1-3 alkyl, and wherein the dashed circle represents the presence or absence of a conjugated system;
+
+[![Figure US20230295110A1-20230921-C00687](https://patentimages.storage.googleapis.com/55/2e/89/139081bec75f70/US20230295110A1-20230921-C00687.png)](https://patentimages.storage.googleapis.com/55/2e/89/139081bec75f70/US20230295110A1-20230921-C00687.png)
+
+wherein each G is independently N, NH, NR13, or CR14; R13 is C3-6 cycloalkyl, 3- to 6-membered heterocycloalkyl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heteroaryl, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens, and R14 is hydrogen, halogen, C3-6 cycloalkyl, 3- to 6-membered heterocycloalkyl, or C1-3 alkyl;
+
+[![Figure US20230295110A1-20230921-C00688](https://patentimages.storage.googleapis.com/cf/35/94/3683c609d12644/US20230295110A1-20230921-C00688.png)](https://patentimages.storage.googleapis.com/cf/35/94/3683c609d12644/US20230295110A1-20230921-C00688.png)
+
+wherein I is O, S, or CH, J is N or CH, R15 is hydrogen, C3-6 cycloalkyl, 3- to 6-membered heterocycloalkyl, or C1-3 alkyl, and R19 is hydrogen, C3-6 cycloalkyl, 3- to 6-membered heterocycloalkyl, or aryl;
+
+OR16 wherein R16 is aryl;
+
+[![Figure US20230295110A1-20230921-C00689](https://patentimages.storage.googleapis.com/92/88/cd/67f16ba0119189/US20230295110A1-20230921-C00689.png)](https://patentimages.storage.googleapis.com/92/88/cd/67f16ba0119189/US20230295110A1-20230921-C00689.png)
+
+wherein X1 is N or CH, and R20 is optionally substituted aryl; and
+
+COR17 wherein R17 is aryl;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl; and
+
+R6 is OH or OR18, wherein R18 is C1-6 alkyl.
+
+**3**. The compound of claim 1 or 2, having a structure according to Formula (II)
+
+[![Figure US20230295110A1-20230921-C00690](https://patentimages.storage.googleapis.com/79/b1/3e/90c538b2a0d160/US20230295110A1-20230921-C00690.png)](https://patentimages.storage.googleapis.com/79/b1/3e/90c538b2a0d160/US20230295110A1-20230921-C00690.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, and wherein R7 is C1-3 alkyl optionally substituted with aryl, or R1 is C3-6 cycloalkyl or 3- to 6-membered heterocycloalkyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R3 is selected from the group consisting of:
+
+hydrogen;
+
+[![Figure US20230295110A1-20230921-C00691](https://patentimages.storage.googleapis.com/7b/ef/cf/4ec8958bc482c6/US20230295110A1-20230921-C00691.png)](https://patentimages.storage.googleapis.com/7b/ef/cf/4ec8958bc482c6/US20230295110A1-20230921-C00691.png)
+
+wherein X is a covalent bond, O, S, SO2, C1-4 alkylene, C2-4 alkynylene, or C2-4 heteroalkynylene; each A is independently N or CR9, R8 and R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens, and R10 is C1-3 alkyl or aryl;
+
+[![Figure US20230295110A1-20230921-C00692](https://patentimages.storage.googleapis.com/50/16/ef/5fec07b7223d45/US20230295110A1-20230921-C00692.png)](https://patentimages.storage.googleapis.com/50/16/ef/5fec07b7223d45/US20230295110A1-20230921-C00692.png)
+
+wherein B is N or CR11, D is N, NH, or CR11, E is N, CR11, or CHR12, and R11 and R12 are independently hydrogen or C1-3 alkyl, and wherein the dashed circle represents the presence or absence of a conjugated system;
+
+[![Figure US20230295110A1-20230921-C00693](https://patentimages.storage.googleapis.com/6a/62/ab/80ef4064a480a8/US20230295110A1-20230921-C00693.png)](https://patentimages.storage.googleapis.com/6a/62/ab/80ef4064a480a8/US20230295110A1-20230921-C00693.png)
+
+wherein each G is independently N, NR13, CR14, R13 is C3-6 cycloalkyl or 3- to 6-membered heterocycloalkyl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heteroaryl, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens, and R14 is hydrogen, halogen, C3-6 cycloalkyl, 3- to 6-membered heterocycloalkyl, or C1-3 alkyl;
+
+[![Figure US20230295110A1-20230921-C00694](https://patentimages.storage.googleapis.com/ea/c9/45/3cdb71d05d3685/US20230295110A1-20230921-C00694.png)](https://patentimages.storage.googleapis.com/ea/c9/45/3cdb71d05d3685/US20230295110A1-20230921-C00694.png)
+
+R1 wherein I is O, S, or CH, J is N or CH, R15 is hydrogen, C3-6 cycloalkyl, 3- to 6-membered heterocycloalkyl, or C1-3 alkyl, and R19 is hydrogen C3-6 cycloalkyl, 3- to 6-membered heterocycloalkyl, or aryl;
+
+OR16 wherein R16 is aryl;
+
+[![Figure US20230295110A1-20230921-C00695](https://patentimages.storage.googleapis.com/ee/6d/57/8cad7845851f87/US20230295110A1-20230921-C00695.png)](https://patentimages.storage.googleapis.com/ee/6d/57/8cad7845851f87/US20230295110A1-20230921-C00695.png)
+
+wherein X1 is N or CH, and R20 is optionally substituted aryl; and
+
+COR17 wherein R17 is aryl;
+
+and
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl.
+
+**4**. The compound of any one of claims 1-3, wherein
+
+R1 is optionally substituted C1-3 alkyl; and/or
+
+R3 is hydrogen, optionally substituted aryl, optionally substituted heteroaryl, optionally substituted cycloalkyl, optionally substituted heterocycloalkyl, carbonyl, or ether.
+
+**5**. The compound of any one of claims 1-3, wherein
+
+R1 is C1-3 alkyl optionally substituted with OR7 or aryl, which is optionally substituted with halogen, and wherein R7 is C1-3 alkyl optionally substituted with aryl; and/or
+
+R3 is selected from the group consisting of: hydrogen,
+
+[![Figure US20230295110A1-20230921-C00696](https://patentimages.storage.googleapis.com/a6/0b/14/aa36d58211d91d/US20230295110A1-20230921-C00696.png)](https://patentimages.storage.googleapis.com/a6/0b/14/aa36d58211d91d/US20230295110A1-20230921-C00696.png)
+
+**6**. The compound of any one of claims 1-3, wherein R3 is
+
+[![Figure US20230295110A1-20230921-C00697](https://patentimages.storage.googleapis.com/61/b3/58/5adcf9d3cee233/US20230295110A1-20230921-C00697.png)](https://patentimages.storage.googleapis.com/61/b3/58/5adcf9d3cee233/US20230295110A1-20230921-C00697.png)
+
+**7**. The compound of any one of claims 1-6, wherein R1 is unsubstituted C1-3 alkyl, R2 is hydrogen, R4 and R5 are each hydrogen, and R6 is OH.
+
+**8**. The compound of any one of claims 1-6, wherein each R1 and R2 is unsubstituted C3 alkyl, R4 and R5 are each hydrogen, and R6 is OH.
+
+**9**. The compound of any one of claims 1-6, wherein R2 is unsubstituted C1-3 alkyl, R3 is hydrogen, R4 and R5 are each hydrogen, and R6 is OH.
+
+**10**. The compound of any one of claims 1-3, having a structure according to Formula (III)
+
+[![Figure US20230295110A1-20230921-C00698](https://patentimages.storage.googleapis.com/60/bb/25/1e5e21f4599cbb/US20230295110A1-20230921-C00698.png)](https://patentimages.storage.googleapis.com/60/bb/25/1e5e21f4599cbb/US20230295110A1-20230921-C00698.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+each A is independently N or CR9;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R8 and R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens; and
+
+R10 is C1-3 alkyl or aryl.
+
+**11**. The compound of any one of claims 1-3 and 10, having a structure according to Formula (IV)
+
+[![Figure US20230295110A1-20230921-C00699](https://patentimages.storage.googleapis.com/ef/dd/4b/e5c64070136b7b/US20230295110A1-20230921-C00699.png)](https://patentimages.storage.googleapis.com/ef/dd/4b/e5c64070136b7b/US20230295110A1-20230921-C00699.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R8 and R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens; and
+
+R10 is C1-3 alkyl or aryl.
+
+**12**. The compound of any one of claims 1-3 and 10, having a structure according to Formula (V)
+
+[![Figure US20230295110A1-20230921-C00700](https://patentimages.storage.googleapis.com/27/d6/9e/7ba2c69e23e733/US20230295110A1-20230921-C00700.png)](https://patentimages.storage.googleapis.com/27/d6/9e/7ba2c69e23e733/US20230295110A1-20230921-C00700.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R8 and each R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens; and
+
+R10 is C1-3 alkyl or aryl.
+
+**13**. The compound of any one of claims 1-3, having a structure according to Formula (VI)
+
+[![Figure US20230295110A1-20230921-C00701](https://patentimages.storage.googleapis.com/37/23/fa/ce0423d8dcdb04/US20230295110A1-20230921-C00701.png)](https://patentimages.storage.googleapis.com/37/23/fa/ce0423d8dcdb04/US20230295110A1-20230921-C00701.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+B is N or CR11;
+
+D is N, NH, or CR11;
+
+E is N, CR11, or CHR12;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R11 and R12 are independently hydrogen or C1-3 alkyl; and
+
+wherein the dashed circle represents the presence or absence of a conjugated system.
+
+**14**. The compound of claim 13, having a structure according to Formula (VII)
+
+[![Figure US20230295110A1-20230921-C00702](https://patentimages.storage.googleapis.com/04/0c/8d/882c10ca4c3fee/US20230295110A1-20230921-C00702.png)](https://patentimages.storage.googleapis.com/04/0c/8d/882c10ca4c3fee/US20230295110A1-20230921-C00702.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+**15**. The compound of claim 13, having a structure according to Formula (VIII)
+
+[![Figure US20230295110A1-20230921-C00703](https://patentimages.storage.googleapis.com/db/dd/64/ccdadd417ef692/US20230295110A1-20230921-C00703.png)](https://patentimages.storage.googleapis.com/db/dd/64/ccdadd417ef692/US20230295110A1-20230921-C00703.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+B is N or CR11;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl; and
+
+R12 is hydrogen or C1-3 alkyl.
+
+**16**. The compound of any one of claims 1-3, having a structure according to Formula (IX)
+
+[![Figure US20230295110A1-20230921-C00704](https://patentimages.storage.googleapis.com/b4/06/b4/391718fcc3ba38/US20230295110A1-20230921-C00704.png)](https://patentimages.storage.googleapis.com/b4/06/b4/391718fcc3ba38/US20230295110A1-20230921-C00704.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+each G is independently N, NH, NR13, or CR14;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, and wherein R7 is C1-3 alkyl optionally substituted with aryl, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R13 is cyclopropyl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heteroaryl, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens; and
+
+R14 is hydrogen, halogen, cyclopropyl, or C1-3 alkyl.
+
+**17**. The compound of claim 16, having a structure according to Formula (X)
+
+[![Figure US20230295110A1-20230921-C00705](https://patentimages.storage.googleapis.com/c5/cb/5a/ac3961d230734d/US20230295110A1-20230921-C00705.png)](https://patentimages.storage.googleapis.com/c5/cb/5a/ac3961d230734d/US20230295110A1-20230921-C00705.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+each G is independently N, NR13, or CR14;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl which is optionally substituted with halogen, and wherein R7 is C1-3 alkyl optionally substituted with aryl, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R13 is cyclopropyl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heteroaryl, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens; and
+
+R14 is hydrogen, halogen, cyclopropyl, or C1-3 alkyl.
+
+**18**. The compound of claim 16 or 17, having a structure according to Formula (XI)
+
+[![Figure US20230295110A1-20230921-C00706](https://patentimages.storage.googleapis.com/df/cf/29/cc7633ca6950f2/US20230295110A1-20230921-C00706.png)](https://patentimages.storage.googleapis.com/df/cf/29/cc7633ca6950f2/US20230295110A1-20230921-C00706.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+each G is independently N or NR3;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, and wherein R7 is C1-3 alkyl optionally substituted with aryl, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R13 is cyclopropyl, heteroaryl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens; and
+
+R14 is hydrogen, halogen, cyclopropyl, or C1-3 alkyl.
+
+**19**. The compound of any one of claims 16-18, having a structure according to Formula (XIIa) or Formula (XIIb)
+
+[![Figure US20230295110A1-20230921-C00707](https://patentimages.storage.googleapis.com/5f/cc/83/eadc42aabde9cc/US20230295110A1-20230921-C00707.png)](https://patentimages.storage.googleapis.com/5f/cc/83/eadc42aabde9cc/US20230295110A1-20230921-C00707.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R13 is cyclopropyl, heteroaryl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens; and
+
+R14 is hydrogen, halogen, cyclopropyl, or C1-3 alkyl.
+
+**20**. The compound of any one of claims 16-19, having a structure according to Formula (XIII)
+
+[![Figure US20230295110A1-20230921-C00708](https://patentimages.storage.googleapis.com/26/8d/c5/1aec8342c8aa5f/US20230295110A1-20230921-C00708.png)](https://patentimages.storage.googleapis.com/26/8d/c5/1aec8342c8aa5f/US20230295110A1-20230921-C00708.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl; and
+
+R13 is aryl or heteroaryl.
+
+**21**. The compound of any one of claims 1-3, having a structure according to Formula (XIV)
+
+[![Figure US20230295110A1-20230921-C00709](https://patentimages.storage.googleapis.com/13/c8/44/7e0b2c3f6d9800/US20230295110A1-20230921-C00709.png)](https://patentimages.storage.googleapis.com/13/c8/44/7e0b2c3f6d9800/US20230295110A1-20230921-C00709.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+I is O, S, or CH;
+
+J is N or CH;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, and wherein R7 is C1-3 alkyl optionally substituted with aryl, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R15 is hydrogen or C1-3 alkyl; and
+
+R19 is hydrogen or aryl.
+
+**22**. The compound of claim 21, having a structure according to Formula (XV)
+
+[![Figure US20230295110A1-20230921-C00710](https://patentimages.storage.googleapis.com/71/80/58/6602f5015c7824/US20230295110A1-20230921-C00710.png)](https://patentimages.storage.googleapis.com/71/80/58/6602f5015c7824/US20230295110A1-20230921-C00710.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+I is O, S, or CH;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl; and
+
+R15 is hydrogen or C1-3 alkyl.
+
+R19 is hydrogen or aryl.
+
+**23**. The compound of any one of claims 1-3 and 10, having a structure according to Formula (XVI)
+
+[![Figure US20230295110A1-20230921-C00711](https://patentimages.storage.googleapis.com/64/46/bf/b7a5aa2ba57c14/US20230295110A1-20230921-C00711.png)](https://patentimages.storage.googleapis.com/64/46/bf/b7a5aa2ba57c14/US20230295110A1-20230921-C00711.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+X is O, S, or SO2;
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R8 and R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens; and
+
+R10 is C1-3 alkyl or aryl.
+
+**24**. The compound of any one of claims 1-3 and 10, having a structure according to Formula (XVII)
+
+[![Figure US20230295110A1-20230921-C00712](https://patentimages.storage.googleapis.com/53/04/80/1d1cd398a83e70/US20230295110A1-20230921-C00712.png)](https://patentimages.storage.googleapis.com/53/04/80/1d1cd398a83e70/US20230295110A1-20230921-C00712.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R8 and R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens; and
+
+R10 is C1-3 alkyl or aryl.
+
+**25**. The compound of any one of claims 1-3 and 10, having a structure according to Formula (XVIII)
+
+[![Figure US20230295110A1-20230921-C00713](https://patentimages.storage.googleapis.com/20/fd/85/10f45f7774d957/US20230295110A1-20230921-C00713.png)](https://patentimages.storage.googleapis.com/20/fd/85/10f45f7774d957/US20230295110A1-20230921-C00713.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl;
+
+R8 and R9 are independently hydrogen, halogen, OR10, or C1-3 alkyl optionally substituted with one or more halogens; and
+
+R10 is C1-3 alkyl or aryl.
+
+**26**. The compound of claim 16, having a structure according to Formula (XIX)
+
+[![Figure US20230295110A1-20230921-C00714](https://patentimages.storage.googleapis.com/fb/24/36/e8ecfbdec2e678/US20230295110A1-20230921-C00714.png)](https://patentimages.storage.googleapis.com/fb/24/36/e8ecfbdec2e678/US20230295110A1-20230921-C00714.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl; and
+
+R13 is cyclopropyl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heteroaryl, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens.
+
+**27**. The compound of claim 16, having a structure according to Formula (XX)
+
+[![Figure US20230295110A1-20230921-C00715](https://patentimages.storage.googleapis.com/51/ee/61/709daf4ef59023/US20230295110A1-20230921-C00715.png)](https://patentimages.storage.googleapis.com/51/ee/61/709daf4ef59023/US20230295110A1-20230921-C00715.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl; and
+
+R13 is cyclopropyl, aryl optionally substituted with one or more halogens, aryl optionally substituted with one or more optionally substituted C1-3 alkyls, heteroaryl, heterocycloalkyl optionally substituted with t-butyloxycarbonyl, C1-4 alkyl optionally substituted with aryl, which is optionally substituted with one or more halogens.
+
+**28**. The compound of claim 16, having a structure according to Formula (XXI)
+
+[![Figure US20230295110A1-20230921-C00716](https://patentimages.storage.googleapis.com/f8/0c/d1/1e784f81595ca1/US20230295110A1-20230921-C00716.png)](https://patentimages.storage.googleapis.com/f8/0c/d1/1e784f81595ca1/US20230295110A1-20230921-C00716.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl; and
+
+R7 is C1-3 alkyl optionally substituted with aryl.
+
+**29**. The compound of any one of claims 1-3, having a structure according to Formula (XXII)
+
+[![Figure US20230295110A1-20230921-C00717](https://patentimages.storage.googleapis.com/db/0d/80/7ee63c5bb7a16f/US20230295110A1-20230921-C00717.png)](https://patentimages.storage.googleapis.com/db/0d/80/7ee63c5bb7a16f/US20230295110A1-20230921-C00717.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl; and
+
+R20 is optionally substituted aryl.
+
+**30**. The compound of any one of claims 1-3, having a structure according to Formula (XXIII)
+
+[![Figure US20230295110A1-20230921-C00718](https://patentimages.storage.googleapis.com/a2/60/88/4ed98a31d35d53/US20230295110A1-20230921-C00718.png)](https://patentimages.storage.googleapis.com/a2/60/88/4ed98a31d35d53/US20230295110A1-20230921-C00718.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R1 is C1-3 alkyl optionally substituted with OR7, halogen, or aryl, which is optionally substituted with halogen, or R1 is cyclopropyl;
+
+R2 is hydrogen, halogen, CN, or C1-3 alkyl optionally substituted with one or more halogens;
+
+R4 and R5 are independently hydrogen, C1-3 alkyl optionally substituted with one or more halogens, or R4 and R5 together with the carbon to which they are attached form an optionally substituted cycloalkyl or heterocycloalkyl;
+
+R7 is C1-3 alkyl optionally substituted with aryl; and
+
+R20 is optionally substituted aryl.
+
+**31**. The compound of any one of claims 1-6, wherein R3 is not hydrogen.
+
+**32**. The compound of any one of claims 1-6, wherein R3 is unsubstituted phenyl, fluorophenyl, chlorophenyl, difluorophenyl, dichlorophenyl, or trifluoromethylphenyl.
+
+**33**. The compound of any one of claims 1-6, wherein R3 is OR16, SR16, SO2R16, CH2R16, CH2CH2R16, C≡CR16, or C≡CCH2OR16, and wherein R16 is aryl.
+
+**34**. The compound of claim 33, wherein R16 is phenyl.
+
+**35**. The compound of any one of claims 1-6, wherein R3 is pyrrolyl, tetrazolyl, triazolyl, or pyrazolyl, optionally substituted by aryl or cycloalkyl.
+
+**36**. The compound of any one of claims 1-6, wherein R3 is piperidinyl or piperazinyl, optionally substituted by aryl.
+
+**37**. The compound of claim 35 or 36, wherein R3 is unsubstituted or substituted by cyclopropyl, unsubstituted phenyl, fluorophenyl, chlorophenyl, difluorophenyl, dichlorophenyl, or trifluoromethylphenyl.
+
+**38**. The compound of any one of claims 1-6, wherein R3 is COR17, and wherein R17 is aryl.
+
+**39**. The compound of claim 38, wherein R17 is phenyl.
+
+**40**. The compound of any one of claims 1-39, wherein R1 is cyclopropyl or substituted C1-3 alkyl.
+
+**41**. The compound of claim 40, wherein R1 is cyclopropyl or difluoromethyl.
+
+**42**. The compound of any one of claims 1-39, wherein R1 is unsubstituted C1-3 alkyl.
+
+**43**. The compound claim 42, wherein R1 is CH2CH3.
+
+**44**. The compound of claim 42, wherein R1 is CH3.
+
+**45**. The compound of any one of claims 1-6 and 9-39, wherein R1 is C1-3 alkyl substituted with aryl, which is substituted with halogen.
+
+**46**. The compound of claim 45, wherein R1 is
+
+[![Figure US20230295110A1-20230921-C00719](https://patentimages.storage.googleapis.com/79/96/6a/c76e7e5a5e9e4a/US20230295110A1-20230921-C00719.png)](https://patentimages.storage.googleapis.com/79/96/6a/c76e7e5a5e9e4a/US20230295110A1-20230921-C00719.png)
+
+**47**. The compound of any one of claims 1-6 and 9-39, wherein R1 is C1-3 alkyl substituted with OBn.
+
+**48**. The compound of claim 47, wherein R1 is CH2CH2OBn.
+
+**49**. The compound of any one of claims 1-7 and 10-48, wherein R2 is hydrogen.
+
+**50**. The compound of any one of claims 1-6 and 8-48, wherein R2 is unsubstituted C1-3 alkyl.
+
+**51**. The compound of claim 50, wherein R2 is CH3.
+
+**52**. The compound of any one of claims 1-51, wherein R4 is hydrogen and R5 is hydrogen.
+
+**53**. The compound of any one of claims 1-6 and 10-51, wherein R4 is hydrogen and R5 is C1-3 alkyl.
+
+**54**. The compound of claim 53, wherein R5 is CH3.
+
+**55**. The compound of any one of claims 1-3 and 10-51, wherein R4 is C1-3 alkyl and R5 is C1-3 alkyl.
+
+**56**. The compound of claim 55, wherein R4 is CH3 and R5 is CH3.
+
+**57**. The compound of any one of claims 1-6 and 10-51, wherein R4 and R5 together with the carbon to which they are attached form a cycloalkyl or a heterocycloalkyl.
+
+**58**. The compound of claim 57, wherein the cycloalkyl is cyclopropyl.
+
+**59**. The compound of claim 57, wherein the cycloalkyl is cyclobutyl.
+
+**60**. The compound of claim 57, wherein the heterocycloalkyl is
+
+[![Figure US20230295110A1-20230921-C00720](https://patentimages.storage.googleapis.com/19/35/a3/10f37259c7481c/US20230295110A1-20230921-C00720.png)](https://patentimages.storage.googleapis.com/19/35/a3/10f37259c7481c/US20230295110A1-20230921-C00720.png)
+
+**61**. The compound of any one of claims 1-6, having a structure according to any one of compounds 1-50:
+
+Cmpd No.
+Structure
+
+ 
+
+ 1
+
+[![Figure US20230295110A1-20230921-C00721](https://patentimages.storage.googleapis.com/fa/aa/99/25a78309d0337d/US20230295110A1-20230921-C00721.png)](https://patentimages.storage.googleapis.com/fa/aa/99/25a78309d0337d/US20230295110A1-20230921-C00721.png)
+
+ 
+
+ 
+
+ 2
+
+[![Figure US20230295110A1-20230921-C00722](https://patentimages.storage.googleapis.com/ab/a0/a2/5ec1dcd5208c4f/US20230295110A1-20230921-C00722.png)](https://patentimages.storage.googleapis.com/ab/a0/a2/5ec1dcd5208c4f/US20230295110A1-20230921-C00722.png)
+
+ 
+
+ 
+
+ 3
+
+[![Figure US20230295110A1-20230921-C00723](https://patentimages.storage.googleapis.com/3b/e2/9e/37e85da7cd305c/US20230295110A1-20230921-C00723.png)](https://patentimages.storage.googleapis.com/3b/e2/9e/37e85da7cd305c/US20230295110A1-20230921-C00723.png)
+
+ 
+
+ 
+
+ 4
+
+[![Figure US20230295110A1-20230921-C00724](https://patentimages.storage.googleapis.com/6c/97/45/824291229a0f52/US20230295110A1-20230921-C00724.png)](https://patentimages.storage.googleapis.com/6c/97/45/824291229a0f52/US20230295110A1-20230921-C00724.png)
+
+ 
+
+ 
+
+ 5
+
+[![Figure US20230295110A1-20230921-C00725](https://patentimages.storage.googleapis.com/5b/fd/d0/6afdca30e5466a/US20230295110A1-20230921-C00725.png)](https://patentimages.storage.googleapis.com/5b/fd/d0/6afdca30e5466a/US20230295110A1-20230921-C00725.png)
+
+ 
+
+ 
+
+ 6
+
+[![Figure US20230295110A1-20230921-C00726](https://patentimages.storage.googleapis.com/34/b8/f6/6d402ce0e339f2/US20230295110A1-20230921-C00726.png)](https://patentimages.storage.googleapis.com/34/b8/f6/6d402ce0e339f2/US20230295110A1-20230921-C00726.png)
+
+ 
+
+ 
+
+ 7
+
+[![Figure US20230295110A1-20230921-C00727](https://patentimages.storage.googleapis.com/40/dc/a8/5858a7ccb0c20c/US20230295110A1-20230921-C00727.png)](https://patentimages.storage.googleapis.com/40/dc/a8/5858a7ccb0c20c/US20230295110A1-20230921-C00727.png)
+
+ 
+
+ 
+
+ 8
+
+[![Figure US20230295110A1-20230921-C00728](https://patentimages.storage.googleapis.com/30/c1/8e/87f69c908acafb/US20230295110A1-20230921-C00728.png)](https://patentimages.storage.googleapis.com/30/c1/8e/87f69c908acafb/US20230295110A1-20230921-C00728.png)
+
+ 
+
+ 
+
+ 9
+
+[![Figure US20230295110A1-20230921-C00729](https://patentimages.storage.googleapis.com/0d/1b/5a/0de9220e1b21bf/US20230295110A1-20230921-C00729.png)](https://patentimages.storage.googleapis.com/0d/1b/5a/0de9220e1b21bf/US20230295110A1-20230921-C00729.png)
+
+ 
+
+ 
+
+10
+
+[![Figure US20230295110A1-20230921-C00730](https://patentimages.storage.googleapis.com/e4/d8/7c/b5d8aa7d222dcc/US20230295110A1-20230921-C00730.png)](https://patentimages.storage.googleapis.com/e4/d8/7c/b5d8aa7d222dcc/US20230295110A1-20230921-C00730.png)
+
+ 
+
+ 
+
+11
+
+[![Figure US20230295110A1-20230921-C00731](https://patentimages.storage.googleapis.com/9a/16/d5/8edc0976c44679/US20230295110A1-20230921-C00731.png)](https://patentimages.storage.googleapis.com/9a/16/d5/8edc0976c44679/US20230295110A1-20230921-C00731.png)
+
+ 
+
+ 
+
+12
+
+[![Figure US20230295110A1-20230921-C00732](https://patentimages.storage.googleapis.com/71/ce/80/f4fa0f4847027a/US20230295110A1-20230921-C00732.png)](https://patentimages.storage.googleapis.com/71/ce/80/f4fa0f4847027a/US20230295110A1-20230921-C00732.png)
+
+ 
+
+ 
+
+13
+
+[![Figure US20230295110A1-20230921-C00733](https://patentimages.storage.googleapis.com/21/29/45/cfcdcba4ef5b43/US20230295110A1-20230921-C00733.png)](https://patentimages.storage.googleapis.com/21/29/45/cfcdcba4ef5b43/US20230295110A1-20230921-C00733.png)
+
+ 
+
+ 
+
+14
+
+[![Figure US20230295110A1-20230921-C00734](https://patentimages.storage.googleapis.com/30/e6/c9/9564b021bbad57/US20230295110A1-20230921-C00734.png)](https://patentimages.storage.googleapis.com/30/e6/c9/9564b021bbad57/US20230295110A1-20230921-C00734.png)
+
+ 
+
+ 
+
+15
+
+[![Figure US20230295110A1-20230921-C00735](https://patentimages.storage.googleapis.com/c1/68/af/20951fdf254044/US20230295110A1-20230921-C00735.png)](https://patentimages.storage.googleapis.com/c1/68/af/20951fdf254044/US20230295110A1-20230921-C00735.png)
+
+ 
+
+ 
+
+16
+
+[![Figure US20230295110A1-20230921-C00736](https://patentimages.storage.googleapis.com/e5/bd/2c/ab0322615f6575/US20230295110A1-20230921-C00736.png)](https://patentimages.storage.googleapis.com/e5/bd/2c/ab0322615f6575/US20230295110A1-20230921-C00736.png)
+
+ 
+
+ 
+
+17
+
+[![Figure US20230295110A1-20230921-C00737](https://patentimages.storage.googleapis.com/b0/b5/eb/7b1320c853cbdc/US20230295110A1-20230921-C00737.png)](https://patentimages.storage.googleapis.com/b0/b5/eb/7b1320c853cbdc/US20230295110A1-20230921-C00737.png)
+
+ 
+
+ 
+
+18
+
+[![Figure US20230295110A1-20230921-C00738](https://patentimages.storage.googleapis.com/35/db/bd/e37f58e9071e71/US20230295110A1-20230921-C00738.png)](https://patentimages.storage.googleapis.com/35/db/bd/e37f58e9071e71/US20230295110A1-20230921-C00738.png)
+
+ 
+
+ 
+
+19
+
+[![Figure US20230295110A1-20230921-C00739](https://patentimages.storage.googleapis.com/6b/74/56/5965c519a586a0/US20230295110A1-20230921-C00739.png)](https://patentimages.storage.googleapis.com/6b/74/56/5965c519a586a0/US20230295110A1-20230921-C00739.png)
+
+ 
+
+ 
+
+20
+
+[![Figure US20230295110A1-20230921-C00740](https://patentimages.storage.googleapis.com/30/42/c3/1ae0bb362cfd23/US20230295110A1-20230921-C00740.png)](https://patentimages.storage.googleapis.com/30/42/c3/1ae0bb362cfd23/US20230295110A1-20230921-C00740.png)
+
+ 
+
+ 
+
+21
+
+[![Figure US20230295110A1-20230921-C00741](https://patentimages.storage.googleapis.com/50/e4/a4/34f510d2d9391d/US20230295110A1-20230921-C00741.png)](https://patentimages.storage.googleapis.com/50/e4/a4/34f510d2d9391d/US20230295110A1-20230921-C00741.png)
+
+ 
+
+ 
+
+22
+
+[![Figure US20230295110A1-20230921-C00742](https://patentimages.storage.googleapis.com/ba/02/0f/968292c94829b6/US20230295110A1-20230921-C00742.png)](https://patentimages.storage.googleapis.com/ba/02/0f/968292c94829b6/US20230295110A1-20230921-C00742.png)
+
+ 
+
+ 
+
+23
+
+[![Figure US20230295110A1-20230921-C00743](https://patentimages.storage.googleapis.com/31/8f/b2/9b583f6e4843ac/US20230295110A1-20230921-C00743.png)](https://patentimages.storage.googleapis.com/31/8f/b2/9b583f6e4843ac/US20230295110A1-20230921-C00743.png)
+
+ 
+
+ 
+
+24
+
+[![Figure US20230295110A1-20230921-C00744](https://patentimages.storage.googleapis.com/21/21/df/005c955b8a7794/US20230295110A1-20230921-C00744.png)](https://patentimages.storage.googleapis.com/21/21/df/005c955b8a7794/US20230295110A1-20230921-C00744.png)
+
+ 
+
+ 
+
+25
+
+[![Figure US20230295110A1-20230921-C00745](https://patentimages.storage.googleapis.com/db/aa/af/291f7d1339b2d0/US20230295110A1-20230921-C00745.png)](https://patentimages.storage.googleapis.com/db/aa/af/291f7d1339b2d0/US20230295110A1-20230921-C00745.png)
+
+ 
+
+ 
+
+26
+
+[![Figure US20230295110A1-20230921-C00746](https://patentimages.storage.googleapis.com/6d/79/fe/29f9d11fc43120/US20230295110A1-20230921-C00746.png)](https://patentimages.storage.googleapis.com/6d/79/fe/29f9d11fc43120/US20230295110A1-20230921-C00746.png)
+
+ 
+
+ 
+
+27
+
+[![Figure US20230295110A1-20230921-C00747](https://patentimages.storage.googleapis.com/a4/69/37/a58ff6be4b6934/US20230295110A1-20230921-C00747.png)](https://patentimages.storage.googleapis.com/a4/69/37/a58ff6be4b6934/US20230295110A1-20230921-C00747.png)
+
+ 
+
+ 
+
+28
+
+[![Figure US20230295110A1-20230921-C00748](https://patentimages.storage.googleapis.com/83/16/fe/72d9cb2a76620b/US20230295110A1-20230921-C00748.png)](https://patentimages.storage.googleapis.com/83/16/fe/72d9cb2a76620b/US20230295110A1-20230921-C00748.png)
+
+ 
+
+ 
+
+29
+
+[![Figure US20230295110A1-20230921-C00749](https://patentimages.storage.googleapis.com/49/bd/2c/d41b24880b990e/US20230295110A1-20230921-C00749.png)](https://patentimages.storage.googleapis.com/49/bd/2c/d41b24880b990e/US20230295110A1-20230921-C00749.png)
+
+ 
+
+ 
+
+30
+
+[![Figure US20230295110A1-20230921-C00750](https://patentimages.storage.googleapis.com/fd/7e/b5/5dfcfd5b6ac9e5/US20230295110A1-20230921-C00750.png)](https://patentimages.storage.googleapis.com/fd/7e/b5/5dfcfd5b6ac9e5/US20230295110A1-20230921-C00750.png)
+
+ 
+
+ 
+
+31
+
+[![Figure US20230295110A1-20230921-C00751](https://patentimages.storage.googleapis.com/d2/6b/b5/8652b8c0809737/US20230295110A1-20230921-C00751.png)](https://patentimages.storage.googleapis.com/d2/6b/b5/8652b8c0809737/US20230295110A1-20230921-C00751.png)
+
+ 
+
+ 
+
+32
+
+[![Figure US20230295110A1-20230921-C00752](https://patentimages.storage.googleapis.com/9e/6d/07/55dc31b75c1093/US20230295110A1-20230921-C00752.png)](https://patentimages.storage.googleapis.com/9e/6d/07/55dc31b75c1093/US20230295110A1-20230921-C00752.png)
+
+ 
+
+ 
+
+33
+
+[![Figure US20230295110A1-20230921-C00753](https://patentimages.storage.googleapis.com/96/9a/06/0c4d21bd374a39/US20230295110A1-20230921-C00753.png)](https://patentimages.storage.googleapis.com/96/9a/06/0c4d21bd374a39/US20230295110A1-20230921-C00753.png)
+
+ 
+
+ 
+
+34
+
+[![Figure US20230295110A1-20230921-C00754](https://patentimages.storage.googleapis.com/21/80/ed/d2fc2f3dcde122/US20230295110A1-20230921-C00754.png)](https://patentimages.storage.googleapis.com/21/80/ed/d2fc2f3dcde122/US20230295110A1-20230921-C00754.png)
+
+ 
+
+ 
+
+35
+
+[![Figure US20230295110A1-20230921-C00755](https://patentimages.storage.googleapis.com/49/7f/22/f2436f87d615cf/US20230295110A1-20230921-C00755.png)](https://patentimages.storage.googleapis.com/49/7f/22/f2436f87d615cf/US20230295110A1-20230921-C00755.png)
+
+ 
+
+ 
+
+36
+
+[![Figure US20230295110A1-20230921-C00756](https://patentimages.storage.googleapis.com/23/f9/08/859d01ce736cc7/US20230295110A1-20230921-C00756.png)](https://patentimages.storage.googleapis.com/23/f9/08/859d01ce736cc7/US20230295110A1-20230921-C00756.png)
+
+ 
+
+ 
+
+37
+
+[![Figure US20230295110A1-20230921-C00757](https://patentimages.storage.googleapis.com/fa/8b/12/721020448d7681/US20230295110A1-20230921-C00757.png)](https://patentimages.storage.googleapis.com/fa/8b/12/721020448d7681/US20230295110A1-20230921-C00757.png)
+
+ 
+
+ 
+
+38
+
+[![Figure US20230295110A1-20230921-C00758](https://patentimages.storage.googleapis.com/2d/7b/e8/9cef8052d3c7e2/US20230295110A1-20230921-C00758.png)](https://patentimages.storage.googleapis.com/2d/7b/e8/9cef8052d3c7e2/US20230295110A1-20230921-C00758.png)
+
+ 
+
+ 
+
+39
+
+[![Figure US20230295110A1-20230921-C00759](https://patentimages.storage.googleapis.com/af/42/6e/e85ed4a5763392/US20230295110A1-20230921-C00759.png)](https://patentimages.storage.googleapis.com/af/42/6e/e85ed4a5763392/US20230295110A1-20230921-C00759.png)
+
+ 
+
+ 
+
+40
+
+[![Figure US20230295110A1-20230921-C00760](https://patentimages.storage.googleapis.com/e4/82/26/287707697a2235/US20230295110A1-20230921-C00760.png)](https://patentimages.storage.googleapis.com/e4/82/26/287707697a2235/US20230295110A1-20230921-C00760.png)
+
+ 
+
+ 
+
+41
+
+[![Figure US20230295110A1-20230921-C00761](https://patentimages.storage.googleapis.com/d3/f9/b8/1b3c55ac05fa90/US20230295110A1-20230921-C00761.png)](https://patentimages.storage.googleapis.com/d3/f9/b8/1b3c55ac05fa90/US20230295110A1-20230921-C00761.png)
+
+ 
+
+ 
+
+42
+
+[![Figure US20230295110A1-20230921-C00762](https://patentimages.storage.googleapis.com/3c/e9/e9/76c7397a6cfa6d/US20230295110A1-20230921-C00762.png)](https://patentimages.storage.googleapis.com/3c/e9/e9/76c7397a6cfa6d/US20230295110A1-20230921-C00762.png)
+
+ 
+
+ 
+
+43
+
+[![Figure US20230295110A1-20230921-C00763](https://patentimages.storage.googleapis.com/c9/51/74/dbc0228aeb28a1/US20230295110A1-20230921-C00763.png)](https://patentimages.storage.googleapis.com/c9/51/74/dbc0228aeb28a1/US20230295110A1-20230921-C00763.png)
+
+ 
+
+ 
+
+44
+
+[![Figure US20230295110A1-20230921-C00764](https://patentimages.storage.googleapis.com/db/b6/e4/1007fa75085523/US20230295110A1-20230921-C00764.png)](https://patentimages.storage.googleapis.com/db/b6/e4/1007fa75085523/US20230295110A1-20230921-C00764.png)
+
+ 
+
+ 
+
+45
+
+[![Figure US20230295110A1-20230921-C00765](https://patentimages.storage.googleapis.com/13/89/3e/86776ec7757c05/US20230295110A1-20230921-C00765.png)](https://patentimages.storage.googleapis.com/13/89/3e/86776ec7757c05/US20230295110A1-20230921-C00765.png)
+
+ 
+
+ 
+
+46
+
+[![Figure US20230295110A1-20230921-C00766](https://patentimages.storage.googleapis.com/25/49/79/82bb4c3979ae83/US20230295110A1-20230921-C00766.png)](https://patentimages.storage.googleapis.com/25/49/79/82bb4c3979ae83/US20230295110A1-20230921-C00766.png)
+
+ 
+
+ 
+
+47
+
+[![Figure US20230295110A1-20230921-C00767](https://patentimages.storage.googleapis.com/bd/67/9b/8d606b8e299968/US20230295110A1-20230921-C00767.png)](https://patentimages.storage.googleapis.com/bd/67/9b/8d606b8e299968/US20230295110A1-20230921-C00767.png)
+
+ 
+
+ 
+
+48
+
+[![Figure US20230295110A1-20230921-C00768](https://patentimages.storage.googleapis.com/8a/83/11/4609636be097fd/US20230295110A1-20230921-C00768.png)](https://patentimages.storage.googleapis.com/8a/83/11/4609636be097fd/US20230295110A1-20230921-C00768.png)
+
+ 
+
+ 
+
+49
+
+[![Figure US20230295110A1-20230921-C00769](https://patentimages.storage.googleapis.com/77/cf/21/12d406e7163a26/US20230295110A1-20230921-C00769.png)](https://patentimages.storage.googleapis.com/77/cf/21/12d406e7163a26/US20230295110A1-20230921-C00769.png)
+
+ 
+
+ 
+
+50
+
+[![Figure US20230295110A1-20230921-C00770](https://patentimages.storage.googleapis.com/e2/4e/3d/5c1d432194f62c/US20230295110A1-20230921-C00770.png)](https://patentimages.storage.googleapis.com/e2/4e/3d/5c1d432194f62c/US20230295110A1-20230921-C00770.png)
+
+ 
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+**62**. The compound of any one of claims 1-6, having a structure according to any one of compounds 51-70:
+
+Cmpd No.
+Structure
+
+ 
+
+51
+
+[![Figure US20230295110A1-20230921-C00771](https://patentimages.storage.googleapis.com/10/8d/bf/095e4be2aec4ef/US20230295110A1-20230921-C00771.png)](https://patentimages.storage.googleapis.com/10/8d/bf/095e4be2aec4ef/US20230295110A1-20230921-C00771.png)
+
+ 
+
+ 
+
+52
+
+[![Figure US20230295110A1-20230921-C00772](https://patentimages.storage.googleapis.com/54/0e/ea/67ccd0d4cb97cc/US20230295110A1-20230921-C00772.png)](https://patentimages.storage.googleapis.com/54/0e/ea/67ccd0d4cb97cc/US20230295110A1-20230921-C00772.png)
+
+ 
+
+ 
+
+53
+
+[![Figure US20230295110A1-20230921-C00773](https://patentimages.storage.googleapis.com/db/dc/5a/7c23b9e84f4140/US20230295110A1-20230921-C00773.png)](https://patentimages.storage.googleapis.com/db/dc/5a/7c23b9e84f4140/US20230295110A1-20230921-C00773.png)
+
+ 
+
+ 
+
+54
+
+[![Figure US20230295110A1-20230921-C00774](https://patentimages.storage.googleapis.com/4b/f6/22/2a81426031206c/US20230295110A1-20230921-C00774.png)](https://patentimages.storage.googleapis.com/4b/f6/22/2a81426031206c/US20230295110A1-20230921-C00774.png)
+
+ 
+
+ 
+
+55
+
+[![Figure US20230295110A1-20230921-C00775](https://patentimages.storage.googleapis.com/cd/90/b3/0ac601e05c1fac/US20230295110A1-20230921-C00775.png)](https://patentimages.storage.googleapis.com/cd/90/b3/0ac601e05c1fac/US20230295110A1-20230921-C00775.png)
+
+ 
+
+ 
+
+56
+
+[![Figure US20230295110A1-20230921-C00776](https://patentimages.storage.googleapis.com/19/4f/cb/7a02c91ed073ba/US20230295110A1-20230921-C00776.png)](https://patentimages.storage.googleapis.com/19/4f/cb/7a02c91ed073ba/US20230295110A1-20230921-C00776.png)
+
+ 
+
+ 
+
+57
+
+[![Figure US20230295110A1-20230921-C00777](https://patentimages.storage.googleapis.com/76/f7/ed/f81d352a8f7853/US20230295110A1-20230921-C00777.png)](https://patentimages.storage.googleapis.com/76/f7/ed/f81d352a8f7853/US20230295110A1-20230921-C00777.png)
+
+ 
+
+ 
+
+58
+
+[![Figure US20230295110A1-20230921-C00778](https://patentimages.storage.googleapis.com/a9/ae/6f/bc6a7ca855f228/US20230295110A1-20230921-C00778.png)](https://patentimages.storage.googleapis.com/a9/ae/6f/bc6a7ca855f228/US20230295110A1-20230921-C00778.png)
+
+ 
+
+ 
+
+59
+
+[![Figure US20230295110A1-20230921-C00779](https://patentimages.storage.googleapis.com/ce/0d/4b/67e8a88ba36698/US20230295110A1-20230921-C00779.png)](https://patentimages.storage.googleapis.com/ce/0d/4b/67e8a88ba36698/US20230295110A1-20230921-C00779.png)
+
+ 
+
+ 
+
+60
+
+[![Figure US20230295110A1-20230921-C00780](https://patentimages.storage.googleapis.com/62/49/00/4de105ecb19599/US20230295110A1-20230921-C00780.png)](https://patentimages.storage.googleapis.com/62/49/00/4de105ecb19599/US20230295110A1-20230921-C00780.png)
+
+ 
+
+ 
+
+61
+
+[![Figure US20230295110A1-20230921-C00781](https://patentimages.storage.googleapis.com/f9/2c/40/03a657fdcbe7a9/US20230295110A1-20230921-C00781.png)](https://patentimages.storage.googleapis.com/f9/2c/40/03a657fdcbe7a9/US20230295110A1-20230921-C00781.png)
+
+ 
+
+ 
+
+62
+
+[![Figure US20230295110A1-20230921-C00782](https://patentimages.storage.googleapis.com/4d/cc/6b/b2e386197b42cb/US20230295110A1-20230921-C00782.png)](https://patentimages.storage.googleapis.com/4d/cc/6b/b2e386197b42cb/US20230295110A1-20230921-C00782.png)
+
+ 
+
+ 
+
+63
+
+[![Figure US20230295110A1-20230921-C00783](https://patentimages.storage.googleapis.com/00/bf/80/784f37601bc960/US20230295110A1-20230921-C00783.png)](https://patentimages.storage.googleapis.com/00/bf/80/784f37601bc960/US20230295110A1-20230921-C00783.png)
+
+ 
+
+ 
+
+64
+
+[![Figure US20230295110A1-20230921-C00784](https://patentimages.storage.googleapis.com/4e/19/04/d05f5a50cc77a5/US20230295110A1-20230921-C00784.png)](https://patentimages.storage.googleapis.com/4e/19/04/d05f5a50cc77a5/US20230295110A1-20230921-C00784.png)
+
+ 
+
+ 
+
+65
+
+[![Figure US20230295110A1-20230921-C00785](https://patentimages.storage.googleapis.com/16/52/c0/e1ba149fc419a1/US20230295110A1-20230921-C00785.png)](https://patentimages.storage.googleapis.com/16/52/c0/e1ba149fc419a1/US20230295110A1-20230921-C00785.png)
+
+ 
+
+ 
+
+66
+
+[![Figure US20230295110A1-20230921-C00786](https://patentimages.storage.googleapis.com/78/8e/86/0eeefae1297d4b/US20230295110A1-20230921-C00786.png)](https://patentimages.storage.googleapis.com/78/8e/86/0eeefae1297d4b/US20230295110A1-20230921-C00786.png)
+
+ 
+
+ 
+
+67
+
+[![Figure US20230295110A1-20230921-C00787](https://patentimages.storage.googleapis.com/2c/f3/d5/cb6ce62c5891b9/US20230295110A1-20230921-C00787.png)](https://patentimages.storage.googleapis.com/2c/f3/d5/cb6ce62c5891b9/US20230295110A1-20230921-C00787.png)
+
+ 
+
+ 
+
+68
+
+[![Figure US20230295110A1-20230921-C00788](https://patentimages.storage.googleapis.com/12/10/50/40278e79d10950/US20230295110A1-20230921-C00788.png)](https://patentimages.storage.googleapis.com/12/10/50/40278e79d10950/US20230295110A1-20230921-C00788.png)
+
+ 
+
+ 
+
+69
+
+[![Figure US20230295110A1-20230921-C00789](https://patentimages.storage.googleapis.com/08/bc/6c/ec7546ce19adb7/US20230295110A1-20230921-C00789.png)](https://patentimages.storage.googleapis.com/08/bc/6c/ec7546ce19adb7/US20230295110A1-20230921-C00789.png)
+
+ 
+
+ 
+
+70
+
+[![Figure US20230295110A1-20230921-C00790](https://patentimages.storage.googleapis.com/87/f1/64/5d2e6064dab780/US20230295110A1-20230921-C00790.png)](https://patentimages.storage.googleapis.com/87/f1/64/5d2e6064dab780/US20230295110A1-20230921-C00790.png)
+
+ 
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+**63**. The compound of any one of claims 1-62, or a pharmaceutically acceptable salt thereof, wherein at least one hydrogen atom is replaced with a deuterium atom.
+
+**64**. A pharmaceutical composition comprising the compound of any one of claims 1-62, or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable excipient.
+
+**65**. A method for treating a disease mediated by PHD activity comprising administering to a subject the compound of any one of claims 1-62, or a pharmaceutically acceptable salt thereof.
+
+**66**. The method of claim 65, wherein the disease mediated by PHD activity is an ischemic reperfusion injury.
+
+**67**. The method of claim 66, wherein the ischemic reperfusion injury is selected from stroke, myocardial infarction, and acute kidney injury.
+
+**68**. The method of claim 65, wherein the disease mediated by PHD activity is inflammatory bowel disease.
+
+**69**. The method of claim 68, wherein the inflammatory bowel disease is ulcerative colitis.
+
+**70**. The method of claim 68, wherein the inflammatory bowel disease is Crohn's disease.
+
+**71**. The method of claim 65, wherein the disease mediated by PHD activity is cancer.
+
+**72**. The method of claim 71, wherein the cancer is colorectal cancer.
+
+**73**. The method of claim 65, wherein the disease mediated by PHD activity is liver disease.
+
+**74**. The method of claim 65, wherein the disease mediated by PHD activity is atherosclerosis.
+
+**75**. The method of claim 65, wherein the disease mediated by PHD activity is cardiovascular disease.
+
+**76**. The method of claim 65, wherein the disease mediated by PHD activity is a disease or condition of the eye.
+
+**77**. The method of claim 76, wherein the disease or condition of the eye is selected from radiation retinopathy, retinopathy of prematurity, diabetic retinopathy, age-related macular degeneration, and ocular ischemia.
+
+**78**. The method of claim 65, wherein the disease is anemia.
+
+**79**. The method of claim 78, wherein the anemia is anemia associated with chronic kidney disease.
+
+**80**. The method of claim 65, wherein the disease is chronic kidney disease.
+
+**81**. The method of claim 65, wherein the disease is associated with hyperoxia.
+
+**82**. The method of claim 81, wherein the disease is retinopathy of prematurity.
+
+**83**. The method of claim 81, wherein the disease is bronchopulmonary dysplasia (BPD).
+
+**84**. The method of claim 65, wherein the disease is selected from ischemic heart disease, valvular heart disease, congestive heart failure, acute lung injury, pulmonary fibrosis, pulmonary hypertension, chronic obstructive pulmonary disease (COPD), acute liver failure, liver fibrosis, and cirrhosis.
+
+**85**. The method of claim 65, wherein the disease is a respiratory disease, a lung disease, a respiratory viral infection, or a pulmonary viral infection.
+
+**86**. The method of claim 85, wherein the respiratory disease is selected from respiratory infection, acute respiratory distress syndrome, lung inflammation, pneumonia, and acute lung injury.
+
+**87**. The method of claim 85, wherein the lung disease is acute lung injury (ALI), bronchitis, pneumonia, pulmonary fibrosis, asthma, or acute respiratory distress syndrome (ARDS).
+
+**88**. The method of claim 65, wherein the disease is injury to and/or failure of one or more organs.
+
+**89**. The method of claim 88, wherein the disease is acute organ injury.
+
+**90**. The method of claim 88, wherein the disease is organ failure.

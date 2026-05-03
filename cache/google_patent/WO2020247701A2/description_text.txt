@@ -1,0 +1,1141 @@
+Description
+-----------
+
+INHIBITORS OF SARM1
+
+CROSS REFERENCE TO RELATED APPLICATIONS
+
+[0001] This application claims the benefit of U.S. Provisional Application No.
+
+62/858,083, filed June 6, 2019, which is herein incorporated by reference in its entirety.
+
+SEQUENCE LISTING
+
+[0002] The instant application contains a Sequence Listing, which has been submitted electronically in ASCII format and is hereby incorporated by reference in its entirety. The ASCII copy, created June 3, 2020 is named 2012800-0036\_SL.txt, and is 13,851 bytes in size.
+
+BACKGROUND
+
+[0003] Axonal degeneration is a hallmark of several neurological disorders including peripheral neuropathy, traumatic brain injury, and neurodegenerative diseases (Gerdts et al., SARM1 activation triggers axon degeneration locally via NAD(+) destruction. Science 348 2016, pp. 453-457, hereby incorporated by reference in its entirety). Neurodegenerative diseases and injuries are devastating to both patients and caregivers. Costs associated with these diseases currently exceed several hundred billion dollars annually in the Unites States alone. Since the incidence of many of these diseases and disorders increases with age, their incidence is rapidly increasing as demographics change.
+
+SUMMARY
+
+[0004] The present disclosure provides technologies useful, among other things, for treating and/or preventing neurodegeneration (e.g., for reducing axonal degeneration). In some embodiments, provided technologies inhibit SARM1.
+
+[0005] In some embodiments, the present disclosure provides certain compounds and/or compositions that are useful in medicine, and particularly for treating neurodegeneration (e.g., for reducing axonal degeneration).
+
+[0006] In some embodiments, the present disclosure provides compounds having a structure as set forth in Formula I:
+
+[![Figure imgf000004_0001](https://patentimages.storage.googleapis.com/62/fc/40/93931882926e82/imgf000004_0001.png)](https://patentimages.storage.googleapis.com/62/fc/40/93931882926e82/imgf000004_0001.png)
+
+I
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is selected from -CN, -CON(R)2, -C(=NR)N(R)2, -N02, -S(0)2R, -S(0)2N(R)2, -C(0)R, -C02R, and a 5-membered heteroaryl ring having 2-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur;
+
+R2 is -R;
+
+[![Figure imgf000004_0002](https://patentimages.storage.googleapis.com/5a/57/bf/acb9ed1d180d41/imgf000004_0002.png)](https://patentimages.storage.googleapis.com/5a/57/bf/acb9ed1d180d41/imgf000004_0002.png)
+
+Cy1 is selected from phenyl, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl and heteroaryl ring is substituted with 0-4 Rx;
+
+each Rx is independently selected from halogen, -CN, -N02, -SR, -N(R)2, -OR, -C(0)R, -SOzR, -C02R, -S02N(R)2, -CON(R)2, -N(R)S02R, -N(R)C(0)R, and optionally substituted Ci-e aliphatic;
+
+Cy2 is selected from phenyl, a 3- to 7-membered monocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 7- to 9-membered bridged bicyclic or spirocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10- membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl, heterocyclic, and heteroaryl ring is substituted with 0-4 Rv;
+
+each Rv is independently selected from halogen, -CN, -N02, -SR, -N(R)2, -OR, -C(0)R, -SOzR, -C02R, -S02N(R)2, -CON(R)2, -N(R)S02R, -N(R)C(0)R, optionally substituted Ci-e aliphatic, and an optionally substituted 5- to 6-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur; and
+
+each R is independently hydrogen or optionally substituted Ci-6 aliphatic, or:
+two instances of R, together with the atom to which they are attached, form a 3- to 6- membered saturated or partially unsaturated heterocyclic ring.
+
+[0007] In some embodiments, provided compounds have structures of Formulae I-a, I-a-
+
+/, I-a-//, I-a-///, I-b, I-b-/, I-b-//, I-b-///, I-c, I-c-/, I-c-//, and I-C-// , as set forth below.
+
+[0008] In some embodiments, one or more compounds of Formula I is provided and/or utilized in a solid form (e.g., a crystal form or an amorphous form).
+
+[0009] In some embodiments, the present disclosure provides compositions that comprise and/or deliver a compound of Formula I (e.g., in a form as described herein), a prodrug or active metabolite thereof.
+
+[0010] In some embodiments, the present disclosure provides compositions that comprise and/or deliver a compound of Formula I. In some embodiments, such compositions are pharmaceutical compositions that include at least one pharmaceutically acceptable carrier, diluent or excipient.
+
+[0011] In some embodiments, provided SARM1 inhibitors reduce or inhibit binding of
+
+NAD+ by SARM1. In some embodiments, provided SARM1 inhibitors bind to SARM1 within a pocket comprising one or more catalytic residues (e.g., a catalytic cleft of SARM1).
+
+[0012] In some embodiments, provided compounds and/or compositions inhibit activity of SARM1. Alternatively or additionally, in some embodiments, provided compounds alleviate one or more attributes of neurodegeneration. In some embodiments, the present disclosure provides methods of treating a neurodegenerative disease or disorder associated with axonal degeneration.
+
+[0013] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, in the practice of medicine. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, to treat, prevent, or ameliorate axonal degeneration (e.g., one or more features or characteristics thereof). In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, to inhibit axonal degeneration, including axonal degeneration that results from reduction or depletion of NAD+. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, to prevent the axon distal to an axonal injury from degenerating.
+[0014] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, to treat one or more neurodegenerative diseases, disorders or conditions selected from the group consisting of neuropathies or axonopathies. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, to treat a neuropathy or axonopathy associated with axonal degeneration. In some embodiments, a neuropathy associated with axonal degeneration is a hereditary or congenital neuropathy or axonopathy. In some embodiments, a neuropathy associated with axonal degeneration results from a de novo or somatic mutation. In some embodiments, a neuropathy associated with axonal degeneration is selected from a list contained herein. In some embodiments, a neuropathy or axonopathy is associated with axonal degeneration, including, but not limited to, Parkinson’s disease, non-Parkinson’s disease, Alzheimer's disease, Herpes infection, diabetes, amyotrophic lateral sclerosis (ALS), a demyelinating disease, ischemia or stroke, chemical injury, thermal injury, and AIDS.
+
+[0015] In some embodiments, subjects to which a compound or composition as described herein is administered may be or comprise subjects suffering from or susceptible to a neurodegenerative disease, disorder or condition. In some embodiments, a neurodegenerative disease, disorder or condition may be or comprise a traumatic neuronal injury. In some embodiments, a traumatic neuronal injury is blunt force trauma, a closed-head injury, an open head injury, exposure to a concussive and/or explosive force, a penetrating injury in or to the brain cavity or innervated region of the body. In some embodiments, a traumatic neuronal injury is a force which causes axons to deform, stretch, crush or sheer.
+
+[0016] In some embodiments, provided methods comprise administering a compound described herein to a patient in need thereof. In some such embodiments, the patient is at risk of developing a condition characterized by axonal degeneration. In some embodiments, the patient has a condition characterized by axonal degeneration. In some embodiments, the patient has been diagnosed with a condition characterized by axonal degeneration.
+
+[0017] In some embodiments, provided methods comprise administering a composition as described herein to a patient population in need thereof. In some embodiments, the population is drawn from individuals who engage in activities where the potential for traumatic neuronal injury is high. In some embodiments, the population is drawn from athletes who engage in contact sports or other high-risk activities
+[0018] In some embodiments, the patient is at risk of developing a neurodegenerative disorder. In some embodiments the patient is elderly. In some embodiments, the patient is known to have a genetic risk factor for neurodegeneration.
+
+[0019] In certain embodiments, the present disclosure provides compounds that are useful, for example, as analytical tools, as probes in biological assays, or as therapeutic agents in accordance with the present disclosure. Compounds provided by this disclosure are also useful for the study of SARM1 function in biological and pathological phenomena and the comparative evaluation of new SARM1 activity inhibitors in vitro or in vivo.
+
+[0020] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, as a method for inhibiting the degradation of neurons derived from a subject. In some embodiments, one or more compounds and/or compositions as described herein are useful for inhibiting the degeneration of a neuron, or a portion thereof, cultured in vitro. In some embodiments, one or more compounds and/or compositions as described herein are useful as stabilizing agents to promote in vitro neuronal survival.
+
+BRIEF DESCRIPTION OF THE DRAWING
+
+[0021] FIG. 1 illustrates the structure of the SARM1 protein.
+
+[0022] FIG. 2 illustrates that a NRK1-HEK293T stable line with NR supplementation maintains higher NAD+ levels upon SARM1-TIR expression.
+
+DEFINITIONS
+
+[0023] Aliphatic: The term“aliphatic” refers to a straight-chain (i.e., unbranched) or branched, substituted or unsubstituted hydrocarbon chain that is completely saturated or that contains one or more units of unsaturation, or a monocyclic hydrocarbon or bicyclic hydrocarbon that is completely saturated or that contains one or more units of unsaturation, but which is not aromatic (also referred to herein as“carbocycle” or“cycloaliphatic”), that has a single point of attachment to the rest of the molecule. Unless otherwise specified, aliphatic groups contain 1-6 aliphatic carbon atoms. In some embodiments, aliphatic groups contain 1-5 aliphatic carbon atoms. In other embodiments, aliphatic groups contain 1-4 aliphatic carbon atoms. In still other embodiments, aliphatic groups contain 1-3 aliphatic carbon atoms, and in yet other embodiments, aliphatic groups contain 1-2 aliphatic carbon atoms. In some embodiments,
+“cycloaliphatic” (or“carbocycle”) refers to a monocyclic C3-C8 hydrocarbon or a bicyclic C7-C10 hydrocarbon that is completely saturated or that contains one or more units of unsaturation, but which is not aromatic, that has a single point of attachment to the rest of the molecule. Suitable aliphatic groups include, but are not limited to, linear or branched, substituted or unsubstituted alkyl, alkenyl, alkynyl groups and hybrids thereof.
+
+[0024] Alkyl: The term“alkyl”, used alone or as part of a larger moiety, refers to a saturated, optionally substituted straight or branched chain or cyclic hydrocarbon group having 1-12, 1-10, 1-8, 1-6, 1-4, 1-3, or 1-2 carbon atoms. The term“cycloalkyl” refers to an optionally substituted saturated ring system of about 3 to about 10 ring carbon atoms. Exemplary monocyclic cycloalkyl rings include cyclopropyl, cyclobutyl, cyclopentyl, cyclohexyl, and cycloheptyl.
+
+[0025] Alkylene: The term "alkylene" refers to a bivalent alkyl group. In some embodiments,“alkylene” is a bivalent straight or branched alkyl group. In some embodiments, an "alkylene chain" is a polymethylene group, i.e., -(CH2)n-, wherein n is a positive integer, e.g., from 1 to 6, from 1 to 4, from 1 to 3, from 1 to 2, or from 2 to 3. An optionally substituted alkylene chain is a polymethylene group in which one or more methylene hydrogen atoms is optionally replaced with a substituent. Suitable substituents include those described below for a substituted aliphatic group and also include those described in the specification herein. It will be appreciated that two substituents of the alkylene group may be taken together to form a ring system. In certain embodiments, two substituents can be taken together to form a 3- to 7- membered ring. The substituents can be on the same or different atoms.
+
+[0026] Alkenyl: The term“alkenyl”, used alone or as part of a larger moiety, refers to an optionally substituted straight or branched chain or cyclic hydrocarbon group having at least one double bond and having 2-12, 2-10, 2-8, 2-6, 2-4, or 2-3 carbon atoms. The term“cycloalkenyl” refers to an optionally substituted non-aromatic monocyclic or multicyclic ring system containing at least one carbon-carbon double bond and having about 3 to about 10 carbon atoms. Exemplary monocyclic cycloalkenyl rings include cyclopentyl, cyclohexenyl, and cycloheptenyl.
+
+[0027] Alkynyl: The term“alkynyl”, used alone or as part of a larger moiety, refers to an optionally substituted straight or branched chain hydrocarbon group having at least one triple bond and having 2-12, 2-10, 2-8, 2-6, 2-4, or 2-3 carbon atoms.
+[0028] Aryl: The term“aryl” refers to monocyclic and bicyclic ring systems having a total of five to fourteen ring members, wherein at least one ring in the system is aromatic and wherein each ring in the system contains three to seven ring members. The term“aryl” may be used interchangeably with the term“aryl ring”. In certain embodiments of the present invention, “aryl” refers to an aromatic ring system which includes, but not limited to, phenyl, biphenyl, naphthyl, anthracyl and the like, which may bear one or more substituents. Also included within the scope of the term“aryl”, as it is used herein, is a group in which an aromatic ring is fused to one or more non-aromatic rings, such as indanyl, phthalimidyl, naphthimidyl, phenanthridinyl, or tetrahydronaphthyl, and the like.
+
+[0029] Binding: It will be understood that the term“binding”, as used herein, typically refers to a non-covalent association between or among two or more entities. “Direct” binding involves physical contact between entities or moieties; indirect binding involves physical interaction by way of physical contact with one or more intermediate entities. Binding between two or more entities can typically be assessed in any of a variety of contexts - including where interacting entities or moieties are studied in isolation or in the context of more complex systems (e.g., while covalently or otherwise associated with a carrier entity and/or in a biological system or cell).
+
+[0030] Biological Sample: As used herein, the term“biological sample” typically refers to a sample obtained or derived from a biological source (e.g., a tissue or organism or cell culture) of interest, as described herein. In some embodiments, a source of interest comprises an organism, such as an animal or human. In some embodiments, a biological sample is or comprises biological tissue or fluid. In some embodiments, a biological sample may be or comprise bone marrow; blood; blood cells; ascites; tissue or fine needle biopsy samples; cell- containing body fluids; free floating nucleic acids; sputum; saliva; urine; cerebrospinal fluid, peritoneal fluid; pleural fluid; feces; lymph; gynecological fluids; skin swabs; vaginal swabs; oral swabs; nasal swabs; washings or lavages such as a ductal lavages or broncheoalveolar lavages; aspirates; scrapings; bone marrow specimens; tissue biopsy specimens; surgical specimens; feces, other body fluids, secretions, and/or excretions; and/or cells therefrom, etc. In some embodiments, a biological sample is or comprises cells obtained from an individual. In some embodiments, obtained cells are or include cells from an individual from whom the sample is obtained. In some embodiments, a sample is a“primary sample” obtained directly from a
+source of interest by any appropriate means. For example, in some embodiments, a primary biological sample is obtained by methods selected from the group consisting of biopsy (e.g., fine needle aspiration or tissue biopsy), surgery, collection of body fluid (e.g., blood, lymph, feces etc.), etc. In some embodiments, as will be clear from context, the term“sample” refers to a preparation that is obtained by processing (e.g., by removing one or more components of and/or by adding one or more agents to) a primary sample. For example, filtering using a semi- permeable membrane. Such a“processed sample” may comprise, for example, nucleic acids or proteins extracted from a sample or obtained by subjecting a primary sample to techniques such as amplification or reverse transcription of mRNA, isolation and/or purification of certain components, etc.
+
+[0031] Biomarker: The term“biomarker” is used herein to refer to a to an entity, event, or characteristic whose presence, level, degree, type, and/or form, correlates with a particular biological event or state of interest, so that it is considered to be a“marker” of that event or state. To give but a few examples, in some embodiments, a biomarker may be or comprise a marker for a particular disease state, or for likelihood that a particular disease, disorder or condition may develop, occur, or reoccur. In some embodiments, a biomarker may be or comprise a marker for a particular disease or therapeutic outcome, or likelihood thereof. Thus, in some embodiments, a biomarker is predictive, in some embodiments, a biomarker is prognostic, in some embodiments, a biomarker is diagnostic, of the relevant biological event or state of interest. A biomarker may be or comprise an entity of any chemical class, and may be or comprise a combination of entities. For example, in some embodiments, a biomarker may be or comprise a nucleic acid, a polypeptide, a lipid, a carbohydrate, a small molecule, an inorganic agent (e.g., a metal or ion), or a combination thereof. In some embodiments, a biomarker is a cell surface marker. In some embodiments, a biomarker is intracellular. In some embodiments, a biomarker is detected outside of cells (e.g., is secreted or is otherwise generated or present outside of cells, e.g., in a body fluid such as blood, urine, tears, saliva, cerebrospinal fluid, etc. In some embodiments, a biomarker may be or comprise a genetic or epigenetic signature. In some embodiments, a biomarker may be or comprise a gene expression signature.
+
+[0032] In some embodiments, a biomarker may be or comprise a marker for neurodegeneration, or for likelihood that a neurodegenerative disease, disorder or condition may develop, occur, or reoccur. In some embodiments, a biomarker may be or comprise a marker of
+neurodegeneration a therapeutic outcome, or likelihood thereof. Thus, in some embodiments, a biomarker is predictive, in some embodiments, a biomarker is prognostic, in some embodiments, a biomarker is diagnostic, of a neurodegenerative disease, disorder or condition. In some embodiments changes in biomarker levels can be detected via cerebral spinal fluid (CSF), plasma and/or serum.
+
+[0033] In some embodiments, neurodegeneration may be assessed, for example, by detecting an increase and/or decrease in the concentration of neurofilament protein light (NF-L) and/or neurofilament protein heavy (NF-H) contained the cerebral spinal fluid of a subject. In some embodiments, the incidence and/or progression of neurodegeneration can be assessed via positron emission tomography (PET) with a synaptic vesicle glycoprotein 2a (SV2A) ligand. In some embodiments, a detectable change in constitutive NAD and/or cADPR levels in neurons can be used to assess neurodegeneration.
+
+[0034] In some embodiments, a detectable change in one or more neurodegeneration associated proteins in a subject, relative to a healthy reference population can be used as a biomarker of neurodegeneration. Such proteins include, but are not limited to, albumin, amyloid-b (Ab)38, Ab40, Ab42, glial fibrillary acid protein (GFAP), heart-type fatty acid binding protein (hFABP), monocyte chemoattractin protein (MCP)-l, neurogranin, neuron specific enolayse (NSE), soluble amyloid precursor protein (sAPP)a, bARRb, soluble triggering receptor expressed on myeloid cells (sTREM) 2, phospho-tau, and/or total-tau. In some embodiments, an increase in cytokines and/or chemokines, including, but not limited to, Ccl2, Ccl7, Ccll2, Csfl, and/or 116, can be used as a biomarker of neurodegeneration.
+
+[0035] Carrier: As used herein, the term “carrier” refers to a diluent, adjuvant, excipient, or vehicle with which a composition is administered. In some exemplary embodiments, carriers can include sterile liquids, such as, for example, water and oils, including oils of petroleum, animal, vegetable or synthetic origin, such as, for example, peanut oil, soybean oil, mineral oil, sesame oil and the like. In some embodiments, carriers are or include one or more solid components.
+
+[0036] Combination therapy: As used herein, the term“combination therapy” refers to those situations in which a subject is simultaneously exposed to two or more therapeutic regimens (e.g., two or more therapeutic agents). In some embodiments, the two or more regimens may be administered simultaneously; in some embodiments, such regimens may be
+administered sequentially (e.g., all “doses” of a first regimen are administered prior to administration of any doses of a second regimen); in some embodiments, such agents are administered in overlapping dosing regimens. In some embodiments, “administration” of combination therapy may involve administration of one or more agent(s) or modality(ies) to a subject receiving the other agent(s) or modality(ies) in the combination. For clarity, combination therapy does not require that individual agents be administered together in a single composition (or even necessarily at the same time), although in some embodiments, two or more agents, or active moieties thereof, may be administered together in a combination composition, or even in a combination compound (e.g., as part of a single chemical complex or covalent entity).
+
+[0037] Composition: Those skilled in the art will appreciate that the term“composition” may be used to refer to a discrete physical entity that comprises one or more specified components. In general, unless otherwise specified, a composition may be of any form - e.g., gas, gel, liquid, solid, etc.
+
+[0038] Domain: The term“domain” as used herein refers to a section or portion of an entity. In some embodiments, a“domain” is associated with a particular structural and/or functional feature of the entity so that, when the domain is physically separated from the rest of its parent entity, it substantially or entirely retains the particular structural and/or functional feature. Alternatively or additionally, a domain may be or include a portion of an entity that, when separated from that (parent) entity and linked with a different (recipient) entity, substantially retains and/or imparts on the recipient entity one or more structural and/or functional features that characterized it in the parent entity. In some embodiments, a domain is a section or portion of a molecule (e.g., a small molecule, carbohydrate, lipid, nucleic acid, or polypeptide). In some embodiments, a domain is a section of a polypeptide; in some such embodiments, a domain is characterized by a particular structural element (e.g., a particular amino acid sequence or sequence motif, a-helix character, b-sheet character, coiled-coil character, random coil character, etc.), and/or by a particular functional feature (e.g., binding activity, enzymatic activity, folding activity, signaling activity, etc.).
+
+[0039] Dosage form or unit dosage form: Those skilled in the art will appreciate that the term“dosage form” may be used to refer to a physically discrete unit of an active agent (e.g., a therapeutic or diagnostic agent) for administration to a subject. Typically, each such unit contains a predetermined quantity of active agent. In some embodiments, such quantity is a unit
+dosage amount (or a whole fraction thereof) appropriate for administration in accordance with a dosing regimen that has been determined to correlate with a desired or beneficial outcome when administered to a relevant population ( i.e ., with a therapeutic dosing regimen). Those of ordinary skill in the art appreciate that the total amount of a therapeutic composition or agent administered to a particular subject is determined by one or more attending physicians and may involve administration of multiple dosage forms.
+
+[0040] Dosing regimen or therapeutic regimen: Those skilled in the art will appreciate that the terms“dosing regimen” and“therapeutic regimen” may be used to refer to a set of unit doses (typically more than one) that are administered individually to a subject, typically separated by periods of time. In some embodiments, a given therapeutic agent has a recommended dosing regimen, which may involve one or more doses. In some embodiments, a dosing regimen comprises a plurality of doses each of which is separated in time from other doses. In some embodiments, individual doses are separated from one another by a time period of the same length; in some embodiments, a dosing regimen comprises a plurality of doses and at least two different time periods separating individual doses. In some embodiments, all doses within a dosing regimen are of the same unit dose amount. In some embodiments, different doses within a dosing regimen are of different amounts. In some embodiments, a dosing regimen comprises a first dose in a first dose amount, followed by one or more additional doses in a second dose amount different from the first dose amount. In some embodiments, a dosing regimen comprises a first dose in a first dose amount, followed by one or more additional doses in a second dose amount same as the first dose amount. In some embodiments, a dosing regimen is correlated with a desired or beneficial outcome when administered across a relevant population (; i.e ., is a therapeutic dosing regimen).
+
+[0041] Excipient: as used herein, refers to a non-therapeutic agent that may be included in a pharmaceutical composition, for example, to provide or contribute to a desired consistency or stabilizing effect. Suitable pharmaceutical excipients include, for example, starch, glucose, lactose, sucrose, gelatin, malt, rice, flour, chalk, silica gel, sodium stearate, glycerol monostearate, talc, sodium chloride, dried skim milk, glycerol, propylene, glycol, water, ethanol and the like.
+
+[0042] Heteroaryl: The terms“heteroaryl” and“heteroar-”, used alone or as part of a larger moiety, e.g.,“heteroaralkyl”, or“heteroaralkoxy”, refer to groups having 5 to 10 ring
+atoms, preferably 5, 6, 9, or 10 ring atoms; having 6, 10, or 14 pP electrons shared in a cyclic array; and having, in addition to carbon atoms, from one to five heteroatoms. The term “heteroatom” refers to nitrogen, oxygen, or sulfur, and includes any oxidized form of nitrogen or sulfur, and any quatemized form of a basic nitrogen. Heteroaryl groups include, without limitation, thienyl, furanyl, pyrrolyl, imidazolyl, pyrazolyl, triazolyl, tetrazolyl, oxazolyl, isoxazolyl, oxadiazolyl, thiazolyl, isothiazolyl, thiadiazolyl, pyridyl, pyridazinyl, pyrimidinyl, pyrazinyl, indolizinyl, purinyl, naphthyridinyl, and pteridinyl. The terms “heteroaryl” and “heteroar-”, as used herein, also include groups in which a heteroaromatic ring is fused to one or more aryl, cycloaliphatic, or heterocyclyl rings, where the radical or point of attachment is on the heteroaromatic ring. Nonlimiting examples include indolyl, isoindolyl, benzothienyl, benzofuranyl, dibenzofuranyl, indazolyl, benzimidazolyl, benzthiazolyl, quinolyl, isoquinolyl, cinnolinyl, phthalazinyl, quinazolinyl, quinoxalinyl, AH quinolizinyl, carbazolyl, acridinyl, phenazinyl, phenothiazinyl, phenoxazinyl, tetrahydroquinolinyl, tetrahydroisoquinolinyl, and pyrido[2,3-b]-l,4-oxazin-3(4H)-one. A heteroaryl group may be mono- or bicyclic. The term “heteroaryl” may be used interchangeably with the terms“heteroaryl ring”,“heteroaryl group”, or“heteroaromatic”, any of which terms include rings that are optionally substituted. The term “heteroaralkyl” refers to an alkyl group substituted by a heteroaryl, wherein the alkyl and heteroaryl portions independently are optionally substituted.
+
+[0043] Heterocycle: As used herein, the terms “heterocycle”, “heterocyclyl”,
+
+“heterocyclic radical”, and“heterocyclic ring” are used interchangeably and refer to a stable 3- to 8-membered monocyclic or 7-10-membered bicyclic heterocyclic moiety that is either saturated or partially unsaturated, and having, in addition to carbon atoms, one or more, such as one to four, heteroatoms, as defined above. When used in reference to a ring atom of a heterocycle, the term "nitrogen" includes a substituted nitrogen. As an example, in a saturated or partially unsaturated ring having 0-3 heteroatoms selected from oxygen, sulfur and nitrogen, the nitrogen may be N (as in 3,4-dihydro-2H-pyrrolyl), NH (as in pyrrolidinyl), or NR+ (as in N- substituted pyrrolidinyl). A heterocyclic ring can be attached to its pendant group at any heteroatom or carbon atom that results in a stable structure and any of the ring atoms can be optionally substituted. Examples of such saturated or partially unsaturated heterocyclic radicals include, without limitation, tetrahydrofuranyl, tetrahydrothienyl, piperidinyl, decahydroquinolinyl, oxazolidinyl, piperazinyl, dioxanyl, dioxolanyl, diazepinyl, oxazepinyl,
+thiazepinyl, morpholinyl, and thiamorpholinyl. A heterocyclyl group may be mono-, bi-, tri-, or polycyclic, preferably mono-, bi-, or tricyclic, more preferably mono- or bicyclic. The term “heterocyclylalkyl” refers to an alkyl group substituted by a heterocyclyl, wherein the alkyl and heterocyclyl portions independently are optionally substituted. Additionally, a heterocyclic ring also includes groups in which the heterocyclic ring is fused to one or more aryl rings (e.g., 2,3- dihydrobenzofuran, 2,3-dihydrobenzo[b][l,4]dioxine, etc.).
+
+[0044] Inhibitory agent: As used herein, the term“inhibitory agent” refers to an entity, condition, or event whose presence, level, or degree correlates with decreased level or activity of a target. In some embodiments, an inhibitory agent may act directly (in which case it exerts its influence directly upon its target, for example, by binding to the target); in some embodiments, an inhibitory agent may act indirectly (in which case it exerts its influence by interacting with and/or otherwise altering a regulator of the target, so that level and/or activity of the target is reduced). In some embodiments, an inhibitory agent is one whose presence or level correlates with a target level or activity that is reduced relative to a particular reference level or activity (e.g., that observed under appropriate reference conditions, such as presence of a known inhibitory agent, or absence of the inhibitory agent in question, etc.).
+
+[0045] Neurodegeneration: As used herein, the term“neurodegeneration” refers to a reduction in one or more features, structures, or characteristics of a neuron or neuronal tissue. In some embodiments, neurodegeneration is observed as a pathological reduction in an organism. Those skilled in the art will appreciate that neurodegeneration is associated with certain diseases, disorders and conditions, including those that affect humans. In some embodiments, neurodegeneration may be transient (e.g., as sometimes occurs in association with certain infections and/or chemical or mechanical disruptions); in some embodiments, neurodegeneration may be chronic and/or progressive (e.g., as is often associated with certain diseases, disorders or conditions such as, but not limited to, Parkinson’s disease, amyotrophic lateral sclerosis, multiple sclerosis, Huntington disease, or Alzheimer’s disease). In some embodiments, neurodegeneration may be assessed, for example, by detecting in a subject an increase in a biomarker associated with neurodegeneration. In some embodiments, neurodegeneration may be assessed, for example, by detecting in a subject a decrease in a biomarker associated with neurodegeneration. Alternatively or additionally, in some embodiments, neurodegeneration may be assessed by magnetic resonance imaging (MRI), biomarkers containing cerebral spinal fluid,
+or other biomarkers observed in patients. In some embodiments, neurodegeneration is defined as a score of below 24 on the mini-mental state examination. In some embodiments, neurodegeneration refers to loss of synapses. In some embodiments, neurodegeneration refers to a reduction in neural tissue relating to a traumatic injury (e.g. exposure to an external force which disrupts the integrity of the neural tissue). In some embodiments, neurodegeneration refers to a reduction in peripheral neural tissue. In some embodiments, neurodegeneration refers to a reduction in central nervous tissue.
+
+[0046] Oral: The phrases“oral administration” and“administered orally” as used herein have their art-understood meaning referring to administration by mouth of a compound or composition.
+
+[0047] Parenteral: The phrases “parenteral administration” and “administered parenterally” as used herein have their art-understood meaning referring to modes of administration other than enteral and topical administration, usually by injection, and include, without limitation, intravenous, intramuscular, intra-arterial, intrathecal, intracapsular, intraorbital, intracardiac, intradermal, intraperitoneal, transtracheal, subcutaneous, subcuticular, intraarticulare, subcapsular, subarachnoid, intraspinal, and intrasternal injection and infusion.
+
+[0048] Partially Unsaturated: As used herein, the term“partially unsaturated” refers to a ring moiety that includes at least one double or triple bond between ring atoms. The term “partially unsaturated” is intended to encompass rings having multiple sites of unsaturation, but is not intended to include aromatic (e.g., aryl or heteroaryl) moieties, as herein defined.
+
+[0049] Patient: As used herein, the term“patient” refers to any organism to which a provided composition is or may be administered, e.g., for experimental, diagnostic, prophylactic, cosmetic, and/or therapeutic purposes. Typical patients include animals (e.g, mammals such as mice, rats, rabbits, non-human primates, and/or humans). In some embodiments, a patient is a human. In some embodiments, a patient is suffering from or susceptible to one or more disorders or conditions. In some embodiments, a patient displays one or more symptoms of a disorder or condition. In some embodiments, a patient has been diagnosed with one or more disorders or conditions. In some embodiments, the patient is receiving or has received certain therapy to diagnose and/or to treat a disease, disorder, or condition.
+
+[0050] Pharmaceutical composition: As used herein, the term “pharmaceutical composition” refers to an active agent, formulated together with one or more pharmaceutically
+acceptable carriers. In some embodiments, the active agent is present in unit dose amount appropriate for administration in a therapeutic or dosing regimen that shows a statistically significant probability of achieving a predetermined therapeutic effect when administered to a relevant population. In some embodiments, pharmaceutical compositions may be specially formulated for administration in solid or liquid form, including those adapted for the following: oral administration, for example, drenches (aqueous or non-aqueous solutions or suspensions), tablets, e.g., those targeted for buccal, sublingual, and systemic absorption, boluses, powders, granules, pastes for application to the tongue; parenteral administration, for example, by subcutaneous, intramuscular, intravenous or epidural injection as, for example, a sterile solution or suspension, or sustained-release formulation; topical application, for example, as a cream, ointment, or a controlled-release patch or spray applied to the skin, lungs, or oral cavity; intravaginally or intrarectally, for example, as a pessary, cream, or foam; sublingually; ocularly; transdermally; or nasally, pulmonary, and to other mucosal surfaces.
+
+[0051] Pharmaceutically acceptable: As used herein, the phrase“pharmaceutically acceptable” refers to those compounds, materials, compositions, and/or dosage forms which are, within the scope of sound medical judgment, suitable for use in contact with the tissues of human beings and animals without excessive toxicity, irritation, allergic response, or other problem or complication, commensurate with a reasonable benefit/risk ratio.
+
+[0052] Pharmaceutically acceptable carrier: As used herein, the term
+
+“pharmaceutically acceptable carrier” means a pharmaceutically-acceptable material, composition or vehicle, such as a liquid or solid filler, diluent, excipient, or solvent encapsulating material, involved in carrying or transporting the subject compound from one organ, or portion of the body, to another organ, or portion of the body. Each carrier must be“acceptable” in the sense of being compatible with the other ingredients of the formulation and not injurious to the patient. Some examples of materials which can serve as pharmaceutically-acceptable carriers include: sugars, such as lactose, glucose and sucrose; starches, such as corn starch and potato starch; cellulose, and its derivatives, such as sodium carboxymethyl cellulose, ethyl cellulose and cellulose acetate; powdered tragacanth; malt; gelatin; talc; excipients, such as cocoa butter and suppository waxes; oils, such as peanut oil, cottonseed oil, safflower oil, sesame oil, olive oil, corn oil and soybean oil; glycols, such as propylene glycol; polyols, such as glycerin, sorbitol, mannitol and polyethylene glycol; esters, such as ethyl oleate and ethyl laurate; agar; buffering
+agents, such as magnesium hydroxide and aluminum hydroxide; alginic acid; pyrogen-free water; isotonic saline; Ringer’s solution; ethyl alcohol; pH buffered solutions; polyesters, polycarbonates and/or polyanhydrides; and other non-toxic compatible substances employed in pharmaceutical formulations.
+
+[0053] Pharmaceutically acceptable salt: The term“pharmaceutically acceptable salt”, as used herein, refers to salts of such compounds that are appropriate for use in pharmaceutical contexts, i.e., salts which are, within the scope of sound medical judgment, suitable for use in contact with the tissues of humans and lower animals without undue toxicity, irritation, allergic response and the like, and are commensurate with a reasonable benefit/risk ratio. Pharmaceutically acceptable salts are well known in the art. For example, S. M. Berge, et al. describes pharmaceutically acceptable salts in detail in J. Pharmaceutical Sciences , 66: 1-19 (1977). In some embodiments, pharmaceutically acceptable salts include, but are not limited to, nontoxic acid addition salts, which are salts of an amino group formed with inorganic acids such as hydrochloric acid, hydrobromic acid, phosphoric acid, sulfuric acid and perchloric acid or with organic acids such as acetic acid, maleic acid, tartaric acid, citric acid, succinic acid or malonic acid or by using other methods used in the art such as ion exchange. In some embodiments, pharmaceutically acceptable salts include, but are not limited to, adipate, alginate, ascorbate, aspartate, benzenesulfonate, benzoate, bisulfate, borate, butyrate, camphorate, camphorsulfonate, citrate, cyclopentanepropionate, digluconate, dodecyl sulfate, ethanesulfonate, formate, fumarate, glucoheptonate, glycerophosphate, gluconate, hemi sulfate, heptanoate, hexanoate, hydroiodide, 2-hydroxy-ethanesulfonate, lactobionate, lactate, laurate, lauryl sulfate, malate, maleate, malonate, methanesulfonate, 2-naphthalenesulfonate, nicotinate, nitrate, oleate, oxalate, palmitate, pamoate, pectinate, persulfate, 3-phenylpropionate, phosphate, picrate, pivalate, propionate, stearate, succinate, sulfate, tartrate, thiocyanate, / toluene sulfonate, undecanoate, valerate salts, and the like. Representative alkali or alkaline earth metal salts include sodium, lithium, potassium, calcium, magnesium, and the like. In some embodiments, pharmaceutically acceptable salts include, when appropriate, nontoxic ammonium, quaternary ammonium, and amine cations formed using counterions such as halide, hydroxide, carboxylate, sulfate, phosphate, nitrate, alkyl having from 1 to 6 carbon atoms, sulfonate and aryl sulfonate.
+
+[0054] Prevent or prevention: As used herein, the terms“prevent” or“prevention”, when used in connection with the occurrence of a disease, disorder, and/or condition, refer to
+reducing the risk of developing the disease, disorder and/or condition and/or to delaying onset of one or more characteristics or symptoms of the disease, disorder or condition. Prevention may be considered complete when onset of a disease, disorder or condition has been delayed for a predefined period of time.
+
+[0055] Specific: The term“specific”, when used herein with reference to an agent having an activity, is understood by those skilled in the art to mean that the agent discriminates between potential target entities or states. For example, in some embodiments, an agent is said to bind“specifically” to its target if it binds preferentially with that target in the presence of one or more competing alternative targets. In many embodiments, specific interaction is dependent upon the presence of a particular structural feature of the target entity (e.g., an epitope, a cleft, a binding site). It is to be understood that specificity need not be absolute. In some embodiments, specificity may be evaluated relative to that of the binding agent for one or more other potential target entities (e.g., competitors). In some embodiments, specificity is evaluated relative to that of a reference specific binding agent. In some embodiments, specificity is evaluated relative to that of a reference non-specific binding agent. In some embodiments, the agent or entity does not detectably bind to the competing alternative target under conditions of binding to its target entity. In some embodiments, a binding agent binds with higher on-rate, lower off-rate, increased affinity, decreased dissociation, and/or increased stability to its target entity as compared with the competing alternative target(s).
+
+[0056] Subject: As used herein, the term“subject” refers to an organism, typically a mammal (e.g., a human, in some embodiments including prenatal human forms). In some embodiments, a subject is suffering from a relevant disease, disorder or condition. In some embodiments, a subject is susceptible to a disease, disorder, or condition. In some embodiments, a subject displays one or more symptoms or characteristics of a disease, disorder or condition. In some embodiments, a subject does not display any symptom or characteristic of a disease, disorder, or condition. In some embodiments, a subject is someone with one or more features characteristic of susceptibility to or risk of a disease, disorder, or condition. In some embodiments, a subject is a patient. In some embodiments, a subject is an individual to whom diagnosis and/or therapy is and/or has been administered.
+
+[0057] Substituted or optionally substituted: As described herein, compounds of the invention may contain“optionally substituted” moieties. In general, the term“substituted,”
+whether preceded by the term“optionally” or not, means that one or more hydrogens of the designated moiety are replaced with a suitable substituent.“Substituted” applies to one or more
+
+hydrogens that are either explicit or implicit from the structure (e.g.,
+
+[![Figure imgf000020_0001](https://patentimages.storage.googleapis.com/7b/b0/73/8c78f0490eb506/imgf000020_0001.png)](https://patentimages.storage.googleapis.com/7b/b0/73/8c78f0490eb506/imgf000020_0001.png)
+
+refers to at least
+
+[![Figure imgf000020_0002](https://patentimages.storage.googleapis.com/6c/c6/ca/bbdf36671ded72/imgf000020_0002.png)](https://patentimages.storage.googleapis.com/6c/c6/ca/bbdf36671ded72/imgf000020_0002.png)
+
+R ). Unless otherwise indicated, an optionally substituted group may have a suitable substituent at each substitutable position of the group, and when more than one position in any given structure may be substituted with more than one substituent selected from a specified group, the substituent may be either the same or different at every position. Combinations of substituents envisioned by this invention are preferably those that result in the formation of stable or chemically feasible compounds. The term“stable,” as used herein, refers to compounds that are not substantially altered when subjected to conditions to allow for their production, detection, and, in certain embodiments, their recovery, purification, and use for one or more of the purposes disclosed herein.
+
+[0058] Suitable monovalent substituents on a substitutable carbon atom of an“optionally substituted” group are independently halogen; -(CH2)o-4R°; -(CH2)o-40R°; -0(CH2)o-4R°, -0-(CH2)O-4C(0)OR°; -(CH2)O-4CH(OR°)2; -(CH2)O-4SR°; -(CH2)o^Ph, which may be substituted with R°; -(CFbjo- CXCFbjo-iPh which may be substituted with R°; -CH=CHPh, which may be substituted with R°; -(CH2)o-40(CH2)o-i-pyridyl which may be substituted with R°; -NO2; -CN; -Ns; -(CH2)o-4N(R°)2; -(CH2)o-4N(R0)C(0)R°; -N(R°)C(S)R°;
+
+-(CH2)O-4N(R0)C(0)NR°2; -N(R0)C(S)NR°2; -(CH2)O-4N(R0)C(0)OR°;
+
+-N(R°)N(R°)C(0)R°; -N(R0)N(R°)C(0)NR°2; -N(R°)N(R°)C(0)OR°; -(CH2)o^C(0)R°;
+
+-C(S)R°; -(CH2)O-4C (0)OR° ; -(CH2)o-4C(0)SR°; -(CH2)o^C(0)OSiR°3; -(CH2)o-40C(0)R°; -OC(0)(CH2)O-4 SR° ; -(CH2)O-4 S C(0)R° ; -(CH2)o-4C(0)NR°2; -C(S)NR°2; -C(S)SR°;
+
+-SC(S)SR°, -(CH2)O-40C(0)NR°2; -C(0)N(OR°)R°; -C(0)C(0)R°; -C(0)CH2C(0)R°;
+
+-C(NOR°)R°; -(CH2)O-4SSR°; -(CH2)O^S(0)2R°; -(CH2)O-4S(0)20R°; -(CH2)O-40S(0)2R°;
+-S(0)2NR°2; -(CH2)O-4S(0)R°; -N(R°)S(0)2NR°2; -N(R°)S(0)2R°; -N(OR°)R°; -C(NH)NR°2; -P(0)2R°; -P(0)R°2; -0P(0)R°2; -0P(0)(0R°)2; SiR°3; -(Ci-4 straight or branched alkylene)0- N(R°)2; or—(Ci straight or branched alkylene)C(0)0-N(R°)2, wherein each R° may be substituted as defined below and is independently hydrogen, Ci-6 aliphatic, -CHzPh, -0(CH2)o- lPh, -CH2-(5- to 6-membered heteroaryl ring), a 5- to 6-membered saturated, partially unsaturated, or aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur, or an 8- to 10-membered bicyclic aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur, or, notwithstanding the definition above, two independent occurrences of R°, taken together with their intervening atom(s), form a 3- to 12- membered saturated, partially unsaturated, or aryl mono- or bicyclic ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur, which may be substituted as defined below.
+
+[0059] Suitable monovalent substituents on R° (or the ring formed by taking two independent occurrences of R° together with their intervening atoms), are independently halogen, -(CH2)O-2R·, -(haloR\*), -(CH2)o-2OH, -(CH2)O-2OR·,
+
+-(CH2)O-2CH(OR\*)2; -0(haloR·), -CN, -Ns, -(CH2)O-2C(0)R·, -(CH2)O-2C(0)OH, -(CH2)O-2C(0)OR·, -(CH2)O-2SR\*, -(CH2)O-2SH, -(CH2)O-2NH2, -(CH2)O-2NHR·, -(CH2)O-2NR, 2, -N02, -SiR\*3, -OSiR\*3, -C(0)SR\* -(Ci-4 straight or branched alkylene)C(0)OR\*, or -SSR\* wherein each R\* is unsubstituted or where preceded by“halo” is substituted only with one or more halogens, and is independently selected from Ci-4 aliphatic, - CH2Ph, -0(CH2)o-iPh, or a 3- to 6-membered saturated, partially unsaturated, or aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur. Suitable divalent substituents on a saturated carbon atom of R° include =0 and =S.
+
+[0060] Suitable divalent substituents on a saturated carbon atom of an“optionally substituted” group include the following: =0 (“oxo”), =S, =NNR%, =NNHC(0)R\*, =NNHC(0)OR\*, =NNHS(0)2R\*, =NR\*, =NOR\*, -0(C(R\* 2))2-30-, or -S(C(R\* 2))2-3S-, wherein each independent occurrence of R\* is selected from hydrogen, Ci-6 aliphatic which may be substituted as defined below, or an unsubstituted 5- to 6-membered saturated, partially unsaturated, or aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur. Suitable divalent substituents that are bound to vicinal substitutable carbons of an “optionally substituted” group include: -0(CR\* 2)2-30-, wherein each independent occurrence of
+R\* is selected from hydrogen, Ci-6 aliphatic which may be substituted as defined below, or an unsubstituted 5-6-membered saturated, partially unsaturated, or aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur.
+
+[0061] Suitable substituents on the aliphatic group of R\* include halogen,
+
+-R·, -(haloR\*), -OH, -OR\*, -O(haloR'), -CN, -C(0)OH, -C(0)OR\*, -NH2, NHR\*, -NRN, or -N02, wherein each R\* is unsubstituted or where preceded by“halo” is substituted only with one or more halogens, and is independently Ci-4 aliphatic, -CHzPh, -0(CH2)o-iPh, or a 5- to 6- membered saturated, partially unsaturated, or aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur.
+
+[0062] Suitable substituents on a substitutable nitrogen of an“optionally substituted” group include -R†, -NR† 2, -C(0)R†, -C(0)OR†, -C(0)C(0)R†,
+
+-C(0)CH2C(0)R†, -S(0)2R†, -S(0)2NR† 2, -C(S)NR† 2, -C(NH)NR† 2, or -N(R†)S(0)2R†; wherein each R† is independently hydrogen, Ci-6 aliphatic which may be substituted as defined below, unsubstituted -OPh, or an unsubstituted 5- to 6-membered saturated, partially unsaturated, or aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur, or, notwithstanding the definition above, two independent occurrences of R†, taken together with their intervening atom(s) form an unsubstituted 3- to 12-membered saturated, partially unsaturated, or aryl mono- or bicyclic ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur.
+
+[0063] Suitable substituents on the aliphatic group of R† are independently halogen,
+
+-R\*, -(haloR\*), -OH, -OR\*, -O(haloR'), -CN, -C(0)OH, -C(0)OR\*, -NH2, -NHR\*, -NR\*2, or -N02, wherein each R\* is unsubstituted or where preceded by“halo” is substituted only with one or more halogens, and is independently C1-4 aliphatic, -CH2Ph, -0(CH2)o-iPh, or a 5- to 6- membered saturated, partially unsaturated, or aryl ring having 0-4 heteroatoms independently selected from nitrogen, oxygen, or sulfur.
+
+[0064] Therapeutic agent: As used herein, the phrase“therapeutic agent” in general refers to any agent that elicits a desired pharmacological effect when administered to an organism. In some embodiments, an agent is considered to be a therapeutic agent if it demonstrates a statistically significant effect across an appropriate population. In some embodiments, the appropriate population may be a population of model organisms. In some embodiments, an appropriate population may be defined by various criteria, such as a certain age
+group, gender, genetic background, preexisting clinical conditions, etc. In some embodiments, a therapeutic agent is a substance that can be used to alleviate, ameliorate, relieve, inhibit, prevent, delay onset of, reduce severity of, and/or reduce incidence of one or more symptoms or features of a disease, disorder, and/or condition. In some embodiments, a“therapeutic agent” is an agent that has been or is required to be approved by a government agency before it can be marketed for administration to humans. In some embodiments, a“therapeutic agent” is an agent for which a medical prescription is required for administration to humans.
+
+[0065] Treat: As used herein, the terms“treat,”“treatment,” or“treating” refer to any method used to partially or completely alleviate, ameliorate, relieve, inhibit, prevent, delay onset of, reduce severity of, and/or reduce incidence of one or more symptoms or features of a disease, disorder, and/or condition. Treatment may be administered to a subject who does not exhibit signs of a disease, disorder, and/or condition. In some embodiments, treatment may be administered to a subject who exhibits only early signs of the disease, disorder, and/or condition, for example, for the purpose of decreasing the risk of developing pathology associated with the disease, disorder, and/or condition.
+
+DETAILED DESCRIPTION OF CERTAIN EMBODIMENTS
+
+Programmed axonal degeneration and SARM1
+
+[0066] Axonal degeneration is a major pathological feature of neurological diseases such as, but not limited to, Alzheimer’s disease, Parkinson’s disease, ALS, multiple sclerosis, diabetic peripheral neuropathy, chemotherapy-induced peripheral neuropathy, inherited neuropathy, traumatic brain injury, and/or glaucoma. Damaged or unhealthy axons are eliminated via an intrinsic self-destruction program that is distinct from traditional cellular death pathways like apoptosis known as Wallerian degeneration. (Gerdts, J., et ah, Neuron , 2016, 89, 449-460; Whitmore, A.V. et ah, Cell Death Differ ., 2003, 10, 260-261). In Wallerian degeneration, a peripheral nerve undergoes selective breakdown of the axon segment distal to an injury, whereas the proximal axon segment and cell body remain intact. This degeneration is characterized, first, by a depletion of nicotinamide mononucleotide adenyltransferase (NMNAT), followed by nicotinamide adenine dinucleotide (NAD+) loss, adenosine tri-phosphate (ATP) loss, neurofilament proteolysis, and finally axonal degradation approximately 8 to 24 hours following injury. (Gerdts, J., et ah, Neuron , 2016, 89, 449-460).
+[0067] NAD+ is a ubiquitous metabolite with critical roles in energy metabolism and cell signaling (Belenkey et al., Trends Biochem., 2007, 32, 12-19; Chiarugi et al., Nat. Rev. Cancer ,
+
+2012, 12, 741-752). The homeostatic regulation of NAD+ levels is also responsible for maintaining axonal stability and integrity. Accordingly, manipulations that increase axonal localization of NMNAT1 confer axonal protection (Babetto et al., Cell Rep., 2010, 3, 1422-1429; Sasaki et al., J. Neurosci ., 2009).
+
+[0068] In a genome-wide RNAi screen in primary mouse neurons, Sterile Alpha and TIR motif-containing 1 (SARM1) was identified, in which knockdown of SARM1 led to long-lasting protection of sensory neurons against injury-induced axon degeneration (Gerdts et al., J Neurosci , 2013, 33, 13569-13580). SARM1 belongs to the family of cytosolic adaptor proteins, but is unique among its members because it is the most evolutionary ancient adaptor, paradoxically inhibits TLR signaling, and has been identified as the central executioner of the injury-induced axon death pathway (O'Neill, L.A. & Bowie, A.G., Nat. Rev. Immunol ., 2007, 7, 353-364; Osterloh, J.M., et al., Science , 2012, 337, 481-484; Gerdts, J., et al., J. Neurosci. 33,
+
+2013, 13569-13580). Activation of SARM1 via axonal injury or forced dimerization of SARM1- TIR domains promotes rapid and catastrophic depletion of Nicotinamide Adenine Dinucleotide (NAD+), followed soon after by axonal degradation, thus highlighting the central role of NAD+ homeostasis in axonal integrity. (Gerdts, J., et al., Science , 2015, 348, 453-457). SARM1 is required for this injury-induced NAD+ depletion both in vitro and in vivo and SARM1 activation triggers axon degeneration locally via NAD(+) destruction (Gerdts et al., et al., Science, 2015 348, 452-457; Sasaki et al., J. Biol. Chem. 2015, 290, 17228-17238; both of which are hereby incorporated by reference in their entireties).
+
+[0069] From genetic loss-of-function studies it is clear that SARMl serves as the central executioner of the axonal degeneration pathway following an injury. Genetic knockout of SARMl allows for preservation of axons for up to 14 days after nerve transection (Osterloh, J.M., et al., Science , 2012, 337, 481-484; Gerdts, J., et al.. J. Neurosci., 2013, 33, 13569-13580) and also improves functional outcomes in mice after traumatic brain injury (Henninger, N. et al., Brain 139, 2016, 1094-1105). In addition to the role of SARMl in direct axonal injury, SARMl is also required for axonal degeneration observed in chemotherapy-induced peripheral neuropathy. Loss of SARMl blocks chemotherapy-induced peripheral neuropathy, both
+inhibiting axonal degeneration and heightened pain sensitivity that develops after chemotherapeutic vincristine treatment (Geisler et al, Brain , 2016, 139, 3092-3108).
+
+[0070] SARM1 contains multiple conserved motifs including SAM domains,
+
+ARM/HEAT motifs and a TIR domain (FIG. 1) that mediate oligomerization and protein-protein interactions (O'Neill, L.A. & Bowie, A.G., Nat. Rev. Immunol ., 2007, 7, 353-364; Tewari, R., et al., Trends Cell Biol., 2010, 20, 470-481; Qiao, F. & Bowie, J.U., Sci. STKE 2005, re7, 2005). TIR domains are commonly found in signaling proteins functioning in innate immunity pathways where they serve as scaffolds for protein complexes (O'Neill, L.A. & Bowie, A.G., Nat. Rev. Immunol., 2007, 7, 353-364). Interestingly, dimerization of SARM1-TIR domains is sufficient to induce axonal degeneration and to rapidly trigger degradation of NAD+by acting as the NAD+ cleaving enzyme (Milbrandt et al., WO 2018/057989; Gerdts, J., et al., Science, 2015, 348, 453- 457). Given the central role of SARM1 in the axonal -degeneration pathway and its identified NADase activity, efforts have been undertaken to identify agents that can regulate SARM1, and potentially act as useful therapeutic agents, for example, to protect against neurodegenerative diseases including peripheral neuropathy, traumatic brain injury, and/or neurodegenerative diseases.
+
+[0071] Among other things, the present disclosure provides certain compounds and/or compositions that act as SARM1 inhibitory agents (e.g., as SARM1 inhibitory agents), and technologies relating thereto.
+
+Compounds
+
+[0072] In some embodiments, the present disclosure provides a compound of Formula I:
+
+[![Figure imgf000025_0001](https://patentimages.storage.googleapis.com/65/9f/23/0b1773d46d55db/imgf000025_0001.png)](https://patentimages.storage.googleapis.com/65/9f/23/0b1773d46d55db/imgf000025_0001.png)
+
+I
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is selected from -CN, -CON(R)2, -C(=NR)N(R)2, -N02, -S(0)2R, -S(0)2N(R)2, -C(0)R, - COzR, and a 5-membered heteroaryl ring having 2-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur;
+
+R2 is -R;
+R3 is -(CH2)o-2Cy1;
+
+R4 is -Cy2;
+
+Cy1 is selected from phenyl, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms
+
+independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl and heteroaryl ring is substituted with 0-4 Rx;
+
+each Rx is independently selected from halogen, -CN, -NCte, -SR, -N(R)2, -OR, -C(0)R, -SOzR, - C02R, -S02N(R)2, -C0N(R)2, -N(R)S02R, -N(R)C(0)R, and optionally substituted Ci-e aliphatic;
+
+Cy2 is selected from phenyl, a 3- to 7-membered monocyclic heterocyclic ring having 1-3
+
+heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 7- to 9-membered bridged bicyclic or spirocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10- membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl, heterocyclic, and heteroaryl ring is substituted with 0-4 Rv;
+
+each Rv is independently selected from halogen, -CN, -NCte, -SR, -N(R)2, -OR, -C(0)R, -SOzR, - COzR, -S02N(R)2, -CON(R)2, -N(R)S02R, -N(R)C(0)R, optionally substituted Ci-6 aliphatic, and an optionally substituted 5- to 6-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur; and
+
+each R is independently hydrogen or optionally substituted Ci-6 aliphatic, or:
+
+two instances of R, together with the atom to which they are attached, form a 3- to 6- membered saturated or partially unsaturated heterocyclic ring.
+
+[0073] As defined generally above, R1 is selected from -CN, -CON(R)2, -C(=NR)N(R)2,
+
+-N02, -S(0)2R, -S(0)2N(R)2, -C(0)R, -C02R, and a 5-membered heteroaryl ring having 2-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, R1 is -CN.
+
+[0074] In some embodiments, R1 is -CON(R)2. In some such embodiments, each R is independently optionally substituted Ci-6 aliphatic. In some embodiments, R1 is -CON(R)2,
+wherein each R is independently Ci-6 aliphatic optionally substituted with -(CH2)o-40R°. In
+
+some embodiments,
+
+[![Figure imgf000027_0001](https://patentimages.storage.googleapis.com/c7/aa/bd/1b01e111f02a67/imgf000027_0001.png)](https://patentimages.storage.googleapis.com/c7/aa/bd/1b01e111f02a67/imgf000027_0001.png)
+
+[0075] In some embodiments, R1 is -CON(R)2, wherein R is optionally substituted Ci-6 aliphatic and two instances of R, together with the atom to which they are attached, form a 3- to 6-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, or sulfur. In some embodiments, R1 is
+
+[![Figure imgf000027_0003](https://patentimages.storage.googleapis.com/3a/d8/7d/0d4b017d6a641a/imgf000027_0003.png)](https://patentimages.storage.googleapis.com/3a/d8/7d/0d4b017d6a641a/imgf000027_0003.png)
+
+[0077] In some embodiments, R1 is -C(=NR)N(R)2. In some embodiments, R1 is
+
+-C(=NR)N(R)2, wherein R is selected from hydrogen and optionally substituted Ci-6 aliphatic. In some embodiments, R1 is -C(=NR)N(R)2, wherein R is selected from hydrogen and -CHa. In some embodiments, R1 is -C(=NH)NHCH3. In some embodiments, R1 is -C(=NH)N(CH3)2. In some embodiments, R1 is -C(=NR)N(R)2, wherein R is selected from hydrogen and Ci-6 aliphatic substituted with -(CH2)o-40R°. In some embodiments, R1 is -C(=NR)N(R)2, wherein R is selected from H, -CH3 and Ci-6 aliphatic substituted with -OR°. In some embodiments, R1 is
+
+[![Figure imgf000027_0002](https://patentimages.storage.googleapis.com/a5/c8/78/f448753d36ae75/imgf000027_0002.png)](https://patentimages.storage.googleapis.com/a5/c8/78/f448753d36ae75/imgf000027_0002.png)
+
+[0078] In some embodiments, R1 is -C(=NH)N(R)2, wherein R is optionally substituted
+
+Ci-6 aliphatic and two instances of R, together with the atom to which they are attached, form a 3- to 6-membered saturated or partially unsaturated heterocyclic ring having 1-2 heteroatoms
+independently selected from nitrogen, oxygen, or sulfur. In some embodiments, R1 is
+
+[![Figure imgf000028_0001](https://patentimages.storage.googleapis.com/e6/32/fa/1b5646fa10ccc7/imgf000028_0001.png)](https://patentimages.storage.googleapis.com/e6/32/fa/1b5646fa10ccc7/imgf000028_0001.png)
+
+[0079] In some embodiments, R1 is -NCte.
+
+[0080] In some embodiments, R1 is -S(0)2R. In some such embodiments, R is Ci-6 aliphatic.
+
+[0081] In some embodiments, R1 is -S(0)2N(R)2. In some such embodiments, R is selected from hydrogen and Ci-6 aliphatic.
+
+[0082] In some embodiments, R1 is -C(0)R. In some such embodiments, R is Ci-6 aliphatic.
+
+[0083] In some embodiments, R1 is -CO2R. In some such embodiments, R is selected from hydrogen and Ci-6 aliphatic. In some embodiments, R1 is - CO2R, wherein R is selected from hydrogen and Ci-6 alkyl. In some embodiments, R1 is -CO2R, wherein R is selected from hydrogen and -CH3. In some embodiments, R1 is -CO2H. In some embodiments, R1 is -CO2CH3.
+
+[0084] In some embodiments, R1 is a 5-membered heteroaryl ring having 2-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0085] In some embodiments, R1 is a 5-membered heteroaryl ring having 3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, R1 is
+
+[![Figure imgf000028_0002](https://patentimages.storage.googleapis.com/6a/ba/18/82ecdd07e4fb77/imgf000028_0002.png)](https://patentimages.storage.googleapis.com/6a/ba/18/82ecdd07e4fb77/imgf000028_0002.png)
+
+[ As defined generally above, R2 is -R. As defined generally above, R2 is -R. In some such embodiments, -R is hydrogen. Accordingly, in some embodiments, R2 is -H. In some embodiments, R2 is -R, wherein -R is optionally substituted Ci-6 aliphatic. In some embodiments, R2 is -R, wherein -R is Ci-6 aliphatic. In some embodiments, R2 is -Ci-6 alkyl. In some such embodiments, R2 is -CH3.
+
+[0087] As defined generally above, R3 is -(CH2)o-2Cy1. In some embodiments, R3 is -
+
+Cy1. In some embodiments, R3 is -Chh-Cy1. In some embodiments, R3 is -(CHkh-Cy1.
+
+[0088] As defined generally above, Cy1 is selected from phenyl, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur,
+and an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl and heteroaryl ring is substituted with 0-4 Rx. In some embodiments, Cy1 is phenyl. In some embodiments, Cy1 is phenyl substituted with 1 Rx. In some embodiments, Cy1 is phenyl substituted with 2 Rx. In some embodiments, Cy1 is selected from
+
+[![Figure imgf000029_0001](https://patentimages.storage.googleapis.com/a1/df/50/c527c1c8cf3124/imgf000029_0001.png)](https://patentimages.storage.googleapis.com/a1/df/50/c527c1c8cf3124/imgf000029_0001.png)
+
+[0089] In some embodiments, Cy1 is a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy1 is a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy1 is substituted with 1-2 Rx. In some embodiments, Cy1 is a 5-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy1 is a 5-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy1 is substituted with 1-2 Rx. In some embodiments, Cy1 is a 6-membered heteroaryl ring having 1-2 nitrogen atoms, wherein Cy1 is substituted with 1-2 Rx.
+
+[0090] In some embodiments, Cy1 is an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy1 is an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy1 is substituted with 1-2 Rx. In some embodiments, Cy1 is a 9-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy1 is a 9- membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy1 is substituted with 1-2 Rx. In some embodiments, Cy1 is a 10-
+membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy1 is a 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy1 is substituted with 1-2 Rx. In some embodiments, Cy1 is a 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy1 is substituted with 1 Rx.
+
+[0091] In some embodiments, Cy1 is selected from
+
+[![Figure imgf000030_0001](https://patentimages.storage.googleapis.com/87/ba/1c/681165e771126d/imgf000030_0001.png)](https://patentimages.storage.googleapis.com/87/ba/1c/681165e771126d/imgf000030_0001.png)
+
+[0092] In some embodiments, Cy1 is selected from
+
+[![Figure imgf000030_0002](https://patentimages.storage.googleapis.com/6d/67/aa/d7fd8cab4fa38c/imgf000030_0002.png)](https://patentimages.storage.googleapis.com/6d/67/aa/d7fd8cab4fa38c/imgf000030_0002.png)
+
+[0093] As defined generally above, Cy2 is selected from phenyl, a 3- to 7-membered monocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 7- to 9-membered bridged bicyclic or spirocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl, heterocyclic, and heteroaryl ring is substituted with 0-4 Rv.
+
+[0094] In some embodiments, Cy2 is phenyl. In some embodiments, Cy2 is phenyl substituted with 1 Rv. In some embodiments, Cy2 is phenyl substituted with 1-2 Rv. In some embodiments, Cy2 is phenyl fused to a 5- to 6-membered carbocyclic ring. In some
+embodiments, Cy2 is phenyl fused to a 5-membered carbocyclic ring. In some embodiments, Cy2 is selected from
+
+[![Figure imgf000031_0001](https://patentimages.storage.googleapis.com/02/e9/af/2c5c2fe93c4bec/imgf000031_0001.png)](https://patentimages.storage.googleapis.com/02/e9/af/2c5c2fe93c4bec/imgf000031_0001.png)
+
+[0095] In some embodiments, Cy2 is a 3- to 7-membered monocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 3- to 7-membered monocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1 Rv. In some embodiments, Cy2 is a 3- to 7-membered monocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 2 Rv. In some embodiments, Cy2 is a 5-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 5-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is a 5-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1 Rv. In some embodiments, Cy2 is a 6-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 6-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is a 6-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1 Rv.
+[0096] In some embodiments, Cy2 is a 5-membered monocyclic heterocyclic ring having
+
+1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy is fused to one or more aryl rings. In some embodiments, Cy2 is a 6-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is fused to one or more aryl rings.
+
+[0097] In some embodiments, Cy2 is selected from
+
+[![Figure imgf000032_0001](https://patentimages.storage.googleapis.com/a0/a5/b9/b8ae51338e5745/imgf000032_0001.png)](https://patentimages.storage.googleapis.com/a0/a5/b9/b8ae51338e5745/imgf000032_0001.png)
+
+[0098] In some embodiments, Cy2 is a 7- to 9-membered bridged bicyclic or spirocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 7- to 9-membered bridged bicyclic or spirocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is a 7-membered spirocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 7-membered spirocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is a 7-membered spirocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1 Rv.
+
+[0099] In some embodiments, Cy2 is a 7-membered bridged bicyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 7-membered bridged bicyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is an 8-membered bridged bicyclic heterocyclic ring having 1-2
+heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is an 8-membered bridged bicyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is selected from
+
+[![Figure imgf000033_0001](https://patentimages.storage.googleapis.com/c5/ff/9e/2f244aeee11a78/imgf000033_0001.png)](https://patentimages.storage.googleapis.com/c5/ff/9e/2f244aeee11a78/imgf000033_0001.png)
+
+[0100] In some embodiments, Cy2 is a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is a 5-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 5-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is selected from
+
+[![Figure imgf000033_0002](https://patentimages.storage.googleapis.com/9e/52/12/c4a2c114b1de8d/imgf000033_0002.png)](https://patentimages.storage.googleapis.com/9e/52/12/c4a2c114b1de8d/imgf000033_0002.png)
+
+[0101] In some embodiments, Cy2 is an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is a 9-membered bicyclic heteroaryl ring having 1-3 heteroatoms
+independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 9- membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv. In some embodiments, Cy2 is a 10- membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Cy2 is a 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein Cy2 is substituted with 1-2 Rv.
+
+[0102] In some embodiments, Cy2 is selected from
+
+[![Figure imgf000034_0001](https://patentimages.storage.googleapis.com/0d/a5/e3/6aa475f2f87cf8/imgf000034_0001.png)](https://patentimages.storage.googleapis.com/0d/a5/e3/6aa475f2f87cf8/imgf000034_0001.png)
+
+[0103] As defined generally above, each Rx is independently selected from each Rx is independently selected from halogen, -CN, -NCte, -SR, -N(R)2, -OR, -C(0)R, -SO2R, -CO2R, - S02N(R)2, -CON(R)2, -N(R)S02R, -N(R)C(0)R, and optionally substituted Ci-6 aliphatic. In some embodiments, Rx is halogen. In some such embodiments, Rx is chloro or fluoro.
+
+[0104] In some embodiments, Rx is -CN. In some embodiments, Rx is -NO2.
+
+[0105] In some embodiments, Rx is -SR. In some such embodiments, R is Ci-6 aliphatic.
+
+In some embodiments, Rx is -SCH3.
+
+[0106] In some embodiments, Rx is -N(R)2. In some such embodiments, R is selected from hydrogen and Ci-6 aliphatic. In some embodiments, Rx is -NHCH3. In some embodiments, Rx is -N(CH3)2.
+
+[0107] In some embodiments, Rx is -OR. In some such embodiments, R is Ci-6 aliphatic.
+
+In some embodiments, Rx is -OCH3.
+
+[0108] In some embodiments, Rx is Ci-6 aliphatic. In some embodiments, Rx is C1-3 aliphatic. In some embodiments, Rx is -CH3. In some embodiments, Rx is -CH(CH3)2.
+[0109] In some embodiments, Rx is optionally substituted Ci-6 aliphatic. In some embodiments, Rx is Ci-6 aliphatic optionally substituted with halogen. In some such embodiments, Rx is -CF3.
+
+[0110] In some embodiments, Rx is -C(0)R. In some such embodiments, R is Ci-6 aliphatic. In some embodiments, Rx is -C(0)CH3.
+
+[0111] In some embodiments, Rx is -SO2R. In some such embodiments, R is Ci-6 aliphatic. In some embodiments, Rx is -SO2CH3.
+
+[0112] In some embodiments, Rx is -CO2R. In some such embodiments, R is Ci-6 aliphatic. In some embodiments, Rx is -C02tBu.
+
+[0113] In some embodiments, Rx is -S02N(R)2. In some such embodiments, R is selected from hydrogen and Ci-6 aliphatic. In some embodiments, Rx is -SO2NHCH3.
+
+[0114] In some embodiments, Rx is -CON(R)2. In some such embodiments, R is hydrogen. In some embodiments, Rx is -CONH2.
+
+[0115] In some embodiments, Rx is -N(R)S02R. In some such embodiments, R is selected from hydrogen and Ci-6 aliphatic. In some embodiments, Rx is -NHSO2CH3.
+
+[0116] In some embodiments, Rx is -NRC(0)R. In some such embodiments, R is hydrogen. In some embodiments, Rx is -NHCOCH3.
+
+[0117] As defined generally above, each Rv is independently selected from halogen, -CN,
+
+-NO2, -SR, -N(R)2, -OR, -C(0)R, -SO2R, -CO2R, -S02N(R)2, -C0N(R)2, -N(R)S02R, - N(R)C(0)R, optionally substituted Ci-6 aliphatic, and an optionally substituted 5- to 6-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0118] In some embodiments, Rv is halogen. In some such embodiments, Rv is chloro or fluoro.
+
+[0119] In some embodiments, Rv is -CN.
+
+[0120] In some embodiments, Rv is -NO2.
+
+[0121] In some embodiments, Rv is -SR. In some such embodiments, R is optionally substituted Ci-6 aliphatic. In some embodiments, Rv is -SR, wherein R is Ci-6 alkyl. In some embodiments, Rv is -SR, wherein R is -CH3. Accordingly, in some embodiments, Rv is -SCH3.
+
+[0122] In some embodiments, Rv is is -N(R)2. In some such embodiments, R is selected from hydrogen and optionally substituted Ci-6 aliphatic. In some embodiments, Rv is -NH2, In
+some embodiments, Rv is -NHR, wherein R is Ci-6 alkyl. In some embodiments, Rv is -NHR, wherein R is -CH3. Accordingly, in some embodiments, Rv is -NHCH3.
+
+[0123] In some embodiments, Rv is -OR. In some such embodiments, R is Ci-6 aliphatic.
+
+In some embodiments, Rv is -OCH3.
+
+[0124] In some embodiments, Rv is -S02N(R)2. In some such embodiments, R is selected from hydrogen or optionally substituted Ci-6 aliphatic. In some embodiments, Rv is -
+
+S02N(R)2, wherein R is selected from hydrogen and Ci-6 alkyl. In some embodiments, Rv is -
+
+S02N(R)2, wherein R is selected from hydrogen and -CH3. Accordingly, in some embodiments, Rv is -SO2NHCH3 or -S02N(CH3)2.
+
+[0125] In some embodiments, Rv is -N(R)S02R. In some such embodiments, R is selected from hydrogen or optionally substituted Ci-6 aliphatic. In some embodiments, Rv is -
+
+N(R)S02R, wherein R is selected from hydrogen and Ci-6 alkyl. In some embodiments, Rv is -
+
+N(R)S02R, wherein R is selected from hydrogen and -CH3. Accordingly, in some embodiments, Rv is— NHSO2CH3 or— N(CH3)S02CH3.
+
+[0126] In some embodiments, Rv is -N(R)C(0)R. In some such embodiments, R is selected from hydrogen or optionally substituted Ci-6 aliphatic. In some embodiments, Rv is - N(R)C(0)R, wherein R is selected from hydrogen and Ci-6 alkyl. In some embodiments, Rv is - N(R)C(0)R, wherein R is selected from hydrogen and -CH3. Accordingly, in some embodiments, Rv is -NHC(0)CH3 or -N(CH3)C(0)CH3.
+
+[0127] In some embodiments, Rv is Ci-6 aliphatic. In some embodiments, Rv is C1-3 aliphatic. In some embodiments, Rv is -CH3. In some embodiments, Rv is -CH(CH3)2.
+
+[0128] In some embodiments, Rv is optionally substituted Ci-6 aliphatic. In some embodiments, Rv is Ci-6 aliphatic optionally substituted with halogen. In some such embodiments, Rv is -CF3.
+
+[0129] In some embodiments, Rv is -C(0)R. In some such embodiments, R is Ci-6 aliphatic. In some embodiments, Rv is -C(0)CH3.
+
+[0130] In some embodiments, Rv is -SO2R. In some such embodiments, R is Ci-6 aliphatic. In some embodiments, Rv is -SO2CH3.
+
+[0131] In some embodiments, Rv is -CO2R. In some such embodiments, R is Ci-6 aliphatic. In some embodiments, Rv is -CCtetBu.
+[0132] In some embodiments, Rv is -CON(R)2. In some such embodiments, R is hydrogen. In some embodiments, Rv is -CONH2.
+
+[0133] In some embodiments, Rv is an optionally substituted 5- to 6-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments, Rv is an optionally substituted 5-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur. In some embodiments,
+
+[![Figure imgf000037_0001](https://patentimages.storage.googleapis.com/97/26/02/a8e6c8b4a9f473/imgf000037_0001.png)](https://patentimages.storage.googleapis.com/97/26/02/a8e6c8b4a9f473/imgf000037_0001.png)
+
+[0135] In some embodiments, R4 is selected from
+
+[![Figure imgf000037_0002](https://patentimages.storage.googleapis.com/4b/c4/0d/c6cb03f6378352/imgf000037_0002.png)](https://patentimages.storage.googleapis.com/4b/c4/0d/c6cb03f6378352/imgf000037_0002.png)
+
+[![Figure imgf000038_0001](https://patentimages.storage.googleapis.com/b2/33/1f/0fdcc4e9f1ffaa/imgf000038_0001.png)](https://patentimages.storage.googleapis.com/b2/33/1f/0fdcc4e9f1ffaa/imgf000038_0001.png)
+
+[0136] As defined generally above, each R is independently hydrogen or optionally substituted Ci-6 aliphatic; or two instances of R, together with the atom to which they are attached, form a 3- to 6-membered saturated or partially unsaturated heterocyclic ring.
+
+[0137] In some embodiments, R is hydrogen. In some embodiments, R is optionally substituted Ci-6 aliphatic. In some such embodiments, R is -Ci-6 alkyl. In some embodiments, R is -CHa. In some embodiments, R is -C(CH3)3. In some embodiments, R is Ci-6 aliphatic optionally substituted with -(CH2)o-40R°. In some embodiments, R is Ci-6 aliphatic optionally substituted with -OR°. In some embodiments, R is Ci-6 aliphatic optionally substituted with -OCH3. In some embodiments, R is Ci-6 aliphatic optionally substituted with -OH.
+
+[0138] In some embodiments, two instances of R, together with the atom to which they are attached, form a 3- to 6-membered saturated or partially unsaturated heterocyclic ring. In some embodiments, two instances of R, together with the atom to which they are attached, form a 6-membered saturated or partially unsaturated heterocyclic ring. In some embodiments, two instances of R, together with the atom to which they are attached, form a morpholinyl ring.
+
+[0139] In some embodiments of Formula I, R1 is -CN. Accordingly, in some embodiments, the present disclosure provides a compound of Formula I-a:
+
+[![Figure imgf000039_0001](https://patentimages.storage.googleapis.com/61/70/d0/5d3d6b7fa85add/imgf000039_0001.png)](https://patentimages.storage.googleapis.com/61/70/d0/5d3d6b7fa85add/imgf000039_0001.png)
+
+I-a
+
+or a pharmaceutically acceptable salt thereof, wherein each of R2, R3 and R4 is as defined above and described herein.
+
+[0140] In some embodiments of Formula I, R1 is -CON(R)2. Accordingly, in some embodiments, the present disclosure provides a compound of Formula I-b:
+
+[![Figure imgf000039_0002](https://patentimages.storage.googleapis.com/08/9f/d2/56bebcd618328a/imgf000039_0002.png)](https://patentimages.storage.googleapis.com/08/9f/d2/56bebcd618328a/imgf000039_0002.png)
+
+I-b
+or a pharmaceutically acceptable salt thereof, wherein each of R2, R3, R4 and R is as defined above and described herein.
+
+[0141] In some embodiments of Formula I, R1 is -C(=NR)N(R)2. Accordingly, in some embodiments, the present disclosure provides a compound of Formula I-c:
+
+[![Figure imgf000041_0001](https://patentimages.storage.googleapis.com/74/f6/a8/cd0ee8f2f4bb71/imgf000041_0001.png)](https://patentimages.storage.googleapis.com/74/f6/a8/cd0ee8f2f4bb71/imgf000041_0001.png)
+
+I-c
+
+or a pharmaceutically acceptable salt thereof, wherein each of R2, R3, R4 and R is as defined above and described herein.
+
+[0142] In some embodiments of Formula I-a, I-b, or I-c, R2 is H. Accordingly, the present disclosure provides a compound of Formula I-a-/, I-b-/, or I-c-/:
+
+[![Figure imgf000041_0002](https://patentimages.storage.googleapis.com/ca/74/90/53ffa2b30d623b/imgf000041_0002.png)](https://patentimages.storage.googleapis.com/ca/74/90/53ffa2b30d623b/imgf000041_0002.png)
+
+I-a -i I-b- I-c- or a pharmaceutically acceptable salt thereof, wherein each of R3, R4 and R is as defined above and described herein.
+
+[0143] In some embodiments of Formula I-a, I-b, or I-c, R3 is -Cy1, wherein -Cy1 is phenyl. Accordingly, in some embodiments, the present disclosure provides a compound of Formula I-a-//, I-b-//, or I-c-//:
+
+[![Figure imgf000041_0003](https://patentimages.storage.googleapis.com/2b/37/a0/4ee24c22b2332f/imgf000041_0003.png)](https://patentimages.storage.googleapis.com/2b/37/a0/4ee24c22b2332f/imgf000041_0003.png)
+
+I-a -ii I-b -ii I-c -ii or a pharmaceutically acceptable salt thereof, wherein each of R2, R4, R and Rx is as defined above and described herein.
+[0144] In some embodiments of Formula I-a, I-b, or I-c, R3 is -Cy1, wherein -Cy1 is quinolin-5-yl. Accordingly, in some embodiments, the present disclosure provides a compound of Formula I-a-///, I-b-///, or I-c-///:
+
+[![Figure imgf000042_0001](https://patentimages.storage.googleapis.com/3b/a5/b1/dae99833c92880/imgf000042_0001.png)](https://patentimages.storage.googleapis.com/3b/a5/b1/dae99833c92880/imgf000042_0001.png)
+
+I-a -iii 1-b-iii 1-c-iii or a pharmaceutically acceptable salt thereof, wherein each of R2, R4, R and Rx is as defined above and described herein.
+
+[0145] In some embodiments, the present disclosure provides a compound selected from:
+
+[![Figure imgf000042_0002](https://patentimages.storage.googleapis.com/f6/af/23/868acc8591d5de/imgf000042_0002.png)](https://patentimages.storage.googleapis.com/f6/af/23/868acc8591d5de/imgf000042_0002.png)
+
+[![Figure imgf000043_0001](https://patentimages.storage.googleapis.com/b1/15/4e/a2cfdec9912970/imgf000043_0001.png)](https://patentimages.storage.googleapis.com/b1/15/4e/a2cfdec9912970/imgf000043_0001.png)
+
+[![Figure imgf000044_0001](https://patentimages.storage.googleapis.com/7d/76/52/c80e3590c883cf/imgf000044_0001.png)](https://patentimages.storage.googleapis.com/7d/76/52/c80e3590c883cf/imgf000044_0001.png)
+
+[![Figure imgf000045_0001](https://patentimages.storage.googleapis.com/1c/22/5d/1eb852836fd57f/imgf000045_0001.png)](https://patentimages.storage.googleapis.com/1c/22/5d/1eb852836fd57f/imgf000045_0001.png)
+
+[![Figure imgf000046_0001](https://patentimages.storage.googleapis.com/9d/db/ff/d79f205325870b/imgf000046_0001.png)](https://patentimages.storage.googleapis.com/9d/db/ff/d79f205325870b/imgf000046_0001.png)
+
+[![Figure imgf000047_0001](https://patentimages.storage.googleapis.com/3c/bc/f5/ae6e5e1788fa72/imgf000047_0001.png)](https://patentimages.storage.googleapis.com/3c/bc/f5/ae6e5e1788fa72/imgf000047_0001.png)
+
+[![Figure imgf000048_0001](https://patentimages.storage.googleapis.com/91/d8/0e/1aa4d853600fcc/imgf000048_0001.png)](https://patentimages.storage.googleapis.com/91/d8/0e/1aa4d853600fcc/imgf000048_0001.png)
+
+[0146] In some embodiments, one or more compounds of Formula I covalently inhibit
+
+SARM1. In some embodiments, one or more compounds of Formula I covalently modify a cysteine residue of SARM1. In some embodiments, one or more compounds of Formula I
+covalently modify Cys635 of SARM1. In some embodiments, one or more compounds of Formula I covalently modify Cys629 of SARM1. In some embodiments, one or more compounds of Formula I covalently modify Cys649 of SARM1. Without wishing to be bound by any particular theory, in some embodiments, one or more compounds of Formula I denature the SARM1 protein via covalent modification of a cysteine residue. In some embodiments, one or more compounds of Formula I denature the SARM1 protein via covalent modification of Cys635. In some embodiments, one or more compounds of Formula I denature the SARM1 protein via covalent modification of Cys629. In some embodiments, one or more compounds of Formula I denature the SARM1 protein via covalent modification of Cys649.
+
+[0147] In some aspects, the present disclosure provides a compound according to the following embodiments:
+
+[0148] Embodiment !. A compound of Formula I:
+
+[![Figure imgf000049_0001](https://patentimages.storage.googleapis.com/4a/ad/72/394acc088e135d/imgf000049_0001.png)](https://patentimages.storage.googleapis.com/4a/ad/72/394acc088e135d/imgf000049_0001.png)
+
+I
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is selected from -CN, -CON(R)2, -C(=NR)N(R)2, -N02, -S(0)2R, -S(0)2N(R)2, -C(0)R, - C02R, and a 5-membered heteroaryl ring having 2-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur;
+
+R2 is -R;
+
+[![Figure imgf000049_0002](https://patentimages.storage.googleapis.com/47/95/05/f1887903a8e7a7/imgf000049_0002.png)](https://patentimages.storage.googleapis.com/47/95/05/f1887903a8e7a7/imgf000049_0002.png)
+
+Cy1 is selected from phenyl, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl and heteroaryl ring is substituted with 0-4 Rx;
+
+each Rx is independently selected from halogen, -CN, -N02, -SR, -N(R)2, -OR, -C(0)R, -S02R, - C02R, -S02N(R)2, -CON(R)2, -N(R)S02R, -N(R)C(0)R, and optionally substituted Ci-e aliphatic;
+Cy2 is selected from phenyl, a 3- to 7-membered monocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 7- to 9-membered bridged bicyclic or spirocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, and an 8- to 10- membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur, wherein each phenyl, heterocyclic, and heteroaryl ring is substituted with 0-4 Rv;
+
+each Rv is independently selected from halogen, -CN, -NO2, -SR, -N(R)2, -OR, -C(0)R, -SO2R, - CO2R, -S02N(R)2, -CON(R)2, -N(R)S02R, -N(R)C(0)R, optionally substituted Ci-6 aliphatic, and an optionally substituted 5- to 6-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur; and
+
+each R is independently hydrogen or optionally substituted Ci-6 aliphatic, or:
+
+two instances of R, together with the atom to which they are attached, form a 3- to 6- membered saturated or partially unsaturated heterocyclic ring.
+
+[0149] Embodiment 2. The compound according to embodiment 1, wherein R2 is -H.
+
+[0150] Embodiment 3. The compound according to embodiment 1, wherein R2 is -R.
+
+[0151] Embodiment 4. The compound according to embodiment 3, wherein -R is Ci-6 aliphatic.
+
+[0152] Embodiment 5. The compound according to embodiment 4, wherein R is -Ci-6 alkyl.
+
+[0153] Embodiment 6. The compound according to embodiment 5, wherein R is -CEE.
+
+[0154] Embodiment 7. The compound according to any one of embodiments 1-6, wherein R1 is -CN.
+
+[0155] Embodiment 8. The compound according to any one of embodiments 1-6, wherein R1 is -C(0)N(R)2.
+
+[0156] Embodiment 9. The compound according to any one of embodiments 1-6, wherein R1 is -C(=NR)C(R)2.
+
+[0157] Embodiment 10. The compound according to any one of embodiments 1-9, wherein R3 is -Cy1.
+[0158] Embodiment 11. The compound according to embodiment 10, wherein -Cy1 is phenyl.
+
+[0159] Embodiment 12. The compound according to embodiment 10, wherein -Cy1 is a
+
+5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0160] Embodiment 13. The compound according to embodiment 12, wherein -Cy1 is a
+
+6-membered heteroaryl ring having 1-2 nitrogen atoms.
+
+[0161] Embodiment 14. The compound according to embodiment 12, wherein -Cy1 is a
+
+5-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0162] Embodiment 15. The compound according to embodiment 10, wherein -Cy1 is an
+
+8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0163] Embodiment 16. The compound according to embodiment 15, wherein -Cy1 is a
+
+10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0164] Embodiment 17. The compound according to embodiment 16, wherein -Cy1 is a
+
+10-membered bicyclic heteroaryl ring having 1 nitrogen atom.
+
+[0165] Embodiment 18. The compound according to embodiment 17, wherein -Cy1 is quinolinyl.
+
+[0166] Embodiment 19. The compound according to embodiment 10, wherein -Cy1 is selected from the group consisting of
+
+[![Figure imgf000052_0001](https://patentimages.storage.googleapis.com/3f/8c/1a/971c71bb198652/imgf000052_0001.png)](https://patentimages.storage.googleapis.com/3f/8c/1a/971c71bb198652/imgf000052_0001.png)
+
+[0167] Embodiment 20. The compound according to any one of embodiments 11-19, wherein Rx is halogen.
+
+[0168] Embodiment 21. The compound according to embodiment 20, wherein Rx is chi or o.
+
+[0169] Embodiment 22. The compound according to embodiment 20, wherein Rx is fluoro.
+
+[0170] Embodiment 23. The compound according to any one of embodiments 11-19, wherein Rx is optionally substituted -Ci-6 aliphatic.
+
+[0171] Embodiment 24. The compound according to embodiment 23, wherein Rx is -Ci-6 alkyl.
+
+[0172] Embodiment 25. The compound according to embodiment 24, wherein Rx is
+
+-OR.
+
+[0173] Embodiment 26. The compound according to embodiment 24, wherein Rx is
+
+-CH(CH3)2.
+
+[0174] Embodiment 27. The compound according to embodiment 23, wherein Rx is -Ci-6 aliphatic optionally substituted with halogen.
+
+[0175] Embodiment 28. The compound according to embodiment 27, wherein Rx is
+
+-CF3.
+
+[0176] Embodiment 29. The compound according to any one of embodiments 11-19, wherein Rx is -OR.
+[0177] Embodiment 30. The compound according to embodiment 29, wherein R is optionally substituted -Ci-6 aliphatic.
+
+[0178] Embodiment 31. The compound according to embodiment 30, wherein R is -Ci-6 alkyl.
+
+[0179] Embodiment 32. The compound according to embodiment 31, wherein R is
+
+-OR.
+
+[0180] Embodiment 33. The compound according to embodiment 30, wherein R is -Ci-6 aliphatic optionally substituted with halogen.
+
+[0181] Embodiment 34. The compound according to embodiment 33, wherein R is
+
+-CF3.
+
+[0182] Embodiment 35. The compound according to any one of embodiments 1-34, wherein Cy2 is phenyl.
+
+[0183] Embodiment 36. The compound according to any one of embodiments 1-34, wherein Cy2 is a 3- to 7-membered monocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0184] Embodiment 37. The compound according to embodiment 36, wherein Cy2 is a
+
+5-membered monocyclic heterocyclic ring having 1 heteroatom selected from nitrogen, oxygen, and sulfur.
+
+[0185] Embodiment 38. The compound according to embodiment 36, wherein Cy2 is a
+
+6-membered monocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0186] Embodiment 39. The compound according to any one of embodiments 1-34, wherein Cy2 is a 7- to 9-membered bridged bicyclic or spirocyclic heterocyclic ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0187] Embodiment 40. The compound according to embodiment 39, wherein Cy2 is a
+
+7-membered spirocyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0188] Embodiment 41. The compound according to embodiment 39, wherein Cy2 is a
+
+7-membered bridged bicyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+[0189] Embodiment 42. The compound according to embodiment 39, wherein Cy2 is a
+
+8-membered bridged bicyclic heterocyclic ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0190] Embodiment 36. The compound according to any one of embodiments 1-34, wherein Cy2 is a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0191] Embodiment 37. The compound according to embodiment 36, wherein -Cy2 is a
+
+6-membered heteroaryl ring having 1-2 nitrogen atoms.
+
+[0192] Embodiment 38. The compound according to embodiment 36, wherein -Cy2 is a
+
+5-membered heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0193] Embodiment 39. The compound according to any one of embodiments 1-34, wherein Cy2 is an 8- to 10-membered bicyclic heteroaryl ring having 1-3 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0194] Embodiment 40. The compound according to embodiment 39, wherein Cy2 is a
+
+9-membered bicyclic heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0195] Embodiment 41. The compound according to embodiment 40, wherein Cy2 is a
+
+10-membered bicyclic heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0196] Embodiment 42. The compound according to any one of embodiments 1-34, wherein Cy2 is selected from
+
+[![Figure imgf000054_0001](https://patentimages.storage.googleapis.com/bb/29/10/dfb200753cc9f3/imgf000054_0001.png)](https://patentimages.storage.googleapis.com/bb/29/10/dfb200753cc9f3/imgf000054_0001.png)
+
+[![Figure imgf000055_0001](https://patentimages.storage.googleapis.com/99/e4/f7/183b504137f518/imgf000055_0001.png)](https://patentimages.storage.googleapis.com/99/e4/f7/183b504137f518/imgf000055_0001.png)
+
+[0197] Embodiment 43. The compound according to any one of embodiments 35-42, wherein Rv is Ci-6 aliphatic.
+
+[0198] Embodiment 44. The compound according to embodiment 43, wherein Rv is Ci-3 aliphatic.
+
+[0199] Embodiment 45. The compound according to embodiment 44, wherein Rv is
+
+-CH3.
+
+[0200] Embodiment 46. The compound according to embodiment 44, wherein Rv is
+
+-CH(CH3)2.
+
+[0201] Embodiment 47. The compound according to any one of embodiments 35-42, wherein Rv is -C(0)R.
+
+[0202] Embodiment 48. The compound according to embodiment 47, wherein Rv is
+
+-C(0)CH3.
+[0203] Embodiment 49. The compound according to any one of embodiments 35-42, wherein Rv is -SO2R.
+
+[0204] Embodiment 50. The compound according to embodiment 49, wherein Rv is
+
+-SO2CH3.
+
+[0205] Embodiment 51. The compound according to any one of embodiments 35-42, wherein Rv is -CO2R.
+
+[0206] Embodiment 52. The compound according to embodiment 51, wherein Rv is
+
+CChtBu.
+
+[0207] Embodiment 53. The compound according to any one of embodiments 35-42, wherein Rv is -CON(R)2.
+
+[0208] Embodiment 54. The compound according to embodiment 53, wherein Rv is
+
+-COME.
+
+[0209] Embodiment 55. The compound according to any one of embodiments 35-42, wherein Rv is an optionally substituted 5- to 6-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0210] Embodiment 56. The compound according to embodiment 55, wherein Rv is an optionally substituted 5-membered heteroaryl ring having 1-2 heteroatoms independently selected from nitrogen, oxygen, and sulfur.
+
+[0211] Embodiment 57. The compound according to embodiment 56, wherein Rv is
+
+[![Figure imgf000056_0001](https://patentimages.storage.googleapis.com/75/a9/d5/0c210b9d6e1ca1/imgf000056_0001.png)](https://patentimages.storage.googleapis.com/75/a9/d5/0c210b9d6e1ca1/imgf000056_0001.png)
+
+[0212] Embodiment 58. The compound according to embodiment 1, wherein
+
+R1 is selected from -CN and -CON(R)2; and
+
+R2 is selected from -H and -CEE.
+
+[0213] Embodiment 59. The compound according to embodiment 1, wherein:
+
+R1 is selected from -CN and -CON(R)2;
+
+R2 is selected from -H and -CEE;
+
+R3 is -Cy1; and
+
+-Cy1 is selected from
+
+[![Figure imgf000057_0001](https://patentimages.storage.googleapis.com/e6/63/f4/b89f2f902a84f0/imgf000057_0001.png)](https://patentimages.storage.googleapis.com/e6/63/f4/b89f2f902a84f0/imgf000057_0001.png)
+
+[0214] Embodiment 60. The compound according to embodiment 59, wherein:
+
+R1 is -CN; and
+
+R2 is -H.
+
+[0215] Embodiment 6E The compound according to embodiment 59, wherein:
+
+R1 is -CON(R)2; and
+
+R2 is -H.
+
+[0216] Embodiment 62. The compound according to any one of embodiments 58-61, wherein Cy2 is selected from
+
+[![Figure imgf000057_0002](https://patentimages.storage.googleapis.com/58/0a/28/a6cfc8ddec5b61/imgf000057_0002.png)](https://patentimages.storage.googleapis.com/58/0a/28/a6cfc8ddec5b61/imgf000057_0002.png)
+
+[0217] Embodiment 63. The compound according to any one of embodiments 58-61, wherein Cy2 is selected from
+
+[![Figure imgf000057_0003](https://patentimages.storage.googleapis.com/33/f9/90/5489aba3cc3466/imgf000057_0003.png)](https://patentimages.storage.googleapis.com/33/f9/90/5489aba3cc3466/imgf000057_0003.png)
+
+[0218] Embodiment 64. The compound according to any one of embodiments 58-61, wherein Cy2 is selected from
+
+[![Figure imgf000058_0001](https://patentimages.storage.googleapis.com/84/71/7a/32d366fe66e8ea/imgf000058_0001.png)](https://patentimages.storage.googleapis.com/84/71/7a/32d366fe66e8ea/imgf000058_0001.png)
+
+[0219] Embodiment 65. The compound according to any one of embodiments 58-61, wherein Cy2 is selected from
+
+[![Figure imgf000058_0002](https://patentimages.storage.googleapis.com/d8/bd/14/fff53489452495/imgf000058_0002.png)](https://patentimages.storage.googleapis.com/d8/bd/14/fff53489452495/imgf000058_0002.png)
+
+[![Figure imgf000059_0001](https://patentimages.storage.googleapis.com/a5/8c/ca/1f1d1326184575/imgf000059_0001.png)](https://patentimages.storage.googleapis.com/a5/8c/ca/1f1d1326184575/imgf000059_0001.png)
+
+[0220] Compounds of Formula I may be prepared as shown in Scheme la and lb below.
+
+Scheme la:
+
+[![Figure imgf000059_0002](https://patentimages.storage.googleapis.com/83/dc/e5/b599ad09380686/imgf000059_0002.png)](https://patentimages.storage.googleapis.com/83/dc/e5/b599ad09380686/imgf000059_0002.png)
+
+[0221] In Scheme la, thiophosgene A and amine B are coupled together in the presence of a suitable base to give the isothiocyanate C. Treatment of isocyanate C with amide D in the presence of a suitable base affords the thioamide E that is subjected to treatment with bromine to give the compound of general Formula I where R2 is H and R1 is -CN or -CONH2, the latter resulting from hydrolysis of the CN during this step.
+
+Scheme lb:
+
+[![Figure imgf000059_0003](https://patentimages.storage.googleapis.com/99/58/2c/5055837874d951/imgf000059_0003.png)](https://patentimages.storage.googleapis.com/99/58/2c/5055837874d951/imgf000059_0003.png)
+
+F
+
+[0222] In Scheme lb, compound F is treated with a suitable base and compound G where
+
+X is a suitable leaving group to afford compounds of general Formula I where R2 is -Ci-6 alkyl.
+
+Compositions
+
+[0223] In some embodiments, a compound of Formula I may be provided in a composition, e.g., in combination (e.g., admixture) with one or more other components.
+
+[0224] In some embodiments, the present disclosure provides compositions that comprise and/or deliver a compound of Formula I, or an active metabolite thereof, e.g., when contacted
+with or otherwise administered to a system or environment e.g., which system or environment may include SARM1 NADase activity; in some embodiments, administration of such a composition to the system or environment achieves inhibition of SARM1 activity as described herein.
+
+[0225] In some embodiments, a provided composition as described herein may be a pharmaceutical composition in that it comprises an active agent and one or more pharmaceutically acceptable excipients; in some such embodiments, a provided pharmaceutical composition comprises and/or delivers a compound of Formula I, or an active metabolite thereof to a relevant system or environment (e.g., to a subject in need thereof) as described herein.
+
+[0226] In some embodiments, one or more compounds of Formula I is provided and/or utilized in a pharmaceutically acceptable salt form.
+
+[0227] Among other things, the present disclosure provides compositions comprising a compound of Formula I, or a pharmaceutically acceptable salt or derivative thereof, and a pharmaceutically acceptable carrier, adjuvant, or vehicle. The amount of compound in provided compositions is such that is effective to measurably inhibit axonal degeneration in a biological sample or in a patient. In certain embodiments, a provided compound or composition is formulated for administration to a patient in need of such composition. The compounds and compositions, according to the methods of the present disclosure, may be administered using any amount and any route of administration effective for treating or lessening the severity of any disease or disorder described herein. Provided compounds are preferably formulated in dosage unit form for ease of administration and uniformity of dosage. The expression "dosage unit form" as used herein refers to a physically discrete unit of agent appropriate for the patient to be treated. It will be understood, however, that the total daily usage of the provided compounds and compositions will be decided by the attending physician within the scope of sound medical judgment. The specific effective dose level for any particular patient or organism will vary from subject to subject, depending on a variety of factors, including the disorder being treated and the severity of the disorder; the activity of the specific compound employed; the specific composition employed and its route of administration; the species, age, body weight, sex and diet of the patient; the general condition of the subject; the time of administration; the rate of excretion of the specific compound employed; the duration of the treatment; drugs used in combination or coincidental with the specific compound employed, and the like.
+[0228] Provided compositions may be administered orally, parenterally, by inhalation or nasal spray, topically (e.g., as by powders, ointments, or drops), rectally, buccally, intravaginally, intraperitoneally, intracisternally or via an implanted reservoir, depending on the severity of the condition being treated. Preferably, the compositions are administered orally, intraperitoneally or intravenously. In certain embodiments, provided compounds are administered orally or parenterally at dosage levels of about 0.01 mg/kg to about 50 mg/kg, of subject body weight per day, one or more times a day, to obtain the desired therapeutic effect.
+
+[0229] The term "parenteral" as used herein includes subcutaneous, intravenous, intramuscular, intra-articular, intra- synovial, intrastemal, intrathecal, intrahepatic, intralesional and intracranial injection or infusion techniques. Sterile injectable forms of provided compositions may be aqueous or oleaginous suspension. These suspensions may be formulated according to techniques known in the art using suitable dispersing or wetting agents and suspending agents. The sterile injectable preparation may also be a sterile injectable solution or suspension in a non-toxic parenterally acceptable diluent or solvent, for example, as a solution in 1,3-butanediol. Among the acceptable vehicles and solvents that may be employed are water, Ringer’s solution and isotonic sodium chloride solution. In addition, sterile, fixed oils are conventionally employed as a solvent or suspending medium.
+
+[0230] For this purpose, any bland fixed oil may be employed including synthetic mono- or di-glycerides. Fatty acids, such as oleic acid and its glyceride derivatives are useful in the preparation of injectables, as are natural pharmaceutically-acceptable oils, such as olive oil or castor oil, especially in their polyoxyethylated versions. These oil solutions or suspensions may also contain a long-chain alcohol diluent or dispersant, such as carboxymethyl cellulose or similar dispersing agents that are commonly used in the formulation of pharmaceutically acceptable dosage forms including emulsions and suspensions. Other commonly used surfactants, such as Tweens, Spans and other emulsifying agents or bioavailability enhancers which are commonly used in the manufacture of pharmaceutically acceptable solid, liquid, or other dosage forms may also be used for the purposes of formulation.
+
+[0231] Injectable formulations can be sterilized, for example, by filtration through a bacterial-retaining filter, or by incorporating sterilizing agents in the form of sterile solid compositions which can be dissolved or dispersed in sterile water or other sterile injectable medium prior to use.
+[0232] In order to prolong the effect of a provided compound, it is often desirable to slow the absorption of the compound from subcutaneous or intramuscular injection. This may be accomplished by the use of a liquid suspension of crystalline or amorphous material with poor water solubility. The rate of absorption of the compound then depends upon its rate of dissolution that, in turn, may depend upon crystal size and crystalline form. Alternatively, delayed absorption of a parenterally administered compound form is accomplished by dissolving or suspending the compound in an oil vehicle. Injectable depot forms are made by forming microencapsule matrices of the compound in biodegradable polymers such as polylactide- polyglycolide. Depending upon the ratio of compound to polymer and the nature of the particular polymer employed, the rate of compound release can be controlled. Examples of other biodegradable polymers include poly(orthoesters) and poly(anhydrides). Depot injectable formulations are also prepared by entrapping the compound in liposomes or microemulsions that are compatible with body tissues.
+
+[0233] Pharmaceutically acceptable compositions described herein may be orally administered in any orally acceptable dosage form including, but not limited to, capsules, tablets, aqueous suspensions or solutions. In such solid dosage forms the active compound may be admixed with at least one inert diluent such as sucrose, lactose or starch. Such dosage forms may also comprise, as is normal practice, additional substances other than inert diluents, e.g., lubricants and other tableting aids such a magnesium stearate and microcrystalline cellulose.When aqueous suspensions are required for oral use, the active ingredient is combined with emulsifying and suspending agents. If desired, certain sweetening, flavoring or coloring agents may also be added.
+
+[0234] Solid dosage forms for oral administration include capsules, tablets, pills, powders, and granules. In such solid dosage forms, the active compound is mixed with at least one inert, pharmaceutically acceptable excipient or carrier such as sodium citrate or dicalcium phosphate and/or a) fillers or extenders such as starches, lactose, sucrose, glucose, mannitol, and silicic acid, b) binders such as, for example, carboxymethylcellulose, alginates, gelatin, polyvinylpyrrolidinone, sucrose, and acacia, c) humectants such as glycerol, d) disintegrating agents such as agar-agar, calcium carbonate, potato or tapioca starch, alginic acid, certain silicates, and sodium carbonate, e) solution retarding agents such as paraffin, f) absorption accelerators such as quaternary ammonium compounds, g) wetting agents such as, for example,
+cetyl alcohol and glycerol monostearate, h) absorbents such as kaolin and bentonite clay, and/or i) lubricants such as talc, calcium stearate, magnesium stearate, solid polyethylene glycols, sodium lauryl sulfate, and mixtures thereof. In the case of capsules, tablets and pills, the dosage form may also comprise buffering agents. The active compounds can also be in micro- encapsulated form with one or more excipients as noted above.
+
+[0235] Solid compositions of a similar type may also be employed as fillers in soft and hard-filled gelatin capsules using such excipients as lactose or milk sugar as well as high molecular weight polyethylene glycols and the like. The solid dosage forms of tablets, dragees, capsules, pills, and granules can be prepared with coatings and shells such as enteric coatings (i.e. buffering agents) and other coatings well known in the pharmaceutical formulating art. They may optionally contain opacifying agents and can also be of a composition that they release the active ingredient(s) only, or preferentially, in a certain part of the intestinal tract, optionally, in a delayed manner. Examples of embedding compositions that can be used include polymeric substances and waxes.
+
+[0236] Liquid dosage forms for oral administration include, but are not limited to, pharmaceutically acceptable emulsions, microemulsions, solutions, suspensions, syrups and elixirs. In addition to the active compounds, the liquid dosage forms may contain inert diluents commonly used in the art such as, for example, water or other solvents, solubilizing agents and emulsifiers such as ethyl alcohol, isopropyl alcohol, ethyl carbonate, ethyl acetate, benzyl alcohol, benzyl benzoate, propylene glycol, 1,3-butylene glycol, dimethylformamide, oils (in particular, cottonseed, groundnut, com, germ, olive, castor, and sesame oils), glycerol, tetrahydrofurfuryl alcohol, polyethylene glycols and fatty acid esters of sorbitan, and mixtures thereof. Besides inert diluents, the oral compositions can also include adjuvants such as wetting agents, emulsifying and suspending agents, sweetening, flavoring, and perfuming agents.
+
+[0237] Alternatively, pharmaceutically acceptable compositions described herein may be administered in the form of suppositories for rectal or vaginal administration. These can be prepared by mixing the compounds of the present disclosure with suitable non-irritating excipients or carriers that are solid at room temperature but liquid at body (e.g. rectal or vaginal) temperature and therefore will melt in the rectum or vaginal cavity to release the active compound. Such materials include cocoa butter, a suppository wax (e.g., beeswax) and polyethylene glycols.
+[0238] Pharmaceutically acceptable compositions described herein may also be administered topically, especially when the target of treatment includes areas or organs readily accessible by topical application, including diseases of the eye, the skin, or the lower intestinal tract. Topical application for the lower intestinal tract can be effected in a rectal suppository formulation (see above) or in a suitable enema formulation.
+
+[0239] Dosage forms for topical or transdermal administration of a provided compound include ointments, pastes, creams, lotions, gels, powders, solutions, sprays, inhalants or patches. The active component is admixed under sterile conditions with a pharmaceutically acceptable carrier and any needed preservatives or buffers as may be required. Ophthalmic formulations, ear drops, and eye drops are also contemplated as being within the scope of this disclosure. Additionally, the present disclosure contemplates the use of transdermal patches, which have the added advantage of providing controlled delivery of a compound to the body. Such dosage forms can be made by dissolving or dispensing the compound in the proper medium. Absorption enhancers can also be used to increase the flux of the compound across the skin. The rate can be controlled by either providing a rate controlling membrane or by dispersing the compound in a polymer matrix or gel.
+
+[0240] For topical applications, provided pharmaceutically acceptable compositions may be formulated in a suitable ointment containing the active component suspended or dissolved in one or more carriers. Carriers for topical administration of compounds of this disclosure include, but are not limited to, mineral oil, liquid petrolatum, white petrolatum, propylene glycol, polyoxyethylene, polyoxypropylene compound, emulsifying wax and water. Alternatively, provided pharmaceutically acceptable compositions can be formulated in a suitable lotion or cream containing the active components suspended or dissolved in one or more pharmaceutically acceptable carriers. Suitable carriers include, but are not limited to, mineral oil, sorbitan monostearate, polysorbate 60, cetyl esters wax, cetearyl alcohol, 2-octyldodecanol, benzyl alcohol and water.
+
+[0241] For ophthalmic use, provided pharmaceutically acceptable compositions may be formulated as micronized suspensions in isotonic, pH adjusted sterile saline, or, preferably, as solutions in isotonic, pH adjusted sterile saline, either with or without a preservative such as benzyl alkonium chloride. Alternatively, for ophthalmic uses, the pharmaceutically acceptable compositions may be formulated in an ointment such as petrolatum.
+[0242] Pharmaceutically acceptable compositions of this disclosure may also be administered by nasal aerosol or inhalation. Such compositions are prepared according to techniques well-known in the art of pharmaceutical formulation and may be prepared as solutions in saline, employing benzyl alcohol or other suitable preservatives, absorption promoters to enhance bioavailability, fluorocarbons, and/or other conventional solubilizing or dispersing agents.
+
+[0243] Most preferably, pharmaceutically acceptable compositions of this disclosure are formulated for oral administration.
+
+Identification and/or Characterization of Compounds and/or Compositions
+
+[0244] Among other things, the present disclosure provides various technologies for identification and/or characterization of compounds and/or compositions as described herein. For example, the present disclosure provides various assays for assessing SARM1 inhibitory activity, and specifically for assessing SARM1 inhibitory activity.
+
+[0245] In some embodiments, performance of one or more compounds or compositions of interest in an assay as described herein is compared with that of an appropriate reference. For example, in some embodiments, a reference may be absence of the relevant compound or composition. Alternatively or additionally, in some embodiments, a reference may be presence of an alternative compound or composition, e.g., which alternative compound or composition has known performance (e.g., as a positive control or a negative control, as is understood in the art) in the relevant assay. In some embodiments, a reference may be an alternative but comparable set of conditions (e.g., temperature, pH, salt concentration, etc.). In some embodiments, a reference may be performance of the compound or composition with respect to a SARM1 variant.
+
+[0246] Still further alternatively or additionally, in some embodiments, performance of one or more compounds or compositions of interest in an assay as described herein may be assessed in the presence of an appropriate reference compound or composition, for example, so that ability of the compound or composition to compete with the reference is determined.
+
+[0247] In some embodiments, a plurality of compounds or compositions of interest may be subjected to analysis in a particular assay and/or compared with the same reference. In some embodiments, such a plurality of compounds or compositions may be or include a set of
+compounds or compositions that is considered to be a“library” because multiple members share one or more features (e.g., structural elements, source identity, synthetic similarities, etc.).
+
+[0248] Certain exemplary assays that may be useful in the practice of the present disclosure are exemplified in the Examples below. Those skilled in the art, reading the present disclosure, will be aware that useful or relevant systems for identifying and/or characterizing compounds and/or compositions in accordance with the present disclosure are not limited to those included in the Examples, or otherwise discussed below.
+
+[0249] In some embodiments, compounds and/or compositions may be identified based on and/or characterized by one or more activities or characteristics such as, for example: promoting axonal integrity, cytoskeletal stability, and/or neuronal survival. In some embodiments, provided SARM1 inhibitors inhibit catabolism of NAD+ to by SARM1. In some embodiments, provided SARM1 inhibitors slow the rate of NAD+ catabolism.
+
+[0250] In some embodiments, provided SARM1 inhibitors reduce or inhibit binding of
+
+NAD+ by SARM1. In some embodiments, provided SARM1 inhibitors bind to SARM1 within a pocket comprising one or more catalytic residues (e.g., a catalytic cleft of SARM1). Examples of such catalytic residues include the glutamic acid at position 642 (E642).
+
+[0251] In some embodiments, provided SARM1 inhibitors disrupt and/or prevent multimerization of the TIR1 domain of SARM1. In some embodiments, provided SARM1 inhibitors disrupt the multimerization of the SAM domains. In some embodiments, provided SARM1 inhibitors disrupt the axonal signaling cascade that leads to depletion of NAD+.
+
+[0252] In some embodiments, the present disclosure provides assays useful for identifying and/or characterizing one or more activities and/or characteristics of compound and/or compositions of interest. For example, in some embodiments, the present disclosure provides in vitro, cellular, and/or in vivo systems for assessing one or more such activities and/or characteristics.
+
+SARM1 Activity Assays
+
+[0253] In some embodiments, a method of identifying a SARM1 inhibitor comprises: a) providing a mixture comprising i) a mutant or fragment of SARM1, ii) NAD+ and iii) a candidate inhibitor, wherein the mutant or fragment has constitutive activity; b) incubating the mixture; c) quantifying NAD+ in the mixture after the incubating; and d) identifying the
+candidate inhibitor compound as an inhibitor if the amount of NAD+ is greater than that of a control mixture that does not contain the candidate inhibitor.
+
+[0254] In some embodiments, provided are methods of identifying a SARM1 inhibitor, comprising: a) providing a mixture comprising i) a full-length SARM1, ii) NAD+ and iii) a candidate inhibitor, wherein the full-length SARM1 has constitutive activity; b) incubating the mixture; c) quantifying NAD+ and ADPR (or cADPR) in the mixture after the incubating; d) determining the molar ratio of NAD+: ADPR (or cADPR); and e) identifying the candidate inhibitor compound as an inhibitor if the molar ratio is greater than that of a control mixture that does not contain the candidate inhibitor.
+
+[0255] In some embodiments, provided are methods of identifying a SARM1 inhibitor, comprising: a) providing a mixture comprising a solid support to which is bound i) a full-length SARM1 and at least one tag, ii) NAD+, and iii) a candidate inhibitor; b) incubating the mixture; c) quantifying the NAD+ after the incubating; and d) identifying the candidate inhibitor compound as a SARM1 inhibitor if the concentration of NAD+ is greater than that of a control.
+
+SARM1 Binding Assays
+
+[0256] In some embodiments, the efficacy of provided SARM1 inhibitors can be determined according to, e.g., the assays described in WO 2018/057989, published on March 29, 2018, which is hereby incorporated by reference in its entirety. In some embodiments, the provided SARM1 inhibitors can be applied to a solution containing SARM1 or a fragment thereof. In some embodiments, the provided SARM1 inhibitors can be applied to an in vitro system. In some embodiments, the provided SARM1 inhibitors can be applied to an in vivo. In some embodiments, the provided SARM1 inhibitors can be applied to a patient. In some embodiments, a SARM1 inhibitor can be mixed with SARM1 or fragment thereof that has been labeled with an epitope tag. In some embodiments, the amount of bound SARM1 inhibitor can be compared to the amount of unbound SARM1 inhibitor, yielding the affinity for the SARM1 inhibitor.
+
+[0257] In some embodiments, the mutant or fragment of SARM1 is a SAM-TIR fragment having constitutive activity. Fragments of SARM1 having constitutive activity include, for example and without limitation, a SARM1 with the autoinhibitory domain deleted; at least one point mutation of SARM1 that renders the autoinhibitory domain inactive; a fragment of SARM1 containing a TIR domain; or a fragment of SARM1 consisting of SAM and TIR
+domains. In some embodiments a SARM1 polypeptide can include one or more additional amino acid sequences that can act as tags, such as a His tag, a streptavidin tag, or a combination thereof. In some embodiments a SARM1 polypeptide can include a tag at the amino terminus, at the carboxy terminus, or a combination thereof. In some embodiments, SARM1 or fragment thereof labeled with an epitope tag can be used to measure the binding efficacy of provided SARM1 inhibitors.
+
+Purification of SARM1-TIR domains
+
+[0258] In some embodiments, a SARM1-TIR domain can be engineered with various protein, or epitope, tags, that can be useful, for example, in purification. In some embodiments, the present disclosure also provides for a NRK1-HEK293T cell line comprising HEK293T cells transformed with a Nicotinamide Riboside Kinase 1 (NRK1). In some embodiments, HEK293T cells transformed or transfected with a DNA sequence encoding Nicotinamide Riboside Kinase 1 (NRK1). In some embodiments, the DNA encoding NRK1 can be genomic or cDNA. In some embodiments, HEK293T cells are stably or transiently transfected with DNA encoding NRK1 from a source exogenous to the host cell. In some embodiments, HEK293T cells are stably or transiently transfected with DNA encoding NRK1 such that the cells express NRK1 at an elevated level compared to control cells. In some embodiments, DNA encoding NRK1 is under the control of one or more exogenous regulatory DNA sequences such as a promoter, an enhancer or a combination thereof. In some embodiments, a combination of a DNA sequences encoding NRK1 and regulatory sequences is a non-naturally occurring combination. In some embodiments, DNA encoding NRK1, either genomic or cDNA, comprises an expression vector such as an FCIV expression vector. In some embodiments, DNA encoding NRK1 is derived from genomic DNA or cDNA from a vertebrate or invertebrate species such as, but not limited to, human, mouse, zebrafish or a Drosophila. In some configurations, the NRK1 DNA is a human NRK1 DNA.
+
+Applications and Uses
+
+[0259] The present disclosure provides a variety of uses and applications for compounds and/or compositions as described herein, for example in light of their activities and/or characteristics as described herein. In some embodiments, such uses may include therapeutic
+and/or diagnostic uses. Alternatively, in some embodiments such uses may include research, production, and/or other technological uses.
+
+[0260] In one aspect, the present disclosure provides methods comprising administering one or more compounds of Formula I to a subject, e.g., to treat, prevent, or reduce the risk of developing one or more conditions characterized by axonal degeneration. In some such embodiments, the compound of Formula I is a SARM1 inhibitor.
+
+[0261] Another embodiment of the present disclosure relates to a method of inhibiting
+
+SARM1 activity in a patient comprising steps of administering to said patient a provided compound, or a composition comprising said compound.
+
+[0262] Inhibition of enzymes in a biological sample is useful for a variety of purposes that are known to one of skill in the art. Examples of such purposes include, but are not limited to biological assays, gene expression studies, and biological target identification.
+
+[0263] In certain embodiments, the present disclosure relates to a method of treating axonal degeneration in a biological sample comprising the step of contacting said biological sample with a compound or composition of Formula I. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example as a method of for inhibiting the degradation of neurons derived from a subject. In some embodiments, one or more compounds and/or compositions as described herein, are useful for inhibiting the degeneration of a neuron, or portion thereof, cultured in vitro. In some embodiments, one or more compounds and/or compositions as described herein, are useful as stabilizing agents to promote in vitro neuronal survival.
+
+[0264] In some embodiments, provided compounds and/or compositions inhibit NADase activity of SARM1. Alternatively or additionally, in some embodiments, provided compounds alleviate one or more attributes of neurodegeneration. In some embodiments, the present disclosure provides methods of treating a neurodegenerative disease or disorder associated with axonal degeneration.
+
+[0265] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, in the practice of medicine. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, to treat, prevent, or ameliorate axonal degeneration (e.g., one or more features or characteristics thereof). In some embodiments, one or more compounds and/or compositions as described herein are useful, for
+example to inhibit axonal degeneration, including axonal degeneration that results from reduction or depletion of NAD+. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example to prevent the axon distal to an axonal injury from degenerating.
+
+[0266] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example as a method for inhibiting the degradation of a peripheral nervous system neuron or a portion thereof. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example as a method for inhibiting or preventing degeneration of a central nervous system (neuron) or a portion thereof. In some embodiments, one or more compounds or compositions as described herein is characterized that, when administered to a population of subjects, reduces one or more symptoms or features of neurodegeneration. For example, in some embodiments, a relevant symptom or feature may be selected from the group consisting of extent, rate, and/or timing of neuronal disruption.
+
+[0267] In certain embodiments, the present disclosure provides compounds that are useful, for example, as analytical tools, as probes in biological assays, or as therapeutic agents in accordance with the present disclosure. Compounds provided by this disclosure are also useful for the study of SARM1 activity in biological and pathological phenomena and the comparative evaluation of new SARM1 activity inhibitors in vitro or in vivo. In certain embodiments, the present disclosure provides assays for identifying and/or characterizing compounds and/or compositions provided herein. In some embodiments, provided assays utilize particular reagents and/or systems (e.g., certain vector constructs and/or polypeptides) useful in assaying SARM1 activity. For example, in some embodiments, provided assays may utilize, for example, a SAM- TIR in which the SARM1 N-terminal auto-inhibitory domain is deleted, and/or one or more tagged versions of a TIR domain.
+
+[0268] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example as a method of for inhibiting the degradation of neurons derived from a subject. In some embodiments, one or more compounds and/or compositions as described herein, are useful for inhibiting the degeneration of a neuron, or portion thereof, cultured in vitro. In some embodiments, one or more compounds and/or compositions as described herein, are useful as stabilizing agents to promote in vitro neuronal survival.
+[0269] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example in affecting biomarkers associated with neurodegeneration. In some embodiments, changes in biomarkers can be detected systemically or with a sample of cerebral spinal fluid (CSF), plasma, serum, and/or tissue from a subject. In some embodiments, one or more compounds and/or compositions can be used to affect a change in the concentration of neurofilament protein light (NF-L) and/or neurofilament protein heavy (NF-H) contained the cerebral spinal fluid of a subject. In some embodiments, one or more compounds and/or compositions as described herein can affect constitutive NAD and/or cADPR levels in neurons and/or axons.
+
+[0270] In some embodiments, one or more compounds and/or compositions as described herein can affect a detectable change in the levels of one or more neurodegeneration-associated proteins in a subject. Such proteins include, but are not limited to, albumin, amyloid-b (Ab)38, Ab40, Ab42, glial fibrillary acid protein (GFAP), heart-type fatty acid binding protein (hFABP), monocyte chemoattractin protein (MCP)-l, neurogranin, neuron specific enolayse (NSE), soluble amyloid precursor protein (sAPP)a, bARRb, soluble triggering receptor expressed on myeloid cells (sTREM) 2, phospho-tau, and/or total-tau. In some embodiments, one or more compounds and/or compositions as described herein can affect a change in cytokines and/or chemokines, including, but not limited to, Ccl2, Ccl7, Ccll2, Csfl, and/or 116.
+
+Diseases, Disorders, and Conditions
+
+[0271] In some embodiments, compounds and/or compositions as described herein may be administered to subjects suffering from one or more diseases, disorders, or conditions.
+
+[0272] In some embodiments, the condition is an acute condition. In some embodiments, the condition is a chronic condition.
+
+[0273] In some embodiments, the condition is characterized by axonal degeneration in the central nervous system, the peripheral nervous system, the optic nerve, the cranial nerves, or a combination thereof.
+
+[0274] In some embodiments, the condition is or comprises acute injury to the central nervous system, e.g., injury to the spinal cord and/or traumatic brain injury. In some embodiments, the condition is or comprises a chronic injury to the central nervous system, e.g.,
+injury to the spinal cord, traumatic brain injury, and/or traumatic axonal injury. In some embodiments, the condition is or comprises chronic traumatic encephalopathy (CTE).
+
+[0275] In some embodiments, the condition is a chronic condition affecting the central nervous system, e.g., Parkinson’s disease, amyotrophic lateral sclerosis, multiple sclerosis, or Huntington disease, Alzheimer’s disease.
+
+[0276] In some embodiments, the condition is an acute peripheral neuropathy.
+
+Chemotherapy-induced peripheral neuropathy (CIPN) is an example of an acute peripheral neuropathy. CIPN can be associated with various drugs, such as, but not limited to, thalidomide, epothilones (e.g., ixabepilone), taxanes (e.g., paclitaxel and docetaxel), vinca alkaloids (e.g., vinblastine, vinorelbine, vincristine, and vindesine), proteasome inhibitors (e.g., bortezomib), platinum-based drugs (e.g., cisplatin, oxaliplatin, and carboplatin).
+
+[0277] In some embodiments, the condition is a chronic condition affecting the peripheral nervous system, e.g., diabetic neuropathy, HIV neuropathy, Charcot Marie Tooth disease, or amyotrophic lateral sclerosis.
+
+[0278] In some embodiments, the condition is an acute condition affecting the optic nerve, e.g., acute optic neuropathy (AON) or acute angle closure glaucoma.
+
+[0279] In some embodiments, the condition is a chronic condition affecting the optic nerve, e.g., Leber’s congenital amaurosis, Leber’s hereditary optic neuropathy, primary open angle glaucoma, and autosomal dominant optic atrophy.
+
+[0280] In some embodiments, one or more compounds and/or compositions as described herein are useful, for example, to treat one or more neurodegenerative diseases, disorders or conditions selected from the group consisting of neuropathies or axonopathies. In some embodiments, one or more compounds and/or compositions as described herein are useful, for example to treat a neuropathy or axonopathy associated with axonal degeneration. In some embodiments, a neuropathy associated with axonal degeneration is a hereditary or congenital neuropathy or axonopathy. In some embodiments, a neuropathy associated with axonal degeneration results from a de novo or somatic mutation. In some embodiments, a neuropathy associated with axonal degeneration is selected from a list contained herein. In some embodiments, a neuropathy or axonopathy is associated with axonal degeneration, including, but not limited to Parkinson’s disease, non-Parkinson’s disease, Alzheimer's disease, Herpes
+infection, diabetes, amyotrophic lateral sclerosis, a demyelinating disease, ischemia or stroke, chemical injury, thermal injury, and AIDS.
+
+[0281] In some embodiments, one or more compounds or compositions as described herein is characterized that, when administered to a population of subjects, reduces one or more symptoms or features of neurodegeneration. For example, in some embodiments, a relevant symptom or feature may be selected from the group consisting of extent, rate, and/or timing of neuronal disruption. In some embodiments, neuronal disruption may be or comprise axonal degradation, loss of synapses, loss of dendrites, loss of synaptic density, loss of dendritic arborization, loss of axonal branching, loss of neuronal density, loss of myelination, loss of neuronal cell bodies, loss of synaptic potentiation, loss of action-potential potentiation, loss of cytoskeletal stability, loss of axonal transport, loss of ion channel synthesis and turnover, loss of neurotransmitter synthesis, loss of neurotransmitter release and reuptake capabilities, loss of axon-potential propagation, neuronal hyperexitability, and/or neuronal hypoexcitability. In some embodiments, neuronal disruption is characterized by an inability to maintain an appropriate resting neuronal membrane potential. In some embodiments, neuronal disruption is characterized by the appearance of inclusion bodies, plaques, and/or neurofibrillary tangles. In some embodiments, neuronal disruption is characterized by the appearance of stress granules. In some embodiments, neuronal disruption is characterized by the intracellular activation of one or more members of the cysteine-aspartic protease (Caspase) family. In some embodiments, neuronal disruption is characterized by a neuron undergoing programed cell death (e.g. apoptosis, pyroptosis, ferroapoptosis, and/or necrosis) and/or inflammation.
+
+[0282] In some embodiments, the neurodegenerative or neurological disease or disorder is associated with axonal degeneration, axonal damage, axonopathy, a demyelinating disease, a central pontine myelinolysis, a nerve injury disease or disorder, a metabolic disease, a mitochondrial disease, metabolic axonal degeneration, axonal damage resulting from a leukoencephalopathy or a leukodystrophy. In some embodiments, the neurodegenerative or neurological disease or disorder is selected from the group consisting of spinal cord injury, stroke, multiple sclerosis, progressive multifocal leukoencephalopathy, congenital hypomyelination, encephalomyelitis, acute disseminated encephalomyelitis, central pontine myelolysis, osmotic hyponatremia, hypoxic demyelination, ischemic demyelination, adrenoleukodystrophy, Alexander's disease, Niemann-Pick disease, Pelizaeus Merzbacher
+disease, periventricular leukomalacia, globoid cell leukodystrophy (Krabbe's disease), Wallerian degeneration, optic neuritis, transverse myelitis, amyotrophic lateral sclerosis (ALS, Lou Gehrig's disease), Huntington's disease, Alzheimer's disease, Parkinson's disease, Tay-Sacks disease, Gaucher's disease, Hurler Syndrome, traumatic brain injury, post radiation injury, neurologic complications of chemotherapy (chemotherapy induced neuropathy; CIPN), neuropathy, acute ischemic optic neuropathy, vitamin B12 deficiency, isolated vitamin E deficiency syndrome, Bassen-Kornzweig syndrome, Glaucoma, Leber's hereditary optic atrophy (neuropathy), Leber congenital amaurosis, neuromyelitis optica, metachromatic leukodystrophy, acute hemorrhagic leukoencephalitis, trigeminal neuralgia, Bell's palsy, cerebral ischemia, multiple system atrophy, traumatic glaucoma, tropical spastic paraparesis human T-lymphotropic virus 1 (HTLV-1) associated myelopathy, west Nile virus encephalopathy, La Crosse virus encephalitis, Bunyavirus encephalitis, pediatric viral encephalitis, essential tremor, Charcot- Marie-Tooth disease, motor neuron disease, spinal muscular atrophy (SMA), hereditary sensory and autonomic neuropathy (HSAN), adrenomyeloneuropathy, progressive supra nuclear palsy (PSP), Friedrich’s ataxia, hereditary ataxias, noise induced hearing loss, congenital hearing loss, Lewy Body Dementia, frontotemporal dementia, amyloidosis, diabetic neuropathy, HIV neuropathy, enteric neuropathies and axonopathies, Guillain-Barre syndrome, severe acute motor axonal neuropathy (AMAN), Creutzfeldt-Jakob disease, transmissible spongiform encephalopathy, spinocerebellar ataxias, pre-eclampsia, hereditary spastic paraplegias, spastic paraparesis, familial spastic paraplegia, French settlement disease, Strumpell-Lorrain disease, and non-alcoholic steatohepatitis (NASH).
+
+[0283] In some embodiments, the present disclosure provides inhibitors of SARMl activity for treatment of neurodegenerative or neurological diseases or disorders that involve axon degeneration or axonopathy. The present disclosure also provides methods of using inhibitors of SARMl activity to treat, prevent or ameliorate axonal degeneration, axonopathies and neurodegenerative or neurological diseases or disorders that involve axonal degeneration.
+
+[0284] In some embodiments, the present disclosure provides methods of treating neurodegenerative or neurological diseases or disorders related to axonal degeneration, axonal damage, axonopathies, demyelinating diseases, central pontine myelinolysis, nerve injury diseases or disorders, metabolic diseases, mitochondrial diseases, metabolic axonal degeneration, axonal damage resulting from a leukoencephalopathy or a leukodystrophy.
+[0285] In some embodiments, neuropathies and axonopathies include any disease or condition involving neurons and/or supporting cells, such as for example, glia, muscle cells or fibroblasts, and, in particular, those diseases or conditions involving axonal damage. Axonal damage can be caused by traumatic injury or by non-mechanical injury due to diseases, conditions, or exposure to toxic molecules or drugs. The result of such damage can be degeneration or dysfunction of the axon and loss of functional neuronal activity. Disease and conditions producing or associated with such axonal damage are among a large number of neuropathic diseases and conditions. Such neuropathies can include peripheral neuropathies, central neuropathies, and combinations thereof. Furthermore, peripheral neuropathic manifestations can be produced by diseases focused primarily in the central nervous systems and central nervous system manifestations can be produced by essentially peripheral or systemic diseases.
+
+[0286] In some embodiments, a peripheral neuropathy can involve damage to the peripheral nerves, and/or can be caused by diseases of the nerves or as the result of systemic illnesses. Some such diseases can include diabetes, uremia, infectious diseases such as AIDs or leprosy, nutritional deficiencies, vascular or collagen disorders such as atherosclerosis, and autoimmune diseases such as systemic lupus erythematosus, scleroderma, sarcoidosis, rheumatoid arthritis, and polyarteritis nodosa. In some embodiments, peripheral nerve degeneration results from traumatic (mechanical) damage to nerves as well as chemical or thermal damage to nerves. Such conditions that injure peripheral nerves include compression or entrapment injuries such as glaucoma, carpal tunnel syndrome, direct trauma, penetrating injuries, contusions, fracture or dislocated bones; pressure involving superficial nerves (ulna, radial, or peroneal) which can result from prolonged use of crutches or staying in one position for too long, or from a tumor; intraneural hemorrhage; ischemia; exposure to cold or radiation or certain medicines or toxic substances such as herbicides or pesticides. In particular, the nerve damage can result from chemical injury due to a cytotoxic anticancer agent such as, for example, taxol, cisplatinin, a proteasome inhibitor, or a vinca alkaloid such as vincristine. Typical symptoms of such peripheral neuropathies include weakness, numbness, paresthesia (abnormal sensations such as burning, tickling, pricking or tingling) and pain in the arms, hands, legs and/or feet. In some embodiments, a neuropathy is associated with mitochondrial dysfunction. Such neuropathies can exhibit decreased energy levels, i.e., decreased levels of NAD and ATP.
+[0287] In some embodiments, peripheral neuropathy is a metabolic and endocrine neuropathy which includes a wide spectrum of peripheral nerve disorders associated with systemic diseases of metabolic origin. These diseases include, for example, diabetes mellitus, hypoglycemia, uremia, hypothyroidism, hepatic failure, polycythemia, amyloidosis, acromegaly, porphyria, disorders of lipid/glycolipid metabolism, nutritional/vitamin deficiencies, and mitochondrial disorders, among others. The common hallmark of these diseases is involvement of peripheral nerves by alteration of the structure or function of myelin and axons due to metabolic pathway dysregulation.
+
+[0288] In some embodiments, neuropathies include optic neuropathies such as glaucoma; retinal ganglion degeneration such as those associated with retinitis pigmentosa and outer retinal neuropathies; optic nerve neuritis and/or degeneration including that associated with multiple sclerosis; traumatic injury to the optic nerve which can include, for example, injury during tumor removal; hereditary optic neuropathies such as Kjer’s disease and Leber’s hereditary optic neuropathy; ischemic optic neuropathies, such as those secondary to giant cell arteritis; metabolic optic neuropathies such as neurodegenerative diseases including Leber’s neuropathy mentioned earlier, nutritional deficiencies such as deficiencies in vitamins B12 or folic acid, and toxicities such as due to ethambutol or cyanide; neuropathies caused by adverse drug reactions and neuropathies caused by vitamin deficiency. Ischemic optic neuropathies also include non- arteritic anterior ischemic optic neuropathy.
+
+[0289] In some embodiments neurodegenerative diseases that are associated with neuropathy or axonopathy in the central nervous system include a variety of diseases. Such diseases include those involving progressive dementia such as, for example, Alzheimer’s disease, senile dementia, Pick’s disease, and Huntington’s disease; central nervous system diseases affecting muscle function such as, for example, Parkinson’s disease, motor neuron diseases and progressive ataxias such as amyotrophic lateral sclerosis; demyelinating diseases such as, for example multiple sclerosis; viral encephalitides such as, for example, those caused by enteroviruses, arboviruses, and herpes simplex virus; and prion diseases. Mechanical injuries such as glaucoma or traumatic injuries to the head and spine can also cause nerve injury and degeneration in the brain and spinal cord. In addition, ischemia and stroke as well as conditions such as nutritional deficiency and chemical toxicity such as with chemotherapeutic agents can cause central nervous system neuropathies.
+[0290] In some embodiments, the present disclosure provides a method of treating a neuropathy or axonopathy associated with axonal degeneration. In some such embodiments, a neuropathy or axonopathy associated with axonal degeneration can be any of a number of neuropathies or axonopathies such as, for example, those that are hereditary or congenital or associated with Parkinson’s disease, Alzheimer's disease, Herpes infection, diabetes, amyotrophic lateral sclerosis, a demyelinating disease, ischemia or stroke, chemical injury, thermal injury, and AIDS. In addition, neurodegenerative diseases not mentioned above as well as a subset of the above mentioned diseases can also be treated with the methods of the present disclosure. Such subsets of diseases can include Parkinson’s disease or non-Parkinson’s diseases, or Alzheimer’s disease.
+
+Subjects
+
+In some embodiments, compounds and/or compositions as described herein are administered to subjects suffering from or susceptible to a disease, disorder or condition as described herein; in some embodiments, such a disease, disorder or condition is characterized by axonal degeneration, such as one of the conditions mentioned herein.
+
+[0291] In some embodiments, a subject to whom a compound or composition is administered as described herein exhibits one or more signs or symptoms associated with axonal degeneration; in some embodiments, the subject does not exhibit any signs or symptoms of neurodegenerati on .
+
+[0292] In some embodiments, provided methods comprise administering a compound of
+
+Formula I to a patient in need thereof. In some such embodiments, the patient is at risk of developing a condition characterized by axonal degeneration. In some embodiments, the patient has a condition characterized by axonal degeneration. In some embodiments, the patient has been diagnosed with a condition characterized by axonal degeneration.
+
+[0293] In some embodiments, provided methods comprise administering a composition as described herein to a patient population of in need thereof. In some embodiments, the population is drawn from individuals who engage in activities where the potential for traumatic neuronal injury is high. In some embodiments, the population is drawn from athletes who engage in contact sports or other high-risk activities.
+
+[0294] In some embodiments, the subject is at risk of developing a condition characterized by axonal degeneration. In some embodiments, the subject is identified as being at
+risk of axonal degeneration, e.g., based on the subject’s genotype, a diagnosis of a condition associated with axonal degeneration, and/or exposure to an agent and/or a condition that induces axonal degeneration.
+
+[0295] In some embodiments, the patient is at risk of developing a neurodegenerative disorder. In some embodiments the patient is elderly. In some embodiments, the patient is known to has a genetic risk factor for neurodegeneration. In some embodiments the patient has In some embodiments, the patient has a family history of neurodegenerative disease. In some embodiments, the patient expresses one or more copies of a known genetic risk factor for neurodegeneration. In some embodiments, the patient is drawn from a population with a high incidence of neurodegeneration. In some embodiments, the patient has a hexanucleotide repeat expansion in chromosome 9 open reading frame 72. In some embodiments, the patient has one or more copies of the ApoE4 allele.
+
+[0296] In some embodiments, subjects to which a compound or composition as described herein is administered may be or comprise subjects suffering from or susceptible to a neurodegenerative disease, disorder or condition. In some embodiments, a neurodegenerative disease, disorder or condition may be or comprise a traumatic neuronal injury. In some embodiments, a traumatic neuronal injury is blunt force trauma, a closed-head injury, an open head injury, exposure to a concussive and/or explosive force, a penetrating injury in to the brain cavity or innervated region of the body. In some embodiments, a traumatic neuronal injury is a force which causes the axons to deform, stretch, crush or sheer.
+
+[0297] In some embodiments, the subject engages in an activity identified as a risk factor for neuronal degradation, e.g., a subject that engages in contact sports or occupations with a high chance for traumatic neuronal injury.
+
+[0298] For example, the subject may be a patient who is receiving, or is prescribed, a chemotherapy associated with peripheral neuropathy. Examples of chemotherapeutic agents include, but not limited to, thalidomide, epothilones (e.g., ixabepilone), taxanes (e.g., paclitaxel and docetaxel), vinca alkaloids (e.g., vinblastine, vinorelbine, vincristine, and vindesine), proteasome inhibitors (e.g., bortezomib), platinum-based drugs (e.g., cisplatin, oxaliplatin, and carboplatin).
+
+[0299] In some embodiments, provided methods comprise administering a composition as described herein to a patient or patient population based on the presence or absence of one or
+more biomarkers. In some embodiments, provided methods further comprise monitoring the level of a biomarker in a patient or patient population and adjusting the dosing regimen accordingly.
+
+Dosing
+
+[0300] Those of skill in the art will appreciate that, in some embodiments, the exact amount of a particular compound included in and/or delivered by administration of a pharmaceutical composition or regimen as described herein may be selected by a medical practitioner and may be different for different subjects, for example, upon consideration of one or more of species, age, and general condition of the subject, and/or identity of the particular compound or composition, its mode of administration, and the like. Alternatively, in some embodiments, the amount of a particular compound included in and/or delivered by administration of a pharmaceutical composition or regimen as described herein may be standardized across a relevant patient population (e.g., all patients, all patients of a particular age or stage of disease or expressing a particular biomarker, etc.).
+
+[0301] A provided compound or composition of the present disclosure is preferably formulated in dosage unit form for ease of administration and uniformity of dosage. The expression "dosage unit form" as used herein refers to a physically discrete unit of agent appropriate for the patient to be treated. It will be understood, however, that the total daily usage of a provided compound or composition of the present disclosure will be decided by the attending physician within the scope of sound medical judgment. The specific effective dose level for any particular patient or organism will depend upon a variety of factors including the disorder being treated and the severity of the disorder; the clinical condition of the individual patient; the cause of the disorder; the activity of the specific compound employed; the specific composition employed; the age, body weight, general health, sex and diet of the patient; the time of administration, delivery site of the agent, route of administration, and rate of excretion of the specific compound employed; the duration of the treatment; drugs used in combination or coincidental with the specific compound employed, and like factors well known in the medical arts. The effective amount of the compound to be administered will be governed by such considerations, and is the minimum amount necessary to inhibit SARM1 activity as required to
+prevent or treat the undesired disease or disorder, such as for example, neurodegeneration or traumatic neural injury.
+
+[0302] A pharmaceutically acceptable composition of this disclosure can be administered to humans and other animals orally, rectally, intravenously, parenterally, intracisternally, intravaginally, intraperitoneally, topically (as by powders, ointments, or drops), bucally, as an oral or nasal spray, or the like, depending on the severity of the disease, disorder or infection being treated. The daily dose is, in certain embodiments, given as a single daily dose or in divided doses two to six times a day, or in sustained release form. This dosage regimen may be adjusted to provide the optimal therapeutic response. The compounds may be administered on a regimen of 1 to 4 times per day, preferably once or twice per day.
+
+[0303] In some embodiments, compositions of the present disclosure may be administered orally, parenterally, by inhalation spray, topically, rectally, nasally, buccally, vaginally or via an implanted reservoir. The term "parenteral" as used herein includes subcutaneous, intravenous, intramuscular, intra-articular, intra- synovial, intrasternal, intrathecal, intrahepatic, intradermal, intraocular, intralesional and intracranial injection or infusion techniques. Preferably, the compositions are administered orally, intraperitoneally or intravenously.
+
+[0304] In some embodiments, pharmaceutically acceptable compositions of this disclosure may also be administered topically, especially when the target of treatment includes areas or organs readily accessible by topical application, including diseases of the eye, the skin, or the lower intestinal tract. Suitable topical formulations are readily prepared for each of these areas or organs.
+
+[0305] Most preferably, pharmaceutically acceptable compositions of this disclosure are formulated for oral administration. Such formulations may be administered with or without food. In some embodiments, pharmaceutically acceptable compositions of this disclosure are administered without food. In other embodiments, pharmaceutically acceptable compositions of this disclosure are administered with food.
+
+[0306] Those additional agents may be administered separately from a provided compound or composition thereof, as part of a multiple dosage regimen. Alternatively, those agents may be part of a single dosage form, mixed together with a provided compound in a single composition. If administered as part of a multiple dosage regime, the two active agents
+may be submitted simultaneously, sequentially or within a period of time from one another, normally within five hours from one another.
+
+[0307] It should also be understood that a specific dosage and treatment regimen for any particular patient may depend upon a variety of factors, including the activity of the specific compound employed, the age, body weight, general health, sex, diet, time of administration, rate of excretion, drug combination, and the judgment of the treating physician and the severity of the particular disease being treated. In some embodiments, the amount of a compound of the present disclosure in the composition will also depend upon the particular compound in the composition.
+
+[0308] In some embodiments, SARM1 inhibition as described herein may be utilized in combination with one or more other therapies to treat a relevant disease, disorder, or condition. In some embodiments, dosing of a SARM1 inhibitor is altered when utilized in combination therapy as compared with when administered as monotherapy; alternatively or additionally, in some embodiments, a therapy that is administered in combination with SARM1 inhibition as described herein is administered according to a regimen or protocol that differs from its regimen or protocol when administered alone or in combination with one or more therapies other than SARM1 inhibition. In some embodiments, compositions which comprise an additional therapeutic agent, that additional therapeutic agent and a provided compound may act synergistically. In some embodiments, one or both therapies utilized in a combination regimen is administered at a lower level or less frequently than when it is utilized as monotherapy.
+
+[0309] In some embodiments, compounds and/or compositions described herein are administered with a chemotherapeutic agent including, but not limited to, alkylating agents, anthracyclines, taxanes, epothilones, histone deacetylase inhibitors, topoisomerase inhibitors, kinase inhibitors, nucleotide analogs, peptide antibiotics, platinum-based agents, retinoids, vinca alkaloids and derivatives. In some embodiments, compounds and/or compositions described herein are administered in combination with PARP inhibitors.
+
+EXEMPLIFICATION
+
+[0310] The present teachings including descriptions provided in the Examples that are not intended to limit the scope of any claim. Unless specifically presented in the past tense, inclusion in the Examples is not intended to imply that the experiments were actually performed.. The following non-limiting examples are provided to further illustrate the present teachings.
+Those of skill in the art, in light of the present disclosure, will appreciate that many changes can be made in the specific embodiments that are disclosed and still obtain a like or similar result without departing from the spirit and scope of the present teachings.
+
+Methods.
+
+[0311] Some methods and compositions described herein utilize laboratory techniques well known to skilled artisans, and can be found in laboratory manuals such as Sambrook, J., et ah, Molecular Cloning: A Laboratory Manual, 3rd ed. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y., 2001; Methods In Molecular Biology, ed. Richard, Humana Press, NJ, 1995; Spector, D. L. et ah, Cells: A Laboratory Manual, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y., 1998; and Harlow, E., Using Antibodies: A Laboratory Manual, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y., 1999. Methods of administration of pharmaceuticals and dosage regimes, can be determined according to standard principles of pharmacology, using methods provided by standard reference texts such as Remington: the Science and Practice of Pharmacy (Alfonso R. Gennaro ed. 19th ed. 1995); Hardman, J.G., et ah, Goodman & Gilman’s The Pharmacological Basis of Therapeutics, Ninth Edition, McGraw-Hill, 1996; and Rowe, R.C., et ah, Handbook of Pharmaceutical Excipients, Fourth Edition, Pharmaceutical Press, 2003.
+
+Example 1: Characterization of Compounds
+
+[0312] LCMS methods:
+
+[0313] Analytical LC/MS Analysis Method A:
+
+ESI +/- ion mode 100-1000Da
+
+Column: XBridge C18, 50 x 4.6 mm, 3.5 um
+
+Temperature: 40 °C
+
+Gradient:
+
+[![Figure imgf000082_0001](https://patentimages.storage.googleapis.com/99/dd/14/7e062f9b0255c9/imgf000082_0001.png)](https://patentimages.storage.googleapis.com/99/dd/14/7e062f9b0255c9/imgf000082_0001.png)
+
+[0314] Analy ti cal LC/M S Analy si s Method B :
+ESI +/- ion mode 150-850Da
+
+Column: Phenomenex Kinetix-XB C18, Part No. 00D-4498-AN, 2.1 x 100 mm, 1.7 um
+
+Temperature: 40 °C
+
+Gradient:
+
+[![Figure imgf000083_0001](https://patentimages.storage.googleapis.com/ab/33/f3/644fb0bbe3661d/imgf000083_0001.png)](https://patentimages.storage.googleapis.com/ab/33/f3/644fb0bbe3661d/imgf000083_0001.png)
+
+[0315] Analytical LC/MS Analysis Method C:
+
+ESI +/- ion mode 100-1000Da
+
+Column: XBridge C18, 50 x 4.6 mm, 3.5 um
+
+Temperature: 40 °C
+
+Gradient:
+
+[![Figure imgf000083_0002](https://patentimages.storage.googleapis.com/79/8e/67/ca790267be53e3/imgf000083_0002.png)](https://patentimages.storage.googleapis.com/79/8e/67/ca790267be53e3/imgf000083_0002.png)
+
+[0316] Results are presented in Table 1 :
+
+Table 1.
+
+[![Figure imgf000083_0003](https://patentimages.storage.googleapis.com/a0/a9/d5/a21802df4c774b/imgf000083_0003.png)](https://patentimages.storage.googleapis.com/a0/a9/d5/a21802df4c774b/imgf000083_0003.png)
+
+[![Figure imgf000084_0001](https://patentimages.storage.googleapis.com/2c/41/db/a716aa533c3348/imgf000084_0001.png)](https://patentimages.storage.googleapis.com/2c/41/db/a716aa533c3348/imgf000084_0001.png)
+
+[![Figure imgf000085_0001](https://patentimages.storage.googleapis.com/90/97/99/b8f6582ba43af4/imgf000085_0001.png)](https://patentimages.storage.googleapis.com/90/97/99/b8f6582ba43af4/imgf000085_0001.png)
+
+[![Figure imgf000086_0001](https://patentimages.storage.googleapis.com/aa/d9/f7/2d0047cda27c54/imgf000086_0001.png)](https://patentimages.storage.googleapis.com/aa/d9/f7/2d0047cda27c54/imgf000086_0001.png)
+
+[![Figure imgf000087_0001](https://patentimages.storage.googleapis.com/9f/f0/f4/67126e18ea3317/imgf000087_0001.png)](https://patentimages.storage.googleapis.com/9f/f0/f4/67126e18ea3317/imgf000087_0001.png)
+
+[![Figure imgf000088_0001](https://patentimages.storage.googleapis.com/de/81/af/cbdf1d2f5d9481/imgf000088_0001.png)](https://patentimages.storage.googleapis.com/de/81/af/cbdf1d2f5d9481/imgf000088_0001.png)
+
+[![Figure imgf000089_0001](https://patentimages.storage.googleapis.com/3a/f3/ac/b6d2a02c218917/imgf000089_0001.png)](https://patentimages.storage.googleapis.com/3a/f3/ac/b6d2a02c218917/imgf000089_0001.png)
+
+[![Figure imgf000090_0001](https://patentimages.storage.googleapis.com/cf/7a/af/44fc92c123b6d7/imgf000090_0001.png)](https://patentimages.storage.googleapis.com/cf/7a/af/44fc92c123b6d7/imgf000090_0001.png)
+
+[![Figure imgf000091_0001](https://patentimages.storage.googleapis.com/09/64/d2/c0bea11a38e1fd/imgf000091_0001.png)](https://patentimages.storage.googleapis.com/09/64/d2/c0bea11a38e1fd/imgf000091_0001.png)
+
+[![Figure imgf000092_0001](https://patentimages.storage.googleapis.com/4f/56/3b/c2885d4d72c524/imgf000092_0001.png)](https://patentimages.storage.googleapis.com/4f/56/3b/c2885d4d72c524/imgf000092_0001.png)
+
+[![Figure imgf000093_0001](https://patentimages.storage.googleapis.com/fe/26/44/f3d7c5217ea972/imgf000093_0001.png)](https://patentimages.storage.googleapis.com/fe/26/44/f3d7c5217ea972/imgf000093_0001.png)
+
+[![Figure imgf000094_0001](https://patentimages.storage.googleapis.com/8f/3c/e4/5394b6c93f8787/imgf000094_0001.png)](https://patentimages.storage.googleapis.com/8f/3c/e4/5394b6c93f8787/imgf000094_0001.png)
+
+[![Figure imgf000095_0001](https://patentimages.storage.googleapis.com/9e/0b/61/4f34cd4bd52569/imgf000095_0001.png)](https://patentimages.storage.googleapis.com/9e/0b/61/4f34cd4bd52569/imgf000095_0001.png)
+
+[![Figure imgf000096_0001](https://patentimages.storage.googleapis.com/be/20/3d/86a7fa94724ec5/imgf000096_0001.png)](https://patentimages.storage.googleapis.com/be/20/3d/86a7fa94724ec5/imgf000096_0001.png)
+
+Example 2: SAM-TIR SARM1 IC50 Assay
+
+[0317] This Example describes an assay of SAM-TIR NADase activity and use of this assay to measure the efficacy of compounds of Formula I to block SARM1 mediated NAD+ cleavage. This assay is optimized in such a way as to characterize the efficacy of the compounds in Formula I to inhibit SARM1 activity and to calculate an IC50 value for each compound. This assay makes use of a fragment of the SARM1 molecule encompassing the SAM and TIR domains. As demonstrated herein, expression of this fragment without the autoinhibitory N- terminal domain generates a constitutively active enzyme that cleaves NAD+.
+
+[0318] Preparation of SARM1 SAM-TIR lysate (STL)
+
+[0319] NRK1-HEK293T cells refers to a cell line that has been stably e transfected with an FCIV expression vector that expresses human Nicotinamide Riboside Kinase 1 (NRKl), an enzyme that converts the NAD+ biosynthetic precursor nicotinamide riboside (NR) to NMN, the immediate precursor of NAD+. When provided with NR this cell line augments intracellular NAD+ levels and maintains cell viability, when expressing SARMl SAM-TIR . FIG. 2 illustrates that a NRK1-HEK293T stable line with NR supplementation maintains higher NAD+ levels upon SARMl-TIR expression. Data was generated from three independent NAD+ measurements from three independent transfection experiments, and normalized to data from a non-transfected experiment run concurrently. Data are presented as mean ± SEM; Error bars: SEM; \*\*\* P < 0.001 two tailed student’s t-test.
+[0320] NRK1-HEK293T cells represent a cell line that has been stably transfected with an FCIV expression vector that expresses human Nicotinamide Riboside Kinase 1 (NRK1), an enzyme that converts the NAD+ biosynthetic precursor nicotinamide riboside (NR) to NMN, the immediate precursor of NAD+.
+
+[0321] NRK1-HEK293T cells were seeded onto 150 cm2 plates at 20 x 106 cells per plate. The next day, the cells were transfected with 15 pg FCIV-SST (SAM-TIR expression plasmid, SEQ ID NO: 1) using X-TREMEGENE™ 9 DNA Transfection Reagent (Roche product #06365787001).
+
+gtcgacggatcgggagatctcccgatcccctatggtgcactctcagtacaatctgctctgatgccgcatagttaagccagtatctgctccctgc ttgtgtgttggaggtcgctgagtagtgcgcgagcaaaatttaagctacaacaaggcaaggcttgaccgacaattgcatgaagaatctgcttag ggttaggcgttttgcgctgcttcgcgatgtacgggccagatatacgcgttgacattgattattgactagttattaatagtaatcaattacggggtc attagttcatagcccatatatggagttccgcgttacataacttacggtaaatggcccgcctggctgaccgcccaacgacccccgcccattgac gtcaataatgacgtatgttcccatagtaacgccaatagggactttccattgacgtcaatgggtggagtatttacggtaaactgcccacttggca gtacatcaagtgtatcatatgccaagtacgccccctattgacgtcaatgacggtaaatggcccgcctggcattatgcccagtacatgaccttat gggactttcctacttggcagtacatctacgtattagtcatcgctattaccatggtgatgcggttttggcagtacatcaatgggcgtggatagcgg tttgactcacggggatttccaagtctccaccccattgacgtcaatgggagtttgttttggcaccaaaatcaacgggactttccaaaatgtcgtaa caactccgccccattgacgcaaatgggcggtaggcgtgtacggtgggaggtctatataagcagcgcgttttgcctgtactgggtctctctggt tagaccagatctgagcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgccttgagtgcttcaagtagtgt gtgcccgtctgttgtgtgactctggtaactagagatccctcagacccttttagtcagtgtggaaaatctctagcagtggcgcccgaacaggga cttgaaagcgaaagggaaaccagaggagctctctcgacgcaggactcggcttgctgaagcgcgcacggcaagaggcgaggggcggc gactggtgagtacgccaaaaattttgactagcggaggctagaaggagagagatgggtgcgagagcgtcagtattaagcgggggagaatt agatcgcgatgggaaaaaattcggttaaggccagggggaaagaaaaaatataaattaaaacatatagtatgggcaagcagggagctagaa cgattcgcagttaatcctggcctgttagaaacatcagaaggctgtagacaaatactgggacagctacaaccatcccttcagacaggatcaga agaacttagatcattatataatacagtagcaaccctctattgtgtgcatcaaaggatagagataaaagacaccaaggaagctttagacaagat agaggaagagcaaaacaaaagtaagaccaccgcacagcaagcggccgctgatcttcagacctggaggaggagatatgagggacaattg gagaagtgaattatataaatataaagtagtaaaaattgaaccattaggagtagcacccaccaaggcaaagagaagagtggtgcagagaga aaaaagagcagtgggaataggagctttgttccttgggttcttgggagcagcaggaagcactatgggcgcagcgtcaatgacgctgacggt acaggccagacaattattgtctggtatagtgcagcagcagaacaatttgctgagggctattgaggcgcaacagcatctgttgcaactcacagt ctggggcatcaagcagctccaggcaagaatcctggctgtggaaagatacctaaaggatcaacagctcctggggatttggggttgctctgga aaactcatttgcaccactgctgtgccttggaatgctagttggagtaataaatctctggaacagatttggaatcacacgacctggatggagtggg acagagaaattaacaattacacaagcttaatacactccttaattgaagaatcgcaaaaccagcaagaaaagaatgaacaagaattattggaat
+tagataaatgggcaagtttgtggaattggtttaacataacaaattggctgtggtatataaaattattcataatgatagtaggaggcttggtaggttt aagaatagtttttgctgtactttctatagtgaatagagttaggcagggatattcaccattatcgtttcagacccacctcccaaccccgaggggac ccgacaggcccgaaggaatagaagaagaaggtggagagagagacagagacagatccattcgattagtgaacggatcggcactgcgtgc gccaattctgcagacaaatggcagtattcatccacaattttaaaagaaaaggggggattggggggtacagtgcaggggaaagaatagtaga cataatagcaacagacatacaaactaaagaattacaaaaacaaattacaaaaattcaaaattttcgggtttattacagggacagcagagatcc agtttggttaattaagggtgcagcggcctccgcgccgggttttggcgcctcccgcgggcgcccccctcctcacggcgagcgctgccacgt cagacgaagggcgcaggagcgttcctgatccttccgcccggacgctcaggacagcggcccgctgctcataagactcggccttagaaccc cagtatcagcagaaggacattttaggacgggacttgggtgactctagggcactggttttctttccagagagcggaacaggcgaggaaaagt agtcccttctcggcgattctgcggagggatctccgtggggcggtgaacgccgatgattatataaggacgcgccgggtgtggcacagctagt tccgtcgcagccgggatttgggtcgcggttcttgtttgtggatcgctgtgatcgtcacttggtgagttgcgggctgctgggctggccggggct ttcgtggccgccgggccgctcggtgggacggaagcgtgtggagagaccgccaagggctgtagtctgggtccgcgagcaaggttgccct gaactgggggttggggggagcgcacaaaatggcggctgttcccgagtcttgaatggaagacgcttgtaaggcgggctgtgaggtcgttga aacaaggtggggggcatggtgggcggcaagaacccaaggtcttgaggccttcgctaatgcgggaaagctcttattcgggtgagatgggct ggggcaccatctggggaccctgacgtgaagtttgtcactgactggagaactcgggtttgtcgtctggttgcgggggcggcagttatgcggt gccgttgggcagtgcacccgtacctttgggagcgcgcgcctcgtcgtgtcgtgacgtcacccgttctgttggcttataatgcagggtggggc cacctgccggtaggtgtgcggtaggcttttctccgtcgcaggacgcagggttcgggcctagggtaggctctcctgaatcgacaggcgccg gacctctggtgaggggagggataagtgaggcgtcagtttctttggtcggttttatgtacctatcttcttaagtagctgaagctccggttttgaact atgcgctcggggttggcgagtgtgttttgtgaagttttttaggcaccttttgaaatgtaatcatttgggtcaatatgtaattttcagtgttagactagt aaagcttctgcaggtcgactctagaaaattgtccgctaaattctggccgtttttggcttttttgttagacgaagcttgggctgcaggtcgactcta gaggatccGGATCCGCCACCATGTCAgctTGGAGCCACCCACAATTCGAAAAAGGCGGTG
+
+GCTC AGGCGGT GGCTC AGGT GGCTC AGCTTGGAGCC ACCC AC AATTCGAAA AAGGC
+
+GGT GGCTC ATCTGGCGGAGGTGGCGGT GGCTC ATCTGGCGGAGGTGCT AGCgtgcccagc tggaaggaggccgaggttcagacgtggctgcagcagatcggtttctccaagtactgcgagagcttccgggagcagcaggtggatggcga cctgcttctgcggctcacggaggaggaactccagaccgacctgggcatgaaatcgggcatcacccgcaagaggttctttagggagctcac ggagctcaagaccttcgccaactattctacgtgcgaccgcagcaacctggcggactggctgggcagcctggacccgcgcttccgccagta cacctacggcctggtcagctgcggcctggaccgctccctgctgcaccgcgtgtctgagcagcagctgctggaagactgcggcatccacct gggcgtgcaccgcgcccgcatcctcacggcggccagagaaatgctacactccccgctgccctgtactggtggcaaacccagtggggac actccagatgtcttcatcagctaccgccggaactcaggttcccagctggccagtctcctgaaggtgcacctgcagctgcatggcttcagtgtc ttcattgatgtggagaagctggaagcaggcaagttcgaggacaaactcatccagagtgtcatgggtgcccgcaactttgtgttggtgctatca cctggagcactggacaagtgcatgcaagaccatgactgcaaggattgggtgcataaggagattgtgactgctttaagctgcggcaagaaca ttgtgcccatcattgatggcttcgagtggcctgagccccaggtcctgcctgaggacatgcaggctgtgcttactttcaacggtatcaagtggtc
+ccacgaataccaggaggccaccattgagaagatcatccgcttcctgcagggccgctcctcccgggactcatctgcaggctctgacaccagt ttggagggtgctgcacccatgggtccaacctaaactctagaattcgatatcaagcttatcgataatcaacctctggattacaaaatttgtgaaag attgactggtattcttaactatgttgctccttttacgctatgtggatacgctgctttaatgcctttgtatcatgctattgcttcccgtatggctttcatttt ctcctccttgtataaatcctggttgctgtctctttatgaggagttgtggcccgttgtcaggcaacgtggcgtggtgtgcactgtgtttgctgacgc aacccccactggttggggcattgccaccacctgtcagctcctttccgggactttcgctttccccctccctattgccacggcggaactcatcgcc gcctgccttgcccgctgctggacaggggctcggctgttgggcactgacaattccgtggtgttgtcggggaaatcatcgtcctttccttggctg ctcgcctgtgttgccacctggattctgcgcgggacgtccttctgctacgtcccttcggccctcaatccagcggaccttccttcccgcggcctg ctgccggctctgcggcctcttccgcgtcttcgccttcgccctcagacgagtcggatctccctttgggccgcctccccgcatcgataccgtcga cctcgagacctagaaaaacatggagcaatcacaagtagcaatacagcagctaccaatgctgattgtgcctggctagaagcacaagaggag gaggaggtgggttttccagtcacacctcaggtacctttaagaccaatgacttacaaggcagctgtagatcttagccactttttaaaagaaaagg ggggactggaagggctaattcactcccaacgaagacaagatatccttgatctgtggatctaccacacacaaggctacttccctgattggcag aactacacaccagggccagggatcagatatccactgacctttggatggtgctacaagctagtaccagttgagcaagagaaggtagaagaa gccaatgaaggagagaacacccgcttgttacaccctgtgagcctgcatgggatggatgacccggagagagaagtattagagtggaggttt gacagccgcctagcatttcatcacatggcccgagagctgcatccggactgtactgggtctctctggttagaccagatctgagcctgggagct ctctggctaactagggaacccactgcttaagcctcaataaagcttgccttgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggta actagagatccctcagacccttttagtcagtgtggaaaatctctagcagggcccgtttaaacccgctgatcagcctcgactgtgccttctagtt gccagccatctgttgtttgcccctcccccgtgccttccttgaccctggaaggtgccactcccactgtcctttcctaataaaatgaggaaattgca tcgcattgtctgagtaggtgtcattctattctggggggtggggtggggcaggacagcaagggggaggattgggaagacaatagcaggcat gctggggatgcggtgggctctatggcttctgaggcggaaagaaccagctggggctctagggggtatccccacgcgccctgtagcggcgc attaagcgcggcgggtgtggtggttacgcgcagcgtgaccgctacacttgccagcgccctagcgcccgctcctttcgctttcttcccttccttt ctcgccacgttcgccggctttccccgtcaagctctaaatcgggggctccctttagggttccgatttagtgctttacggcacctcgaccccaaaa aacttgattagggtgatggttcacgtagtgggccatcgccctgatagacggtttttcgccctttgacgttggagtccacgttctttaatagtggac tcttgttccaaactggaacaacactcaaccctatctcggtctattcttttgatttataagggattttgccgatttcggcctattggttaaaaaatgag ctgatttaacaaaaatttaacgcgaattaattctgtggaatgtgtgtcagttagggtgtggaaagtccccaggctccccagcaggcagaagtat gcaaagcatgcatctcaattagtcagcaaccaggtgtggaaagtccccaggctccccagcaggcagaagtatgcaaagcatgcatctcaat tagtcagcaaccatagtcccgcccctaactccgcccatcccgcccctaactccgcccagttccgcccattctccgccccatggctgactaatt ttttttatttatgcagaggccgaggccgcctctgcctctgagctattccagaagtagtgaggaggcttttttggaggcctaggcttttgcaaaaa gctcccgggagcttgtatatccattttcggatctgatcagcacgtgttgacaattaatcatcggcatagtatatcggcatagtataatacgacaa ggtgaggaactaaaccatggccaagttgaccagtgccgttccggtgctcaccgcgcgcgacgtcgccggagcggtcgagttctggaccg accggctcgggttctcccgggacttcgtggaggacgacttcgccggtgtggtccgggacgacgtgaccctgttcatcagcgcggtccagg accaggtggtgccggacaacaccctggcctgggtgtgggtgcgcggcctggacgagctgtacgccgagtggtcggaggtcgtgtccac
+gaacttccgggacgcctccgggccggccatgaccgagatcggcgagcagccgtgggggcgggagttcgccctgcgcgacccggccg gcaactgcgtgcacttcgtggccgaggagcaggactgacacgtgctacgagatttcgattccaccgccgccttctatgaaaggttgggcttc ggaatcgttttccgggacgccggctggatgatcctccagcgcggggatctcatgctggagttcttcgcccaccccaacttgtttattgcagctt ataatggttacaaataaagcaatagcatcacaaatttcacaaataaagcatttttttcactgcattctagttgtggtttgtccaaactcatcaatgtat cttatcatgtctgtataccgtcgacctctagctagagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattcca cacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttgcgctcactgcccgc tttccagtcgggaaacctgtcgtgccagctgcattaatgaatcggccaacgcgcggggagaggcggtttgcgtattgggcgctcttccgctt cctcgctcactgactcgctgcgctcggtcgttcggctgcggcgagcggtatcagctcactcaaaggcggtaatacggttatccacagaatca ggggataacgcaggaaagaacatgtgagcaaaaggccagcaaaaggccaggaaccgtaaaaaggccgcgttgctggcgtttttccatag gctccgcccccctgacgagcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagataccaggcgtttcc ccctggaagctccctcgtgcgctctcctgttccgaccctgccgcttaccggatacctgtccgcctttctcccttcgggaagcgtggcgctttct catagctcacgctgtaggtatctcagttcggtgtaggtcgttcgctccaagctgggctgtgtgcacgaaccccccgttcagcccgaccgctg cgccttatccggtaactatcgtcttgagtccaacccggtaagacacgacttatcgccactggcagcagccactggtaacaggattagcagag cgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctga agccagttaccttcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagat tacgcgcagaaaaaaaggatctcaagaagatcctttgatcttttctacggggtctgacgctcagtggaacgaaaactcacgttaagggatttt ggtcatgagattatcaaaaaggatcttcacctagatccttttaaattaaaaatgaagttttaaatcaatctaaagtatatatgagtaaacttggtctg acagttaccaatgcttaatcagtgaggcacctatctcagcgatctgtctatttcgttcatccatagttgcctgactccccgtcgtgtagataacta cgatacgggagggcttaccatctggccccagtgctgcaatgataccgcgagacccacgctcaccggctccagatttatcagcaataaacca gccagccggaagggccgagcgcagaagtggtcctgcaactttatccgcctccatccagtctattaattgttgccgggaagctagagtaagta gttcgccagttaatagtttgcgcaacgttgttgccattgctacaggcatcgtggtgtcacgctcgtcgtttggtatggcttcattcagctccggtt cccaacgatcaaggcgagttacatgatcccccatgttgtgcaaaaaagcggttagctccttcggtcctccgatcgttgtcagaagtaagttgg ccgcagtgttatcactcatggttatggcagcactgcataattctcttactgtcatgccatccgtaagatgcttttctgtgactggtgagtactcaac caagtcattctgagaatagtgtatgcggcgaccgagttgctcttgcccggcgtcaatacgggataataccgcgccacatagcagaactttaa aagtgctcatcattggaaaacgttcttcggggcgaaaactctcaaggatcttaccgctgttgagatccagttcgatgtaacccactcgtgcacc caactgatcttcagcatcttttactttcaccagcgtttctgggtgagcaaaaacaggaaggcaaaatgccgcaaaaaagggaataagggcga cacggaaatgttgaatactcatactcttcctttttcaatattattgaagcatttatcagggttattgtctcatgagcggatacatatttgaatgtattta gaaaaataaacaaataggggttccgcgcacatttccccgaaaagtgccacctgac (SEQ ID NO: 1)
+
+[0322] The cultures were supplemented with 1 mM NR at time of transfection to minimize toxicity from SAM-TIR overexpression. Forty-eight hours after transfection, cells were harvested, pelleted by centrifugation at 1,000 rpm (Sorvall ST 16R centrifuge, Thermo Fisher),
+and washed once with cold PBS (0.01 M phosphate buffered saline NaCl 0.138 M; KC1 0.0027 M; pH 7.4). The cells were resuspended in PBS with protease inhibitors (cOmplete™ protease inhibitor cocktail, Roche product # 11873580001) and cell lysates were prepared by sonication (Branson Sonifer 450, output = 3, 20 episodes of stroke). The lysates were centrifuged (12,000xg for 10 min at 4°C) to remove cell debris and the supernatants (containing SARMl SAM-TIR protein) were stored at -80°C for later use in the in vitro SARMl SAM-TIR NADase assay (see below). Protein concentration was determined by the Bicinchoninic (BCA) method and used to normalize lysate concentrations.
+
+SAM-TIR IC50 assay of Formula I compounds.
+
+[0323] The enzymatic assay was performed in a 384-well polypropylene plate in
+
+Dulbecco’s PBS buffer in a final assay volume of 20 pL. SAM-TIR lysate with a final concentration of 5 pg/mL was pre-incubated with the respective compound at 1% DMSO final assay concentration over 2h at room temperature. The reaction was initiated by addition of 5 pM final assay concentration of NAD+ as substrate. After a 2hr room temperature incubation, the reaction was terminated with 40 pL of stop solution of 7.5% trichloroactetic acid in acetonitrile. The NAD+ and ADPR concentrations were analyzed by a RapidFire High Throughput Mass Spectrometry System (Agilent Technologies, Santa Clara, CA) using an API4000 triple quadrupole mass spectrometer (AB Sciex Framingham, MA).
+
+[0324] Results are presented below in Table 2. Compounds having an activity designated as“A” provided an ICso < lpM; compounds having an activity designated as“B” provided an ICso 1-5 pM; compounds having an activity designated as“C” provided an ICso > 5 pM.
+
+Table 2.
+
+[![Figure imgf000101_0001](https://patentimages.storage.googleapis.com/1d/bf/b0/75b1d02938cbcc/imgf000101_0001.png)](https://patentimages.storage.googleapis.com/1d/bf/b0/75b1d02938cbcc/imgf000101_0001.png)
+
+[![Figure imgf000101_0002](https://patentimages.storage.googleapis.com/03/ce/de/079d06a71d17a1/imgf000101_0002.png)](https://patentimages.storage.googleapis.com/03/ce/de/079d06a71d17a1/imgf000101_0002.png)
+
+[![Figure imgf000102_0002](https://patentimages.storage.googleapis.com/93/b6/71/81f0e43ebd23c5/imgf000102_0002.png)](https://patentimages.storage.googleapis.com/93/b6/71/81f0e43ebd23c5/imgf000102_0002.png)
+
+[![Figure imgf000102_0001](https://patentimages.storage.googleapis.com/50/36/42/f51226612e24f8/imgf000102_0001.png)](https://patentimages.storage.googleapis.com/50/36/42/f51226612e24f8/imgf000102_0001.png)
+
+Example 3: Axonal degeneration index
+
+[0325] This Example illustrates an in vitro axon degeneration assay used to characterize compounds of Formula I. This assay is used to test the efficacy of the compounds of Formula I to prevent axonal degeneration in a mouse dorsal root ganglion (DRG) drop culture.
+
+[0326] Mouse DRG Drop culture: Mouse dorsal root ganglion neurons (DRGs) are dissected out of E12.5 CD1 mice (50 ganglion per embryo) and incubated with 0.5% Trypsin solution containing 0.02% EDTA (Gibco) at 37°C for 15 min. The cells are then triturated by gentle pipetting and washed 3 times with DRG growth medium (Neurobasal medium (Gibco) containing 2% B27 (Invitrogen), 100 ng/ml 2.5S NGF (Harland Bioproducts), 1 mM 5-fluoro- 2’deoxyuridine (Sigma), penicillin, and streptomycin). Cells are suspended in the DRG growth medium. DRG drop cultures are created by spotting 5000 cells/well into the center of each well of a 96-well tissue culture plate coated with poly-D-Lysine (0.1 mg/ml; Sigma) and laminin (3 mg/ml; Invitrogen). Cells are allowed to adhere to the plates in a humidified tissue culture incubator (5% CO2) for 15 min and then DRG growth medium was gently added (100 ml well).
+
+[0327] Axon degeneration assay : Axonal degeneration is stimulated either by manual axonal transection using a scalpel blade, or chemotoxic stimuli. After an appropriate experimental time period, the DRG cultures are fixed in 1% PFA plus sucrose and kept in the
+fridge prior to imaging. Bright-field images of DRG axons and cell bodies are collected using the 20x water immersion lens of a Phenix automated confocal microscope (PerkinElmer) and quantitation of axonal performed using in-house developed scripts (Acapella, PerkinElmer).

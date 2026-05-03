@@ -1,0 +1,152 @@
+Claims (25)
+-----------
+
+What is claimed is:
+
+1. A method of treating cancer in a mammal comprising administering to a mammal in need of cancer treatment an effective anticancer amount of a compound of Formula (I):
+
+[![Figure US10285986-20190514-C00139](https://patentimages.storage.googleapis.com/76/a7/46/460ccc21db4277/US10285986-20190514-C00139.png)](https://patentimages.storage.googleapis.com/76/a7/46/460ccc21db4277/US10285986-20190514-C00139.png)
+
+wherein
+
+R1, R2, R3, and R4 are each independently —H or —X—R;
+
+each X is independently a direct bond or a bridging group, wherein the bridging group is —O—, —S—, —NH—, —C(═O)—, —O—C(═O)—, —C(═O)—O—, —O—C(═O)—O—, or a linker of the formula —W-A-W—, wherein
+
+each W is independently —N(R′)C(═O)—, —C(═O)N(R′)—, —OC(═O)—, —C(═O)O—, —O—, —S—, —S(O)—,
+
+—S(O)2—, —N(R′)—, —C(═O)—, —(CH2)n— where n is 1-10, or a direct bond, wherein each R′ is independently H, (C1-C6)alkyl, or a nitrogen protecting group; and
+
+each A is independently (C1-C20)alkyl, (C2-C16)alkenyl, (C2-C16)alkynyl, (C3-C8)cycloalkyl, (C6-C10)aryl, —(OCH2—CH2)n— where n is 1 to about 20, —C(O)NH(CH2)n—wherein n is 1 to about 6,
+
+—OP(O)(OH)O—, —OP(O)(OH)O(CH2)n— wherein n is 1 to about 6, or (C1-C20)alkyl, (C2-C16)alkenyl, (C2-C16)alkynyl, or —(OCH2—CH2)n— interrupted between two carbons, or between a carbon and an oxygen, with a cycloalkyl, heterocycle, or aryl group;
+
+each R is independently alkyl, alkenyl, alkynyl, heteroalkyl, cycloalkyl, cycloalkenyl, heterocycloalkyl, heterocycloalkenyl, (cycloalkyl)alkyl, (heterocycloalkyl)alkyl, (cycloalkyl)heteroalkyl, (heterocycloalkyl)heteroalkyl, aryl, heteroaryl, (aryl)alkyl, (heteroaryl)alkyl, hydrogen, hydroxy, hydroxyalkyl, alkoxy, (alkoxy)alkyl, alkenyloxy, alkynyloxy, (cycloalkyl)alkoxy, heterocycloalkyloxy, amino, alkylamino, aminoalkyl, acylamino, arylamino, sulfonylamino, sulfinylamino, —CORx, —COORx,
+
+—CONHRx, —NHCORx, —NHCOORx, —NHCONHRx, —N3, —CN, —NC, —NCO, —NO2, —SH,-halo, alkoxycarbonyl, alkylaminocarbonyl, sulfonate, sulfonic acid, alkyl sulfonyl, alkylsulfinyl, aryl sulfonyl, arylsulfinyl, aminosulfonyl, RxS(O)Ry—, RxS(O)2Ry—, RxC(O)N(Rx)Ry—, RxSO2N(Rx)Ry—, RxN(Rx)C(O)Ry—, RxN(Rx)SO2Ry—, RxN(Rx)C(O)N(Rx)Ry—, carboxaldehyde, acyl, acyloxy, —OPO3H2, —OPO3Z2 where Z is an inorganic cation, or saccharide; where each Rx is independently H, OH, alkyl or aryl, and each Ry is independently a group W;
+
+wherein any alkyl or aryl can be optionally substituted with one to four hydroxy, amino, cyano, nitro, or halo groups; or a salt or solvate thereof;
+
+provided that the compound is not deoxynyboquinone (DNQ);
+
+wherein the cancer is thereby treated, cell of the cancer are killed, or the cancer is inhibited from growing.
+
+2. The method of claim 1 wherein the cancer is characterized by tumor cells with elevated NAD(P)H quinone oxidoreductase (NQO1) levels.
+
+3. The method of claim 2 wherein the cancer is breast cancer, lung cancer, pancreatic cancer, or prostate cancer.
+
+4. The method of claim 1 wherein R1 is a (C1-20)alkyl group.
+
+5. The method of claim 1 wherein R2 is a (C1-20)alkyl group.
+
+6. The method of claim 1 wherein R3 is H.
+
+7. The method of claim 1 wherein R4 is a straight chain or branched (C1-20)alkyl group.
+
+8. The method of claim 1 wherein R1 is methyl, R2 is methyl, or R1 and R2 are both methyl.
+
+9. The method of claim 1 further comprising administering a chemotherapeutic agent or an immunotherapeutic agent.
+
+10. The method of claim 9 wherein the chemotherapeutic agent is selected from altretamine, aminoglutethimide, amsacrine, anastrozole, ara-C, L-Asparaginase, avastin, bexxar, bleomycin, busulfan, campath, camptostar, camptothecin, capecitabine, carboplatin, carmustine, cetuximab, chlorambucil, chlormethine, chlorotrianisene, cisplatin, cyclophosphamide, cytarabine, cytoxan, dacarbazine, dactinomycin, daunorubicin, deoxycoformycin, diethylstilbestrol, docetaxel, doxorubicin, droloxafine, dromostanolone propionate, antibodies to EGFR, epirubicin, epothilones, erlotinib, estramustine, estrogen receptor binding agents, 17α-ethinylestradiol, etoposide, exemestane, farnesyl-protein transferase inhibitors, floxuridine, fludarabine phosphate, 5-fluorouracil, fluoxymesterone, flutamide, fulvestrant, gefitinib, gemcitabine, goserelin, hexamethylmelamine, hydroxyprogesterone, hydroxyurea, idarubicin, ifosfamide, imatinib, irinotecan, letrozole, leuprolide, levamisole, lomustine, mechlorethamine, medroxyprogesterone acetate, megestrolacetate, melphalan, 6-mercaptopurine, methotrexate, methylprednisolone, methyltestosterone, mithramycin, mitomycin, Mitomycin-C, mitotane, mitoxantrone, nitrosurea, paclitaxel, pentostatine, pipobroman, plicomycin, porfimer, prednisolone, prednisone, procarbazine, raloxifene, reloxafine, rituximab, SCH 66336, streptozocin, tamoxifen, taxotere, temozolomide, teniposide, testolactone, testosterone, 6-thioguanine, thiotepa, topotecan, toremifene, transplatinum, trastuzumab, triamcinolone, triethylenemelamine, triethylenethiophosphoramine, trisenox, velcade, vinblastine, vincristine, vindesine, vinorelbine, and uracil mustard.
+
+11. The method of claim 1 wherein:
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is 2-methyl-propyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is butyl;
+
+R1 is methyl; R3 is hydrogen; R2 is propyl; and R4 is butyl;
+
+R1 and R4 are methyl; R2 is propyl and R3 is hydrogen;
+
+R1 is propyl; R2 and R4 are methyl and R3 is hydrogen;
+
+R1 and R2 are ethyl; R3 is hydrogen; and R4 is methyl;
+
+R1 is propyl; R2 is methyl; R3 is hydrogen; and R4 is butyl;
+
+R1 and R2 are propyl; R3 is hydrogen; and R4 is butyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is C12alkyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is tert-butyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is hydroxypropyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is 3,3-dimethylbutyl[-CH2CH2C(CH3)2CH3];
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is 3-methybutyl[-CH2CH2CH(CH3)CH3];
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is propyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is n-pentyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is n-hexyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is isopropyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is cyclooctyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is cyclopropyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is methylcyclopropyl;
+
+R1 and R2 are methyl; R3 is hydrogen; and R4 is ethylcyclopropyl;
+
+R2 and R4 are methyl; R3 is hydrogen; and R1 is C12alkyl;
+
+R1 and R4 are methyl; R3 is hydrogen; and R2 is C12alkyl;
+
+R2 is —CH2OPO3Na2; R1 and R4 are methyl; and R3 is hydrogen;
+
+R2 and R4 are methyl; R1 is —CH2OPO3Na2; and R3 is hydrogen;
+
+R1 and R2 are methyl; R4 is —CH2OPO3Na2; and R3 is hydrogen;
+
+R1 and R2 are methyl; R4 is —CH2CH2OPO3Na2; and R3 is hydrogen;
+
+R2 is —CH2OH; R1 and R4 are methyl; and R3 is hydrogen;
+
+R2 and R4 are methyl; R1 is —CH2OH; and R3 is hydrogen;
+
+R1 and R2 are methyl; R4 is —CH2OH; and R3 is hydrogen; or
+
+R1 and R2 are methyl; R4 is —CH2CH2OH; and R3 is hydrogen;
+
+wherein the cancer is characterized by tumor cells with elevated NAD(P)H quinone oxidoreductase (NQO1) levels.
+
+12. The method of claim 11 wherein the cancer is breast cancer, lung cancer, pancreatic cancer, or prostate cancer.
+
+13. The method of claim 12 wherein the lung cancer is Non-Small-Cell Lung Carcinoma.
+
+14. The method of claim 11 further comprising administering a chemotherapeutic agent or an immunotherapeutic agent.
+
+15. The method of claim 14 wherein the chemotherapeutic agent is selected from altretamine, aminoglutethimide, amsacrine, anastrozole, ara-C, L-Asparaginase, avastin, bexxar, bleomycin, busulfan, campath, camptostar, camptothecin, capecitabine, carboplatin, carmustine, cetuximab, chlorambucil, chlormethine, chlorotrianisene, cisplatin, cyclophosphamide, cytarabine, cytoxan, dacarbazine, dactinomycin, daunorubicin, deoxycoformycin, diethylstilbestrol, docetaxel, doxorubicin, droloxafine, dromostanolone propionate, antibodies to EGFR, epirubicin, epothilones, erlotinib, estramustine, estrogen receptor binding agents, 17α-ethinylestradiol, etoposide, exemestane, farnesyl-protein transferase inhibitors, floxuridine, fludarabine phosphate, 5-fluorouracil, fluoxymesterone, flutamide, fulvestrant, gefitinib, gemcitabine, goserelin, hexamethylmelamine, hydroxyprogesterone, hydroxyurea, idarubicin, ifosfamide, imatinib, irinotecan, letrozole, leuprolide, levamisole, lomustine, mechlorethamine, medroxyprogesterone acetate, megestrolacetate, melphalan, 6-mercaptopurine, methotrexate, methylprednisolone, methyltestosterone, mithramycin, mitomycin, Mitomycin-C, mitotane, mitoxantrone, nitrosurea, paclitaxel, pentostatine, pipobroman, plicomycin, porfimer, prednisolone, prednisone, procarbazine, raloxifene, reloxafine, rituximab, SCH 66336, streptozocin, tamoxifen, taxotere, temozolomide, teniposide, testolactone, testosterone, 6-thioguanine, thiotepa, topotecan, toremifene, transplatinum, trastuzumab, triamcinolone, triethylenemelamine, triethylenethiophosphoramine, trisenox, velcade, vinblastine, vincristine, vindesine, vinorelbine, and uracil mustard.
+
+16. A method of treating cancer in a mammal comprising administering to a mammal in need of cancer treatment an effective anticancer amount of the compound IB-DNQ:
+
+[![Figure US10285986-20190514-C00140](https://patentimages.storage.googleapis.com/b9/f9/20/9ab6fc8c7ea5c5/US10285986-20190514-C00140.png)](https://patentimages.storage.googleapis.com/b9/f9/20/9ab6fc8c7ea5c5/US10285986-20190514-C00140.png)
+
+wherein the cancer is thereby treated, cells of the cancer are killed, or the cancer is inhibited from growing.
+
+17. The method of claim 16 wherein the cancer is characterized by tumor cells with elevated NAD(P)H quinone oxidoreductase (NQO1) levels.
+
+18. The method of claim 17 wherein the cancer is breast cancer, lung cancer, pancreatic cancer, or prostate cancer.
+
+19. The method of claim 17 further comprising administering a chemotherapeutic agent or an immunotherapeutic agent.
+
+20. The method of claim 19 wherein the chemotherapeutic agent is selected from altretamine, aminoglutethimide, amsacrine, anastrozole, ara-C, L-Asparaginase, avastin, bexxar, bleomycin, busulfan, campath, camptostar, camptothecin, capecitabine, carboplatin, carmustine, cetuximab, chlorambucil, chlormethine, chlorotrianisene, cisplatin, cyclophosphamide, cytarabine, cytoxan, dacarbazine, dactinomycin, daunorubicin, deoxycoformycin, diethylstilbestrol, docetaxel, doxorubicin, droloxafine, dromostanolone propionate, antibodies to EGFR, epirubicin, epothilones, erlotinib, estramustine, estrogen receptor binding agents, 17α-ethinylestradiol, etoposide, exemestane, farnesyl-protein transferase inhibitors, floxuridine, fludarabine phosphate, 5-fluorouracil, fluoxymesterone, flutamide, fulvestrant, gefitinib, gemcitabine, goserelin, hexamethylmelamine, hydroxyprogesterone, hydroxyurea, idarubicin, ifosfamide, imatinib, irinotecan, letrozole, leuprolide, levamisole, lomustine, mechlorethamine, medroxyprogesterone acetate, megestrolacetate, melphalan, 6-mercaptopurine, methotrexate, methylprednisolone, methyltestosterone, mithramycin, mitomycin, Mitomycin-C, mitotane, mitoxantrone, nitrosurea, paclitaxel, pentostatine, pipobroman, plicomycin, porfimer, prednisolone, prednisone, procarbazine, raloxifene, reloxafine, rituximab, SCH 66336, streptozocin, tamoxifen, taxotere, temozolomide, teniposide, testolactone, testosterone, 6-thioguanine, thiotepa, topotecan, toremifene, transplatinum, trastuzumab, triamcinolone, triethylenemelamine, triethylenethiophosphoramine, trisenox, velcade, vinblastine, vincristine, vindesine, vinorelbine, and uracil mustard.
+
+21. A method of treating cancer in a mammal comprising administering to a mammal in need of cancer treatment an effective anticancer amount of the compound IP-DNQ:
+
+[![Figure US10285986-20190514-C00141](https://patentimages.storage.googleapis.com/ab/4a/9f/bb04aaa4c0e426/US10285986-20190514-C00141.png)](https://patentimages.storage.googleapis.com/ab/4a/9f/bb04aaa4c0e426/US10285986-20190514-C00141.png)
+
+wherein the cancer is thereby treated, cells of the cancer are killed, or the cancer is inhibited from growing.
+
+22. The method of claim 21 wherein the cancer is characterized by tumor cells with elevated NAD(P)H quinone oxidoreductase (NQO1) levels.
+
+23. The method of claim 22 wherein the cancer is breast cancer, lung cancer, pancreatic cancer, or prostate cancer.
+
+24. The method of claim 22 further comprising administering a chemotherapeutic agent or an immunotherapeutic agent.
+
+25. The method of claim 24 wherein the chemotherapeutic agent is selected from altretamine, aminoglutethimide, amsacrine, anastrozole, ara-C, L-Asparaginase, avastin, bexxar, bleomycin, busulfan, campath, camptostar, camptothecin, capecitabine, carboplatin, carmustine, cetuximab, chlorambucil, chlormethine, chlorotrianisene, cisplatin, cyclophosphamide, cytarabine, cytoxan, dacarbazine, dactinomycin, daunorubicin, deoxycoformycin, diethylstilbestrol, docetaxel, doxorubicin, droloxafine, dromostanolone propionate, antibodies to EGFR, epirubicin, epothilones, erlotinib, estramustine, estrogen receptor binding agents, 17α-ethinylestradiol, etoposide, exemestane, farnesyl-protein transferase inhibitors, floxuridine, fludarabine phosphate, 5-fluorouracil, fluoxymesterone, flutamide, fulvestrant, gefitinib, gemcitabine, goserelin, hexamethylmelamine, hydroxyprogesterone, hydroxyurea, idarubicin, ifosfamide, imatinib, irinotecan, letrozole, leuprolide, levamisole, lomustine, mechlorethamine, medroxyprogesterone acetate, megestrolacetate, melphalan, 6-mercaptopurine, methotrexate, methylprednisolone, methyltestosterone, mithramycin, mitomycin, Mitomycin-C, mitotane, mitoxantrone, nitrosurea, paclitaxel, pentostatine, pipobroman, plicomycin, porfimer, prednisolone, prednisone, procarbazine, raloxifene, reloxafine, rituximab, SCH 66336, streptozocin, tamoxifen, taxotere, temozolomide, teniposide, testolactone, testosterone, 6-thioguanine, thiotepa, topotecan, toremifene, transplatinum, trastuzumab, triamcinolone, triethylenemelamine, triethylenethiophosphoramine, trisenox, velcade, vinblastine, vincristine, vindesine, vinorelbine, and uracil mustard.

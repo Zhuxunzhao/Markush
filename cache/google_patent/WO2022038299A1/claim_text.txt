@@ -1,0 +1,71 @@
+Claims
+------
+
+43
+
+CLAIMS A psilocin derivative according to the general formula (I):
+
+[![Figure imgf000044_0001](https://patentimages.storage.googleapis.com/9e/77/a2/03fc3e3bc0e573/imgf000044_0001.png)](https://patentimages.storage.googleapis.com/9e/77/a2/03fc3e3bc0e573/imgf000044_0001.png)
+
+(I), wherein:
+
+R1 is selected from -O-(Ci-i2 alkyl), -O-CH2-phenyl, -CH2-NH2, -CH(-NH2)-CH3, -CH(-NH2)-CH(- CH3)-CH3, -CH(-NH2)-CH2-CH(-CH3)-CH3, -CH(-NH2)-CH(-CH3)-CH2CH3, -CH(-NH2)-CH2CH2-S- CH3, -CH(-NH2)-CH2-SH, -CH(-NH2)-CH2-OH, -CH(-NH2)-CH(-CH3)-OH, -CH(-NH2)-CH2-C(=O)- NH2, -CH(-NH2)-CH2CH2-C(=O)-NH2, -CH(-NH2)-CH2-COOH, -CH(-NH2)-CH2CH2- COOH, -CH(-NH2)-CH2CH2CH2CH2-NH2, -CH(-NH2)-CH2CH2CH2-NH-C(=NH)-NH2, -CH(-NH2)- CH2-(1 H-imidazol-4-yl), -CH(-NH2)-CH2-phenyl, -CH(-NH2)-CH2-(4-hydroxyphenyl), -CH(-NH2)- CH2-(1 H-indol-3-yl), -(pyrrolidin-2-yl), -(4-hydroxypyrrolidin-2-yl), -CH(-NH2)-CH2-S-S-CH2- CH(-NH2)-COOH, -CH(-NH2)-CH2CH2CH2-NH2, -CH(-NH2)-CH2CH2CH2-NH-C(=O)-NH2, -CH2-NH- CH3, -CH(-NH2)-CH2CH2-SH, -CH(-NH2)-CH2CH2-OH, -CH(-NH2)-CH2-(3,4- dihydroxyphenyl), -CH(-NH2)-CH2-(5-hydroxy-1 H-indol-3-yl), -CH2CH2-NH2, -CH2CH2CH2- NH2, -CH(-CH3)-CH2-NH2, -C(-NH2)=CH2, -O-(1-[R4]-3-[(-CH2CH2-N(-R2)-R3)]-1 H-indol-4-yl), -0- (Ci-i2 alkylene)-O-(1-[R4]-3-[(-CH2CH2-N(-R2)-R3)]-1 H-indol-4-yl), -CH(-NH2)-CH2-COO-(1-[R4]-3-[(- CH2CH2-N(-R2)-R3)]-1 H-indol-4-yl), -CH(-NH2)-CH2CH2-COO-(1-[R4]-3-[(-CH2CH2-N(-R2)-R3)]-1 H- indol-4-yl), -CH(-NH2)-CH2-S-S-CH2-CH(-NH2)-COO-(1-[R4]-3-[(-CH2CH2-N(-R2)-R3)]-1 H-indol-4- yl), -O-(5-(aminomethyl)isoxazol-3-yl), and -CH(-NH2)-(3-hydroxy-isoxazol-5-yl);
+
+R2 and R3 are each independently selected from hydrogen, methyl and ethyl, provided that R2 and R3 are not both hydrogen; and
+
+R4 is hydrogen or -C(=0)-0-(Ci-6 alkyl); or a pharmaceutically acceptable salt thereof.
+
+The psilocin derivative according to claim 1 , wherein R1 is -O-(Ci-i2 alkyl) or -O-CH2-phenyl.
+44 The psilocin derivative according to claim 1 , wherein R1 is selected from -CH2-NH2, -CH(-NH2)- CH3, -CH(-NH2)-CH(-CH3)-CH3, -CH(-NH2)-CH2-CH(-CH3)-CH3, -CH(-NH2)-CH(-CH3)-CH2CH3, -CH(-NH2)- CH2CH2-S-CH3, -CH(-NH2)-CH2-SH, -CH(-NH2)-CH2-OH, -CH(-NH2)-CH(-CH3)-OH, -CH(-NH2)-CH2-C(=O)- NH2, -CH(-NH2)-CH2CH2-C(=O)-NH2, -CH(-NH2)-CH2-COOH, -CH(-NH2)-CH2CH2-COOH, -CH(-NH2)- CH2CH2CH2CH2-NH2, -CH(-NH2)-CH2CH2CH2-NH-C(=NH)-NH2, -CH(-NH2)-CH2-(1 H-i midazol-4- yl), -CH(-NH2)-CH2-phenyl, -CH(-NH2)-CH2-(4-hydroxyphenyl), -CH(-NH2)-CH2-(1 H-indol-3-yl), and -(pyrrolidin-2-yl). The psilocin derivative according to claim 1 , wherein R1 is selected from -CH(-NH2)-CH(-CH3)-CH3, -CH(- NH2)-CH2-CH(-CH3)-CH3, -CH(-NH2)-CH(-CH3)-CH2CH3, -CH(-NH2)-CH2CH2-S-CH3, -CH(-NH2)-CH2- SH, -CH(-NH2)-CH2-OH, -CH(-NH2)-CH(-CH3)-OH, -CH(-NH2)-CH2-C(=O)-NH2, -CH(-NH2)-CH2CH2-C(=O)- NH2, -CH(-NH2)-CH2-COOH, -CH(-NH2)-CH2CH2-COOH, -CH(-NH2)-CH2CH2CH2CH2-NH2, -CH(-NH2)- CH2CH2CH2-NH-C(=NH)-NH2, -CH(-NH2)-CH2-(1 H-imidazol-4-yl), -CH(-NH2)-CH2-phenyl, -CH(-NH2)-CH2- (4-hydroxyphenyl), -CH(-NH2)-CH2-(1 H-indol-3-yl), and -(pyrrolidin-2-yl). The psilocin derivative according to claim 1 , wherein R1 is selected from -(4-hydroxypyrrolidin-2- yl), -CH(-NH2)-CH2-S-S-CH2-CH(-NH2)-COOH, -CH(-NH2)-CH2CH2CH2-NH2, -CH(-NH2)-CH2CH2CH2-NH- C(=O)-NH2, -CH2-NH-CH3, -CH(-NH2)-CH2CH2-SH, -CH(-NH2)-CH2CH2-OH, -CH(-NH2)-CH2-(3,4- dihydroxyphenyl), -CH(-NH2)-CH2-(5-hydroxy-1 H-indol-3-yl), -CH2CH2-NH2, -CH2CH2CH2-NH2, -CH(-CH3)- CH2-NH2, and -C(-NH2)=CH2. The psilocin derivative according to any one of claims 1 to 5, wherein R2 and R3 are each methyl. The psilocin derivative according to any one of claims 1 to 5, wherein R2 is methyl and R3 is hydrogen. The psilocin derivative according to any one of claims 1 to 5, wherein R2 is methyl and R3 is ethyl. The psilocin derivative according to any one of claims 1 to 8, wherein R4 is hydrogen. The psilocin derivative according to any one of claims 1 to 8, wherein R4 is -C(=O)-O-(C2-4 alkyl). The psilocin derivative according to claim 1 , wherein said psilocin derivative is a compound of the following formula:
+
+[![Figure imgf000046_0001](https://patentimages.storage.googleapis.com/f5/3e/a6/561afb7fa29374/imgf000046_0001.png)](https://patentimages.storage.googleapis.com/f5/3e/a6/561afb7fa29374/imgf000046_0001.png)
+
+wherein:
+
+R1 is selected from -O-(C2.5 alkyl), -O-CH2-phenyl, -CH2-NH2, -CH(-NH2)-CH2-COOH, and -CH(-NH2)-CH2-(1 H-indol-3-yl);
+
+R2 is methyl or ethyl; and
+
+R3 is methyl or ethyl; or a pharmaceutically acceptable salt thereof. The psilocin derivative according to claim 11, wherein R1 is -O-(C2.5 alkyl) or -O-CH2-phenyl. The psilocin derivative according to claim 11, wherein R1 is selected from -CH2-NH2, -CH(-NH2)-CH2-COOH, and -CH(-NH2)-CH2-(1 H-indol-3-yl). The psilocin derivative according to any one of claims 11 to 13, wherein R2 and R3 are each methyl. The psilocin derivative according to claim 1, wherein said psilocin derivative is selected from any one of the following compounds or a pharmaceutically acceptable salt thereof:
+
+[![Figure imgf000046_0002](https://patentimages.storage.googleapis.com/89/d4/bc/630cf465ebee12/imgf000046_0002.png)](https://patentimages.storage.googleapis.com/89/d4/bc/630cf465ebee12/imgf000046_0002.png)
+
+[![Figure imgf000047_0001](https://patentimages.storage.googleapis.com/7c/a5/51/c1959faacfddae/imgf000047_0001.png)](https://patentimages.storage.googleapis.com/7c/a5/51/c1959faacfddae/imgf000047_0001.png)
+
+The psilocin derivative according to any one of claims 1 to 15, wherein said psilocin derivative is in the form of a pharmaceutically acceptable salt; wherein said pharmaceutically acceptable salt is preferably a fumarate salt, a maleate salt, an oxalate salt, a malate salt, a tartrate salt, or a mesylate salt, more preferably an oxalate salt or a fumarate salt. A pharmaceutical composition comprising at least one psilocin derivative according to any one of claims 1 to 16 and optionally one or more pharmaceutically acceptable excipients. The psilocin derivative according to any one of claims 1 to 16 or the pharmaceutical composition according to claim 17 for use in the treatment of a serotonin 5-HT2A receptor associated disease/disorder. The psilocin derivative for use according to claim 18 or the pharmaceutical composition for use according to claim 18, wherein said psilocin derivative or said pharmaceutical composition is for use in the treatment of an anxiety disorder, attention deficit hyperactivity disorder (ADHD), depression, cluster headache, a
+condition associated with cancer, diminished drive, burn-out, bore-out, migraine, Parkinson's disease, pulmonary hypertension, schizophrenia, an eating disorder, nausea, or vomiting. Use of the psilocin derivative according to any one of claims 1 to 16 in the manufacture of a medicament for the treatment of a serotonin 5-HT2A receptor associated disease/disorder. The use according to claim 20, wherein said disease/disorder is an anxiety disorder, attention deficit hyperactivity disorder (ADHD), depression, cluster headache, a condition associated with cancer, diminished drive, burn-out, bore-out, migraine, Parkinson's disease, pulmonary hypertension, schizophrenia, an eating disorder, nausea, or vomiting. A method of treating a serotonin 5-HT2A receptor associated disease/disorder in a subject in need thereof, the method comprising administering a therapeutically effective amount of the psilocin derivative according to any one of claims 1 to 16 to said subject. The method according to claim 22, wherein said disease/disorder is an anxiety disorder, attention deficit hyperactivity disorder (ADHD), depression, cluster headache, a condition associated with cancer, diminished drive, burn-out, bore-out, migraine, Parkinson's disease, pulmonary hypertension, schizophrenia, an eating disorder, nausea, or vomiting. A method for producing a psilocin derivative according to any one of claims 1 to 16, comprising the steps of:
+
+(a) preparing a suspension of psilocin in a solvent I;
+
+(b) adding an activating agent under a protective gas atmosphere;
+
+(c) adding a derivatization agent;
+
+(d) stirring the mixture under a protective gas atmosphere for at least 3 hours;
+
+(e) stopping the reaction by dilution with solvent;
+
+(f) concentrating the solvent;
+
+(g) dissolving the residue in a solvent II;
+
+(h) extracting with 1 M HCI, water and saturated saline solution;
+
+(I) drying the organic phase over a desiccant at 40-60°C under vacuum;
+
+(j) obtaining the crude product;
+
+(k) purifying the crude product by recrystallization and/or column chromatography;
+
+(l) obtaining the psilocin derivative according to any one of claims 1 to 16. The method according to claim 24, wherein:
+
+(I) the activating agent is a nitrogen base, a carbodiimide, or a combination thereof; preferably wherein the activating agent is triethylamine, diisopropylethylamine, pyridine, 4-dimethylaminopyridine, 1-ethyl-3-(3'-dimethylaminopropyl)carbodiimide hydrochloride, dicyclohexylcarbodiimide, diisopropylcarbodiimide, or a combination thereof; and/or
+48
+
+(ii) the derivatization agent is ethyl chloroformate, di-tert-butyl pyrocarbonate, N-carbobenzoxy-glycine, N-(9-fluorenylmethyloxycarbonyl)-L-tryptophan, 4-benzyl N-carbobenzoxy-L-aspartate, N-carbobenzoxy-L-tryptophan, or N-benzyloxycarbonyl-L-tryptophan; and/or
+
+(iii) the solvent I is tetrahydrofuran, 2-methyltetrahydrofuran, or dioxane; and/or
+
+(iv) the solvent II is ethyl acetate, diethyl ether, dichloromethane, or a combination thereof; and/or
+
+(v) the yield of the psilocin derivative is at least 60 wt-% relative to the starting materials.

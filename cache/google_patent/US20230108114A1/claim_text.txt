@@ -1,0 +1,646 @@
+Claims (56)
+-----------
+
+**1**. A compound of formula I,
+
+[![Figure US20230108114A1-20230406-C00228](https://patentimages.storage.googleapis.com/be/84/8d/4fb693bb7db499/US20230108114A1-20230406-C00228.png)](https://patentimages.storage.googleapis.com/be/84/8d/4fb693bb7db499/US20230108114A1-20230406-C00228.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+A is a 6 membered heterocycle containing 1 N atom substituted with OH and optionally substituted with 0-2 R2;
+
+Z1 is
+
+[![Figure US20230108114A1-20230406-C00229](https://patentimages.storage.googleapis.com/1b/1f/5a/383b5093474b60/US20230108114A1-20230406-C00229.png)](https://patentimages.storage.googleapis.com/1b/1f/5a/383b5093474b60/US20230108114A1-20230406-C00229.png)
+
+ 
+
+when present, W1 is H, CHF2, NHW2, or OCHF2;
+
+when present, W2 is
+
+[![Figure US20230108114A1-20230406-C00230](https://patentimages.storage.googleapis.com/22/ea/8d/ddf569c134f454/US20230108114A1-20230406-C00230.png)](https://patentimages.storage.googleapis.com/22/ea/8d/ddf569c134f454/US20230108114A1-20230406-C00230.png)
+
+ 
+
+when present, R1 is independently selected from hydrogen, halogen, ═O, C1-6alkyl, OC0-6alkyl, C1-6alkylOC1-6alkyl, tetrahydrofuran, cyclopropyl, triazole, thiazole or pyrazole, wherein the C1-6alkyl, OC0-6alkyl, C1-6alkylOC1-6alkyl, tetrahydrofuran, or cyclopropyl are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, or cyclopropyl;
+
+when present, R2 is selected from H or CH3;
+
+each R3 is selected from hydrogen or deuterium;
+
+when present, R6 is H, C1-6alkyl, C(O)C1-6alkyl, C(O)OC1-6alkyl, C(O)C1-6cycloalkyl, C(O)N(C1-6alkyl)2, or S(O)2C1-6alkyl;
+
+when present, R7 is H or ═O;
+
+when present, R9 is H, halogen or CH3;
+
+when present, Z4 is N while Z5 is C, or Z4 is C while Z5 is N;
+
+when present, each X1 is selected from N or CR1, provided no more than one X1 is N;
+
+when present, X2 is independently selected from O, C═O, CHR1, C(R1)2, or NR1, where two X2 in the same ring cannot both be NR1;
+
+when present, t is 1 or 2;
+
+when present, p is 0 or 1; and
+
+when present, q is 1 or 2,
+
+provided that the compound of formula (I) is not:
+
+[![Figure US20230108114A1-20230406-C00231](https://patentimages.storage.googleapis.com/89/0e/07/461cad7806f104/US20230108114A1-20230406-C00231.png)](https://patentimages.storage.googleapis.com/89/0e/07/461cad7806f104/US20230108114A1-20230406-C00231.png)
+
+ 
+
+[![Figure US20230108114A1-20230406-C00232](https://patentimages.storage.googleapis.com/63/54/2e/df3b772e452221/US20230108114A1-20230406-C00232.png)](https://patentimages.storage.googleapis.com/63/54/2e/df3b772e452221/US20230108114A1-20230406-C00232.png)
+
+**2**. A compound of Formula II,
+
+[![Figure US20230108114A1-20230406-C00233](https://patentimages.storage.googleapis.com/2e/14/63/33dc193ed535cd/US20230108114A1-20230406-C00233.png)](https://patentimages.storage.googleapis.com/2e/14/63/33dc193ed535cd/US20230108114A1-20230406-C00233.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+Z1 is
+
+[![Figure US20230108114A1-20230406-C00234](https://patentimages.storage.googleapis.com/06/87/00/5b195d92948cf6/US20230108114A1-20230406-C00234.png)](https://patentimages.storage.googleapis.com/06/87/00/5b195d92948cf6/US20230108114A1-20230406-C00234.png)
+
+ 
+
+when present, W1 is H, CHF2, NHW2, or OCHF2;
+
+when present, W2 is
+
+[![Figure US20230108114A1-20230406-C00235](https://patentimages.storage.googleapis.com/f3/5e/b4/4e04c6243951a2/US20230108114A1-20230406-C00235.png)](https://patentimages.storage.googleapis.com/f3/5e/b4/4e04c6243951a2/US20230108114A1-20230406-C00235.png)
+
+when present, R1 is independently selected from H, halogen, ═O, C1-6alkyl, OC0-6alkyl, C1-6alkylOC1-6alkyl, tetrahydrofuran, cyclopropyl, triazole, thiazole or pyrazole, wherein the C1-6alkyl, OC0-6alkyl, C1-6alkylOC1-6alkyl, tetrahydrofuran, or cyclopropyl are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, or cyclopropyl.
+
+when present, R2 is independently selected from H or CH3;
+
+each R3 is selected from hydrogen or deuterium;
+
+when present, R6 is H, C1-6alkyl, C(O)C1-6alkyl, C(O)C1-6cycloalkyl, C(O)OC1-6alkyl, C(O)N(C1-6alkyl)2, or S(O)2C1-6alkyl;
+
+when present, R7 is H or ═O;
+
+when present R9 is H, halogen, or CH3;
+
+when present, Z4 is N while Z5 is C, or Z4 is C while Z5 is N;
+
+when present, X1 is selected from N or CR1, provided no more than one X1 is N;
+
+when present, X2 is independently selected from O, C═O, CHR1, C(R1)2, or NR1, where two X2 in the same ring cannot both be NR1;
+
+when present, p is 0 or 1;
+
+when present, t is 1 or 2; and
+
+when present, q is 1 or 2.
+
+**3**. The compound of claim 1, of formula Ia:
+
+[![Figure US20230108114A1-20230406-C00236](https://patentimages.storage.googleapis.com/d9/2a/36/139978c9d6bedc/US20230108114A1-20230406-C00236.png)](https://patentimages.storage.googleapis.com/d9/2a/36/139978c9d6bedc/US20230108114A1-20230406-C00236.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+X2 is NR1 or C(R1)2;
+
+R1 is independently selected from H, halogen, ═O, OH, CH3, CF3, OCH3, CH2CH3, CH(CH3)CN, CH2CF3, OCH2CF3, OCH2CH3, OCH2CF3, CH(CH3)OCH3, CH(CH3)2, C(CH3)2CN, cyclopropyl, tetrahydrofuran, triazole, thiazole or pyrazole, wherein the cyclopropyl or tetrahydrofuran are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN or cyclopropyl;
+
+Z4 is N while Z5 is C, or Z4 is C while Z5 is N; and
+
+R9 is H, halogen or CH3.
+
+**4**. The compound of claim 3, or a pharmaceutically acceptable salt thereof, wherein X2 is NR1 or C(R1)2.
+
+**5**. (canceled)
+
+**6**. The compound of claim 3, or a pharmaceutically acceptable salt thereof, wherein Z4 is N and Z5 is C, or Z4 is C and Z5 is N.
+
+**7**. (canceled)
+
+**8**. The compound of claim 1, of formula Ib:
+
+[![Figure US20230108114A1-20230406-C00237](https://patentimages.storage.googleapis.com/a4/07/f8/6fcac51316c51c/US20230108114A1-20230406-C00237.png)](https://patentimages.storage.googleapis.com/a4/07/f8/6fcac51316c51c/US20230108114A1-20230406-C00237.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is independently selected from H, halogen, OH, CH3, CF3, OCH3, CH2CH3, CH(CH3)CN, CH2CF3, OCH2CH3, OCH2CF3, CH(CH3)OCH3, CH(CH3)2, C(CH3)2CN, cyclopropyl, tetrahydrofuran, triazole, thiazole or pyrazole, wherein the cyclopropyl or tetrahydrofuran are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN or cyclopropyl; and
+
+X1 is independently selected from N or CR1, provided no more than one X1 is N.
+
+**9**. The compound of claim 8, or a pharmaceutically acceptable salt thereof, wherein one X1 is N and two X1's are CR1, or wherein all three X1's are CR1.
+
+**10**. (canceled)
+
+**11**. The compound of claim 1, of formula Ic:
+
+[![Figure US20230108114A1-20230406-C00238](https://patentimages.storage.googleapis.com/fc/fd/a1/41f5d95f88b86b/US20230108114A1-20230406-C00238.png)](https://patentimages.storage.googleapis.com/fc/fd/a1/41f5d95f88b86b/US20230108114A1-20230406-C00238.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is independently selected from H, halogen, ═O, OH, CH3, CF3, OCH3, CH2CH3, CH(CH3)CN, CH2CF3, OCH2CF3, OCH2CH3, OCH2CF3, CH(CH3)OCH3, CH(CH3)2, C(CH3)2CN, or cyclopropyl, tetrahydrofuran, triazole, thiazole or pyrazole, wherein the cyclopropyl or tetrahydrofuran are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN or cyclopropyl;
+
+q is 1, or 2; and
+
+X2 is independently selected from O, C═O, NR1, CHR1, or C(R1)2.
+
+**12**. The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein at least one X2 is O.
+
+**13**. The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein at least one X2 is NR1.
+
+**14**. The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein at least one X2 is C(R1)2.
+
+**15**. The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein at least one X2 is CHR1.
+
+**16**. The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein R1 is independently selected from H, CH3, CF3, CH2CH3, CH2CF3, ═O, or CH(CH3)2.
+
+**17**. A The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein q is 1.
+
+**18**. The compound of claim 1, of formula Id:
+
+[![Figure US20230108114A1-20230406-C00239](https://patentimages.storage.googleapis.com/d5/0d/4a/2e427ae44636b9/US20230108114A1-20230406-C00239.png)](https://patentimages.storage.googleapis.com/d5/0d/4a/2e427ae44636b9/US20230108114A1-20230406-C00239.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is independently selected from H, halogen, ═O, OH, CH3, CF3, OCH3, CH2CH3, CH(CH3)CN, CH2CF3, OCH2CF3, OCH2CH3, OCH2CF3, CH(CH3)OCH3, CH(CH3)2, C(CH3)2CN, cyclopropyl, tetrahydrofuran, triazole, thiazole or pyrazole, wherein the cyclopropyl or tetrahydrofuran are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN or cyclopropyl.
+
+**19**. The compound of claim 18, or a pharmaceutically acceptable salt thereof, wherein R1 is H, cyclopropyl, or CH2CF3.
+
+**20**. (canceled)
+
+**21**. (canceled)
+
+**22**. The compound of claim 1, of formula Ie:
+
+[![Figure US20230108114A1-20230406-C00240](https://patentimages.storage.googleapis.com/ea/8a/41/96d1bb25fbca06/US20230108114A1-20230406-C00240.png)](https://patentimages.storage.googleapis.com/ea/8a/41/96d1bb25fbca06/US20230108114A1-20230406-C00240.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+W1 is H, CHF2, NHW2, or OCHF2;
+
+W2 is
+
+[![Figure US20230108114A1-20230406-C00241](https://patentimages.storage.googleapis.com/e2/4c/6d/482b4116ad5f8d/US20230108114A1-20230406-C00241.png)](https://patentimages.storage.googleapis.com/e2/4c/6d/482b4116ad5f8d/US20230108114A1-20230406-C00241.png)
+
+ 
+
+X1 is independently selected from N or CR1, provided no more than one X1 is N;
+
+R1 is independently selected from H, halogen, ═O, OH, CH3, CF3, OCH3, CH2CH3, CH(CH3)CN, CH2CF3, OCH2CF3, OCH2CH3, OCH2CF3, CH(CH3)OCH3, CH(CH3)2, C(CH3)2CN, cyclopropyl, tetrahydrofuran, triazole, thiazole or pyrazole, wherein the cyclopropyl or tetrahydrofuran are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN or cyclopropyl.
+
+R6 is H, C1-6alkyl, C(O)C1-6alkyl, C(O)C1-6cycloalkyl, C(O)OC1-6alkyl, C(O)N(C1-6alkyl)2, or S(O)2C1-6alkyl;
+
+R7 is H or ═O;
+
+R9 is H, halogen or CH3; and
+
+R2 is independently selected from H or CH3.
+
+**23**. The compound of claim 22, or a pharmaceutically acceptable salt thereof,
+
+wherein W2 is
+
+[![Figure US20230108114A1-20230406-C00242](https://patentimages.storage.googleapis.com/c2/3c/b9/9c7887bc59ca22/US20230108114A1-20230406-C00242.png)](https://patentimages.storage.googleapis.com/c2/3c/b9/9c7887bc59ca22/US20230108114A1-20230406-C00242.png)
+
+**24**. The compound of claim 22, or a pharmaceutically acceptable salt thereof, wherein R1 is independently selected from H, F, Cl, ═O, OCH2CF3, OCH3, OCH2CH3, C(CH3)2CN, tetrahydrofuran optionally substituted with cyclopropyl.
+
+**25**. (canceled)
+
+**26**. The compound of claim 22, or a pharmaceutically acceptable salt thereof, wherein R6 is H, CH3, C(O)CH2CH3, C(O)N(CH3)2, C(O)CH3, C(O)OC(CH3)3, S(O)2CH3, C(O)OCH2CH3, C(O)OCH2CH3, C(O)cyclopropyl, or C(O)OCH3.
+
+**27**. (canceled)
+
+**28**. The compound of claim 1, of formula Ie:
+
+[![Figure US20230108114A1-20230406-C00243](https://patentimages.storage.googleapis.com/82/a0/85/ec919a8918a6a1/US20230108114A1-20230406-C00243.png)](https://patentimages.storage.googleapis.com/82/a0/85/ec919a8918a6a1/US20230108114A1-20230406-C00243.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is independently selected from H, halogen, ═O, OH, CH3, CF3, OCH3, CH2CH3, CH(CH3)CN, CH2CF3, OCH2CF3, OCH2CH3, OCH2CF3, CH(CH3)OCH3, CH(CH3)2, C(CH3)2CN, cyclopropyl, tetrahydrofuran, triazole, thiazole or pyrazole, wherein the cyclopropyl or tetrahydrofuran are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN or cyclopropyl;
+
+p is 0 or 1;
+
+R6 is H, C1-6alkyl, C(O)C1-6alkyl, C(O)C1-6cycloalkyl, C(O)OC1-6alkyl, C(O)N(C1-6alkyl)2, or S(O)2C1-6alkyl;
+
+R7 is H or ═O;
+
+R9 is H, halogen or CH3; and
+
+R2 is independently selected from H or CH3.
+
+**29**. The compound of claim 28, or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is independently selected from H, F, Cl, OCH2CF3, CHF2, OCHF2, OCH3, OCH2CH3, or C(CH3)2CN,
+
+R7 is H,
+
+p is 1, and
+
+R6 is H, CH3, C(O)CH2CH3, C(O)N(CH3)2, C(O)CH3, C(O)OC(CH3)3, S(O)2CH3, C(O)OCH2CH3, C(O)OCH2CH3, C(O)cyclopropyl, or C(O)OCH3.
+
+**30**. (canceled)
+
+**31**. (canceled)
+
+**32**. (canceled)
+
+**33**. (canceled)
+
+**34**. (canceled)
+
+**35**. (canceled)
+
+**36**. (canceled)
+
+**37**. The compound of claim 1, of formula Ig:
+
+[![Figure US20230108114A1-20230406-C00244](https://patentimages.storage.googleapis.com/37/5f/1c/671b7bf7b6c28a/US20230108114A1-20230406-C00244.png)](https://patentimages.storage.googleapis.com/37/5f/1c/671b7bf7b6c28a/US20230108114A1-20230406-C00244.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R6 is H, C(O)CH3 or C(O)OC(CH3)3.
+
+**38**. The compound of claim 1, of formula Ih:
+
+[![Figure US20230108114A1-20230406-C00245](https://patentimages.storage.googleapis.com/5a/f2/12/b05c8d79bf1fcb/US20230108114A1-20230406-C00245.png)](https://patentimages.storage.googleapis.com/5a/f2/12/b05c8d79bf1fcb/US20230108114A1-20230406-C00245.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is H or F;
+
+R6 is H or C(O)CH3.
+
+**39**. The compound of claim 1, of formula Ij:
+
+[![Figure US20230108114A1-20230406-C00246](https://patentimages.storage.googleapis.com/e9/d2/cc/c5da0407a3af19/US20230108114A1-20230406-C00246.png)](https://patentimages.storage.googleapis.com/e9/d2/cc/c5da0407a3af19/US20230108114A1-20230406-C00246.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+X1 is independently selected from N or CR1, provided no more than one X1 is N;
+
+R1 is independently selected from H, halogen, ═O, OH, CH3, CF3, OCH3, CH2CH3, CH(CH3)CN, CH2CF3, OCH2CF3, OCH2CH3, OCH2CF3, CH(CH3)OCH3, CH(CH3)2, C(CH3)2CN, cyclopropyl, tetrahydrofuran, triazole, thiazole or pyrazole, wherein the cyclopropyl or tetrahydrofuran are optionally substituted with one to three substituents independently selected from halogen, CH3, CN, cyclopropyl, or ═O, or wherein the triazole, thiazole or pyrazole are optionally substituted with one to three substituents independently selected from halogen, CH3, CN or cyclopropyl; and
+
+R2 is independently selected from H or CH3.
+
+**40**. The compound of claim 39, or a pharmaceutically acceptable salt thereof, wherein R1 is independently selected from H, F, Cl, ═O, OCH2CF3, OCHF2, OCH3, OCH2CH3, C(CH3)2CN, or tetrahydrofuran optionally substituted with cyclopropyl.
+
+**41**. (canceled)
+
+**42**. The compound of claim 1, of formula Ik:
+
+[![Figure US20230108114A1-20230406-C00247](https://patentimages.storage.googleapis.com/35/71/8e/14c4f9b74c1451/US20230108114A1-20230406-C00247.png)](https://patentimages.storage.googleapis.com/35/71/8e/14c4f9b74c1451/US20230108114A1-20230406-C00247.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is H or CH2CF3;
+
+R9 is H, halogen or CH3; and
+
+R2 is independently selected from H or CH3.
+
+**43**. (canceled)
+
+**44**. (canceled)
+
+**45**. The compound of claim 1, of formula Im:
+
+[![Figure US20230108114A1-20230406-C00248](https://patentimages.storage.googleapis.com/0c/34/db/25f93f90e66c50/US20230108114A1-20230406-C00248.png)](https://patentimages.storage.googleapis.com/0c/34/db/25f93f90e66c50/US20230108114A1-20230406-C00248.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is H or OCH2CH3,
+
+R2 is H,
+
+R3 is H or deuterium, and
+
+R9 is H, halogen, or CH3.
+
+**46**. (canceled)
+
+**47**. (canceled)
+
+**48**. (canceled)
+
+**49**. (canceled)
+
+**50**. (canceled)
+
+**51**. (canceled)
+
+**52**. The compound of claim 1, of formula In:
+
+[![Figure US20230108114A1-20230406-C00249](https://patentimages.storage.googleapis.com/6d/0c/18/64d1344d5c3166/US20230108114A1-20230406-C00249.png)](https://patentimages.storage.googleapis.com/6d/0c/18/64d1344d5c3166/US20230108114A1-20230406-C00249.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+X1 is independently selected from N or CR1, provided no more than one X1 is N, and
+
+R1 is H or halogen.
+
+**53**. The compound of claim 1, or a pharmaceutically acceptable salt thereof, which is:
+
+(6-Bromoimidazo[1,2-a]pyridin-2-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(6-Bromoimidazo[1,2-a]pyridin-2-yl)((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+((3S,4S)-3-hydroxy-4-(6-methyl-3,4-dihydroisoquinolin-2(1H)-yl)piperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+((3R,4R)-3-hydroxy-4-(6-methyl-3,4-dihydroisoquinolin-2(1H)-yl)piperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+1-(-4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)pyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(-4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)pyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(-4-((4-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)pyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(-4-((4-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)pyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+6-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2-ethyl-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+6-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2-ethyl-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+6-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2-ethyl-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+6-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2-ethyl-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+1-(-4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-3-fluoropyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(-4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-3-fluoropyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(-4-((4-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-3-fluoropyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(-4-((4-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-3-fluoropyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-3-fluoropyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((4-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-3-fluoropyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((4-(4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxy-2-methylpiperidine-1-carbonyl)pyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((4-(4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxy-2-methylpiperidine-1-carbonyl)pyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((4-(4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxy-2,2-dimethylpiperidine-1-carbonyl)pyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((4-(4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxy-2,2-dimethylpiperidine-1-carbonyl)pyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((4-(-4-(4,4-difluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((5-chloro-4-(-4-(4,4-difluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)pyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+(-4-(4,4-difluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+1-(4-((5-fluoro-4-(-4-(4,4-difluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)pyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+1-(4-((5-chloro-4-(-4-(4,4-difluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)pyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+(-4-(4,4-difluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+1-{4-[(4-{[(1R,4R)-5-(3,4-dihydroisoquinolin-2(1H)-yl)-6-hydroxy-2-azabicyclo[2.2.1]hept-2-yl]carbonyl}-5-fluoropyridin-2-yl)amino]piperidin-1-yl}ethenone,
+
+4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-1-(2,2,2-trifluoroethyl)pyridin-2(1H)-one,
+
+4-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-1-(2,2,2-trifluoroethyl)pyridin-2(1H)-one,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)-2-ethoxyphenyl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)-2-ethoxyphenyl)((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3S,4S)-4-(5-fluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3R,4R)-4-(5-fluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3S,4S)-4-(6-fluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3R,4R)-4-(6-fluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3S,4S)-4-(7-fluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(3-oxa-8-azabicyclo[3.2.1]octane-8-carbonyl)phenyl)((3R,4R)-4-(7-fluoro-3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+((3R,4R or 3S,4S)-3-hydroxy-4-(7-methyl-3,4-dihydroisoquinolin-2(1H)-yl)piperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+((3S,4S or 3R,4R)-3-hydroxy-4-(7-methyl-3,4-dihydroisoquinolin-2(1H)-yl)piperidin-1-yl)(6-(2,2,2-trifluoroethoxy)pyridin-3-yl)methanone,
+
+1-{4-[(5-chloro-4-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}pyridin-2-yl)amino]piperidin-1-yl}ethenone,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(5-(2,2,2-trifluoroethyl)-4,5,6,7-tetrahydropyrazolo[1,5-a]pyrazin-2-yl)methanone,
+
+(6-bromo-8-ethoxyimidazo[1,2-a]pyrazin-2-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(2-(difluoromethyl)pyridin-4-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(2-(difluoromethoxy)pyridin-4-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl][6-(2,4-dimethyl-1,3-thiazol-5-yl)imidazo[1,2-a]pyrimidin-2-yl]methanone,
+
+[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl][6-(1-methyl-1H-pyrazol-5-yl)imidazo[1,2-a]pyrimidin-2-yl]methanone,
+
+[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]{8-[(1R)-1-methoxyethyl]-6-(propan-2-yl)imidazo[1,2-a]pyridin-2-yl}methanone,
+
+[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]{8-[(1R)-1-methoxyethyl]-6-methylimidazo[1,2-a]pyridin-2-yl}methanone,
+
+(4-(1-cyclopropyl-1H-1,2,4-triazol-5-yl)phenyl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(4-(1-cyclopropyl-1H-1,2,4-triazol-5-yl)phenyl)((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+8-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-isopropyl-1,2,3,4-tetrahydro-5H-benzo[e][1,4]diazepin-5-one,
+
+(3-cyclopropyl-4-hydroxyquinolin-7-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+8-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-ethyl-1,2,3,4-tetrahydro-5H-benzo[e][1,4]diazepin-5-one,
+
+8-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-(tetrahydrofuran-3-yl)-1,2,3,4-tetrahydro-5H-benzo[e][1,4]diazepin-5-one,
+
+(6-bromo-5-methylimidazo[1,2-a]pyrimidin-2-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(6-bromo-7-methylimidazo[1,2-a]pyrimidin-2-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(6-bromo-8-((R or S)-1-methoxyethyl)imidazo[1,2-a]pyridin-2-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(6-bromo-7-methoxyimidazo[1,2-a]pyrimidin-2-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(6-bromo-7-hydroxyimidazo[1,2-a]pyrimidin-2-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+(6-bromoimidazo[1,2-a]pyrimidin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl](6-methylimidazo[1,2-a]pyrimidin-2-yl)methanone,
+
+(6-bromo-7-methylimidazo[1,2-a]pyrimidin-3-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(6-bromo-5-methylimidazo[1,2-a]pyrimidin-3-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+2-{2-[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl]imidazo[1,2-a]pyrimidin-6-yl}propanenitrile,
+
+(6-bromo-7-cyclopropylimidazo[1,2-a]pyrimidin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+[6-bromo-7-(propan-2-yl)imidazo[1,2-a]pyrimidin-2-yl][(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+2-cyclopropyl-6-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+2-cyclopropyl-6-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(-6-(trifluoromethyl)-5,6,7,8-tetrahydroimidazo[1,2-a]pyridin-2-yl)methanone,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(-6-(trifluoromethyl)-5,6,7,8-tetrahydroimidazo[1,2-a]pyridin-2-yl)methanone,
+
+6-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2-(-5,5-dimethyltetrahydrofuran-3-yl)-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+6-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2-(-5,5-dimethyltetrahydrofuran-3-yl)-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+1-(4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-3,3-difluoropiperidin-1-yl)ethan-1-one,
+
+1-(4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-methoxypyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+2-(5-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}pyridin-2-yl)-2-methylpropanenitrile,
+
+2-(5-{[(3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}pyridin-2-yl)-2-methylpropanenitrile,
+
+7-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-methyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+7-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-methyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+7-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-methyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+7-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-methyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+7-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4,4-dimethyl-3,4-dihydroquinolin-2(1H)-one,
+
+7-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4,4-dimethyl-3,4-dihydroquinolin-2(1H)-one,
+
+7-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4,4-dimethyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+7-((3R,4R)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4,4-dimethyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+7-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-6-fluoro-4-methyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+7-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-6-fluoro-4-methyl-1,4-dihydro-2H-benzo[d][1,3]oxazin-2-one,
+
+6-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-2,2-dimethyl-2H-benzo[b][1,4]oxazin-3(4H)-one,
+
+8-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-4-(2,2,2-trifluoroethyl)-1,2,3,4-tetrahydro-5H-benzo[e][1,4]diazepin-5-one,
+
+tert-butyl-3-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-8-azabicyclo[3.2.1]octane-8-carboxylate,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(5-fluoro-2-((1-(methylsulfonyl)piperidin-4-yl)amino)pyridin-4-yl)methanone,
+
+ethyl 4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)piperidine-1-carboxylate,
+
+1-(4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-ethoxypyridin-2-yl)amino)piperidin-1-yl)ethan-1-one,
+
+(2-((1-(cyclopropanecarbonyl)piperidin-4-yl)amino)-5-fluoropyridin-4-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+methyl 4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)piperidine-1-carboxylate,
+
+4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-N,N-dimethylpiperidine-1-carboxamide,
+
+1-(4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)piperidin-1-yl)propan-1-one,
+
+4-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-1-methylpiperidin-2-one,
+
+1-(-3-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)pyrrolidin-1-yl)ethan-1-one,
+
+1-(-3-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)pyrrolidin-1-yl)ethan-1-one,
+
+7-[(4-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}-5-fluoropyridin-2-yl)amino]hexahydroindolizin-3(2H)-one,
+
+7-[(4-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}-5-fluoropyridin-2-yl)amino]hexahydroindolizin-3(2H)-one,
+
+7-[(4-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}-5-fluoropyridin-2-yl)amino]hexahydroindolizin-3(2H)-one,
+
+7-[(4-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}-5-fluoropyridin-2-yl)amino]hexahydroindolizin-3(2H)-one,
+
+1-(5-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-2-azabicyclo[2.2.1]heptan-2-yl)ethan-1-one,
+
+1-(5-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-2-azabicyclo[2.2.1]heptan-2-yl)ethan-1-one,
+
+(2-((8-azabicyclo[3.2.1]octan-3-yl)amino)-5-fluoropyridin-4-yl)((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)methanone,
+
+1-(3-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-8-azabicyclo[3.2.1]octan-8-yl)ethan-1-one,
+
+1-((S)-3-(((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)methyl)pyrrolidin-1-yl)ethan-1-one,
+
+1-((1R,5S)-8-((4-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)-5-fluoropyridin-2-yl)amino)-3-azabicyclo[3.2.1]octan-3-yl)ethan-1-one,
+
+1-(2-((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidine-1-carbonyl)imidazo[1,2-a]pyridin-6-yl)cyclopropane-1-carbonitrile,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(4-hydroxy-3-(2,2,2-trifluoroethyl)quinolin-7-yl)methanone,
+
+1-(2-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}imidazo[1,2-a]pyrimidin-6-yl)-2,2-dimethylcyclopropanecarbonitrile,
+
+1-(2-{[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]carbonyl}imidazo[1,2-a]pyrimidin-6-yl)-2,2-dimethylcyclopropanecarbonitrile,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(6-(2-methylcyclopropyl)imidazo[1,2-a]pyrimidin-2-yl)methanone,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(6-(2-methylcyclopropyl)imidazo[1,2-a]pyrimidin-2-yl)methanone,
+
+((3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl)(6-(2-methylcyclopropyl)imidazo[1,2-a]pyrimidin-2-yl)methanone,
+
+(6-chloroimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(6-bromo-3-chloropyrazolo[1,5-a]pyrimidin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(8-bromo-6-methylimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(6-bromo-8-methylimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(8-chloro-6-methylimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+[8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridin-2-yl][(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(8-bromo-6-chloroimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(6-bromo-8-iodoimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(6,8-dichloroimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(6-bromo-8-fluoroimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone,
+
+(6,8-dibromoimidazo[1,2-a]pyridin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone, or
+
+(6-bromopyrazolo[1,5-a]pyrimidin-2-yl)[(3S,4S)-4-(3,4-dihydroisoquinolin-2(1H)-yl)-3-hydroxypiperidin-1-yl]methanone.
+
+**54**. A composition for treating cancer comprising a compound of claim 1, or a pharmaceutically acceptable salt thereof, and a pharmaceutically carrier.
+
+**55**. A method for treating cancer comprising administering to a patient in need thereof a compound of claim 1, or a pharmaceutically acceptable salt thereof.
+
+**56**. (canceled)

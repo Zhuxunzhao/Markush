@@ -1,0 +1,156 @@
+Claims (21)
+-----------
+
+**1**. A compound of formula (I), or a pharmaceutically acceptable salt
+
+[![Figure US20240109886A1-20240404-C00059](https://patentimages.storage.googleapis.com/f0/f9/e9/de394507a2f4ed/US20240109886A1-20240404-C00059.png)](https://patentimages.storage.googleapis.com/f0/f9/e9/de394507a2f4ed/US20240109886A1-20240404-C00059.png)
+
+ 
+
+wherein, R1 is selected from the group consisting of COOH, or a salt thereof, C(O)NR9R10, and C(O)OR11 wherein R9, R10 and R11 are independently selected from the group consisting of hydrogen, optionally substituted C1-C6 alkyl, optionally substituted C2-C6 alkenyl, optionally substituted C2-C6 alkynyl, optionally substituted aryl, optionally substituted heteroaryl and optionally substituted heterocyclyl;
+
+R3 is selected from the group consisting of:
+
+[![Figure US20240109886A1-20240404-C00060](https://patentimages.storage.googleapis.com/eb/15/6a/7f246e288200af/US20240109886A1-20240404-C00060.png)](https://patentimages.storage.googleapis.com/eb/15/6a/7f246e288200af/US20240109886A1-20240404-C00060.png)
+
+ 
+
+wherein ring W, together with the carbon atoms to which it is attached, form an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted fused bicyclic heterocyclic ring or an optionally substituted fused bicyclic heteroaryl ring;
+
+wherein:
+
+(i) ring Y, together with the carbon atoms to which it is attached, form an optionally substituted monocyclic heterocyclic ring or an optionally substituted monocyclic heteroaryl ring; and
+
+ring Z, together with two ring atoms of ring Y, form an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted monocyclic cycloalkyl ring, an optionally substituted monocyclic cycloalkenyl ring or an optionally substituted monocyclic aryl ring, or may be absent; or
+
+(ii) ring Y, together with the carbon atoms to which it is attached, form an optionally substituted phenyl ring; and
+
+ring Z, together with two ring atoms of ring Y, form an optionally substituted monocyclic heterocyclic ring or an optionally substituted monocyclic heteroaryl ring, wherein said monocyclic heterocyclic or heteroaryl ring comprises at least one N ring atom;
+
+wherein ring X, together with the carbon atoms to which it is attached, form:
+
+(a) an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted fused bicyclic heterocyclic ring or an optionally substituted fused bicyclic heteroaryl ring; or
+
+(b) a phenyl ring substituted by a heterocyclic or heteroaryl ring, wherein said phenyl, heterocyclic and/or heteroaryl ring are optionally substituted;
+
+R4 is selected from the group consisting of sulfonamide, urea and NHC(O)R17 wherein R17 is selected from the group consisting of C1-C6 alkyl, C1-C6 haloalkyl, C2-C6 alkenyl, C2-C6 haloalkenyl, C2-C6 alkynyl, C2-C6 haloalkynyl, C3-C6 cycloalkyl, and C3-C6 cycloalkenyl, all of which may be optionally substituted;
+
+R6, R7 and Rs are independently selected from the group consisting of H, OH, protected OH, R19, O-R19, NR18R18′, —C(O)R18, —C(S)R18, —OC(O)R18, —C(O)OR18, —NH(C═O)R18, —C(═O )NR18′, and S(O)nR18, wherein n=0−2 and each R18 and R18′ are independently selected from hydrogen, R19 and optionally substituted C1-C9 alkanoyl, as appropriate; wherein each R19 is independently selected from the group consisting of: C1-C6 alkyl, C1-C6 haloalkyl, C2-C6 alkenyl, C2-C6 haloalkenyl, C2-C6 alkynyl, C2-C6 haloalkynyl, aryl, cycloalkyl, cycloalkenyl, heteroaryl and heterocyclyl, wherein any R19 group is optionally substituted;
+
+wherein the compound of Formula (I) is not:
+
+[![Figure US20240109886A1-20240404-C00061](https://patentimages.storage.googleapis.com/82/6d/7f/b3281fccfcc041/US20240109886A1-20240404-C00061.png)](https://patentimages.storage.googleapis.com/82/6d/7f/b3281fccfcc041/US20240109886A1-20240404-C00061.png)
+
+**2**. The compound of claim 1, wherein the compound of formula (I) is a compound of formula (III):
+
+[![Figure US20240109886A1-20240404-C00062](https://patentimages.storage.googleapis.com/c1/a4/3a/1b29028976b763/US20240109886A1-20240404-C00062.png)](https://patentimages.storage.googleapis.com/c1/a4/3a/1b29028976b763/US20240109886A1-20240404-C00062.png)
+
+**3**. The compound of claim 1, wherein R3 is selected from the group consisting of:
+
+[![Figure US20240109886A1-20240404-C00063](https://patentimages.storage.googleapis.com/f9/38/fb/2c130cbd6d490a/US20240109886A1-20240404-C00063.png)](https://patentimages.storage.googleapis.com/f9/38/fb/2c130cbd6d490a/US20240109886A1-20240404-C00063.png)
+
+ 
+
+wherein ring W, together with the carbon atoms to which it is attached, form an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted fused bicyclic heterocyclic ring or an optionally substituted fused bicyclic heteroaryl ring;
+
+wherein ring Y, together with the carbon atoms to which it is attached, form an optionally substituted monocyclic heterocyclic ring or an optionally substituted monocyclic heteroaryl ring; and ring Z, together with two ring atoms of ring Y, form an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted monocyclic cycloalkyl ring, an optionally substituted monocyclic cycloalkenyl ring or an optionally substituted monocyclic aryl ring, or may be absent; or
+
+wherein ring X, together with the carbon atoms to which it is attached, form an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted fused bicyclic heterocyclic ring or an optionally substituted fused bicyclic heteroaryl ring.
+
+**4**. The compound of claim 1 wherein R3 is selected from the group consisting of:
+
+[![Figure US20240109886A1-20240404-C00064](https://patentimages.storage.googleapis.com/34/b3/f3/a8df5520d360d7/US20240109886A1-20240404-C00064.png)](https://patentimages.storage.googleapis.com/34/b3/f3/a8df5520d360d7/US20240109886A1-20240404-C00064.png)
+
+ 
+
+[![Figure US20240109886A1-20240404-C00065](https://patentimages.storage.googleapis.com/ea/bc/cc/4b509b5fecbe64/US20240109886A1-20240404-C00065.png)](https://patentimages.storage.googleapis.com/ea/bc/cc/4b509b5fecbe64/US20240109886A1-20240404-C00065.png)
+
+ 
+
+[![Figure US20240109886A1-20240404-C00066](https://patentimages.storage.googleapis.com/d5/85/c4/809e682efa5222/US20240109886A1-20240404-C00066.png)](https://patentimages.storage.googleapis.com/d5/85/c4/809e682efa5222/US20240109886A1-20240404-C00066.png)
+
+ 
+
+[![Figure US20240109886A1-20240404-C00067](https://patentimages.storage.googleapis.com/75/c5/55/8a615a86c7144e/US20240109886A1-20240404-C00067.png)](https://patentimages.storage.googleapis.com/75/c5/55/8a615a86c7144e/US20240109886A1-20240404-C00067.png)
+
+**5**. The compound of claim 1, wherein R3 is selected from the group consisting of:
+
+[![Figure US20240109886A1-20240404-C00068](https://patentimages.storage.googleapis.com/eb/a5/d1/b87ac2b3cbc9e8/US20240109886A1-20240404-C00068.png)](https://patentimages.storage.googleapis.com/eb/a5/d1/b87ac2b3cbc9e8/US20240109886A1-20240404-C00068.png)
+
+**6**. The compound of claim 1, wherein R1 is COOH, or a salt thereof, or C(O)OR11 wherein Ru is selected from methyl, ethyl and propyl.
+
+**7**. The compound of claim 1, wherein R4 is selected from the group consisting of:
+
+[![Figure US20240109886A1-20240404-C00069](https://patentimages.storage.googleapis.com/7e/84/90/2047a81bf23f0e/US20240109886A1-20240404-C00069.png)](https://patentimages.storage.googleapis.com/7e/84/90/2047a81bf23f0e/US20240109886A1-20240404-C00069.png)
+
+ 
+
+[![Figure US20240109886A1-20240404-C00070](https://patentimages.storage.googleapis.com/21/3c/a1/63c80ad0bed2dc/US20240109886A1-20240404-C00070.png)](https://patentimages.storage.googleapis.com/21/3c/a1/63c80ad0bed2dc/US20240109886A1-20240404-C00070.png)
+
+**8**. The compound oft wherein R4 is selected from the group consisting of —NHAc, —NHC(P)CH(CH3)2, —NHC(O)CF3 and —NHC(O)CH2CH3.
+
+**9**. The compound of claim 1, wherein R6, R7 and R8 are independently selected from OH and OAc.
+
+**10**. The compound of claim 1, wherein the compound of formula (I) is a compound selected from the group consisting of:
+
+[![Figure US20240109886A1-20240404-C00071](https://patentimages.storage.googleapis.com/37/9c/39/3ebc727170d076/US20240109886A1-20240404-C00071.png)](https://patentimages.storage.googleapis.com/37/9c/39/3ebc727170d076/US20240109886A1-20240404-C00071.png)
+
+ 
+
+and protected forms thereof and analogues thereof wherein the C-2 carboxy group is in the protonated form, sodium salt form or prodrug form and wherein the R4 position is substituted with any —NHC(O)R group wherein R is C1-C4 alkyl or haloalkyl. thereof:
+
+**11**. A compound of formula (I), or a pharmaceutically acceptable salt
+
+[![Figure US20240109886A1-20240404-C00072](https://patentimages.storage.googleapis.com/45/87/e6/298517fb4af9c3/US20240109886A1-20240404-C00072.png)](https://patentimages.storage.googleapis.com/45/87/e6/298517fb4af9c3/US20240109886A1-20240404-C00072.png)
+
+ 
+
+wherein, R1 is selected from the group consisting of COOH, or a salt thereof, C(O)NR9R10, and C(O)OR11 wherein R9, R10 and R11 are independently selected from the group consisting of hydrogen, optionally substituted C1-C6 alkyl, optionally substituted C2-C6 alkenyl, optionally substituted C2-C6 alkynyl, optionally substituted aryl, optionally substituted heteroaryl and optionally substituted heterocyclyl;
+
+R3 is selected from the group consisting of:
+
+[![Figure US20240109886A1-20240404-C00073](https://patentimages.storage.googleapis.com/dd/cf/52/e2efc5d481f8d3/US20240109886A1-20240404-C00073.png)](https://patentimages.storage.googleapis.com/dd/cf/52/e2efc5d481f8d3/US20240109886A1-20240404-C00073.png)
+
+ 
+
+wherein ring W, together with the carbon atoms to which it is attached, form an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted fused bicyclic heterocyclic ring or an optionally substituted fused bicyclic heteroaryl ring;
+
+wherein:
+
+(i) ring Y, together with the carbon atoms to which it is attached, form an optionally substituted monocyclic heterocyclic ring or an optionally substituted monocyclic heteroaryl ring; and
+
+ring Z, together with two ring atoms of ring Y, form an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted monocyclic cycloalkyl ring, an optionally substituted monocyclic cycloalkenyl ring or an optionally substituted monocyclic aryl ring, or may be absent; or
+
+(ii) ring Y, together with the carbon atoms to which it is attached, form an optionally substituted phenyl ring; and
+
+ring Z, together with two ring atoms of ring Y, form an optionally substituted monocyclic heterocyclic ring or an optionally substituted monocyclic heteroaryl ring, wherein said monocyclic heterocyclic or heteroaryl ring comprises at least one N ring atom;
+
+wherein ring X, together with the carbon atoms to which it is attached, form:
+
+(a) an optionally substituted monocyclic heterocyclic ring, an optionally substituted monocyclic heteroaryl ring, an optionally substituted fused bicyclic heterocyclic ring or an optionally substituted fused bicyclic heteroaryl ring; or
+
+(b) a phenyl ring substituted by a heterocyclic or heteroaryl ring, wherein said phenyl, heterocyclic and/or heteroaryl ring are optionally substituted;
+
+R4 is selected from the group consisting of sulfonamide, urea and NHC(O)R17 wherein R17 is selected from the group consisting of C1-C6 alkyl, C1-C6 haloalkyl, C2-C6 alkenyl, C2-C6 haloalkenyl, C2-C6 alkynyl, C2-C6 haloalkynyl, C3-C6 cycloalkyl, and C3-C6 cycloalkenyl, all of which may be optionally substituted;
+
+R6, R7 and R8 are independently selected from the group consisting of H, OH, protected OH, R19, O—R19, NR18R18′, —C(O)R18, —C(S)R18, —OC(O)R18, —C(O)OR18, —NH(C═O)R18, —C(═O)NR18R18′, and S(O)nR18, wherein n=0−2 and each R18 and R18′ are independently selected from hydrogen, R19 and optionally substituted C1-C9 alkanoyl, as appropriate; wherein each R19 is independently selected from the group consisting of: C1-C6 alkyl, C1-C6 haloalkyl, C2-C6 alkenyl, C2-C6 haloalkenyl, C2-C6 alkynyl, C2-C6 haloalkynyl, aryl, cycloalkyl, cycloalkenyl, heteroaryl and heterocyclyl, wherein any R19 group is optionally substituted.
+
+**12**. A pharmaceutical composition comprising an effective amount of a compound of claim 1, or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable carrier, diluent and/or excipient.
+
+**13**. The pharmaceutical composition of claim 12 wherein the pharmaceutical composition is for the treatment or prophylaxis of a disease, disorder or condition caused by viral infection.
+
+**14**. A method of treating a disease, disorder or condition caused by viral infection in a patient including the step of administering an effective amount of a compound of claim 1, or a pharmaceutically effective salt thereof, to the patient.
+
+**15**. The method of claim 14 wherein the disease, disorder or condition is an infection caused by an influenza and/or parainfluenza virus.
+
+**16**. The method of claim 15, wherein the infection is caused by a virus selected from the group consisting of influenza A virus, influenza B virus, influenza C virus, influenza D virus, parainfluenza virus, respiratory syncytial virus (RSV) and human metapneumovirus (hMPV).
+
+**17**. The method of claim 16, wherein the parainfluenza virus is selected from the group consisting of the parainfluenza virus type-1, 2, 3 and 4.
+
+**18**. The method of claim 14 wherein the patient is a domestic or livestock animal or a human.
+
+**19**. A method of modulating viral haemagglutinin and/or neuraminidase function including the step of contacting the viral haemagglutinin- neuraminidase with a compound of claim 1, or a pharmaceutically effective salt thereof.
+
+**20**. The method of claim 19, wherein the modulating is inhibiting and the viral haemagglutinin-neuraminidase is a parainfluenza haemagglutinin-neuraminidase.
+
+**21**.-**22**. (canceled)

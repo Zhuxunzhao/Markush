@@ -1,0 +1,4 @@
+Abstract
+--------
+
+The present invention relates to novel amyloid binding compounds and methods for measuring effects of the compounds, by measuring changes of amyloid plaque level in living patients. More specifically, the present invention relates to a method of using the compounds of this invention as tracers in positron emission tomography (PET) imaging to study amyloid deposits in brain in vivo to allow diagnosis of Alzheimer's disease. Thus, the present invention relates to use of the novel amyloid binding compounds as a diagnostic. The invention further relates to a method of measuring clinical efficacy of Alzheimer's disease therapeutic agents. Specifically, the present invention relates to novel aryl or heteroaryl substituted indole derivatives, compositions, and therapeutic uses and processes for making such compounds.

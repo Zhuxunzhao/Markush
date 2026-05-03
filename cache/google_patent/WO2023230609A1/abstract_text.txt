@@ -1,0 +1,4 @@
+Abstract
+--------
+
+The disclosure generally relates to compounds of Formula I, comprising a 1,6,7,8-tetrahydro-5H-imidazo[4,5-g][1,6]isoquinolin-5-one moiety directly bonded to an azaindole or indole moiety, such compounds as inhibitors of PAD4, methods for preparing these compounds pharmaceutical compositions comprising these compounds and uses of these compounds in the treatment of a disease or a disorder associated with PAD4 enzyme activity.

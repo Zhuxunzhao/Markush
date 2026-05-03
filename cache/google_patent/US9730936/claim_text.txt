@@ -1,0 +1,476 @@
+Claims (22)
+-----------
+
+What is claimed is:
+
+1. A compound of formula (I):
+
+[![Figure US09730936-20170815-C00237](https://patentimages.storage.googleapis.com/ba/b5/bd/c6c2434b728e71/US09730936-20170815-C00237.png)](https://patentimages.storage.googleapis.com/ba/b5/bd/c6c2434b728e71/US09730936-20170815-C00237.png)
+
+ 
+
+wherein
+
+Q is
+
+[![Figure US09730936-20170815-C00238](https://patentimages.storage.googleapis.com/ac/fe/02/c773a26a6b3fb0/US09730936-20170815-C00238.png)](https://patentimages.storage.googleapis.com/ac/fe/02/c773a26a6b3fb0/US09730936-20170815-C00238.png)
+
+ 
+
+X1, X2, and X3 are each independently N or C(R11), provided that, at most 2 of X1, X2, and X3 are N;
+
+R1 is —H, —CN, —ORa, —C(O)ORa, halogen, C1-6alkyl, C3-10cycloalkyl, or C1-6heteroalkyl, wherein each C1-6alkyl, C3-10cycloalkyl, and C1-6heteroalkyl is optionally substituted with 1, 2, 3, 4, or 5 R12 groups, which may be same or different;
+
+R2 is —CN;
+
+R3 is —H, —ORa, —SRa, —NRaRb, —NHC(O)NRaRb, C1-6alkyl, C3-10cycloalkyl, or C1-6 heteroalkyl, wherein each C1-6alkyl, C3-10cycloalkyl, and C1-6heteroalkyl is optionally substituted with 1, 2, 3, 4, or 5 R12 groups, which may be same or different;
+
+R4 is —H or —ORa;
+
+R5 is —H, —ORa, halogen, —NO2, —CN, —NRaRb, —NHC(O)NRaRb, —OC(O)NRaRb, —CH2C(O)NRaRb, C1-6alkyl, C3-10cycloalkyl, or C1-6 heteroalkyl, wherein each C1-6alkyl, C3-10cycloalkyl, and C1-6 heteroalkyl is optionally substituted with 1, 2, 3, 4, or 5 R12 groups, which may be same or different;
+
+R6 is —H;
+
+R7 is C1-6alkyl, halogen, or —ORa;
+
+R8 is C1-6alkyl, halogen, or —ORa;
+
+R9 is —H, C1-6alkyl, or C3-10cycloalkyl, wherein each C1-6alkyl and C3-10cycloalkyl is optionally substituted with 1, 2, 3, 4, or 5 R12 groups, which may be same or different;
+
+R10 is —H, C1-6alkyl, or C3-10cycloalkyl, wherein each C1-6alkyl and C3-10cycloalkyl is optionally substituted with 1, 2, 3, 4, or 5 R12 groups, which may be same or different;
+
+each R11 is independently —H, —CN, —ORa, —C(O)ORa, halogen, C1-6alkyl, C3-10cycloalkyl, or C1-6heteroalkyl, which may be same or different, wherein each C1-6alkyl, C3-10cycloalkyl, and C1-6 heteroalkyl is optionally substituted with 1, 2, 3, 4, or 5 R12 groups, which may be same or different;
+
+each R12 is independently C1-6alkyl, C3-10cycloalkyl, C1-6heteroalkyl, 5-10 membered heterocyclyl, C6-10aryl, 5-10 membered heteroaryl, halogen, —ORa, —C(O)Ra, —C(O)ORa, —C(O)NRaRb, —OC(O)NRaRb, —NRaC(O)ORb, —SRa, —S(O)1-2Ra, —S(O)2F, —S(O)2NRaRb, —NRaS(O)2Rb, —N3, —CN, or —NO2; wherein each C1-6alkyl, C3-10cycloalkyl, C1-6heteroalkyl, and 5-10 membered heterocyclyl is optionally substituted with 1, 2, 3, 4, or 5 substituents selected from halogen, —ORa, —C(O)Ra, —C(O)ORa, —C(O)NRaRb, —OC(O)NRaRb, —NRaC(O)ORb, —SRa, —S(O)1-2Ra, —S(O)2F, —S(O)2NRaRb, —NRaS(O)2Rb, —N3, —CN, and —NO2, groups, which may be same or different;
+
+each Ra and Rb is independently —H, —NH2, C1-6alkyl, C3-10cycloalkyl, C1-6heteroalkyl, 5-10 membered heterocyclyl, C6-10aryl, or 5-10 membered heteroaryl, wherein each C1-6alkyl, C3-10cycloalkyl, C1-6heteroalkyl, 5-10 membered heterocyclyl, C6-10aryl, and 5-10 membered heteroaryl is optionally substituted with 1, 2, 3, 4, or 5 R13 groups, which may be same or different; or Ra and Rb together with the atoms to which they are attached form a 5-10 membered heterocycle; and
+
+each R13 is independently —CN, halogen, C1-6alkyl, C3-10cycloalkyl, C1-6heteroalkyl, or 5-10 membered heterocyclyl,
+
+or a tautomer or a pharmaceutically acceptable salt thereof.
+
+2. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein Q is
+
+[![Figure US09730936-20170815-C00239](https://patentimages.storage.googleapis.com/3f/9a/30/a890fc5d5533bf/US09730936-20170815-C00239.png)](https://patentimages.storage.googleapis.com/3f/9a/30/a890fc5d5533bf/US09730936-20170815-C00239.png)
+
+3. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein X1, X2, and X3 are each CH.
+
+4. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein X1 is N; X2 is CH; and X3 is CH.
+
+5. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein X1, X2, and X3 are C(R11); each R11 are independently selected from —H, —CN, —ORa, halogen, and C1-6alkyl; and R1 is selected from —H, —CN, —ORa, halogen, and C1-6alkyl.
+
+6. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R3 is —H, —ORa, —NRaRb, —NHC(O)NRaRb, C1-6 alkyl, or C1-6 heteroalkyl.
+
+7. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R3 is —NH2 or —OH.
+
+8. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R4 is —H and R5 is —H, —ORa, halogen, —NO2, —CN, —NRaRb, —NHC(O)NRaRb, or C1-6alkyl.
+
+9. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R4 and R5 are —H.
+
+10. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R7 is C1-6alkyl.
+
+11. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R8 is C1-6alkyl.
+
+12. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R7 and R8 are C1-6alkyl.
+
+13. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R7 and R8 are methyl.
+
+14. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R9 is —H or C1-6alkyl.
+
+15. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, wherein R10 is —H or C1-6alkyl.
+
+16. The compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, Q is selected from
+
+[![Figure US09730936-20170815-C00240](https://patentimages.storage.googleapis.com/ab/e2/56/5d54495da3cf9d/US09730936-20170815-C00240.png)](https://patentimages.storage.googleapis.com/ab/e2/56/5d54495da3cf9d/US09730936-20170815-C00240.png)
+
+17. A compound of claim 1, wherein the compound is selected from the group consisting of:
+
+Structure
+Compound ID
+
+ 
+
+ 
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00241](https://patentimages.storage.googleapis.com/82/7c/cf/877d24c786a650/US09730936-20170815-C00241.png)](https://patentimages.storage.googleapis.com/82/7c/cf/877d24c786a650/US09730936-20170815-C00241.png)
+
+ 
+ 1;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00242](https://patentimages.storage.googleapis.com/1b/48/69/87a6b41301d02c/US09730936-20170815-C00242.png)](https://patentimages.storage.googleapis.com/1b/48/69/87a6b41301d02c/US09730936-20170815-C00242.png)
+
+ 
+ 2;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00243](https://patentimages.storage.googleapis.com/61/4d/fc/e6533031844d8c/US09730936-20170815-C00243.png)](https://patentimages.storage.googleapis.com/61/4d/fc/e6533031844d8c/US09730936-20170815-C00243.png)
+
+ 
+ 3;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00244](https://patentimages.storage.googleapis.com/b8/45/41/ab02252941ba3f/US09730936-20170815-C00244.png)](https://patentimages.storage.googleapis.com/b8/45/41/ab02252941ba3f/US09730936-20170815-C00244.png)
+
+ 
+ 4;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00245](https://patentimages.storage.googleapis.com/30/33/13/95cb476f7910c1/US09730936-20170815-C00245.png)](https://patentimages.storage.googleapis.com/30/33/13/95cb476f7910c1/US09730936-20170815-C00245.png)
+
+ 
+ 5;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00246](https://patentimages.storage.googleapis.com/5d/de/6c/81330d9b57df59/US09730936-20170815-C00246.png)](https://patentimages.storage.googleapis.com/5d/de/6c/81330d9b57df59/US09730936-20170815-C00246.png)
+
+ 
+ 6;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00247](https://patentimages.storage.googleapis.com/18/0e/5b/17b537efdc267e/US09730936-20170815-C00247.png)](https://patentimages.storage.googleapis.com/18/0e/5b/17b537efdc267e/US09730936-20170815-C00247.png)
+
+ 
+ 7;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00248](https://patentimages.storage.googleapis.com/1d/4d/50/fdf0bc2ecc1a5d/US09730936-20170815-C00248.png)](https://patentimages.storage.googleapis.com/1d/4d/50/fdf0bc2ecc1a5d/US09730936-20170815-C00248.png)
+
+ 
+ 8;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00249](https://patentimages.storage.googleapis.com/d0/21/f5/0830dcf4635e70/US09730936-20170815-C00249.png)](https://patentimages.storage.googleapis.com/d0/21/f5/0830dcf4635e70/US09730936-20170815-C00249.png)
+
+ 
+ 9;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00250](https://patentimages.storage.googleapis.com/e7/d1/54/913510306a1128/US09730936-20170815-C00250.png)](https://patentimages.storage.googleapis.com/e7/d1/54/913510306a1128/US09730936-20170815-C00250.png)
+
+ 
+10;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00251](https://patentimages.storage.googleapis.com/59/f5/26/abeb2f933b147e/US09730936-20170815-C00251.png)](https://patentimages.storage.googleapis.com/59/f5/26/abeb2f933b147e/US09730936-20170815-C00251.png)
+
+ 
+11;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00252](https://patentimages.storage.googleapis.com/2f/61/f0/68983c57d71ad1/US09730936-20170815-C00252.png)](https://patentimages.storage.googleapis.com/2f/61/f0/68983c57d71ad1/US09730936-20170815-C00252.png)
+
+ 
+12;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00253](https://patentimages.storage.googleapis.com/30/bd/47/8492924a93d7a5/US09730936-20170815-C00253.png)](https://patentimages.storage.googleapis.com/30/bd/47/8492924a93d7a5/US09730936-20170815-C00253.png)
+
+ 
+13;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00254](https://patentimages.storage.googleapis.com/6a/35/58/bf38389c8283dc/US09730936-20170815-C00254.png)](https://patentimages.storage.googleapis.com/6a/35/58/bf38389c8283dc/US09730936-20170815-C00254.png)
+
+ 
+14;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00255](https://patentimages.storage.googleapis.com/7d/05/c7/82a6ce894404b8/US09730936-20170815-C00255.png)](https://patentimages.storage.googleapis.com/7d/05/c7/82a6ce894404b8/US09730936-20170815-C00255.png)
+
+ 
+15;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00256](https://patentimages.storage.googleapis.com/ea/36/11/eef22bae7912b6/US09730936-20170815-C00256.png)](https://patentimages.storage.googleapis.com/ea/36/11/eef22bae7912b6/US09730936-20170815-C00256.png)
+
+ 
+16;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00257](https://patentimages.storage.googleapis.com/2d/c1/79/da8bb9642df490/US09730936-20170815-C00257.png)](https://patentimages.storage.googleapis.com/2d/c1/79/da8bb9642df490/US09730936-20170815-C00257.png)
+
+ 
+17;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00258](https://patentimages.storage.googleapis.com/83/8a/4d/afc1d779a38a59/US09730936-20170815-C00258.png)](https://patentimages.storage.googleapis.com/83/8a/4d/afc1d779a38a59/US09730936-20170815-C00258.png)
+
+ 
+18;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00259](https://patentimages.storage.googleapis.com/29/7f/c5/8a6b0b374e828b/US09730936-20170815-C00259.png)](https://patentimages.storage.googleapis.com/29/7f/c5/8a6b0b374e828b/US09730936-20170815-C00259.png)
+
+ 
+19;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00260](https://patentimages.storage.googleapis.com/60/0e/71/a19273234cac48/US09730936-20170815-C00260.png)](https://patentimages.storage.googleapis.com/60/0e/71/a19273234cac48/US09730936-20170815-C00260.png)
+
+ 
+20;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00261](https://patentimages.storage.googleapis.com/8d/d0/44/0b41f6f8e80b03/US09730936-20170815-C00261.png)](https://patentimages.storage.googleapis.com/8d/d0/44/0b41f6f8e80b03/US09730936-20170815-C00261.png)
+
+ 
+21;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00262](https://patentimages.storage.googleapis.com/8a/26/37/91b30857ae7bcd/US09730936-20170815-C00262.png)](https://patentimages.storage.googleapis.com/8a/26/37/91b30857ae7bcd/US09730936-20170815-C00262.png)
+
+ 
+22;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00263](https://patentimages.storage.googleapis.com/d6/fd/da/7106e3dabcd234/US09730936-20170815-C00263.png)](https://patentimages.storage.googleapis.com/d6/fd/da/7106e3dabcd234/US09730936-20170815-C00263.png)
+
+ 
+23;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00264](https://patentimages.storage.googleapis.com/2b/df/74/b8b6a417120777/US09730936-20170815-C00264.png)](https://patentimages.storage.googleapis.com/2b/df/74/b8b6a417120777/US09730936-20170815-C00264.png)
+
+ 
+24;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00265](https://patentimages.storage.googleapis.com/45/c5/81/e56db864be84f4/US09730936-20170815-C00265.png)](https://patentimages.storage.googleapis.com/45/c5/81/e56db864be84f4/US09730936-20170815-C00265.png)
+
+ 
+25;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00266](https://patentimages.storage.googleapis.com/46/78/72/9c5e886352b55a/US09730936-20170815-C00266.png)](https://patentimages.storage.googleapis.com/46/78/72/9c5e886352b55a/US09730936-20170815-C00266.png)
+
+ 
+26;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00267](https://patentimages.storage.googleapis.com/85/ca/47/7f4008e57c4776/US09730936-20170815-C00267.png)](https://patentimages.storage.googleapis.com/85/ca/47/7f4008e57c4776/US09730936-20170815-C00267.png)
+
+ 
+27;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00268](https://patentimages.storage.googleapis.com/78/b8/9f/76bcd2a4831f69/US09730936-20170815-C00268.png)](https://patentimages.storage.googleapis.com/78/b8/9f/76bcd2a4831f69/US09730936-20170815-C00268.png)
+
+ 
+28;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00269](https://patentimages.storage.googleapis.com/e8/c5/7f/86bf362af96794/US09730936-20170815-C00269.png)](https://patentimages.storage.googleapis.com/e8/c5/7f/86bf362af96794/US09730936-20170815-C00269.png)
+
+ 
+29;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00270](https://patentimages.storage.googleapis.com/57/f5/be/993f5715bc3ade/US09730936-20170815-C00270.png)](https://patentimages.storage.googleapis.com/57/f5/be/993f5715bc3ade/US09730936-20170815-C00270.png)
+
+ 
+30;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00271](https://patentimages.storage.googleapis.com/92/5f/f5/a32a74de3526c3/US09730936-20170815-C00271.png)](https://patentimages.storage.googleapis.com/92/5f/f5/a32a74de3526c3/US09730936-20170815-C00271.png)
+
+ 
+31;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00272](https://patentimages.storage.googleapis.com/b1/6b/29/236cbc77e6b645/US09730936-20170815-C00272.png)](https://patentimages.storage.googleapis.com/b1/6b/29/236cbc77e6b645/US09730936-20170815-C00272.png)
+
+ 
+32;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00273](https://patentimages.storage.googleapis.com/03/3e/05/ab4d66bdfab9e1/US09730936-20170815-C00273.png)](https://patentimages.storage.googleapis.com/03/3e/05/ab4d66bdfab9e1/US09730936-20170815-C00273.png)
+
+ 
+33;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00274](https://patentimages.storage.googleapis.com/d6/80/22/2e0c1a58aacfe2/US09730936-20170815-C00274.png)](https://patentimages.storage.googleapis.com/d6/80/22/2e0c1a58aacfe2/US09730936-20170815-C00274.png)
+
+ 
+34;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00275](https://patentimages.storage.googleapis.com/3e/79/cd/165e70badbed9d/US09730936-20170815-C00275.png)](https://patentimages.storage.googleapis.com/3e/79/cd/165e70badbed9d/US09730936-20170815-C00275.png)
+
+ 
+35;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00276](https://patentimages.storage.googleapis.com/fe/a8/4a/c0eb8d1c48bdaa/US09730936-20170815-C00276.png)](https://patentimages.storage.googleapis.com/fe/a8/4a/c0eb8d1c48bdaa/US09730936-20170815-C00276.png)
+
+ 
+36;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00277](https://patentimages.storage.googleapis.com/56/c7/76/e1f9fd28df3950/US09730936-20170815-C00277.png)](https://patentimages.storage.googleapis.com/56/c7/76/e1f9fd28df3950/US09730936-20170815-C00277.png)
+
+ 
+37;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00278](https://patentimages.storage.googleapis.com/75/e1/85/c2b9f1549425ea/US09730936-20170815-C00278.png)](https://patentimages.storage.googleapis.com/75/e1/85/c2b9f1549425ea/US09730936-20170815-C00278.png)
+
+ 
+38;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00279](https://patentimages.storage.googleapis.com/29/ad/4c/78f6d4bb5f3873/US09730936-20170815-C00279.png)](https://patentimages.storage.googleapis.com/29/ad/4c/78f6d4bb5f3873/US09730936-20170815-C00279.png)
+
+ 
+39;
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00280](https://patentimages.storage.googleapis.com/1d/95/59/44750f7f756370/US09730936-20170815-C00280.png)](https://patentimages.storage.googleapis.com/1d/95/59/44750f7f756370/US09730936-20170815-C00280.png)
+
+ 
+40; and
+
+ 
+
+ 
+
+[![Figure US09730936-20170815-C00281](https://patentimages.storage.googleapis.com/2e/0a/68/36ae08107fc41b/US09730936-20170815-C00281.png)](https://patentimages.storage.googleapis.com/2e/0a/68/36ae08107fc41b/US09730936-20170815-C00281.png)
+
+ 
+41,
+
+ 
+
+or a tautomer or a pharmaceutically acceptable salt thereof.
+
+18. A pharmaceutical composition comprising a compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable carrier.
+
+19. The pharmaceutical composition of claim 18, further comprising one, two, three, or four additional therapeutic agents.
+
+20. The pharmaceutical composition of claim 19, wherein the therapeutic agent is independently selected from the group consisting of HIV protease inhibiting compounds, HIV non-nucleoside inhibitors of reverse transcriptase, HIV nucleoside inhibitors of reverse transcriptase, HIV nucleotide inhibitors of reverse transcriptase, HIV integrase inhibitors, gp41 inhibitors, CXCR4 inhibitors, gp120 inhibitors, CCR5 inhibitors, capsid polymerization inhibitors, and other drugs for treating HIV, and combinations thereof.
+
+21. A method for treating an HIV infection in a subject comprising administering to the subject a compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof.
+
+22. A method for treating an HIV infection in a subject comprising administering to the subject in need thereof a compound of claim 1, or a tautomer or a pharmaceutically acceptable salt thereof, in combination with a therapeutically effective amount of one or more additional therapeutic agents selected from the group consisting of HIV protease inhibiting compounds, HIV non-nucleoside inhibitors of reverse transcriptase, HIV nucleoside inhibitors of reverse transcriptase, HIV nucleotide inhibitors of reverse transcriptase, HIV integrase inhibitors, gp41 inhibitors, CXCR4 inhibitors, gp120 inhibitors, CCR5 inhibitors, capsid polymerization inhibitors, and other drugs for treating or preventing HIV, and combinations thereof.

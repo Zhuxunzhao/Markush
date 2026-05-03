@@ -1,0 +1,88 @@
+Claims
+------
+
+Claims
+
+1 . A compound of formula (I) or a stereoisomer, or tautomer thereof,
+
+[![Figure imgf000114_0001](https://patentimages.storage.googleapis.com/99/48/54/336fb2ea55ae4b/imgf000114_0001.png)](https://patentimages.storage.googleapis.com/99/48/54/336fb2ea55ae4b/imgf000114_0001.png)
+
+wherein,
+
+R1 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, - C(O)NH(CR8R9)tR10, -C(O)R11, -CR12R13NH(CR14R15)WR16, -COOR11, -S(O)2R11, -SO2NR6R7, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl and heteroarylalkyl; wherein said cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one or more Z1; wherein t is an integer selected from 0, 1 , 2, 3 or 4; wherein w is an integer selected from 0, 1 , 2, 3 or 4;
+
+R2 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, C(O)NH(CR8R9)nR10, -C(O)R11, -CR12R13NH(CR14R15)mR16, -COOR11, -S(O)2R11, -SO2NR6R7, cycloalkyl, aryl, heterocyclyl, and heteroaryl; wherein said cycloalkyl, aryl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z2; wherein n is an integer selected from 0, 1 , 2, 3 or 4; wherein m is an integer selected from 0, 1 , 2, 3 or 4;
+
+R3 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, NO2, - C(O)NH(CR8R9)pR10, -C(O)R11, -CR12R13NH(CR14R15)qR16, -COOR11, -S(O)2R11, and -SO2NR6R7, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl and heteroarylalkyl; wherein said cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one or more Z3; wherein p is an integer selected from 0, 1 , 2, 3 or 4; wherein q is an integer selected from 0, 1 , 2, 3 or 4;
+
+R4 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, NO2, - C(O)NH(CR8R9)yR10, -C(O)R11, -CR12R13NH(CR14R15)zR16, -COOR11, -S(O)2R11, and -SO2NR6R7, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl and heteroarylalkyl; wherein said cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl,
+heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one or more Z4; wherein y is an integer selected from 0, 1 , 2, 3 or 4; wherein z is an integer selected from 0, 1 , 2, 3 or 4; wherein at least one of R1 to R4 is not hydrogen; each R6 and R7 is independently selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl, and heteroarylalkyl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one or more Z1a; each R8, R9, R12, R13, R14 and R15 is selected from the group consisting of hydrogen, halogen, hydroxyl, amino, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl, and heteroarylalkyl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one or more Z1 b; each R10, R11 and R16 is selected from the group consisting of heterocyclyl, -NR6R7, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl, and heteroarylalkyl; wherein said heterocyclyl, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one or more Z1c; each R17 is independently selected from the group consisting of, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl; each R18 and R19 is independently selected from the group consisting of hydrogen, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl; each Z1, Z2, Z3, Z4, Z1a, and Z1 b is independently selected from the group consisting of halo, haloalkyl, alkyl, haloalkyloxy, cycloalkyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, -OR17, cyano, amino, -NR17R18, -C(O)2R18, -C(O)NR18R19, -C(O)R17, -S(O)R18, -S(O)2R18, -S(O)2NR18R19, nitro; each Z1c is independently selected from the group consisting of halo, haloalkyl, alkyl, haloalkyloxy, cycloalkyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, -OR17, cyano, amino, -NR17R18, -C(O)2R18, -C(O)NR18R19, -S(O)R18, -S(O)2R18, -S(O)2NR18R19, nitro;
+
+[![Figure imgf000115_0001](https://patentimages.storage.googleapis.com/97/14/81/1a1d12788932f0/imgf000115_0001.png)](https://patentimages.storage.googleapis.com/97/14/81/1a1d12788932f0/imgf000115_0001.png)
+
+wherein when R1 is , then R3 is not H, Cl or -C(O)R11; or a solvate, hydrate, pharmaceutically acceptable salt, or prodrug thereof;
+with the proviso that said compound is not
+
+[![Figure imgf000116_0001](https://patentimages.storage.googleapis.com/41/f2/02/9233a88eef1fab/imgf000116_0001.png)](https://patentimages.storage.googleapis.com/41/f2/02/9233a88eef1fab/imgf000116_0001.png)
+
+[![Figure imgf000116_0002](https://patentimages.storage.googleapis.com/9e/14/8d/abbf1f42348422/imgf000116_0002.png)](https://patentimages.storage.googleapis.com/9e/14/8d/abbf1f42348422/imgf000116_0002.png)
+
+2. The compound according to claim 1 , having structural formula (IA),
+
+[![Figure imgf000116_0003](https://patentimages.storage.googleapis.com/8b/c2/22/3a3d65aa63100f/imgf000116_0003.png)](https://patentimages.storage.googleapis.com/8b/c2/22/3a3d65aa63100f/imgf000116_0003.png)
+
+wherein R1 and R3 have the same meaning as that defined in claim 1.
+
+3. The compound according to claims 1 or 2, having structural formula (HA), (IIB) (IIC) or (HD),
+
+[![Figure imgf000116_0004](https://patentimages.storage.googleapis.com/6e/1c/b5/376186e057edc8/imgf000116_0004.png)](https://patentimages.storage.googleapis.com/6e/1c/b5/376186e057edc8/imgf000116_0004.png)
+
+( )
+wherein n, m, R1, R3, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, and R16 have the same meaning as that defined in claim 1. he compound according to claims 1 to 3, wherein,
+
+R1 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, - C(O)NH(CR8R9)tR10, -C(O)R11, -CR12R13NH(CR14R15)WR16, aryl, heterocyclyl, and heteroaryl; wherein said aryl, heterocyclyl, heterocyclylalkyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one, two or three Z1; wherein t is an integer selected from 1 , 2, or 3; wherein w is an integer selected from 1 , 2, or 3;
+
+R2 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, NO2, - C(O)NH(CR8R9)nR10, -C(O)R11, -CR12R13NH(CR14R15)mR16, aryl, heterocyclyl, and heteroaryl; wherein said aryl, heterocyclyl, heterocyclylalkyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one, two or three Z2; wherein n is an integer selected from 1 , 2, or 3; wherein m is an integer selected from 1 , 2, or 3;
+
+R3 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, - C(O)NH(CR8R9)PR10, -C(O)R11, -CR12R13NH(CR14R15)qR16, -COOR11, -S(O)2R11, and -SC>2NR6R7, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl and heteroarylalkyl; wherein said aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one, two or three Z3; wherein p is an integer selected from 1 , 2, or 3; wherein q is an integer selected from 1 , 2, or 3;
+
+R4 is selected from the group consisting of hydrogen, -NR6R7, amino, NO2, -NR6R7, halo, - C(O)NH(CR8R9)yR10, -C(O)R11, -CR12R13NH(CR14R15)ZR16, -COOR11, -S(O)2R11, and -SO2NR6R7, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl and heteroarylalkyl; wherein said aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one, two or three Z4; wherein y is an integer selected from 1 , 2, or 3; wherein z is an integer selected from 1 , 2, or 3 wherein at least one of R1 to R4 is not hydrogen; each R6 and R7 is independently selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl, and heteroarylalkyl;
+wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heterocyclylalkyl, heteroaryl or heteroarylalkyl can be unsubstituted or substituted with one, two or three Z1a; each R8, R9, R12, R13, R14 and R15 is selected from the group consisting of hydrogen, halogen, hydroxyl, amino, alkyl, cycloalkyl, and aryl; each R10, R11 and R16 is selected from the group consisting of heterocyclyl, -NR6R7, alkyl, arylalkyl, heterocyclylalkyl, and heteroarylalkyl; wherein said heterocyclyl, alkyl, arylalkyl, heterocyclylalkyl, or heteroarylalkyl can be unsubstituted or substituted with one, two or three Z1c he compound according to claims 1 to 3, wherein,
+
+R1 is selected from the group consisting of hydrogen, amino, -NR6R7, choro, bromo iodo, - C(O)NH(CH2)2R10, -C(O)R11, -CR12R13NH(CH2)2R16, C6-i2aryl, heterocyclyl, and heteroaryl; wherein said Ce-i2aryl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z1;
+
+R2 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, NO2, - C(O)NH(CH2)2R10, -C(O)R11, -CR12R13NH(CH2)2R16, C6-i2aryl, heterocyclyl, and heteroaryl; wherein said Ce-i2aryl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z2;
+
+R3 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, - C(O)NH(CR8R9)qR10, -C(O)R11, -CR12R13NH(CR14R15)PR16, -COOR11, -S(O)2R11, and -SO2NR6R7, Ce-i2aryl, C6-i2arylCi-6alkyl, heterocyclyl, heterocyclylCi-ealkyl, heteroaryl and heteroarylCi-ealkyl; wherein said Ce-i2aryl, C6-i2arylCi-6alkyl, heterocyclyl, heterocyclylCi. ealkyl, heteroaryl and heteroarylCi-ealkyl can be unsubstituted or substituted with one, two or three Z3; wherein p is an integer selected from 1 , 2, or 3; wherein q is an integer selected from 1 , 2, or 3;
+
+R4 is selected from the group consisting of hydrogen, -NR6R7, amino, -NR6R7, chloro, bromo, iodo, NO2, -C(O)NH(CH2)2R10, -C(O)R11, -CR12R13NH(CH2)2R16, -COOR11, -
+
+S(O)2R11, -SO2NR6R7, C6-i2aryl, heterocyclyl, and heteroaryl; wherein said C6-i2aryl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z4; each R6 and R7 is independently selected from the group consisting of hydrogen, Ci-4alkyl, Cs-iocycloalkyl, C6-i2aryl, C6-i2arylCi-6alkyl, heterocyclyl, heterocyclylCi.4alkyl, heteroaryl, and heteroarylCi-4alkyl; wherein said Ci-4alkyl, Cs- cycloalkyl, C6-i2aryl, C6-i2arylCi-4alkyl, heterocyclyl, heterocyclylCi.4alkyl, heteroaryl or heteroarylCi.4alkyl can be unsubstituted or substituted with one, two or three Z1a;
+each R8, R9, R12, R13, R14 and R15 is selected from the group consisting of hydrogen, halogen, hydroxyl, amino, Ci-4alkyl, Cs- cycloalkyl, and C6-i2aryl; each R10, R11 and R16 is selected from the group consisting of heterocyclyl, -NR6R7, Ci-4alkyl, C6-i2arylCi-4alkyl, heterocyclylCi.4alkyl, and heteroarylCi.4alkyl; wherein said heterocyclyl, Ci- 4alkyl, C6-i2arylCi-4alkyl, heterocyclylCi.4alkyl, and heteroarylCi.4alkyl can be unsubstituted or substituted with one, two or three Z1c.
+
+6. The compound according to any one of claims 1 to 5, wherein, each Z1, Z2, Z3, Z4, Z1a, and Z1 b is independently selected from the group consisting of halo, haloCi-4akyl, Ci-ealkyl, haloCi.4akyloxy, C3-i2cycloalkyl, C6-i2aryl, C6-i2arylCi. ealkyl, heterocyclyl, heteroaryl, hydroxyl, Ci-ealkyloxy, C3-i2cycloalkyloxy, C6-i2aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-Ci.4akylamino, mono-Cs- i2cycloakylamino, mono-C6-i2arylamino, hydroxycarbonyl, Ci.4akyloxycarbonyl, C3- i2cycloakyloxycarbonyl, C6-i2aryloxycarbonyl, aminocarbonyl, mono-Ci.4akylaminocarbonyl, mono-C3-i2cycloakylaminocarbonyl, Ci.4akylcarbonyl, C3-i2cycloakylcarbonyl, Ce- i2arylcarbonyl, -S(O)H, Ci-4akylsulfinyl, -S(O)2H, Ci.4akylsulfonyl, -SO2NH2, mono-Ci. 4akylaminosulfonyl, nitro; each Z1c is independently selected from the group consisting of halo, haloCi.4akyl, Ci-ealkyl, haloCi-4akyloxy, C3-i2cycloalkyl, C6-i2aryl, Ce-^arylCi-ealkyl, heterocyclyl, heteroaryl, hydroxyl, Ci-ealkyloxy, C3-i2cycloalkyloxy, Ce-^aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-Ci-4akylamino, mono-C3-i2cycloakylamino, mono-Ce-^arylamino, hydroxycarbonyl, Ci- 4akyloxycarbonyl, C3-i2cycloakyloxycarbonyl, C6-i2aryloxycarbonyl, -S(O)H, Ci- 4akylsulfinyl, -S(O)2H, Ci-4akylsulfonyl, -SO2NH2, mono-Ci-4akylaminosulfonyl, nitro.
+
+7. The compound according to claims 1 to 6, wherein,
+
+R1 is selected from the group consisting of hydrogen, amino, -NR6R7, choro, bromo iodo, - C(O)NH(CH2)2R10, -C(O)R11, -CH2NH(CH2)2R16, Ce-i2aryl, heterocyclyl, and heteroaryl; wherein said C6-i2aryl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z1;
+
+R2 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, NO2, - C(O)NH(CH2)2R10, -C(O)R11, -CH2NH(CH2)2R16, C6-i2aryl, heterocyclyl, and heteroaryl; wherein said C6-i2aryl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z2;
+
+R3 is selected from the group consisting of hydrogen, amino, -NR6R7, halo, - C(O)NH(CH2)qR10, -C(O)R11, -CR12R13NH(CH2)PR16, -COOR11, -S(O)2R11, and -SO2NR6R7,
+Ce-i2aryl, C6-i2arylCi.6alkyl, heterocyclylCi-ealkyl, and heteroarylCi-ealkyl; wherein said Ce- i2aryl, C6-i2arylCi.6alkyl, heterocyclylCi-ealkyl, or heteroarylCi-ealkyl can be unsubstituted or substituted with one, two or three Z3; wherein p is an integer selected from 1 , 2, or 3; wherein q is an integer selected from 1 , 2, or 3;
+
+R4 is selected from the group consisting of hydrogen, -NR6R7, amino, -NR6R7, chloro, bromo, iodo, NO2, -C(O)NH(CH2)2R10, -C(O)R11, -CH2NH(CH2)2 16, -COOR11, -S(O)2R11, -SO2NR6R7, Ce-i2aryl, heterocyclyl, and heteroaryl; wherein said C6-i2aryl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z4; each R6 is H; each R7 is independently selected from the group consisting of hydrogen, Ci-4alkyl, C3- locycloalkyl, C6-i2aryl, Ce-^arylCi-ealkyl, heterocyclyl, heterocyclylCi.4alkyl, heteroaryl, and heteroarylCi-4alkyl; wherein said Ci-4alkyl, Cs- cycloalkyl, C6-i2aryl, C6-i2arylCi.4alkyl, heterocyclyl, heterocyclylCi.4alkyl, heteroaryl or heteroarylCi.4alkyl can be unsubstituted or substituted with one, two or three Z1a; each R12 and R13 is selected from the group consisting of hydrogen, halogen, hydroxyl, and Ci-4alkyl; each R10, R11 and R16 is selected from the group consisting of heterocyclyl, -NR6R7, Ci-4alkyl, C6-i2arylCi-4alkyl, heterocyclylCi.4alkyl, and heteroarylCi.4alkyl; wherein said heterocyclyl, Ci- 4alkyl, C6-i2arylCi-4alkyl, heterocyclylCi.4alkyl, and heteroarylCi.4alkyl can be unsubstituted or substituted with one, two or three Z1c.
+
+8. A pharmaceutical composition comprising a compound of formula (I) according to any one of claims 1 to 7 and a pharmaceutically acceptable carrier.
+
+9. A compound of formula (I) according to any one of claims 1 to 7, or a pharmaceutical composition according to claim 8, or a compound selected from the group consisting of
+
+[![Figure imgf000120_0001](https://patentimages.storage.googleapis.com/1f/07/c7/1af5f80a2bf1c4/imgf000120_0001.png)](https://patentimages.storage.googleapis.com/1f/07/c7/1af5f80a2bf1c4/imgf000120_0001.png)
+
+use as a medicament.
+
+10. A compound of formula (I) according to any one of claims 1 to 7, or a pharmaceutical composition according to claim 8, or a compound selected from the group consisting of
+
+[![Figure imgf000121_0001](https://patentimages.storage.googleapis.com/dd/64/32/2c6d4365236b28/imgf000121_0001.png)](https://patentimages.storage.googleapis.com/dd/64/32/2c6d4365236b28/imgf000121_0001.png)
+
+use in the prevention or treatment of a disease associated with ferroptosis and/or oxytosis. The compound for use according to claim 10, wherein the disease associated with ferroptosis and/or oxytosis is selected from the group consisting of liver disease, chronic kidney disease, ocular surface diseases, wound healing, multiple organ dysfunction syndrome, neurological disease, acute renal failure, ischemia-reperfusion injury, sepsis, iron toxicity, prevention of transplant rejection, and iron metabolism-related disease. The compound for use according to claim 11 , wherein the liver disease is selected from hemochromatosis, primary biliary cholangitis, non-alcoholic steatohepatitis or liver fibrosis. The compound for use according to claim 11 , wherein the neurological disease is selected from Alzheimer’s Disease, Parkinson’s Disease, Amyotrophic lateral sclerosis, Multiple Sclerosis, Huntington’s Disease, Dementia with Lewy bodies, Friedreich’s ataxia, multiple sclerosis, stroke, periventricular leukomalacia, intracerebral haemorrhage, frontotemporal dementia, neurodegeneration with brain iron accumulation, or traumatic brain injury. The compound for use according to claim 11 , wherein the ischemia-reperfusion injury is selected from myocardial ischemia-reperfusion injury, liver ischemia-reperfusion injury, or renal reperfusion injury. The compound for use according to claim 11 , wherein the iron metabolism-related disease is selected from atherosclerosis or diabetes.

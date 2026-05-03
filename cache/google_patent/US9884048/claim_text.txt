@@ -1,0 +1,1016 @@
+Claims (6)
+----------
+
+What is claimed is:
+
+1. A compound of formula I
+
+[![Figure US09884048-20180206-C00467](https://patentimages.storage.googleapis.com/51/3c/90/03227b6f43d8b4/US09884048-20180206-C00467.png)](https://patentimages.storage.googleapis.com/51/3c/90/03227b6f43d8b4/US09884048-20180206-C00467.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is
+
+1) a C4-8 monocyclic or bicyclic carbocycle, wherein the monocyclic carbocyle is saturated or unsaturated, and wherein the bicyclic carbocyle comprises 2 fused rings which are independently saturated or unsaturated, wherein the monocyclic or bicyclic carbocycle is unsubstituted or monosubstituted with halogen,
+
+2) a 5-10 membered monocyclic or bicyclic heterocycle having 1-3 heteroatoms independently selected from N, S and O, wherein the monocyclic heterocycle is saturated or unsaturated, and wherein the bicyclic heterocycle comprises 2 fused rings which are independently saturated or unsaturated, wherein the monocyclic or bicyclic heterocycle is unsubstituted or substituted with C1-4alkyl, ═O, or C(O)OC(C1-4alkyl)3,
+
+3) —CH2R5, wherein R5 is H, C1-4alkyl, pyridine, C3-5cycloalkyl, —CH2OH, CH2OCH3, CF3, CH2CN, CH2CH2OC1-4alkyl, CH(C1-4alkyl)2, or a 4-6 membered unsubstituted monocyclic saturated heterocycle having 1 O atom,
+
+4) hydrogen,
+
+5) C(O)R6, wherein R6 is —NHC1-4alkyl,
+
+6) —CHR7R8, wherein R7 and R8 are independently C1-4alkyl, or
+
+7) C1-4alkyl;
+
+R2 is
+
+1) CH2R9, where R9 is
+
+a) unsubstituted phenyl or phenyl substituted one, two or three times independently selected from
+
+1) halogen, 2) —OC1-4alkyl, 3) 5-membered saturated or unsaturated heterocycle which is unsubstituted or substituted with ═O having 1 or 2 heteroatoms selected from O and N,
+
+4)
+
+[![Figure US09884048-20180206-C00468](https://patentimages.storage.googleapis.com/40/62/c3/1f1d443b49c6a0/US09884048-20180206-C00468.png)](https://patentimages.storage.googleapis.com/40/62/c3/1f1d443b49c6a0/US09884048-20180206-C00468.png)
+
+ 
+
+5) —SO2C1-4alkyl, 6) —C(O)NHC1-4alkyl, 7) —C(C1-4alkyl)2OH, or
+
+8) —NHSO2C1-4alkyl,
+
+b) —CH2R13 wherein R13 is
+
+1) C6H5, 2) N(C1-4alkyl)2, 3) C6H4F, 4) halogen, 5) —OC1-4alkyl, 6) CF3, 7) O—C6H4F, 8) OCH2C6H5, 9) NHCH2C6H5, 10) 6-membered saturated heterocycle which is unsubstituted or substituted with —CH2OC6H5 having 1 or 2 heteroatoms selected from O and N, 11) 5-membered saturated heterocycle which is unsubstituted having 1 heteroatom which is O, 12) 5-membered unsaturated heterocycle which is unsubstituted or mono- or di-substituted with C1-4alkyl having 1 or 2 heteroatoms independently selected from N and O, or
+
+12)
+
+[![Figure US09884048-20180206-C00469](https://patentimages.storage.googleapis.com/95/39/97/492b321edb2f9e/US09884048-20180206-C00469.png)](https://patentimages.storage.googleapis.com/95/39/97/492b321edb2f9e/US09884048-20180206-C00469.png)
+
+ 
+
+c) C3-6cycloalkyl unsubstituted or substituted with —N(C1-4alkyl)2,
+
+d) 10-membered bicyclic carbocycle comprising two fused rings, wherein one ring is unsaturated,
+
+e) —CHR19R10, wherein R19 and R10 are independently selected from
+
+1) pyridine, 2) 6-membered saturated heterocycle, having 1 or 2 heteroatoms selected from O and N, which is unsubstituted or substituted with one or two F, 3) —CH2OH, 4) phenyl, 5) piperidine, 6) C6H4F, 7) CH3, 8) OH, or 9) C6H4CF3,
+
+f) a 4-10 membered monocyclic or bicyclic heterocycle having
+
+1-3 heteroatoms independently selected from N, S and O, wherein the monocyclic heterocycle is saturated or unsaturated, and wherein the bicyclic heterocycle is saturated or unsaturated, wherein the monocyclic or bicyclic heterocycle is unsubstituted or independently mono-, di- or tri-substituted with —CHCF3CH3, C6H4F, C6H4FCl, CH2CF3, C1-4alkyl, ═O, C6H5, or halogen,
+
+g) CF2C6H5
+
+h)
+
+[![Figure US09884048-20180206-C00470](https://patentimages.storage.googleapis.com/eb/9a/16/e22f7f75434fb8/US09884048-20180206-C00470.png)](https://patentimages.storage.googleapis.com/eb/9a/16/e22f7f75434fb8/US09884048-20180206-C00470.png)
+
+ 
+
+2) —CHR11R12, where R11 and R12 are independently selected from
+
+a) C1-4alkyl, b) —OC1-4alkyl, c) CF3,
+
+d) C6H4R12′ where R12′ is halogen, —OCF3, —SO2C1-4alkyl, H, or a 5-membered unsaturated unsubstituted heterocycle or heterocycle substituted with C1-4alkyl having 2 or 3 heteroatoms selected from O, N and S,
+
+e) CH2CH2N(C1-4alkyl)2,
+
+f) CH2CH2R12″ where R12″ is a 6-membered saturated or unsaturated heterocycle which heterocycle is unsubstituted or mono- or di- substituted with halogen,
+
+g) CH2NH2, h) CH2OH, i) C6H5SO2C1-4alkyl, j) CHF2, k) CH2CH2OH,
+
+l) CH2OC1-4alkyl, m) —OC1-4alkyl, n) —CH2N(CH3)2,
+
+o) —CH2R12′″ where R12′″ is a
+
+1) 5-membered unsaturated unsubstituted heterocycle having 2 N atoms, 2) —OC1-4 alkyl, 3) N(C1-4alkyl)2, 4) —CH2OCH2CH2OC1-4alkyl,
+
+5) C(O)OC1-4alkyl, 6) NH2, 7) NHC(O)CH═CH2, 8) C(C1-4alkyl)2OH,
+
+9) OH, 10) a 6-membered saturated heterocycle having 2 heteroatoms independently selected from N and O,
+
+p) C(O)NHC1-4alkyl, q) C(O)N(C1-4alkyl)2, r) C6H3FCl,
+
+s) C(C1-4alkyl)2OH, t) C6H3Cl2, u) C(C1-4alkyl)2OH, v) CH(C1-4alkyl)OH, w) C(C1-4alkyl)3, x) —C(C1-4alkyl)2OH,
+
+y) a 5-membered unsaturated or saturated heterocycle having one or two heteroatoms independently selected from N, O and S atoms, which heterocycle is unsubstituted or substituted with C1-4alkyl,
+
+z) a 6-membered unsaturated heterocycle having one heteroatom which is N, which heterocycle is unsubstituted, or
+
+aa) C(O)OCH3,
+
+3) a C4-10 monocyclic or bicyclic saturated or unsaturated carbocycle, wherein the bicyclic carbocyle comprises 2 fused rings, wherein the monocyclic or bicyclic carbocycle is unsubstituted or monosubstituted with
+
+a) NH2, b) NHC(O)C1-4alkyl, c) —OC1-4alkyl, d) —N(C1-4alkyl)2,
+
+e) —OC1-4alkyl, f) C6H5, g) NHC(O)C6H5, h) C6H4F, i) —OCH2C6H5, j) —CH2C6H5,
+
+k) —OC6H5, l) —OCH2CH2CH2C6H5, m) —OC6H4F, or n) —O-pyridine,
+
+4) a 5-10 membered monocyclic or bicyclic saturated or unsaturated heterocycle having 1-3 heteroatoms independently selected from N and O, wherein the monocyclic or bicyclic heterocycle is unsubstituted or independently mono-, di-, tri- or tetra-substituted with
+
+a) C6H4Cl, b) C1-4alkyl, c) ═O, d) C6H5, e) C3-6cycloalkyl, f) C6H4F,
+
+g) CH2C6H3(OC1-4alkyl)(F), h) C6H4(C1-4alkyl), i) CH2CH2C6H5,
+
+j) CH2CH2CH2C6H5, k) OC1-4alkyl, 1) —OC6H5, m) CH2C6H3F2,
+
+n) CH2C6H4CF3, o) CH2C6H4CN, p) OC6H4F, q) —OC1-4alkyl,
+
+r) a 5-6-membered heterocycle saturated or unsaturated, unsubstituted or substituted with C1-4alkyl, C6H5 or C3-6cycloalkyl, having 1 or 2 heteroatoms independently selected from O, N and S,
+
+s) —CH2—R2′, wherein R2′ is a 5-6-membered unsaturated heterocycle, unsubstituted or substituted with halogen, having 1 or 2 heteroatoms independently selected from N and S, or
+
+t) —O—R2″, wherein R2″ is a 6-membered unsaturated heterocycle, unsubstituted or mono- or di-substituted with halogen, having 1 N heteroatom,
+
+5) —CR13R14R15 where R13 and R14 are independently C1-4alkyl or together with the carbon atom to which they are attached form cyclopropyl, and R15 is CN or C6H5,
+
+6)
+
+[![Figure US09884048-20180206-C00471](https://patentimages.storage.googleapis.com/02/b4/de/5745b63d1ca52b/US09884048-20180206-C00471.png)](https://patentimages.storage.googleapis.com/02/b4/de/5745b63d1ca52b/US09884048-20180206-C00471.png)
+
+ 
+
+R3 is hydrogen, —OC1-4alkyl, —OC1-4alkyl-OH, or —CH2R3′, wherein R3′ is
+
+1) —OC1-4alkyl, 2) 6-membered saturated unsubstituted heterocycle having 1 or 2 heteroatoms independently selected from N and O, 3) —NHC1-4alkyl,
+
+4) —OC1-4alkyleneR3″ where R3″ is a 4-6-membered saturated unsubstituted heterocycle having 1 or 2 heteroatoms selected from N and O,
+
+5) —OC1-4alkylene-OH, 6) —OC1-4alkylene-OCH3, 7) hydrogen,
+
+8) —OC1-4alkylene-OCH2C6H5, 9) —OH, 10) —NHC1-4alkyleneOC1-4alkyl,
+
+11) NH2, 12) —NHC1-4alkyleneN(C1-4alkyl)2, 13) —NHC(O)CH═CH2,
+
+14) —NHC(O)C1-4alkyl, 15) —NHC(O)OC1-4alkyl, 16) —OC(O)NHC1-4alkyl, 17) —CH2NHC(O)CH═CH2, 18) N(C1-4alkyl)2, or
+
+19)
+
+[![Figure US09884048-20180206-C00472](https://patentimages.storage.googleapis.com/d9/d0/8e/d21b973ed8c1d4/US09884048-20180206-C00472.png)](https://patentimages.storage.googleapis.com/d9/d0/8e/d21b973ed8c1d4/US09884048-20180206-C00472.png)
+
+ 
+
+and
+
+R4 is hydrogen or halogen.
+
+2. A compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is
+
+1) a C4-8 monocyclic or bicyclic carbocycle, wherein the monocyclic carbocyle is saturated or unsaturated, and wherein the bicyclic carbocyle comprises 2 fused rings which are independently saturated or unsaturated, wherein the monocyclic or bicyclic carbocycle is unsubstituted or monosubstituted with F,
+
+2) a 5-10 membered monocyclic or bicyclic heterocycle having 1-3 heteroatoms independently selected from N, S and O, wherein the monocyclic heterocycle is saturated or unsaturated, and wherein the bicyclic heterocycle comprises 2 fused rings which are independently saturated or unsaturated, wherein the monocyclic or bicyclic heterocycle is unsubstituted or substituted with CH3, ═O, or C(O)OC(CH3)3,
+
+3) —CH2R5, wherein R5 is H, CH3, pyridine, cyclopentyl, cyclobutyl, CH2CH3, cyclopropyl, —CH2OH, CH2OCH3, CF3, CH2CN, CH2CH2OCH3, CH(CH3)2, or a 4-6 membered unsubstituted monocyclic saturated heterocycle having 1 O atom,
+
+4) hydrogen,
+
+5) C(O)R6, wherein R6 is —NHCH2CH3,
+
+6) —CHR7R8, wherein R7 and R8 are independently CH3, or
+
+7) C1-4alkyl;
+
+R2 is
+
+1) CH2R9, where R9 is
+
+a) unsubstituted phenyl or phenyl substituted one, two or three times independently selected from
+
+1) F, 2) —OCH3 3) Cl, 4) 5-membered saturated or unsaturated heterocycle which is unsubstituted or substituted with ═O having 1 or 2 heteroatoms selected from O and N,
+
+5)
+
+[![Figure US09884048-20180206-C00473](https://patentimages.storage.googleapis.com/4e/c3/8a/15b6900fcb2eaa/US09884048-20180206-C00473.png)](https://patentimages.storage.googleapis.com/4e/c3/8a/15b6900fcb2eaa/US09884048-20180206-C00473.png)
+
+ 
+
+6) —SO2CH3, 7) —C(O)NHCH3, 8) —C(CH3)2OH, or 9) —NHSO2CH3,
+
+b) —CH2R13 wherein R13 is
+
+1) C6H5, 2) N(CH3)2, 3) C6H4F, 4) F, 5) —OCH3, 6) CF3, 7) O—C6H4F, 8) OCH2C6H5, 9) NHCH2C6H5, 10) 6-membered saturated heterocycle which is unsubstituted or substituted with —CH2OC6H5 having 1 or 2 heteroatoms selected from O and N, 11) 5-membered saturated heterocycle which is unsubstituted having 1 heteroatom which is O, 12) 5-membered unsaturated heterocycle which is unsubstituted or mono- or di-substituted with CH3 having 1 or 2 heteroatoms independently selected from N and O, or
+
+13)
+
+[![Figure US09884048-20180206-C00474](https://patentimages.storage.googleapis.com/50/b7/f7/f1808276e3a5e4/US09884048-20180206-C00474.png)](https://patentimages.storage.googleapis.com/50/b7/f7/f1808276e3a5e4/US09884048-20180206-C00474.png)
+
+ 
+
+c) cyclohexyl unsubstituted or substituted with —N(CH3)2,
+
+d) 10-membered bicyclic carbocycle comprising two fused rings, wherein one ring is unsaturated,
+
+e) —CHR19R10, wherein R19 and R10 are independently selected from
+
+1) pyridine, 2) 6-membered saturated heterocycle which is unsubstituted having 1 or 2 heteroatoms selected from O and N, which is unsubstituted or substituted with one or two F, 3) —CH2OH, 4) phenyl, 5) piperidine, 6) C6H4F, 7) CH3, 8) OH, or 9) C6H4CF3,
+
+f) a 4-10 membered monocyclic or bicyclic heterocycle having
+
+1-3 heteroatoms independently selected from N, S and O, wherein the monocyclic heterocycle is saturated or unsaturated, and wherein the bicyclic heterocycle is saturated or unsaturated, wherein the monocyclic or bicyclic heterocycle is unsubstituted or independently mono-, di- or tri-substituted with —CHCF3CH3, C6H4F, C6H3FCl, CH2CF3, CH2CH2CH3, CH(CH3)2, ═O, C6H5, CH3, or F,
+
+g) CF2C6H5 or
+
+h)
+
+[![Figure US09884048-20180206-C00475](https://patentimages.storage.googleapis.com/eb/7c/e1/5675f3057e63d4/US09884048-20180206-C00475.png)](https://patentimages.storage.googleapis.com/eb/7c/e1/5675f3057e63d4/US09884048-20180206-C00475.png)
+
+ 
+
+2) —CHR11R12, where R11 and R12 are independently selected from
+
+a) —CH3, b) —OCH3, c) CF3,
+
+d) C6H5R12′ where R12′ is F, Cl, —OCF3, —SO2CH3, H, or a 5-membered unsaturated unsubstituted heterocycle or heterocycle substituted with CH3 having 2 or 3 heteroatoms selected from O, N and S,
+
+e) CH2CH2N(CH3)2,
+
+f) CH2CH2R12″ where R12″ is a 6-membered saturated or unsaturated heterocycle which heterocycle is unsubstituted or mono- or di- substituted with F,
+
+g) CH2NH2, h) CH2OH, i) C6H5SO2CH3, j) CHF2, k) CH2CH2OH,
+
+l) CH2OCH3, m) —OCH2CH3, n) —CH2N(CH3)2,
+
+o) —CH2R12′″ where R12′″ is a
+
+1) 5-membered unsaturated unsubstituted heterocycle having 2 N atoms, 2) —OCH2CH3, 3) N(CH3)2, 4) —OCH(CH3)2, 5) —CH2OCH2CH2OCH3, 6) C(O)OCH3, 7) NH2, 8) NHC(O)CH═CH2, 9) C(CH2CH3)2OH, 10) OH, 11) 6-membered saturated heterocycle having 2 heteroatoms independently selected from N and O,
+
+p) C(O)NHCH2CH3, q) C(O)NHCH3, r) C(O)N(CH2CH3)2, s) C6H3FCl,
+
+t) C(CH3)2OH, u) C6H3Cl2, v) C(CH3)2OH, w) CH(CH3)OH, x) C(CH3)3, y) —C(CH2CH3)2OH,
+
+z) a 5-membered unsaturated or saturated heterocycle having one or two heteroatoms independently selected from N, O and S atoms, which heterocycle is unsubstituted or substituted with CH3,
+
+aa) a 6-membered unsaturated heterocycle having one heteroatom which is N, which heterocycle is unsubstituted, or
+
+bb) C(O)OCH3,
+
+3) a C4-10 monocyclic or bicyclic saturated or unsaturated carbocycle, wherein the bicyclic carbocyle comprises 2 fused rings, wherein the monocyclic or bicyclic carbocycle is unsubstituted or monosubstituted with
+
+a) NH2, b) NHC(O)CH3, c) —OCH3, d) —N(CH3)2, e) —OCH2CH3, f) C6H5, g) NHC(O)C6H5, h) C6H4F, i) —OCH2C6H5, j) —CH2C6H5, k) —OC6H5,
+
+l) —OCH2CH2CH2C6H5, m) —OC6H4F, or n) —O-pyridine,
+
+4) a 5-10 membered monocyclic or bicyclic saturated or unsaturated heterocycle having 1-3 heteroatoms independently selected from N and O, wherein the monocyclic or bicyclic heterocycle is unsubstituted or independently mono-, di-, tri- or tetra-substituted with
+
+a) C6H4Cl, b) CH3, c) ═O, d) C6H5, e) CH2CH3, f) CH2CH2CH3,
+
+g) cyclopropyl, h) cyclohexyl, i) C6H4F, j) CH2C6H3(OCH3)(F),
+
+k) C6H4(CH3), l) CH2CH2C6H5, m) CH2CH2CH2C6H5, n) OCH3,
+
+o) —OC6H5, p) cyclobutyl, q) CH(CH3)2, r) CH2C6H3F2, s) CH2C6H4CF3,
+
+t) CH2C6H4CN, u) OC6H4F, v) —OCH2CH3,
+
+w) a 5-6-membered heterocycle saturated or unsaturated, unsubstituted or substituted with CH3, C6H5 or cyclopropyl, having 1 or 2 heteroatoms independently selected from O, N and S,
+
+x) —CH2—R2′, wherein R2′ is a 5-6-membered unsaturated heterocycle, unsubstituted or substituted with Cl, having 1 or 2 heteroatoms independently selected from N and S, or
+
+y) —O—R2″, wherein R2″ is a 6-membered unsaturated heterocycle, unsubstituted or mono- or di-substituted with F, having 1 N heteroatom,
+
+5) —CR13R14R15 where R13 and R14 are independently CH3 or together with the carbon atom to which they are attached form cyclopropyl, and R15 is CN or C6H5,
+
+6)
+
+[![Figure US09884048-20180206-C00476](https://patentimages.storage.googleapis.com/0b/c3/1a/30f84a85627a4f/US09884048-20180206-C00476.png)](https://patentimages.storage.googleapis.com/0b/c3/1a/30f84a85627a4f/US09884048-20180206-C00476.png)
+
+ 
+
+R3 is hydrogen, —OC1-4alkyl, —OC1-4alkyl-OH, or —CH2R3′, wherein R3′ is
+
+1) —OC1-4alkyl, 2) 6-membered saturated unsubstituted heterocycle having 1 or 2 heteroatoms independently selected from N and O, 3) —NHC1-4alkyl,
+
+4) —OC1-4alkyleneR3″ where R3″ is a 4-6-membered saturated unsubstituted heterocycle having 1 or 2 heteroatoms selected from N and O,
+
+5) —OC1-4alkylene-OH, 6) —OC1-4alkylene-OCH3, 7) hydrogen,
+
+8) —OC1-4alkylene-OCH2C6H5, 9) —OH, 10) —NHC1-4alkyleneOC1-4alkyl,
+
+11) NH2, 12) —NHC1-4alkyleneN(C1-4alkyl)2, 13) —NHC(O)CH═CH2,
+
+14) —NHC(O)C1-4alkyl, 15) —NHC(O)OC1-4alkyl, 16) —OC(O)NHC1-4alkyl,
+
+17) —CH2NHC(O)CH═CH2, 18) N(CH3)2, or
+
+19)
+
+[![Figure US09884048-20180206-C00477](https://patentimages.storage.googleapis.com/00/00/af/63e1c996c6b8ea/US09884048-20180206-C00477.png)](https://patentimages.storage.googleapis.com/00/00/af/63e1c996c6b8ea/US09884048-20180206-C00477.png)
+
+ 
+
+and
+
+R4 is hydrogen or halogen.
+
+3. A compound of claim 2, or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is
+
+[![Figure US09884048-20180206-C00478](https://patentimages.storage.googleapis.com/ed/40/46/598005139e43d8/US09884048-20180206-C00478.png)](https://patentimages.storage.googleapis.com/ed/40/46/598005139e43d8/US09884048-20180206-C00478.png)
+
+ 
+
+R2 is
+
+[![Figure US09884048-20180206-C00479](https://patentimages.storage.googleapis.com/97/e7/be/ce6f23a2be6ed1/US09884048-20180206-C00479.png)](https://patentimages.storage.googleapis.com/97/e7/be/ce6f23a2be6ed1/US09884048-20180206-C00479.png)
+
+ 
+
+[![Figure US09884048-20180206-C00480](https://patentimages.storage.googleapis.com/d5/7b/90/5ce4f08bc168d7/US09884048-20180206-C00480.png)](https://patentimages.storage.googleapis.com/d5/7b/90/5ce4f08bc168d7/US09884048-20180206-C00480.png)
+
+ 
+
+[![Figure US09884048-20180206-C00481](https://patentimages.storage.googleapis.com/eb/c9/d0/fdebcc91a8bad5/US09884048-20180206-C00481.png)](https://patentimages.storage.googleapis.com/eb/c9/d0/fdebcc91a8bad5/US09884048-20180206-C00481.png)
+
+ 
+
+[![Figure US09884048-20180206-C00482](https://patentimages.storage.googleapis.com/92/a4/d1/1849a6855e3724/US09884048-20180206-C00482.png)](https://patentimages.storage.googleapis.com/92/a4/d1/1849a6855e3724/US09884048-20180206-C00482.png)
+
+ 
+
+[![Figure US09884048-20180206-C00483](https://patentimages.storage.googleapis.com/ca/8d/63/af3a4efd953c35/US09884048-20180206-C00483.png)](https://patentimages.storage.googleapis.com/ca/8d/63/af3a4efd953c35/US09884048-20180206-C00483.png)
+
+ 
+
+[![Figure US09884048-20180206-C00484](https://patentimages.storage.googleapis.com/60/f2/ca/a8a00190f9f480/US09884048-20180206-C00484.png)](https://patentimages.storage.googleapis.com/60/f2/ca/a8a00190f9f480/US09884048-20180206-C00484.png)
+
+ 
+
+[![Figure US09884048-20180206-C00485](https://patentimages.storage.googleapis.com/61/6d/1c/88cf972a4c3b78/US09884048-20180206-C00485.png)](https://patentimages.storage.googleapis.com/61/6d/1c/88cf972a4c3b78/US09884048-20180206-C00485.png)
+
+ 
+
+[![Figure US09884048-20180206-C00486](https://patentimages.storage.googleapis.com/25/00/f3/94e6ffbd9f5212/US09884048-20180206-C00486.png)](https://patentimages.storage.googleapis.com/25/00/f3/94e6ffbd9f5212/US09884048-20180206-C00486.png)
+
+ 
+
+[![Figure US09884048-20180206-C00487](https://patentimages.storage.googleapis.com/61/6e/dd/a7555b6b453c5c/US09884048-20180206-C00487.png)](https://patentimages.storage.googleapis.com/61/6e/dd/a7555b6b453c5c/US09884048-20180206-C00487.png)
+
+ 
+
+[![Figure US09884048-20180206-C00488](https://patentimages.storage.googleapis.com/34/10/f4/a2169a5851a125/US09884048-20180206-C00488.png)](https://patentimages.storage.googleapis.com/34/10/f4/a2169a5851a125/US09884048-20180206-C00488.png)
+
+ 
+
+[![Figure US09884048-20180206-C00489](https://patentimages.storage.googleapis.com/b1/01/4d/9674a17130e732/US09884048-20180206-C00489.png)](https://patentimages.storage.googleapis.com/b1/01/4d/9674a17130e732/US09884048-20180206-C00489.png)
+
+ 
+
+[![Figure US09884048-20180206-C00490](https://patentimages.storage.googleapis.com/3b/bd/fd/84845025ad8155/US09884048-20180206-C00490.png)](https://patentimages.storage.googleapis.com/3b/bd/fd/84845025ad8155/US09884048-20180206-C00490.png)
+
+ 
+
+R3 is
+
+[![Figure US09884048-20180206-C00491](https://patentimages.storage.googleapis.com/5d/5f/19/f9e7ad0097b128/US09884048-20180206-C00491.png)](https://patentimages.storage.googleapis.com/5d/5f/19/f9e7ad0097b128/US09884048-20180206-C00491.png)
+
+ 
+
+and
+
+R4 is H or F.
+
+4. A compound of claim 3, or a pharmaceutically acceptable salt thereof, selected from the group consisting of
+
+1-(4-fluorobenzyl)-3-(1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-benzyl-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea, 1-[(1R)-1-(4-fluorophenyl)ethyl]-3-[1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(4-fluorobenzyl)-3-[1-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(4-fluorobenzyl)-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(1R)-1-(4-fluorophenyl)ethyl]-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-(2-phenylethyl)-3-(1-pyridin-4-yl-H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-(4-methoxybenzyl)-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)-3-(1,2,3,4-tetrahydronaphthalen-1-yl)urea,
+
+1-(2,4-dichlorobenzyl)-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-(3,4-dichlorobenzyl)-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(3R,4S)-4-(2-chlorophenyl)-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3R,4R)-4-phenyltetrahydrofuran-3-yl]urea,
+
+1-[(3R,4S)-4-(3-chloro-4-fluorophenyl)-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-4-(3-fluorophenyl)-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3R)-1-methylpyrrolidin-3-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3 S)-1-methylpyrrolidin-3-yl]urea,
+
+1-(1-methyl-5-oxopyrrolidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(1-methyl-2-oxopyrrolidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{(3R,4S)-1-methyl-4-[(3 S)-tetrahydro-2H-pyran-3-yl]pyrrolidin-3-yl}urea,
+
+1-[(3R,4S)-4-(3-chloro-4-fluorophenyl)-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-4-(3-fluorophenyl)-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3R)-1-methylpyrrolidin-3-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3 S)-1-methylpyrrolidin-3-yl]urea,
+
+1-(1-methyl-5-oxopyrrolidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(1-methyl-2-oxopyrrolidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{(3R,4S)-1-methyl-4-[(3 S)-tetrahydro-2H-pyran-3-yl]pyrrolidin-3-yl}urea,
+
+1-[(3R,4S)-1,4-dimethylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,5S)-1,5-dimethylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{[1-(2,2,2-trifluoro-1-methylethyl)azetidin-3-yl]methyl}urea,
+
+1-[(3R)-1-ethylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3R)-1-propylpyrrolidin-3-yl]urea,
+
+1-[(3R,4S)-4-cyclopropyl-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-4-cyclohexyl-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+N-{3-[({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)methyl]phenyl}methanesulfonamide,
+
+1-[(1S)-1-(4-fluorophenyl)-2-methoxyethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R)-1-(4-fluorophenyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methyl-2H-indazol-5-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[1,3-oxazol-5-yl(phenyl)methyl]urea,
+
+1-[(3R,4S) or (3S,4R)-1-methyl-4-(2-methylphenyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-benzyl-3-[1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)-3-[(1S)-2,2,2-trifluoro-1-phenylethyl]urea,
+
+1-(pyridin-3-ylmethyl)-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[2-(2-fluorophenyl)ethyl]-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-(3-chlorobenzyl)-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-(4-chlorobenzyl)-3-(1-pyridin-4-yl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(1R)-1-(3-chlorophenyl)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1R)-1-(2-chlorophenyl)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{1-[4-(1H-1,2,4-triazol-1-yl)phenyl]ethyl}urea,
+
+1-(2,2-dimethyl-3,4-dihydro-2H-chromen-4-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{1-[4-(trifluoromethoxy)phenyl]ethyl}urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{1-[3-(trifluoromethoxy)phenyl]ethyl}urea,
+
+1-(3-hydroxy-2-phenylpropyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(2-phenyl-2-piperidin-1-ylethyl)urea,
+
+1-[3-(dimethylamino)-1-phenylpropyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(4-phenyltetrahydro-2H-pyran-4-yl)methyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(1-phenyl-3-piperidin-1-ylpropyl)urea,
+
+1-[2-(4-fluorophenyl)-2-piperidin-1-ylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[2-(4,4-difluoropiperidin-1-yl)-2-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R)-1-(2-fluoro-6-methoxybenzyl)piperidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(1-methyl-4-phenylpyrrolidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-benzyl-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-{[1-(4-fluorophenyl)-1H-pyrazol-4-yl]methyl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(2,2-difluoro-2-phenylethyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(2-amino-1-phenylethyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(4-phenylpyrrolidin-3-yl)urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(pyrazolo[1, 5-a]pyridin-3-ylmethyl)urea,
+
+1-[(1S)-2-hydroxy-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{1-[4-(methylsulfonyl)phenyl]ethyl}urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(5-phenylpyrrolidin-3-yl)urea,
+
+1-{[4-methyl-2-(1-methylethyl)-1,3-thiazol-5-yl]methyl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3-phenyltetrahydrofuran-3-yl)methyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[2-(5-phenyl-2,5-diazabicyclo[2.2.1]hept-2-yl)ethyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{2-[2-(phenoxymethyl)morpholin-4-yl]ethyl}urea,
+
+1-[3-(dimethylamino)-1-pyridin-2-ylpropyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(2-morpholin-4-yl-2-pyridin-2-ylethyl)urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(2-oxo-2,3-dihydro-H-indol-5-yl)methyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[3-(1H-pyrazol-1-yl)benzyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[4-(1H-pyrazol-1-yl)benzyl]urea,
+
+1-(3-hydroxytricyclo[3.3.1.1˜3,7˜]dec-1-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(1-phenylpiperidin-4-yl)urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(4-phenylmorpholin-2-yl)methyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(2-oxo-1,2,3,4-tetrahydroquinolin-4-yl)urea,
+
+1-[(1S)-2,2-difluoro-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(1-phenylpiperidin-3-yl)urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[2-(tetrahydrofuran-3-yl)ethyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1-oxo-2,3-dihydro-1H-isoindol-5-yl)methyl]urea,
+
+1-[2-(4-fluorophenoxy)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[4-(1-hydroxy-1-methylethyl)benzyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[2-(2-fluorophenoxy)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(3,3,3-trifluoropropyl)urea,
+
+1-[(1R)-3-hydroxy-1-phenylpropyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-methoxy-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[4-(2-oxopyrrolidin-1-yl)benzyl]urea,
+
+N-methyl-4-[({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)methyl]benzamide,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[3-(methylsulfonyl)benzyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[3-(1,3-oxazol-2-yl)benzyl]urea,
+
+1-[2-(benzyloxy)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[2-(benzylamino)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+N-methyl-3-[({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl)}amino)methyl]benzamide,
+
+1-(3-isoxazol-3-ylbenzyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1-methyl-1,2,3,4-tetrahydroquinolin-3-yl)methyl]urea,
+
+1-{[1-(dimethylamino)cyclohexyl]methyl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(2S,3S,4R)-1,2-dimethyl-4-(2-methylphenyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3S,4R)-1,2,2-trimethyl-4-(2-methylphenyl)pyrrolidin-3-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3S,4S)-1,5,5-trimethyl-4-(2-methylphenyl)pyrrolidin-3-yl]urea,
+
+1-[(2R,3S,4R)-1,2-dimethyl-4-(2-methylphenyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S,5 S)-1,5-dimethyl-4-(2-methylphenyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S,5R)-1,5-dimethyl-4-(2-methylphenyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(7R,8S)-5-methyl-7-phenyl-2-oxa-5-azaspiro[3.4]oct-8-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1-methyl-1H-imidazol-4-yl)methyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(2-morpholin-4-ylethyl)urea,
+
+1-(2-fluoroethyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(2-methoxyethyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3S,4R)-1-methyl-4-pyridin-3-ylpyrrolidin-3-yl]urea,
+
+1-[(3R,4S)-1-methyl-4-(3-methylthiophen-2-yl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(5-methyl-3-phenylisoxazol-4-yl)methyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-methyl-4-(2-phenylethyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1,3,5-trimethyl-1H-pyrazol-4-yl)methyl]urea,
+
+1-[2-(3,5-dimethylisoxazol-4-yl)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(4-methyl-1,2,5-oxadiazol-3-yl)methyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1,3-dimethyl-1H-pyrazol-5-yl)methyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(2-hydroxypropyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(1-cyanocyclopropyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(1-methyl-1-phenylethyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[1-(2-methyl-1,3-thiazol-4-yl)ethyl]urea,
+
+1-[(3S,4R)-1-methyl-4-(5-methylthiophen-2-yl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(1-benzothiophen-3-ylmethyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4R)-1-methyl-4-(4-methyl-1,3-thiazol-2-yl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S)-2-morpholin-4-yl-1-phenylethyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[1-(2-methyl-1,3-thiazol-4-yl)ethyl]urea,
+
+1-[(1S)-2-ethoxy-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-(dimethylamino)-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[1-(2-methyl-1,3-thiazol-4-yl)ethyl]urea,
+
+1-[(3S,4S)-4-methoxypyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-pyrrolidin-3-ylurea,
+
+1-[(1S)-2-(1H-imidazol-1-yl)-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-(1-methylethoxy)-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-(2-methoxyethoxy)-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+methyl (2S)-({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)(phenyl)ethanoate,
+
+1-[(1S,2S)-2-aminocyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+N-[(1S,2S)-2-({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)cyclohexyl]acetamide,
+
+1-[(1S,2S)-2-methoxycyclopentyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+(2S)-N-ethyl-2-({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)-2-phenylethanamide,
+
+(2S)-N-methyl-2-({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)-2-phenylethanamide,
+
+1-[(1S,2S)-2-(dimethylamino)cyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+(2S)-N,N-diethyl-2-({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)-2-phenylethanamide,
+
+Racemic 1-[(1S,2S) and (1R,2R)-2-methoxycyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic 1-[(1S,2S) and (1R,2R)-2-ethoxycyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic 1-[(1S,2S) and (1R,2R)-2-ethoxycyclopentyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic 1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S,2S) and (1R,2R)-2-phenylcyclopentyl]urea,
+
+1-[(3R,4S)-1-methyl-4-(3-phenylpropyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-methyl-4-(5-methylisoxazol-3-yl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic trans 1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S,2R) and (1R,2S)-2-phenylcyclohexyl]urea,
+
+Racemic Trans N-[(1S,2S) and (1R,2R)-2-({[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]carbamoyl}amino)cyclohexyl]benzamide,
+
+Racemic cis 1-[(1S,2S) and (1R,2R)-2-(4-fluorophenyl)cyclopentyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S,2S)-2-(benzyloxy)cyclopentyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-methyl-4-(5-phenylthiophen-2-yl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3R,4S)-4-phenyl-1-(2,2,2-trifluoroethyl)pyrrolidin-3-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3S,4S)-4-phenoxypyrrolidin-3-yl]urea,
+
+1-[(3S,4S)-1-methyl-4-phenoxypyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[phenyl(tetrahydrofuran-2-yl)methyl]urea,
+
+1-[(1S,2S)-2-benzylcyclopentyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S,2S)-2-phenoxycyclopentyl]urea,
+
+Racemic trans 1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S,2S) and (1R,2R)-2-(3-phenylpropoxy)cyclopentyl]urea,
+
+1-[(1S,2R)-2-benzylcyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-4-(5-cyclopropylthiophen-2-yl)-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-methyl-4-(1-methyl-1H-pyrazol-4-yl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic trans 1-[(1S,2S) and (1R,2R)-2-(4-fluorophenoxy)cyclopentyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic cis 1-[(1S,2S) and (1R,2R)-2-benzylcyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic trans 1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S,2R) and (1R,2S)-2-phenylcyclopentyl]urea,
+
+Racemic trans 1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S,2R) and (1R,2S)-2-phenylcyclohexyl]urea,
+
+1-[3-(4-fluorophenyl)cyclopentyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(3-phenylcyclohexyl)urea,
+
+1-(3,4-dihydro-2H-chromen-4-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[3-(4-fluorophenyl)cyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+Racemic cis 1-[(1S,2S) and (1R,2R)-2-(4-fluorophenyl)cyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(3-phenylcyclohexyl)urea,
+
+1-[3-(4-fluorophenyl)cyclohexyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(2,3-dihydro-1-benzofuran-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(3-phenylcyclopentyl)urea,
+
+1-((3S,4R)1-methyl-4-phenylpyrrolidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-((3R,4S)1-methyl-4-phenylpyrrolidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(7R,8S)-5-methyl-7-phenyl-2-oxa-5-azaspiro[3.4]oct-8-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(7 S,8R)-5-methyl-7-phenyl-2-oxa-5-azaspiro[3.4]oct-8-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-methyl-4-(2-phenylethyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1R)-2-amino-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-amino-1-phenylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4R)-1-methyl-4-(5-methylthiophen-2-yl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4R)-1-methyl-4-(2-methylphenyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{(3R,4S)-1-methyl-4-[2-(trifluoromethyl)phenyl]pyrrolidin-3-yl}urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{(3S,4R)-1-methyl-4-[2-(trifluoromethyl)phenyl]pyrrolidin-3-yl}urea,
+
+1-[(3S,4S)-4-methoxy-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4R)-4-methoxy-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-cyclobutyl-4-phenylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4R)-1-cyclobutyl-4-phenylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4R)-1-(1-methylethyl)-4-phenylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-(1-methylethyl)-4-phenylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4S)-1-ethyl-4-phenylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4R)-1-ethyl-4-phenylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(7S,8S)-5-methyl-8-phenyl-2-oxa-5-azaspiro[3.4]oct-7-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(7R,8R)-5-methyl-8-phenyl-2-oxa-5-azaspiro[3.4]oct-7-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S)-1-pyridin-2-ylethyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-pyridin-2-ylethyl]urea,
+
+R)-1-(1-(3-chloro-4-fluorophenyl)ethyl)-3-(1-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(1S)-2-hydroxy-2-methyl-1-phenylpropyl]-3-[1-(1-methyl-1H-indazol-6-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-hydroxy-2-methyl-1-phenylpropyl]-3-[1-(2-methyl-2H-indazol-5-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3R,4S)-1-methyl-4-phenylpyrrolidin-3-yl]urea,
+
+1-[(1R)-2-methoxy-1-pyridin-2-ylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-methoxy-1-pyridin-2-ylethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(6-methylpyrazin-2-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(5-methylpyrazin-2-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(6-methylpyridazin-3-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-(3-chloro-4-fluorobenzyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(3-chlorobenzyl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(3-chlorobenzyl)-3-[1-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1R)-1-(3-chlorophenyl)ethyl]-3-[1-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-(3-chloro-4-fluorobenzyl)-3-[1-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1R)-1-(3-chloro-4-fluorophenyl)ethyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S)-1-pyridin-2-ylethyl]urea,
+
+1-[1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-pyridin-2-ylethyl]urea,
+
+(R)-1-(1-(4-fluorophenyl)ethyl)-3-(1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+(R)-1-(4-Fluoro-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl)-3-(1-phenylethyl)urea,
+
+(R)-1-(1-methyl-1H-pyrazolo[3,4-c]pyridin-5-yl)-3-(1-phenylethyl)urea,
+
+1-[7-(hydroxymethyl)-1-methyl-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S)-2-hydroxy-2-methyl-1-phenylpropyl]urea,
+
+1-((1S,2R)-2-Hydroxy-1-phenylpropyl)-3-(1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(1S)-2-hydroxy-2-methyl-1-phenylpropyl]-3-(1-methyl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+(R)-1-(7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl)-3-(1-phenylethyl)urea,
+
+(S)-1-(2-hydroxy-2-methyl-1-phenylpropyl)-3-(1H-pyrazolo[3,4-c]pyridin-5-yl)urea (TFA salt),
+
+N-ethyl-5-({[(1R)-1-phenylethyl]carbamoyl}amino)-1H-pyrazolo[3,4-c]pyridine-1-carb oxamide,
+
+1-[(1R)-1-(4-fluorophenyl)ethyl]-3-(1-methyl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(1R)-1-(4-fluorophenyl)ethyl]-3-[1-(2-oxopiperidin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+tert-butyl 2-[5-({[(1S)-1-(4-fluorophenyl)-2-hydroxy-2-methylpropyl]carbamoyl}amino)-1H-pyrazolo[3,4-c]pyridin-1-yl]-5, 8-dihydropyrido[3,4-d]pyrimidine-7(6H)-carboxylate,
+
+1-[1-(3-methoxypropyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(2,6-difluorobenzyl)piperidin-3-yl]-3-(1-methyl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(1S)-2-methoxy-1-phenylethyl]-3-(1-methyl-1H-pyrazolo[3,4-c]pyridin-5-yl)urea,
+
+1-[(1R)-1-phenylethyl]-3-[1-(tetrahydro-2H-pyran-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-methoxy-1-phenylethyl]-3-[1-(2-methylpiperidin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(4-fluorophenyl)-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(4-fluorophenyl)-7-(methoxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(4-fluorophenyl)-7-(morpholin-4-ylmethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-{7-[(dimethylamino)methyl]-1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl}-3-[(1R)-1-phenylethyl]urea,
+
+1-{1-(4-fluorophenyl)-7-[(2-morpholin-4-ylethoxy)methyl]-1H-pyrazolo[3,4-c]pyridin-5-yl}-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-7-(morpholin-4-ylmethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-{1-(4-fluorophenyl)-7-[(2-hydroxyethoxy)methyl]-1H-pyrazolo[3,4-c]pyridin-5-yl}-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(methoxymethyl)-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-{7-[(2-methoxyethoxy)methyl]-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl}-3-[(1R)-1-phenylethyl]urea,
+
+1-{1-(2-methylpyridin-4-yl)-7-[(2-morpholin-4-ylethoxy)methyl]-1H-pyrazolo[3,4-c]pyridin-5-yl}-3-[(1R)-1-phenylethyl]urea,
+
+1-{1-(2-methylpyridin-4-yl)-7-[(oxetan-3-yloxy)methyl]-1H-pyrazolo[3,4-c]pyridin-5-yl}-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-methyl-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-{[2-(benzyloxy)ethoxy]methyl}-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-{7-[(2-hydroxyethoxy)methyl]-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl}-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1S)-2-hydroxy-2-methyl-1-phenylpropyl]urea,
+
+1-[1-tert-butyl-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-(1-ethyl-7-methoxy-1H-pyrazolo[3,4-c]pyridin-5-yl)-3-[(1R)-1-phenylethyl]urea,
+
+1-(1-ethyl-7-methoxy-1H-pyrazolo[3,4-c]pyridin-5-yl)-3-[(1S)-2-hydroxy-2-methyl-1-phenylpropyl]urea,
+
+1-[(1S)-2-methoxy-1-phenylethyl]-3-[1-(pyridin-4-ylmethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[1-(pyridin-3-ylmethyl)piperidin-3-yl]urea,
+
+1-[1-(2,6-difluorobenzyl)piperidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[1-(1,3-thiazol-2-ylmethyl)piperidin-3-yl]urea,
+
+1-{1-[(2-chloropyridin-3-yl)methyl]piperidin-3-yl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S)-1-(2,6-difluorobenzyl)-4-methoxypyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[1-(pyridin-3-ylmethyl)pyrrolidin-3-yl]urea,
+
+1-[1-(2,6-difluorobenzyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S)-4-ethoxypyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S) or (3R,4R)-1-(2,6-difluorobenzyl)-4-methoxypyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R,4R) or (3S,4S)-1-(2,6-difluorobenzyl)-4-methoxypyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-{(3S,4S)-4-[(5-fluoropyridin-3-yl)oxy]pyrrolidin-3-yl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-{(3S,4S)-4-[(5-fluoropyridin-3-yl)oxy]-1-methylpyrrolidin-3-yl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-{(3S,4S)-1-ethyl-4-[(5-fluoropyridin-3-yl)oxy]pyrrolidin-3-yl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S)-1-(2,6-difluorobenzyl)-4-ethoxypyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-{(3S,4S)-4-ethoxy-1-[2-(trifluoromethyl)benzyl]pyrrolidin-3-yl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-cyanobenzyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-{1-[(2-chloropyridin-3-yl)methyl]pyrrolidin-3-yl}-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3 S)-1-(2,6-difluorobenzyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3R)-1-(2,6-difluorobenzyl)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S)-4-(4-fluorophenoxy)pyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(3S,4S)-4-(4-fluorophenoxy)-1-methylpyrrolidin-3-yl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(3R)-pyrrolidin-3-ylmethyl]urea,
+
+1-[(3-fluoroazetidin-3-yl)methyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-(5-phenylpiperidin-3-yl)urea,
+
+1-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-{[(3R)-1-methylpyrrolidin-3-yl]methyl}urea,
+
+1-(1-methyl-5-phenylpiperidin-3-yl)-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-2-ethyl-2-hydroxy-1-phenylbutyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-1-(4-fluorophenyl)-2-hydroxy-2-methylpropyl]-3-[1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[(1S)-1-(4-fluorophenyl)-2-hydroxy-2-methylpropyl]-3-[1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[7-(hydroxymethyl)-1-(3-methoxypropyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(1-methylethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(cyclopentylmethyl)-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(cyclobutylmethyl)-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-propyl-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(2-methylpropyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-cyclopentyl-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(cyclopropylmethyl)-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(tetrahydro-2H-pyran-4-ylmethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(2-hydroxyethyl)-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(tetrahydrofuran-3-ylmethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(2-methoxyethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-cyclohexyl-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(2,2,2-trifluoroethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(oxetan-3-ylmethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(hydroxymethyl)-1-(tetrahydro-2H-pyran-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[(1S)-1-(4-fluorophenyl)-2-hydroxy-2-methylpropyl]-3-[1-(5,6,7,8-tetrahydropyrido[3,4-d]pyrimidin-2-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]urea,
+
+1-[1-(4-Fluorophenyl)-7-{[(2-methoxyethyl)amino]methyl}-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-(aminomethyl)-1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-({[2-(dimethylamino)ethyl]amino}methyl)-1-(4-fluorophenyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-{[(2-methoxyethyl)amino]methyl}-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[7-({[2-(dimethylamino)ethyl]amino}methyl)-1-(2-methylpyridin-4-yl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+1-[1-(2-Cyanoethyl)-7-(hydroxymethyl)-1H-pyrazolo[3,4-c]pyridin-5-yl]-3-[(1R)-1-phenylethyl]urea,
+
+N-{[1-Methyl-5-({[(1R)-1-phenylethyl]carbamoyl}amino)-1H-pyrazolo[3,4-c]pyridin-7-yl]methyl}prop-2-enamide,
+
+N-{[1-(4-Fluorophenyl)-5-({[(1R)-1-phenylethyl]carbamoyl}amino)-1H-pyrazolo[3,4-c]pyridin-7-yl]methyl)}acetamide,
+
+Methyl {[1-(4-fluorophenyl)-5-({[(1R)-1-phenylethyl]carbamoyl}amino)-1H-pyrazolo[3,4-c]pyridin-7-yl]methyl}carbamate,
+
+[1-(4-Fluorophenyl)-5-({[(1R)-1-phenylethyl]carbamoyl}amino)-1H-pyrazolo[3,4-c]pyridin-7-yl]methyl ethylcarbamate,
+
+N-[(2S)-2-{[(1-Methyl-1H-pyrazolo[3,4-c]pyridin-5-yl)carbamoyl]amino}-2-phenylethyl]prop-2-enamide, and
+
+N-{2-[1-Methyl-5-({[(1R)-1-phenylethyl]carbamoyl}amino)-1H-pyrazolo[3,4-c]pyridin-7-yl]ethyl}prop-2-enamide.
+
+5. A composition for treating cancer by inhibiting ERK comprising a compound of claim 1 and a pharmaceutically acceptable carrier.
+
+6. A method for treating cancer by inhibiting ERK comprising administering to ma patient in need there of a composition of claim 5.

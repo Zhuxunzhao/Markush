@@ -1,0 +1,60 @@
+Claims (9)
+----------
+
+The invention claimed is:
+
+1. A compound of formula (I),
+
+[![Figure US10016420-20180710-C00023](https://patentimages.storage.googleapis.com/6f/64/ec/debdea99accbee/US10016420-20180710-C00023.png)](https://patentimages.storage.googleapis.com/6f/64/ec/debdea99accbee/US10016420-20180710-C00023.png)
+
+ 
+
+wherein:
+
+R1 represents a cyclic group selected from phenyl and heteroaryl1;
+
+wherein each cyclic group is optionally substituted with 1, 2, or 3 substituents selected from halo, C1-6 alkyl optionally substituted with 1, 2, or 3 halogen atoms, phenyl, C1-6 alkoxy optionally substituted with 1, 2, or 3 halogen atoms, cyano, heteroaryl1a and heterocyclyl1a; and
+
+wherein each cyclic group is optionally fused to a benzene ring or a 5- or 6-membered heteroaromatic or heterocyclic ring each containing 1, 2, or 3 heteroatoms selected from N, O and S; and when the group is substituted the substitution may occur anywhere on the optionally fused ring system as a whole; and
+
+wherein heterocyclyl1a may additionally be substituted with oxo;
+
+X represents a bond or CH2;
+
+R2 represents H;
+
+R3 represents H or CH2CH3;
+
+Y represents a bond or C1-2 alkylene;
+
+R4 is selected from methoxyphenyl, chlorophenyl, pyridinyl, 2,3-dihydro-1H-indenyl, dichlorophenyl, 2,6-difluoro-3-methylphenyl, naphthyl, benzylpyrrolidinyl and 5-methyl-3-phenylisoxazol-4-yl;
+
+wherein heteroaryl1 and heteroaryl1a independently represent a 5- or 6-membered heteroaryl group containing 1, 2, or 3 heteroatoms selected from N, O and S; and
+
+wherein heterocyclyl1a represents a 5- or 6-membered heterocyclyl group containing 1, 2, or 3 heteroatoms selected from N, O and S;
+
+pharmaceutically acceptable salts thereof.
+
+2. The compound as claimed in claim 1, wherein R1 represents phenyl substituted with 1 or 2 fluoro, and pharmaceutically acceptable salts thereof.
+
+3. The compound as claimed in claim 1, wherein R3 represents H, and pharmaceutically acceptable salts thereof.
+
+4. The compound as claimed in claim 1, wherein Y represents CH2, and pharmaceutically acceptable salts thereof.
+
+5. A pharmaceutical formulation comprising the compound as claimed in claim 1, or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable adjuvant, diluent or carrier.
+
+6. The pharmaceutical formulation as claimed in claim 5, further comprising one or more additional pain relieving agents.
+
+7. A pharmaceutical kit comprising the compound as claimed in claim 1, or a pharmaceutically acceptable salt thereof, and one or more additional pain relieving agents.
+
+8. A method for inhibiting autotaxin activity in a mammal suffering from pain, fibrosis, osteoarthritis, rheumatoid arthritis, multiple sclerosis, atherosclerosis, thrombosis, psoriasis, neuropathy, cancer, or an inflammatory condition, comprising administering to said mammal a therapeutically effective amount of the compound as claimed in claim 1, or a pharmaceutically acceptable salt thereof.
+
+9. A process for the production of the compound as claimed in claim 1, which comprises reacting a compound of formula (II),
+
+[![Figure US10016420-20180710-C00024](https://patentimages.storage.googleapis.com/6d/01/87/2067fd03e9eb29/US10016420-20180710-C00024.png)](https://patentimages.storage.googleapis.com/6d/01/87/2067fd03e9eb29/US10016420-20180710-C00024.png)
+
+wherein X, R1 and R2 are as claimed in claim 1, with an amine of formula (III),
+
+[![Figure US10016420-20180710-C00025](https://patentimages.storage.googleapis.com/e8/ae/71/2440519daf96aa/US10016420-20180710-C00025.png)](https://patentimages.storage.googleapis.com/e8/ae/71/2440519daf96aa/US10016420-20180710-C00025.png)
+
+wherein Y, R3 and R4 are as claimed in claim 1.

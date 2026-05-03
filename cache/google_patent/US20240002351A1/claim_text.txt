@@ -1,0 +1,408 @@
+Claims (12)
+-----------
+
+**1**. A compound of formula (I) or a stereoisomer, or tautomer thereof,
+
+[![Figure US20240002351A1-20240104-C00021](https://patentimages.storage.googleapis.com/37/cb/02/67f946a830ca30/US20240002351A1-20240104-C00021.png)](https://patentimages.storage.googleapis.com/37/cb/02/67f946a830ca30/US20240002351A1-20240104-C00021.png)
+
+ 
+
+wherein,
+
+each dotted line represents an optional double bond whereby maximally 2 non-adjacent dotted lines can form a double bond;
+
+n is an integer selected from 0, 1, or 2;
+
+A1 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A2 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A3 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A4 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+wherein at most two of A1 to A4 is selected from S, N, NR6, and O;
+
+A5 is O or NR7;
+
+R1 is selected from the group consisting of alkyl, cycloalkyl, alkenyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, alkenyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z1;
+
+R2 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z2;
+
+R3 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, haloalkyl, haloalkyloxy, arylalkyl heterocyclyl heteroaryl C(O)R8, —CO2R9, —C(O)NR9R10—, —S(O)2R9, and —SO2NR9R10; wherein said cycloalkyl, aryl, alkyl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z3;
+
+or R2 and R3 together with the atom to which they are attached form a saturated or unsaturated 5-, 6-, 7-, 8- or 9-membered ring;
+
+R4 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, haloakyl, haloalkyloxy, arylalkyl, heterocyclyl, and heteroaryl; wherein said cycloalkyl, aryl, alkyl, haloakyl, haloalkyloxy, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z4;
+
+or R3 and R4 together with the nitrogen atom to which they are attached form a saturated or unsaturated 5-, 6-, 7-, 8-, 9-, 10- or 11-membered nitrogen-containing monocycle or bicycle;
+
+R5 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, halo, aryl, arylalkyl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, nitro, haloalkyl, haloalkyloxy, —C(O)R8, —NR8R9, —CO2R9, —C(O)NR9R10, —S(O)2R9, —S(O)2NR9R10, —NR9C(O)R10, and —NR9S(O)2R10;
+
+or wherein two R5 together with the atom to which they are attached can form a saturated or unsaturated 5-, 6-, 7-, 8-, 9- or 10-membered ring;
+
+wherein said ring, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z5;
+
+R6 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heteroaryl, and —S(O)2R9; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z6;
+
+R7 is selected from the group consisting of alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z7;
+
+or R3 and R7 together with the atom to which they are attached form an unsaturated 5-, 6-, 7-, 8-, 9-, 10- or 11-membered nitrogen-containing monocycle or bicycle;
+
+each R8 is independently selected from the group consisting of, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each R9 is independently selected from the group consisting of hydrogen, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each R10 is independently selected from the group consisting of hydrogen, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each Z1 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z2 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z3 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z4 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z5 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z6 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z7 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+or a solvate, hydrate, pharmaceutically acceptable salt, or prodrug thereof for use in the prevention or treatment of a disease associated with the activation of receptor tyrosine-protein kinase (ERBB4).
+
+**2**. The compound for use according to claim 1, having structural formula (IA), (IB) or (IC),
+
+[![Figure US20240002351A1-20240104-C00022](https://patentimages.storage.googleapis.com/8c/10/0a/21b9238f51a449/US20240002351A1-20240104-C00022.png)](https://patentimages.storage.googleapis.com/8c/10/0a/21b9238f51a449/US20240002351A1-20240104-C00022.png)
+
+ 
+
+wherein A1, A4, A5, R1, R2, R3, R4, and R5 have the same meaning as that defined in claim 1.
+
+**3**. The compound for use according to claim 1, having structural formula (IIA), (IIB) (IIC) or (IID),
+
+[![Figure US20240002351A1-20240104-C00023](https://patentimages.storage.googleapis.com/df/8b/10/e0ed63260e99ae/US20240002351A1-20240104-C00023.png)](https://patentimages.storage.googleapis.com/df/8b/10/e0ed63260e99ae/US20240002351A1-20240104-C00023.png)
+
+ 
+
+wherein R1, R2, R3, R4, and R5 have the same meaning as that defined in claim 1.
+
+**4**. The compound for use according to claim 1, wherein,
+
+A1 is CR5, N, or S;
+
+A2 is CR5, N, or S;
+
+A3 is CR5, N, or S;
+
+A4 is CR5, N, or S;
+
+R1 is selected from the group consisting of alkyl, cycloalkyl, alkenyl, aryl, and arylalkyl;
+
+wherein said alkyl, cycloalkyl, alkenyl, aryl, and arylalkyl can be unsubstituted or substituted with one or more Z1;
+
+R2 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, and aryl;
+
+R3 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, haloalkyl, haloalkyloxy, arylalkyl heterocyclyl heteroaryl, —OR8, —CO2R9, —C(O)NR9R10, —S(O)2R9, and —SO2NR9R10; wherein said cycloalkyl, aryl, alkyl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z3;
+
+or R2 and R3 together with the atom to which they are attached form a saturated or unsaturated 5-, 6-, 7-, 8- or 9-membered ring;
+
+R4 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, and haloalkyl;
+
+or R3 and R4 together with the nitrogen atom to which they are attached form a saturated or unsaturated 7-, 8-, 9-, or 10-membered nitrogen-containing monocycle or bicycle;
+
+R5 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, halo, aryl, arylalkyl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, nitro, haloalkyl, haloalkyloxy, —C(O)R8, —NR8R9, —CO2R9, —C(O)NR9R10, —S(O)2R9, —SO2NR9R10, —NR9C(O)R10, and —NR9S(O)2R10;
+
+or wherein two R5 together with the atom to which they are attached can form a saturated or unsaturated 5-, 6-, or 7-membered ring;
+
+wherein said ring, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z5;
+
+R6 is selected from the group consisting of hydrogen, alkyl, and cycloalkyl;
+
+R7 is selected from the group consisting of alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, and heteroaryl;
+
+or R3 and R7 together with the atom to which they are attached form an unsaturated 6-, 7-, 8-, 9-, or 10-membered nitrogen-containing monocycle or bicycle.
+
+**5**. The compound for use according to claim 1, wherein,
+
+each Z1 is independently selected from the group consisting of halo, C1-6alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C3-12cycloalkyl, C3-12cycloalkenyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy; C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4alkyloxycarbonyl, C3-12cycloalkyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12cycloalkylaminocarbonyl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, —S(O)H, C1-4alkylsulfinyl, —S(O)2H, C1-4alkylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, nitro;
+
+each Z2 is independently selected from the group consisting of halo, C1-6alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C3-12cycloalkyl, C3-12cycloalkenyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy, C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4acyloxycarbonyl, C3-12cycloakyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12cycloalkylaminocarbonyl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, —S(O)H, C1-4alkylsulfonyl, —S(O)2H, C1-4alkylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, nitro;
+
+each Z3 is independently selected from the group consisting of halo, C1-6alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C3-12cycloalkyl, C3-12cycloalkenyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy, C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4alkyloxycarbonyl, C3-12cycloakyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12cycloalkylaminocarbonyl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, —S(O)H, C1-4alkylsulfinyl, —S(O)2H, C1-4alkylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, nitro;
+
+each Z4 is independently selected from the group consisting of halo, C1-6alkyl haloC1-4alkyl, haloC1-4alkyloxy, C3-12cycloalkyl, C3-12cycloalkenyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy, C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4acyloxycarbonyl, C3-12cycloakyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12cycloalkylaminocarbonyl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, —S(O)H, C1-4alkylsulfinyl, —S(O)2H, C1-4alkylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, nitro;
+
+each Z5 is independently selected from the group consisting of halo, C1-6alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C3-12cycloalkyl, C3-12cycloalkenyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy, C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4alkyloxycarbonyl, C3-12cycloakyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12 cycloalkylaminocarbonyl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, —S(O)H, C1-4alkylsulfinyl, —S(O)2H, C1-4alkylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, nitro;
+
+each Z6 is independently selected from the group consisting of halo, C1-6alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C3-12cycloalkyl, C3-12cycloalkenyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy, C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4alkyloxycarbonyl, C3-12cycloalkyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12cycloalkylaminocarbonyl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, —S(O)H, C1-4alkylsulfinyl, —S(O)2H, C1-4alkylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, nitro;
+
+each Z7 is independently selected from the group consisting of halo, C1-6alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C3-12cycloalkyl, C3-12cycloalkenyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy, C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4alkyloxycarbonyl, C3-12cycloalkyloxycarbonyl, C6-12alkyloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12cycloalkylaminocarbonyl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, —S(O)H, C1-4alkylsulfinyl, —S(O)2H, C1-4alkylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, nitro.
+
+**6**. The compound for use according to claim 1, wherein,
+
+R1 is selected from the group consisting of C1-6alkyl, C3-12cycloalkyl, C2-6alkenyl, C6-12aryl, C6-12arylC1-6alkyl and heteroaryl; wherein said groups can be unsubstituted or substituted with one, two or three Z1;
+
+R2 is selected from the group consisting of hydrogen, C1-6alkyl, C3-12cycloalkyl and C6-12aryl;
+
+R3 is selected from the group consisting of hydrogen, C3-12cycloalkyl, C6-12aryl, C1-6alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, C1-4alkyloxycarbonyl, C3-12cycloalkyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, and mono-C3-12cycloalkylaminocarbonyl; wherein said groups can be unsubstituted or substituted with one, two or three Z3;
+
+or R2 and R3 together with the atom to which they are attached form a saturated unsaturated 6-, 7-, or 8-membered ring;
+
+R4 is selected from the group consisting of hydrogen, C3-10cycloalkyl, C6-12aryl, and haloC1-4alkyl;
+
+or R3 and R4 together with the nitrogen atom to which they are attached form a saturated 7-, 8-, 9- or 10-membered nitrogen-containing monocycle or bicycle;
+
+R5 is selected from the group consisting of hydrogen, C1-6alkyl, C3-12cycloalkyl, halo, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-12cycloalkyloxy, C6-12aryloxy, heterocyclyloxy, heteroaryloxy, cyano, amino, nitro, haloC1-4alkyl, haloC1-4 alkyloxy, C1-4alkylcarbonyl, C3-12cycloalkylcarbonyl, C6-12arylcarbonyl, mono-C1-4alkylamino, mono-C3-12cycloalkylamino, mono-C6-12arylamino, hydroxycarbonyl, C1-4alkyloxycarbonyl, C3-12cycloalkyloxycarbonyl, C6-12aryloxycarbonyl, aminocarbonyl, mono-C1-4alkylaminocarbonyl, mono-C3-12cycloalkylaminocarbonyl, S(O)2H, C1-4akylsulfonyl, —SO2NH2, mono-C1-4alkylaminosulfonyl, C1-4alkylcarbonylamino, and C1-4alkylsulfonylamino;
+
+or wherein two R5 together with the atom to which they are attached can form a saturated or unsaturated 5-, 6-, or 7-membered ring;
+
+wherein said ring, C1-6alkyl, C3-12cycloalkyl, C6-12aryl, C6-12arylC1-6alkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z5;
+
+R6 is selected from the group consisting of hydrogen, C1-6alkyl and C3-12cycloalkyl;
+
+R7 is selected from the group consisting of C1-6alkyl, C3-12cycloalkyl, C6-12aryl, C6-12arylalkyl, heterocyclyl, and heteroaryl;
+
+or R3 and R7 together with the atom to which they are attached form an unsaturated 7-, 8-, 9-, or 10-membered nitrogen-containing monocycle or bicycle.
+
+**7**. The compound for use according to claim 1, wherein,
+
+R1 is selected from the group consisting of C1-4alkyl, C3-10cycloalkyl, C2-4alkenyl, C6-12aryl, C6-12arylC1-4alkyl and heteroaryl;
+
+R2 is selected from the group consisting of hydrogen, C1-4alkyl, and C6-12aryl;
+
+R3 is selected from the group consisting of hydrogen, C3-10cycloalkyl, C6-12aryl, C1-4alkyl, haloC1-4alkyl, haloC1-4alkyloxy, C6-12arylC1-4alkyl, heterocyclyl, heteroaryl, C1-4alkylcarbonyl, C1-4alkyloxycarbonyl, aminocarbonyl, mono-C1-4allylaminocarbonyl, and mono-C3-12cycloalkylaminocarbonyl; wherein said groups can be unsubstituted or substituted with one, two or three Z3;
+
+or R2 and R3 together with the carbon atom to which they are attached form a saturated 6-, 7-, or 8-membered ring;
+
+R4 is selected from the group consisting of hydrogen, C3-8cycloalkyl, C6-12aryl, and haloC1-4alkyl;
+
+or R3 and R4 together with the nitrogen atom to which they are attached form a saturated 7-, 8-, 9-membered nitrogen-containing monocycle or bicycle;
+
+R5 is selected from the group consisting of hydrogen, C1-4alkyl, C3-10cycloalkyl, halo, C6-12aryl, C6-12arylC1-4alkyl, heterocyclyl, heteroaryl, hydroxyl, C1-6alkyloxy, C3-10cycloalkyloxy, C6-12aryloxy, cyano, amino, nitro, haloC1-4alkyl, haloC1-4alkyloxy, mono-C1-4alkylamino, hydroxycarbonyl, C1-4alkyloxycarbonyl, —CONH2, mono-C1-4alkylaminocarbonyl, S(O)2H, C1-4alkylsulfonyl, and —SO2NH2;
+
+or wherein two R5 together with the atom to which they are attached can form a saturated or unsaturated 5-, 6-, or 7-membered ring;
+
+wherein said ring, C1-4alkyl, C3-8cycloalkyl, C6-12aryl, C6-12arylC1-4alkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one, two or three Z5;
+
+R6 is selected from the group consisting of hydrogen, C1-6alkyl and C3-10cycloalkyl;
+
+R7 is selected from the group consisting of C1-6alkyl, C3-10cycloalkyl, C6-12aryl, C6-12arylalkyl, heterocyclyl, and heteroaryl;
+
+or R3 and R7 together with the carbon atom to which they are attached form an unsaturated 7-, 8-, 9-membered nitrogen-containing monocycle or bicycle.
+
+**8**. The compound according to claim 1, selected from the group consisting of:
+
+Compound
+Structure
+
+ 
+
+ 
+
+ 
+
+ 
+1
+
+[![Figure US20240002351A1-20240104-C00024](https://patentimages.storage.googleapis.com/eb/73/5a/2725d50f27b1a1/US20240002351A1-20240104-C00024.png)](https://patentimages.storage.googleapis.com/eb/73/5a/2725d50f27b1a1/US20240002351A1-20240104-C00024.png)
+
+ 
+
+ 
+
+2
+
+[![Figure US20240002351A1-20240104-C00025](https://patentimages.storage.googleapis.com/29/17/0f/76f90b2943d0c9/US20240002351A1-20240104-C00025.png)](https://patentimages.storage.googleapis.com/29/17/0f/76f90b2943d0c9/US20240002351A1-20240104-C00025.png)
+
+ 
+
+ 
+
+3
+
+[![Figure US20240002351A1-20240104-C00026](https://patentimages.storage.googleapis.com/00/19/d4/206f4234390740/US20240002351A1-20240104-C00026.png)](https://patentimages.storage.googleapis.com/00/19/d4/206f4234390740/US20240002351A1-20240104-C00026.png)
+
+ 
+
+ 
+
+4
+
+[![Figure US20240002351A1-20240104-C00027](https://patentimages.storage.googleapis.com/92/19/be/944d7f399417fe/US20240002351A1-20240104-C00027.png)](https://patentimages.storage.googleapis.com/92/19/be/944d7f399417fe/US20240002351A1-20240104-C00027.png)
+
+ 
+
+ 
+
+5
+
+[![Figure US20240002351A1-20240104-C00028](https://patentimages.storage.googleapis.com/65/28/85/342358ff643076/US20240002351A1-20240104-C00028.png)](https://patentimages.storage.googleapis.com/65/28/85/342358ff643076/US20240002351A1-20240104-C00028.png)
+
+ 
+
+ 
+
+6
+
+[![Figure US20240002351A1-20240104-C00029](https://patentimages.storage.googleapis.com/98/97/da/44bea66133810f/US20240002351A1-20240104-C00029.png)](https://patentimages.storage.googleapis.com/98/97/da/44bea66133810f/US20240002351A1-20240104-C00029.png)
+
+ 
+
+ 
+
+7
+
+[![Figure US20240002351A1-20240104-C00030](https://patentimages.storage.googleapis.com/dd/43/c0/2d05fb3880caae/US20240002351A1-20240104-C00030.png)](https://patentimages.storage.googleapis.com/dd/43/c0/2d05fb3880caae/US20240002351A1-20240104-C00030.png)
+
+ 
+
+ 
+
+8
+
+[![Figure US20240002351A1-20240104-C00031](https://patentimages.storage.googleapis.com/50/a4/74/758b6c2b0729dc/US20240002351A1-20240104-C00031.png)](https://patentimages.storage.googleapis.com/50/a4/74/758b6c2b0729dc/US20240002351A1-20240104-C00031.png)
+
+**9**. The compound for use according to claim 1, wherein the disease associated with the activation of receptor tryosine-protein kinase (ERBB-4) is selected from the group consisting of heart failure, metabolic disorders, inflammatory disorders, fibrotic disorders, and cancer.
+
+**10**. The compound for use according to claim 1, wherein the disease associated with the activation of receptor tyrosine-protein kinase (ERBB) is selected from the group consisting of chronic heart failure, (chronic) diabetic nephropathy, dermal-, pulmonary- and myocardial fibrosis.
+
+**11**. A compound of formula (I) or a stereoisomer, or tautomer thereof,
+
+[![Figure US20240002351A1-20240104-C00032](https://patentimages.storage.googleapis.com/18/bc/27/9fc2953cf093d1/US20240002351A1-20240104-C00032.png)](https://patentimages.storage.googleapis.com/18/bc/27/9fc2953cf093d1/US20240002351A1-20240104-C00032.png)
+
+ 
+
+wherein,
+
+each dotted line represents an optional double bond whereby maximally 2 non-adjacent dotted lines can form a double bond;
+
+n is an integer selected from 0, 1, or 2;
+
+A1 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A2 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A3 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A4 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+wherein at most two of A1 to A4 is selected from S, N, NR6, and O;
+
+A5 is O or NR7;
+
+R1 is selected from the group consisting of alkyl, cycloalkyl, alkenyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, alkenyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z1;
+
+R2 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z2;
+
+R3 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, haloalkyl, haloalkyloxy, arylalkyl heterocyclyl heteroaryl —C(O)R8, —CO2R9—C(O)NR9R10, —S(O)2R9, and —SO2NR9R10; wherein said cycloalkyl, aryl, alkyl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z3;
+
+or R2 and R3 together with the atom to which they are attached form a saturated or unsaturated 5-, 6-, 7-, 8- or 9-membered ring;
+
+R4 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, haloakyl, haloalkyloxy, arylalkyl, heterocyclyl, and heteroaryl; wherein said cycloalkyl, aryl, alkyl, haloalkyl, haloalkyloxy, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z4;
+
+or R3 and R4 together with the nitrogen atom to which they are attached form a saturated or unsaturated 5-, 6-, 7-, 8-, 9-, 10- or 11-membered nitrogen-containing monocycle or bicycle;
+
+R5 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, halo, aryl, arylalkyl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, nitro, haloalkyl, haloalkyloxy, —C(O)R8, —NR8R9, —CO2R9, —C(O)NR9R10, —S(O)2R9, —S(O)2NR9R10, —NR9C(O)R10, and —NR9S(O)2R10;
+
+or wherein two R5 together with the atom to which they are attached can form a saturated or unsaturated 5-, 6-, 7-, 8-, 9- or 10-membered ring;
+
+wherein said ring, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z5;
+
+R6 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heteroaryl, and —S(O)2R9; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z6;
+
+R7 is selected from the group consisting of alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z7;
+
+or R3 and R7 together with the atom to which they are attached form an unsaturated 5-, 6-, 7-, 8-, 9-, 10- or 11-membered nitrogen-containing monocycle or bicycle;
+
+each R8 is independently selected from the group consisting of, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each R9 is independently selected from the group consisting of hydrogen, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each R10 is independently selected from the group consisting of hydrogen, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each Z1 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z2 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z3 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z4 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z5 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z6 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z7 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+or a solvate, hydrate, pharmaceutically acceptable salt, or prodrug thereof for use as a medicament.
+
+**12**. A pharmaceutical composition comprising a compound of formula (I) or a stereoisomer, or tautomer thereof,
+
+[![Figure US20240002351A1-20240104-C00033](https://patentimages.storage.googleapis.com/9b/7d/ee/fe8da20cad8e84/US20240002351A1-20240104-C00033.png)](https://patentimages.storage.googleapis.com/9b/7d/ee/fe8da20cad8e84/US20240002351A1-20240104-C00033.png)
+
+ 
+
+wherein,
+
+each dotted line represents an optional double bond whereby maximally 2 non-adjacent dotted lines can form a double bond;
+
+n is an integer selected from 0, 1, or 2;
+
+A1 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A2 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A3 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+A4 is selected from the group consisting of CR5, S, N, NR6, and O;
+
+wherein at most two of A1 to A4 is selected from S, N, NR6, and O;
+
+A5 is O or NR1;
+
+R1 is selected from the group consisting of alkyl, cycloalkyl, alkenyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, alkenyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z1;
+
+R2 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z2;
+
+R3 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, haloalkyl, haloalkyloxy, arylalkyl, heterocyclyl, heteroaryl, —C(O)R8, —CO2R9, —C(O)NR9R10, —S(O)2R9, and —SO2NR9R10; wherein said cycloalkyl, aryl, alkyl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z3;
+
+or R2 and R3 together with the atom to which they are attached form a saturated or unsaturated 5-, 6-, 7-, 8- or 9-membered ring;
+
+R4 is selected from the group consisting of hydrogen, cycloalkyl, aryl, alkyl, haloalkyl, haloalkyloxy, arylalkyl, heterocyclyl, and heteroaryl; wherein said cycloalkyl, aryl, alkyl, haloalkyl, haloalkyloxy, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z4;
+
+or R3 and R4 together with the nitrogen atom to which they are attached form a saturated or unsaturated 5-, 6-, 7-, 8-, 9-, 10- or 11-membered nitrogen-containing monocycle or bicycle;
+
+R5 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, halo, aryl, arylalkyl, heterocyclyl, heteroaryl, hydroxyl, —ORS, cyano, amino; nitro, haloalkyl, haloalkyloxy, —C(O)R8, —NR8R9, —CO2R9, —C(O)NR9R10, —S(O)2R9, —S(O)2NR9R10, —NR9C(O)R10, and —NR9S(O)2R10;
+
+or wherein two R5 together with the atom to which they are attached can form a saturated or unsaturated 5-, 6-, 7-, 8-, 9- or 10-membered ring;
+
+wherein said ring, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z5;
+
+R6 is selected from the group consisting of hydrogen, alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, heteroaryl, and —S(O)2R9; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z6;
+
+R7 is selected from the group consisting of alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, and heteroaryl; wherein said alkyl, cycloalkyl, aryl, arylalkyl, heterocyclyl, or heteroaryl can be unsubstituted or substituted with one or more Z7;
+
+or R3 and R7 together with the atom to which they are attached form an unsaturated 5-, 6-, 7-, 8-, 9-, 10- or 11-membered nitrogen-containing monocycle or bicycle;
+
+each R8 is independently selected from the group consisting of, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each R9 is independently selected from the group consisting of hydrogen, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each R10 is independently selected from the group consisting of hydrogen, alkyl, aryl, cycloalkyl, arylalkyl, heterocyclyl, heteroaryl;
+
+each Z1 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z2 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z3 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z4 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z5 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z6 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+each Z7 is independently selected from the group consisting of halo, alkyl, haloalkyl, haloalkyloxy, cycloalkyl, cycloalkenyl, aryl, alkylaryl, heterocyclyl, heteroaryl, hydroxyl, —OR8, cyano, amino, —NR8R9, —C(O)2R9, —C(O)NR9R10, —C(O)R8, —S(O)R9, —S(O)2R9, —S(O)2NR9R10, nitro;
+
+and a pharmaceutically acceptable carrier.

@@ -1,0 +1,80 @@
+Claims (20)
+-----------
+
+What is claimed is:
+
+**1**. A composition comprising an NQO1 substrate that is a DNQ analogue of Formula (I):
+
+[![Figure US20170182030A1-20170629-C00137](https://patentimages.storage.googleapis.com/60/7f/ac/c9b771eefb849a/US20170182030A1-20170629-C00137.png)](https://patentimages.storage.googleapis.com/60/7f/ac/c9b771eefb849a/US20170182030A1-20170629-C00137.png)
+
+ 
+
+wherein
+
+R1 is alkyl;
+
+R3 is H;
+
+R2 and R4 are each independently —X—R;
+
+each X is independently a direct bond or a bridging group, wherein the bridging group is —O—, —S—, —NH—, —C(═O)—, —O—C(═O)—, —C(═O)—O—, —O—C(═O)—O—, or a linker of the formula -W-A-W-, wherein
+
+each W is independently —N(R′)C(═O)—, —C(═O)N(R′)—, —OC(═O)—, —C(═O)O—, —O—, —S—, —S(O)—,
+
+—S(O)2—, —N(R′)—, —C(═O)—, —(CH2)n— where n is 1-10, or a direct bond, wherein each R′ is independently H, (C1-C6)alkyl, or a nitrogen protecting group; and
+
+each A is independently (C1-C20)alkyl, (C2-C16)alkenyl, (C2-C16)alkynyl, (C3-C8)cycloalkyl, (C6-C10)aryl, —(OCH2—CH2)n— where n is 1 to about 20, —C(O)NH(CH2)n— wherein n is 1 to about 6, —OP(O)(OH)O—, —OP(O)(OH)O(CH2)n— wherein n is 1 to about 6, or (C1-C20)alkyl, (C2-C16)alkenyl, (C2-C16)alkynyl, or —(OCH2—CH2)n— interrupted between two carbons, or between a carbon and an oxygen, with a cycloalkyl, heterocycle, or aryl group;
+
+each R is independently alkyl, alkenyl, alkynyl, heteroalkyl, cycloalkyl, cycloalkenyl, heterocycloalkyl, heterocycloalkenyl, (cycloalkyl)alkyl, (heterocycloalkyl)alkyl, (cycloalkyl)heteroalkyl, (heterocycloalkyl)heteroalkyl, aryl, heteroaryl, (aryl)alkyl, (heteroaryl)alkyl, hydrogen, hydroxy, hydroxyalkyl, alkoxy, (alkoxy)alkyl, alkenyloxy, alkynyloxy, (cycloalkyl)alkoxy, heterocycloalkyloxy, amino, alkylamino, aminoalkyl, acylamino, arylamino, sulfonylamino, sulfinylamino, —CORx, —COORx, —CONHRx, —NHCORx, —NHCOORx, —NHCONHRx, —N3, —CN, —NC, —NCO, —NO2, —SH, -halo, alkoxycarbonyl, alkylaminocarbonyl, sulfonate, sulfonic acid, alkylsulfonyl, alkylsulfinyl, arylsulfonyl, arylsulfinyl, aminosulfonyl, RxS(O)Ry—, RxS(O)2Ry—, RxC(O)N(Rx)Ry—, RxSO2N(Rx)Ry—, RxN(Rx)C(O)Ry—, RxN(Rx)SO2Ry—, RxN(Rx)C(O)N(Rx)Ry—, carboxaldehyde, acyl, acyloxy, —OPO3H2, —OPO3Z2 where Z is an inorganic cation, or saccharide; where each Rx is independently H, OH, alkyl or aryl, and each Ry is independently a group W;
+
+wherein any alkyl or aryl can be optionally substituted with one or more hydroxy, amino, cyano, nitro, or halo groups;
+
+or a salt or solvate thereof;
+
+in combination with one or more additional therapeutic compounds.
+
+**2**. The composition according to claim 1 wherein the one or more additional compounds is selected from a chemotherapeutic, an immunotherapeutic, a siRNA, and a gene therapy.
+
+**3**. The composition according to claim 2 wherein the one or more additional compounds is selected from cisplatin, etoposide, irinotecan, camptostar, topotecan, paclitaxel, docetaxel, epothilones, taxotere, taxol, 5-fluorouracil, methotrexate, temozolomide, cyclophosphamide, SCH 66336, R115777, L778,123, BMS 214662, IRESSA™ (gefitinib), TARCEVA™ (erlotinib hydrochloride), antibodies to EGFR, GLEEVEC™ (imatinib), intron, ara-C, adriamycin, cytoxan, gemcitabine, uracil mustard, chlormethine, ifosfamide, melphalan, chlorambucil, pipobroman, triethylenemelamine, triethylenethiophosphoramine, carmustine, lomustine, streptozocin, dacarbazine, floxuridine, cytarabine, 6-mercaptopurine, 6-thioguanine, fludarabine phosphate, pentostatine, vinblastine, vincristine, vindesine, epirubicin, idarubicin, mithramycin, deoxycoformycin, Mitomycin-C, L-Asparaginase, Teniposide 17α-Ethinylestradiol, Diethylstilbestrol, testosterone, prednisone, fluoxymesterone, dromostanolone propionate, testolactone, megestrolacetate, methylprednisolone, methyltestosterone, prednisolone, triamcinolone, chlorotrianisene, hydroxyprogesterone, aminoglutethimide, estramustine, medroxyprogesteroneacetate, leuprolide, flutamide, toremifene, goserelin, carboplatin, hydroxyurea, amsacrine, procarbazine, mitotane, mitoxantrone, levamisole, navelbene, anastrazole, letrazole, capecitabine, reloxafine, droloxafine, hexamethylmelamine, Avastin, herceptin, Bexxar, Velcade, Zevalin, Trisenox, Xeloda, Vinorelbine, Porfimer, Erbitux™ (cetuximab), Liposomal, Thiotepa, Altretamine, Melphalan, Trastuzumab, Lerozole, Fulvestrant, Exemestane, Fulvestrant, Ifosfomide, Rituximab, C225, Campath, procarbazine, mechlorethamine, cyclophosphamide, camptothecin, ifosfamide, melphalan, chlorambucil, busulfan, nitrosurea, dactinomycin, daunorubicin, doxorubicin, bleomycin, plicomycin, mitomycin, tamoxifen, raloxifene, estrogen receptor binding agents, taxol (paclitaxel), gemcitabine, navelbine, farnesyl-protein transferase inhibitors, transplatinum, 5-fluorouracil, and methotrexate, or a combination thereof.
+
+**4**. The composition according to claim 3 wherein the DNQ analogue of Formula (I) is compound 87:
+
+[![Figure US20170182030A1-20170629-C00138](https://patentimages.storage.googleapis.com/17/1e/13/51b22688085ce8/US20170182030A1-20170629-C00138.png)](https://patentimages.storage.googleapis.com/17/1e/13/51b22688085ce8/US20170182030A1-20170629-C00138.png)
+
+**5**. The composition according to claim 4 in combination with a pharmaceutically acceptable carrier.
+
+**6**. The composition according to claim 5 wherein the composition comprises a cyclodextrin.
+
+**7**. The composition according to claim 1 wherein R1 is (C1-C12)alkyl.
+
+**8**. The composition according to claim 7 wherein R1 is methyl.
+
+**9**. The composition according to claim 1 wherein R2 is (C1-C12)alkyl.
+
+**10**. The composition according to claim 9 wherein R2 is methyl.
+
+**11**. The composition according to claim 1 wherein R4 is (C1-C12)alkyl.
+
+**12**. The composition according to claim 11 wherein R4 is branched or unbranched butyl.
+
+**13**. The composition according to claim 1 wherein R1 is (C1-C12)alkyl, R2 is (C1-C12)alkyl, and R4 is branched or unbranched butyl.
+
+**14**. The composition according to claim 13 wherein R1 is methyl, R2 is methyl, and R4 is branched or unbranched butyl.
+
+**15**. The composition according to claim 14 in combination with a pharmaceutically acceptable carrier.
+
+**16**. The composition according to claim 15 wherein the composition comprises a cyclodextrin.
+
+**17**. A composition comprising compound 87:
+
+[![Figure US20170182030A1-20170629-C00139](https://patentimages.storage.googleapis.com/ff/bf/93/daa853c69841b3/US20170182030A1-20170629-C00139.png)](https://patentimages.storage.googleapis.com/ff/bf/93/daa853c69841b3/US20170182030A1-20170629-C00139.png)
+
+ 
+
+in combination with one or more additional therapeutic compounds.
+
+**18**. The composition according to claim 17 wherein the one or more additional compounds is selected from a chemotherapeutic, an immunotherapeutic, a siRNA, and a gene therapy.
+
+**19**. The composition according to claim 18 wherein the one or more additional compounds is selected from cisplatin, etoposide, irinotecan, camptostar, topotecan, paclitaxel, docetaxel, taxotere, 5-fluorouracil, methotrexate, temozolomide, cyclophosphamide, gefitinib, erlotinib, imatinib, ara-C, adriamycin, cytoxan, gemcitabine, chlormethine, ifosfamide, melphalan, chlorambucil, pipobroman, carmustine, lomustine, streptozocin, dacarbazine, floxuridine, cytarabine, 6-mercaptopurine, 6-thioguanine, fludarabine phosphate, pentostatine, vinblastine, vincristine, vindesine, epirubicin, idarubicin, mithramycin, deoxycoformycin, Mitomycin-C, chlorotrianisene, leuprolide, flutamide, toremifene, goserelin, carboplatin, hydroxyurea, amsacrine, procarbazine, mitotane, mitoxantrone, levamisole, navelbene, anastrazole, letrazole, capecitabine, reloxafine, droloxafine, hexamethylmelamine, cetuximab, procarbazine, mechlorethamine, cyclophosphamide, camptothecin, melphalan, chlorambucil, busulfan, dactinomycin, daunorubicin, doxorubicin, bleomycin, plicomycin, tamoxifen, raloxifene, gemcitabine, and navelbine, or a combination thereof.
+
+**20**. The composition according to claim 19 in combination with a pharmaceutically acceptable carrier.

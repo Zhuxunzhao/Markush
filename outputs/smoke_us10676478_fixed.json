@@ -1,0 +1,45 @@
+{
+  "patent_id": "US10676478",
+  "target_smiles": "CC1CCC(C)CC1",
+  "is_protected": false,
+  "confidence": "high",
+  "markush_structure": {
+    "cxsmiles": "",
+    "substituent_table": {},
+    "caption": "*C1CC(*)CC1<sep><a>0:R[1]</a><a>3:R[2]</a>",
+    "source_image_path": "",
+    "score": 0.0,
+    "is_markush": true
+  },
+  "fused_match": {
+    "r_group_matching": {},
+    "rdkit_result": {
+      "is_match": false,
+      "r_group_map": null,
+      "method": "rdkit",
+      "reasoning": "None"
+    },
+    "nn_result": null,
+    "reasoning": "The target molecule CC1CCC(C)CC1 has substituents at positions 1 and 4, while the Markush structure *C1CC(*)CC1 requires substituents at positions 0 and 3. The positions and the substituents do not align, so there is no valid R-group mapping."
+  },
+  "requirements": {
+    "is_protected": false,
+    "reasoning": "The query molecule CC1CCC(C)CC1 does not meet the claim requirements because it lacks the necessary N atom to form a 4-8 membered heterocycloalkyl. Both R[1] and R[2] do not align with the stipulations outlined in the claim requirement text.",
+    "confidence": "high",
+    "r_group_analysis": {
+      "R[1]": {
+        "value": "CH3",
+        "covered": false,
+        "claim_definition": "R1 and R2 together with the N atom to which they are attached form a 4-8 membered heterocycloalkyl; wherein the 4-8 membered heterocycloalkyl is optionally substituted with one or more R3; and R3 is independently at each occurrence selected from the group consisting of hydroxyl, halogen, cyano, C1-4alkyl and C1-4alkoxy.",
+        "reason": "The query molecule does not have an N atom, and the R[1] position is a simple methyl group, not part of a heterocycloalkyl."
+      },
+      "R[2]": {
+        "value": "H",
+        "covered": false,
+        "claim_definition": "R1 and R2 together with the N atom to which they are attached form a 4-8 membered heterocycloalkyl; wherein the 4-8 membered heterocycloalkyl is optionally substituted with one or more R3; and R3 is independently at each occurrence selected from the group consisting of hydroxyl, halogen, cyano, C1-4alkyl and C1-4alkoxy.",
+        "reason": "The query molecule does not have an N atom, and the R[2] position is a hydrogen, not part of a heterocycloalkyl."
+      }
+    }
+  },
+  "report": "## Detailed Analysis\n\n### Markush Structure\nThe Markush structure for the patent is defined as: `*C1CC(*)CC1<sep><a>0:R[1]</a><a>3:R[2]</a>`.\n\n### R-group Matching Result\nThe R-group matching result is empty, indicating no matches were found.\n\n### Requirements Examination\n- **Protected**: False\n- **Reasoning**: The query molecule CC1CCC(C)CC1 does not meet the claim requirements because it lacks the necessary N atom to form a 4-8 membered heterocycloalkyl. Both R[1] and R[2] do not align with the stipulations outlined in the claim requirement text.\n\n#### R-group Analysis\n- **R[1]**\n  - **Value**: CH3\n  - **Covered**: False\n  - **Claim Definition**: R1 and R2 together with the N atom to which they are attached form a 4-8 membered heterocycloalkyl; wherein the 4-8 membered heterocycloalkyl is optionally substituted with one or more R3; and R3 is independently at each occurrence selected from the group consisting of hydroxyl, halogen, cyano, C1-4alkyl and C1-4alkoxy.\n  - **Reason**: The query molecule does not have an N atom, and the R[1] position is a simple methyl group, not part of a heterocycloalkyl.\n\n- **R[2]**\n  - **Value**: H\n  - **Covered**: False\n  - **Claim Definition**: R1 and R2 together with the N atom to which they are attached form a 4-8 membered heterocycloalkyl; wherein the 4-8 membered heterocycloalkyl is optionally substituted with one or more R3; and R3 is independently at each occurrence selected from the group consisting of hydroxyl, halogen, cyano, C1-4alkyl and C1-4alkoxy.\n  - **Reason**: The query molecule does not have an N atom, and the R[2] position is a hydrogen, not part of a heterocycloalkyl."
+}

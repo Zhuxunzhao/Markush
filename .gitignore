@@ -23,8 +23,6 @@ build/
 *.egg-info/
 
 third_party/MarkushGrapher/
-outputs/
-cache/
 runs/
 *.log
 web/uploads/

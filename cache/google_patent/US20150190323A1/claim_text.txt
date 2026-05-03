@@ -1,0 +1,122 @@
+Claims (17)
+-----------
+
+**1**. A compound a salt thereof of general formula (I) below:
+
+[![Figure US20150190323A1-20150709-C00009](https://patentimages.storage.googleapis.com/99/bc/df/c647277d8d2854/US20150190323A1-20150709-C00009.png)](https://patentimages.storage.googleapis.com/99/bc/df/c647277d8d2854/US20150190323A1-20150709-C00009.png)
+
+ 
+
+in which:
+
+R1 represents a hydrogen atom or a C1-C3 alkyl;
+
+R2 represents a hydrogen, a C1-C3 alkyl, a fluorine, or a CF3 radical;
+
+R3 represents a hydrogen, a C1-C3 alkyl, a fluorine, or a CF3 radical;
+
+R4 represents a hydrogen, a C1-C3 alkyl, or a CF3 radical.
+
+**2**. The compound according to claim 1,
+
+R1 is selected from the group consisting of a hydrogen, a methyl and an ethyl;
+
+R2 is selected from the group consisting of a hydrogen, a methyl, a fluorine, or a CF3 radical;
+
+R3 is selected from the group consisting of a hydrogen, a methyl, a fluorine, or a CF3 radical; and
+
+R4 is selected from the group consisting of a hydrogen, a methyl, and a CF3 radical.
+
+**3**. The compound according to claim 1, wherein the compound is selected from the group consisting of:
+
+4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]-3-trifluoromethylbenzoic acid;
+
+4-[2-(3,5,5,8,8-pentamethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]-3-trifluoromethylbenzoic acid;
+
+methyl 4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoate;
+
+ethyl 4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoate;
+
+methyl 4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]-3-trifluoromethyl benzoate;
+
+ethyl 4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]-3-trifluoromethyl benzoate;
+
+2-methyl-4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+2-fluoro-4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]-2-trifluoromethyl benzoic acid;
+
+3-methyl-4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+3-fluoro-4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+4-[2-(5,5,8,8-tetramethyl-3-trifluoromethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+3-methyl-4-[2-(3,5,5,8,8-pentamethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+2-methyl-4-[2-(3,5,5,8,8-pentamethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+2,3-dimethyl-4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+2,3-difluoro-4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid; and
+
+methyl 2-methyl-4-[2-(3,5,5,8,8-pentamethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoate.
+
+**4**. The compound according to claim 1, wherein the compound is selected from the group consisting of:
+
+4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid;
+
+4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]-3-trifluoromethylbenzoic acid; and
+
+4-[2-(3,5,5,8,8-pentamethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]-3-trifluoromethylbenzoic acid.
+
+**5**. The compound according to claim 1, wherein the compound is 4-[2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalene-2-sulphonyl)ethyl]benzoic acid.
+
+**6**. A composition comprising a compound according to claim 1, in combination with a solvent or a support.
+
+**7**. The composition according to claim 6, l wherein the solvent or support is dermatologically acceptable.
+
+**8**. The compound according to claim 1, wherein the compound is formulated for use as a medicament.
+
+**9**. A method of treating a pathological condition, the method comprising administering an effective amount of the compound according to claim 1 to an individual subject in need thereof, wherein the pathological condition is selected from the group consisting of:
+
+1) dermatological conditions associated with a keratinization disorder relating to cell differentiation and proliferation, optionally for treating common acne, comedonal acne, polymorphic acne, acne rosacea, nodulocystic acne, acne conglobata, senile acne, secondary acne such as solar acne, acne medicamentosa or occupational acne;
+
+2) keratinization disorders, optionally ichthyosis, ichthyosiform conditions, lamellar ichthyosis, Darier's disease, palmoplantar keratodermia, leukoplakia, pityriasis rubra pilaris and leucoplasiform conditions, cutaneous or mucosal (buccal) lichen;
+
+3) dermatological conditions with an inflammatory immunoallergic component, with or without a cell proliferation disorder, and optionally all forms of psoriasis, whether cutaneous, mucosal or ungueal, and even psoriatic arthritis, or else atopic dermatitis and the various forms of eczema;
+
+4) skin disorders caused by exposure to UV radiation for reducing actinic keratoses and pigmentations, or any pathological conditions associated with chronological or actinic ageing, such as xerosis, lentigines or lentigo;
+
+5) any condition associated with benign dermal or epidermal proliferations, whether or not they are of viral origin, optionally common warts, flat warts, molluscum contagiosum and epidermodysplasia verruciformis, or oral or floride papillomatoses;
+
+6) dermatological disorders including immune dermatoses, optionally lupus erythematosus, bullous immune diseases and collagen diseases, optionally sclerodermia;
+
+7) stigmata of epidermal and/or dermal atrophy induced by local or systemic corticosteroids, or any other form of cutaneous atrophy;
+
+8) healing disorders, or for treating or repairing stretch marks, or else for promoting healing;
+
+9) conditions of fungal origin at the cutaneous level, optionally tinea pedis and tinea versicolor;
+
+10) pigmentation disorders, optionally hyperpigmentation, melasma, hypopigmentation or vitiligo;
+
+11) cutaneous or mucosal cancerous or precancerous conditions, optionally actinic keratoses, Bowen's disease, in-situ carcinomas, keratoacanthoma and skin cancers optionally basal cell carcinoma (BCC), squamous cell carcinoma (SCC) and cutaneous lymphomas optionally T lymphoma, acute promyelocytic leukaemia, neuroblastomas, acute myeloid leukaemias, prostate cancer and breast cancer.
+
+**10**. The method according to claim 9, wherein the method is used to treat dermatological diseases selected from the group of consisting of acne, ichthyosis, ichthyosiform conditions, palmoplantar hyperkeratosis and psoriasis.
+
+**11**. A method of treating skin ageing, the method comprising administering an effective amount of the compound of claim 1 to an individual subject in need thereof.
+
+**12**. The method according to claim 11, for treating cutaneous atrophy, pigmentation spots, skin dryness, skin roughness, solar elastosis or telangiectasia.
+
+**13**. A cosmetic method comprising administering an effective amount of compound of claim 1 to an individual subject in need thereof to maintain and/or stimulate the moisture of the skin, treat dry skin or treat ageing of the skin or skin appendages and/or photoageing, optionally to treat pigmentation spots, wrinkles, optionally deep wrinkles and/or fine lines, for reducing ptosis, or improving the quality and/or the transparency of the skin, for improving or restoring the suppleness, the elasticity and/or the tonicity of the skin, and for firming the skin.
+
+**14**. The composition according to claim 6, wherein the composition comprises a dose ranging from 0.000001% to 10% by total weight of the compound relative to the total weight of the composition.
+
+**15**. The compound according to claim 2, wherein R1 is a hydrogen.
+
+**16**. The composition according to claim 14, wherein the dose ranges from 0.001% to 5% by total weight of the compound relative to the total weight of the composition.
+
+**17**. The composition of claim 15, wherein the dose ranges from 0.1% to 3% by total weight of the compound relative to the total weight of the composition.

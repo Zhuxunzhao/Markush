@@ -1,0 +1,428 @@
+Claims (24)
+-----------
+
+The invention claimed is:
+
+1. A method of treatment of glaucoma, which comprises administering to a patient in need thereof an effective dose of a compound of formula (I) or formula (II), or an enantiomer thereof, wherein the compound of formula (II) is a prodrug of compound of formula (I):
+
+[![Figure US09624159-20170418-C00469](https://patentimages.storage.googleapis.com/76/c4/4c/f6cdf20af7c5ab/US09624159-20170418-C00469.png)](https://patentimages.storage.googleapis.com/76/c4/4c/f6cdf20af7c5ab/US09624159-20170418-C00469.png)
+
+ 
+
+wherein
+
+R1a represents H, a halogen, a (C1-C6)alkyl or a CN;
+
+R1b represents H, a halogen or a (C1-C6)alkyl;
+
+R1c represents H or a (C1-C6)alkyl;
+
+R2 represents H, a halogen, an OH, an O—(C1-C6)alkyl or a (C1-C6)alkyl;
+
+R3 represents H, a halogen, a (C1-C6)alkyl, an OH, an O—(C1-C6)alkyl, a CONH2 or a CN;
+
+R4 represents H, a halogen or a (C1-C6)alkyl;
+
+R5 represents H or F;
+
+R6 represents an O—(C1-C6)alkyl, an O—(C1-C6)alkyl-heterocycloalkyl, a NH2, a NH—(C1-C6)alkyl, an O—(C1-C6)alkyl optionally substituted by one to three hydroxyl groups, O—(C1-C6)alkyl-O—CO(C1-C6)alkyl);
+
+R7 represents H or F;
+
+R8 represents H or F; and
+
+R9 represents H or a (C1-C6)alkyl.
+
+2. The method according to claim 1, in which compounds are not:
+
+2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-2-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2-methoxy-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2-hydroxy-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-2,5-dimethyl-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[5-fluoro-3-(3-fluorophenyl)-2-methylphenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-6-hydroxy-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-6-methoxy-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-isopropyl-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[3-[[3-ethyl-5-(3-fluorophenyl)phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+2-[2-ethyl-4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2-isopropyl-phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[2-fluoro-5-(4-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[(2-fluoro-5-phenyl-phenyl)methylamino]phenoxy]acetic acid;
+
+2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-6-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[3-[[5-(3-fluorophenyl)-2,3-dimethyl-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[4-fluoro-3-[[5-(3-fluorophenyl)-2,3-dimethyl-phenyl]methylamino]phenoxy]acetic acid;
+
+2-[3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+or an enantiomer thereof.
+
+3. The method according to claim 1, wherein said compound is a compound of formula (I):
+
+[![Figure US09624159-20170418-C00470](https://patentimages.storage.googleapis.com/d1/47/32/b1a19e7dac2c80/US09624159-20170418-C00470.png)](https://patentimages.storage.googleapis.com/d1/47/32/b1a19e7dac2c80/US09624159-20170418-C00470.png)
+
+ 
+
+or an enantiomer thereof.
+
+4. The method according to claim 3, wherein said compound is selected from the group consisting of:
+
+I(ai): 2-[4-fluoro-3-[[2-fluoro-3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(aj): 2-[3-[[3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(ak): 2-[3-[[5-(3-fluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(al): 2-[3-[[5-(3-fluorophenyl)-2-methoxy-3-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(am): 2-[3-[[2-Fluoro-3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(an): 2-[2-cyano-4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+I(ao): 2-[3-[[3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(ap): 2-[3-[[3-(3-fluorophenyl)-5-methoxy-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(aq): 2-[3-[[5-(3,4-difluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(ar): 2-[3-[[5-(3,5-difluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(as): 2-[2,4-difluoro-3-[1-[2-fluoro-5-(3-fluorophenyl)phenyl]ethylamino]phenoxy]acetic acid;
+
+I(at): 2-[4-fluoro-3-[[5-(3-fluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(au): 2-[3-[(2,3-dimethyl-5-phenyl-phenyl)methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(av): 2-[4-fluoro-3-[[3-fluoro-5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(aw): 2-[3-[[3-fluoro-5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(h): 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(i): 2-[2-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-4-methyl-phenoxy]acetic acid;
+
+I(j): 2-[3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(k): 2-[4-chloro-2-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+I(l): 2-[3-[[2-chloro-5-(3-fluorophenyl)phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(m): 2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(n): 2-[2,4-difluoro-3-[[3-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+I(o): 2-[2-chloro-4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+I(p): 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]phenoxy]acetic acid;
+
+I(q): 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-methoxy-phenyl]methylamino]phenoxy]acetic acid;
+
+I(r): 2-[2,4-dichloro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+I(s): 2-[3-[[2,6-difluoro-3-(3-fluorophenyl)phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(t): 2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2-methoxy-3-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(u): 2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2-hydroxy-3-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(v): 2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2,3-dimethyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(w): 2-[3-[[5-(3,4-difluorophenyl)-2-fluoro-phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(x): 2-[3-[[3-cyano-5-(3-fluorophenyl)phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(y): 2-[2,4-difluoro-3-[[6-fluoro-3-(3-fluorophenyl)-2-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(z): 2-[3-[[3-carbamoyl-5-(3-fluorophenyl)phenyl]methylamino]-2,4-difluoro-phenoxy]acetic acid;
+
+I(aa): 2-[2,4-difluoro-3-[[3-fluoro-5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(ab): 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-5-methyl-phenoxy]acetic acid;
+
+I(ac): 2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2,5-dimethyl-phenoxy]acetic acid;
+
+I(ad): 2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(ae): 2-[4-fluoro-3-[[3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(af): 2-[4-fluoro-3-[[5-(3-fluorophenyl)-2-methoxy-3-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(ag): 2-[3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetic acid;
+
+I(ah): 2-[4-fluoro-3-[[3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]-2-methyl-phenoxy]acetic acid;
+
+I(a): 2-[3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid
+
+I(b): 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+I(c): 2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(d): 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]phenoxy]acetic acid;
+
+I(e): 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid;
+
+I(f): 2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]phenoxy]acetic acid; and
+
+I(g): 2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-5-methylphenyl]methylamino]phenoxy]acetic acid;
+
+or an enantiomer thereof.
+
+5. The method according to claim 1, wherein said compound is 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid.
+
+6. The method according to claim 1, wherein said compound is a compound of formula (II):
+
+[![Figure US09624159-20170418-C00471](https://patentimages.storage.googleapis.com/eb/d2/7d/b5083ca1969981/US09624159-20170418-C00471.png)](https://patentimages.storage.googleapis.com/eb/d2/7d/b5083ca1969981/US09624159-20170418-C00471.png)
+
+ 
+
+or an enantiomer thereof.
+
+7. The method according to claim 1, wherein said compound is a compound of formula (II):
+
+[![Figure US09624159-20170418-C00472](https://patentimages.storage.googleapis.com/c3/62/fc/fb18dceb57a940/US09624159-20170418-C00472.png)](https://patentimages.storage.googleapis.com/c3/62/fc/fb18dceb57a940/US09624159-20170418-C00472.png)
+
+ 
+
+wherein
+
+R1a represents F;
+
+R1b represents F;
+
+R1c represents H;
+
+R2 represents F;
+
+R3 represents H;
+
+R4 represents H;
+
+R5 represents H;
+
+R7 represents F;
+
+R8 represents H; and
+
+R9 represents H;
+
+or an enantiomer thereof.
+
+8. The method according to claim 6, wherein said compound is selected from the group consisting of:
+
+II(s): ethyl 2-[3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(t): ethyl 2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]phenoxy]acetate;
+
+II(u): ethyl 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(v): ethyl 2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]phenoxy]acetate;
+
+II(w): ethyl 2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]phenoxy]acetate;
+
+II(x): ethyl 2-[2-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-4-methyl-phenoxy]acetate;
+
+II(y): ethyl 2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(z): ethyl 2-[2,4-difluoro-3-[[3-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(aa): ethyl 2-[2-chloro-4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(ab): ethyl 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-methoxy-phenyl]methylamino]phenoxy]acetate;
+
+II(ac): ethyl 2-[3-[[2,6-difluoro-3-(3-fluorophenyl)phenyl]methylamino]-2,4-difluoro-phenoxy]acetate;
+
+II(ad): ethyl 2-[2,4-difluoro-3-[[5-(3-fluorophenyl)-2-hydroxy-3-methyl-phenyl]methylamino]phenoxy]acetate;
+
+II(ae): isopropyl 2-[2,4-difluoro-3-[[3-fluoro-5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]phenoxy]acetate;
+
+II(af): isopropyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-5-methyl -phenoxy]acetate;
+
+II(ag): isopropyl 2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2,5-dimethyl-phenoxy]acetate;
+
+II(ah): isopropyl 2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(ai): isopropyl 2-[4-fluoro-3-[[3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(aj): isopropyl 2-[4-fluoro-3-[[5-(3-fluorophenyl)-2-methoxy-3-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(ak): isopropyl 2-[3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(al): isopropyl 2-[4-fluoro-3-[[3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(am): isopropyl 2-[4-fluoro-3-[[2-fluoro-3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(an): isopropyl 2-[3-[[3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(ao): isopropyl 2-[3-[[5-(3-fluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(ap): isopropyl 2-[3-[[5-(3-fluorophenyl)-2-methoxy-3-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(aq): isopropyl 2-[3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(ar): isopropyl 2-[2-cyano-4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(as): isopropyl 2-[3-[[3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(at): isopropyl 2-[3-[[3-(3-fluorophenyl)-5-methoxy-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(au): isopropyl 2-[3-[[5-(3,4-difluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2,4-difluoro-phenoxy]acetate;
+
+II(av): isopropyl 2-[3-[[5-(3,5-difluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2,4-difluoro-phenoxy]acetate;
+
+II(aw): isopropyl 2-[2,4-difluoro-3-[1-[2-fluoro-5-(3-fluorophenyl)phenyl]ethylamino]phenoxy]acetate;
+
+II(ax): isopropyl 2-[4-fluoro-3-[[5-(3-fluorophenyl)-2,3-dimethyl-phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(ay): isopropyl 2-[3-[(2,3-dimethyl-5-phenyl-phenyl)methylamino]-2,4-difluoro-phenoxy]acetate;
+
+II(az): isopropyl 2-[4-fluoro-3-[[3-fluoro-5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(ba): isopropyl 2-[3-[[3-fluoro-5-(3-fluorophenyl)-2-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(bb): isopropyl 2-[3-[[2-fluoro-3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(b): ethyl 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]phenoxy]acetate;
+
+II(e): isopropyl 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]phenoxy]acetate;
+
+II(f): isopropyl 2-[2,4-difluoro-3-[[2-fluoro-3-(3-fluorophenyl)-5-methyl-phenyl]methylamino]phenoxy]acetate;
+
+II(g): isopropyl 2-[3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2,4-dimethyl-phenoxy]acetate;
+
+II(h): ethyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)-3-methyl-phenyl]methylamino]phenoxy]acetate;
+
+II(i): isopropyl 2-[4-fluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]-2-methyl-phenoxy]acetate;
+
+II(j): 2-hydroxyethyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(k): 2-morpholinoethyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(l): 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetamide;
+
+II(m): 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]-N-ethyl-acetamide;
+
+II(n): [3-hydroxy-2,2-bis(hydroxymethyl)propyl]2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(o): [3-hydroxy-2-(hydroxymethyl)propyl]2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(p): 1-acetoxyethyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(q): isopropyl 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-methoxy-phenyl]methylamino]phenoxy]acetate;
+
+II(r): isopropyl 2-[2,4-difluoro-3-[[3-(3-fluorophenyl)-5-hydroxy-phenyl]methylamino]phenoxy]acetate;
+
+II(a): ethyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate;
+
+II(c): methyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate; and
+
+II(d): isopropyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl) phenyl]methylamino]phenoxy]acetate;
+
+or an enantiomer thereof.
+
+9. The method according to claim 6, wherein said compound is isopropyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate.
+
+10. The method according to claim 1, wherein said compound, or an enantiomer thereof, is administered in combination with one or more beta-blockers, prostaglandins, sympathomimetic collyres, inhibitors of carbonic anhydrase, or parasympathomimetic collyres.
+
+11. A method of treatment of glaucoma, which comprises administering to a patient in need thereof a pharmaceutical composition comprising an effective dose of a compound of formula (I) or of formula (II), or an enantiomer thereof, wherein the compound of formula (II) is a prodrug of compound of formula (I), said pharmaceutical composition comprising also at least one pharmaceutically acceptable excipient, wherein said compound is as follows:
+
+[![Figure US09624159-20170418-C00473](https://patentimages.storage.googleapis.com/37/43/ab/b444471df7f78d/US09624159-20170418-C00473.png)](https://patentimages.storage.googleapis.com/37/43/ab/b444471df7f78d/US09624159-20170418-C00473.png)
+
+ 
+
+wherein
+
+R1a represents H, a halogen, a (C1-C6)alkyl or a CN;
+
+R1b represents H, a halogen or a (C1-C6)alkyl;
+
+R1c represents H or a (C1-C6)alkyl;
+
+R2 represents H, a halogen, an OH, an O—(C1-C6)alkyl or a (C1-C6)alkyl;
+
+R3 represents H, a halogen, a (C1-C6)alkyl, an OH, an O—(C1-C6)alkyl, a CONH2 or a CN;
+
+R4 represents H, a halogen or a (C1-C6)alkyl;
+
+R5 represents H or F;
+
+R6 represents an O—(C1-C6)alkyl, an O—(C1-C6)alkyl-heterocycloalkyl, a NH2, a NH—(C1-C6)alkyl, an O—(C1-C6)alkyl optionally substituted by one to three hydroxyl groups, O—(C1-C6)alkyl-O—CO(C1-C6)alkyl);
+
+R7 represents H or F;
+
+R8 represents H or F; and
+
+R9 represents H or a (C1-C6)alkyl.
+
+12. The method according to claim 11, wherein said compound is 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid.
+
+13. The method according to claim 11, wherein said compound is isopropyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate.
+
+14. The method according to claim 11, wherein said compound, or an enantiomer thereof, is administered in combination with one or more beta-blockers, prostaglandins, sympathomimetic collyres, inhibitors of carbonic anhydrase, or parasympathomimetic collyres.
+
+15. The method according to claim 1, wherein said glaucoma is an ocular disease involving EP2 receptors.
+
+16. The method according to claim 11, wherein said glaucoma is an ocular disease involving EP2 receptors.
+
+17. The method according to claim 1, wherein said glaucoma is a glaucoma selected from the group consisting of: absolute glaucoma, congenital glaucoma, traumatic glaucoma due to birth injury, primary open-angle glaucoma, including capsular with pseudoexfoliation of lens, chronic simple, low-tension, and pigmentary glaucoma; Primary angle-closure glaucoma, which comprises both primary and residual stage of angle closure glaucoma, in its acute, chronic or intermittent forms; Glaucoma secondary to eye disorders including Glaucoma secondary to eye trauma, Glaucoma secondary to eye inflammation; and Glaucoma secondary to drugs and any combination thereof.
+
+18. The method according to claim 11, wherein said glaucoma is a glaucoma selected from the group consisting of: absolute glaucoma, congenital glaucoma, traumatic glaucoma due to birth injury, primary open-angle glaucoma, including capsular with pseudoexfoliation of lens, chronic simple, low-tension, and pigmentary glaucoma; Primary angle-closure glaucoma, which comprises both primary and residual stage of angle closure glaucoma, in its acute, chronic or intermittent forms; Glaucoma secondary to eye disorders including Glaucoma secondary to eye trauma, Glaucoma secondary to eye inflammation; and Glaucoma secondary to drugs and any combination thereof.
+
+19. The method according to claim 11, wherein said pharmaceutical composition is a pharmaceutical composition for oral, sublingual, subcutaneous, intramuscular, intravenous, topical, local, intra-tracheal, intranasal, transdermal, intraocular or rectal administration.
+
+20. The method according to claim 19, wherein said pharmaceutical composition is a pharmaceutical composition for topical administration.
+
+21. The method according to claim 20, wherein said pharmaceutical composition is a cream, gel, ointment, eye drop or lotion.
+
+22. The method according to claim 21, wherein said pharmaceutical composition is an eye drop formulation.
+
+23. A method of treatment of an ocular disease involving EP2 receptors, which comprises administering to a patient in need thereof a pharmaceutical composition comprising an effective dose of a compound of formula (I) or of formula (II), or an enantiomer thereof, wherein the compound of formula (II) is a prodrug of compound of formula (I), said pharmaceutical composition comprising also at least one pharmaceutically acceptable excipient, wherein said compound of formula (I) or of formula (II) is as follows:
+
+[![Figure US09624159-20170418-C00474](https://patentimages.storage.googleapis.com/61/2f/81/9b3f109dbec780/US09624159-20170418-C00474.png)](https://patentimages.storage.googleapis.com/61/2f/81/9b3f109dbec780/US09624159-20170418-C00474.png)
+
+ 
+
+wherein
+
+R1a represents H, a halogen, a (C1-C6)alkyl or a CN;
+
+R1b represents H, a halogen or a (C1-C6)alkyl;
+
+R1c represents H or a (C1-C6)alkyl;
+
+R2 represents H, a halogen, an OH, an O—(C1-C6)alkyl or a (C1-C6)alkyl;
+
+R3 represents H, a halogen, a (C1-C6)alkyl, an OH, an O—(C1-C6)alkyl, a CONH2 or a CN;
+
+R4 represents H, a halogen or a (C1-C6)alkyl;
+
+R5 represents H or F;
+
+R6 represents an O—(C1-C6)alkyl, an O—(C1-C6)alkyl-heterocycloalkyl, a NH2, a NH—(C1-C6)alkyl, an O—(C1-C6)alkyl optionally substituted by one to three hydroxyl groups, O—(C1-C6)alkyl-O—CO(C1-C6)alkyl);
+
+R7 represents H or F;
+
+R8 represents H or F; and
+
+R9 represents H or a (C1-C6)alkyl.
+
+24. The method of claim 23, wherein said compound is 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetic acid or isopropyl 2-[2,4-difluoro-3-[[2-fluoro-5-(3-fluorophenyl)phenyl]methylamino]phenoxy]acetate.

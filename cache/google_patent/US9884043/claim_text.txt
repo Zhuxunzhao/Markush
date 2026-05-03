@@ -1,0 +1,132 @@
+Claims (19)
+-----------
+
+The invention claimed is:
+
+1. A compound according to Formula I
+
+[![Figure US09884043-20180206-C00393](https://patentimages.storage.googleapis.com/43/23/52/03fd2834bd2d53/US09884043-20180206-C00393.png)](https://patentimages.storage.googleapis.com/43/23/52/03fd2834bd2d53/US09884043-20180206-C00393.png)
+
+ 
+
+or a pharmaceutically acceptable salt or solvate thereof, wherein
+
+X is C(O), SO or SO2;
+
+Y is CH or N;
+
+n=0, 1, 2, 3 or 4;
+
+A4 is CR4, A5 is N, A6 is CR6, and A7 is CR7;
+
+R1 is (i) (C3-7)cycloalkyl or (C3-5)heterocycloalkyl, both optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, H2NC(O)—, (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one or more halogens; (ii) (C2-9)heteroaryl, optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, H2NC(O)—, (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one or more halogens; or (iii) (C6-14)aryl, optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, H2NC(O)—, (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy are optionally substituted with one or more halogens;
+
+R2 is C(O)OH, 5-tetrazoylyl, HOC(CF3)2, C(O)O(C1-10)alkyl, (C1-10)alkylsulfoxyaminocarbonyl, or carbamoyl;
+
+R3 is hydrogen, halogen, cyano, nitro, hydroxy, (C1-3)alkylC(O)O—, (C1-4)alkyl, or (C1-4)alkoxy, wherein (C1-4)alkyl and (C1-4)alkoxy are optionally substituted with one or more halogen;
+
+R4, R6, and R7 independently are H, halogen, amino, cyano, hydroxy, (C1-3)alkoxy, (C1-4)alkyl, (C0-10)alkyl)aminocarbonyl, (di)(C1-6)alkylaminocarbonyl or amino(C1-4)alkyl, wherein (C1-3)alkoxy, (C1-4)alkyl, (C0-10)alkyl)aminocarbonyl, (di)(C1-6)alkylaminocarbonyl and amino(C1-4)alkyl are optionally substituted with one or more halogen, hydroxyl or (C1-3)alkoxy; or a group having the formula
+
+[![Figure US09884043-20180206-C00394](https://patentimages.storage.googleapis.com/c9/a0/4e/2d432429b4c9a5/US09884043-20180206-C00394.png)](https://patentimages.storage.googleapis.com/c9/a0/4e/2d432429b4c9a5/US09884043-20180206-C00394.png)
+
+optionally substituted with one or more of the following: (C1-10)alkyl, halogen, amino, cyano, hydroxy, or (C1-3)alkoxy, wherein m is 1, 2, 3, or 4.
+
+2. A compound according to Formula Ia
+
+[![Figure US09884043-20180206-C00395](https://patentimages.storage.googleapis.com/9c/a4/d9/afd61bc07a85a8/US09884043-20180206-C00395.png)](https://patentimages.storage.googleapis.com/9c/a4/d9/afd61bc07a85a8/US09884043-20180206-C00395.png)
+
+ 
+
+or a pharmaceutically acceptable salt or solvate thereof,
+
+wherein X represents C(O), SO or SO2;
+
+Y is CH or N;
+
+A4 is CR4, A5 is N, A6 is CR6, and A7 is CR7;
+
+R1 is (C3-7)cycloalkyl or (C3-5)heterocycloalkyl, both optionally substituted with one or more groups selected from halogen, amino, cyano, hydroxy, H2NC(O)—, or (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy, all optionally substituted with one or more halogens or;
+
+R1 is (C2-9)heteroaryl, optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, H2NC(O)—, or (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy, all optionally substituted with one or more halogens or;
+
+R1 is (C6-14)aryl, optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, H2NC(O)—, or (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy, all optionally substituted with one or more halogens;
+
+R2 is C(O)OH, 5-tetrazoylyl, or HOC(CF3)2;
+
+R3 is independently selected from hydrogen, halogen, cyano, nitro or (C1-4)alkyl, wherein the (C1-4)alkyl is optionally substituted with one or more halogens; and
+
+R4, R6, and R7 independently are H, halogen, amino, cyano, hydroxy, (C1-3)alkoxy, or (C1-4)alkyl, wherein the (C1-4)alkyl is optionally substituted with one or more halogens.
+
+3. The compound of claim 1, wherein Y is N.
+
+4. The compound of claim 3, wherein
+
+X is C(O) or SO2;
+
+R1 is (i) (C3-7)cycloalkyl or (C3-5)heterocycloalkyl, both optionally substituted with one or more groups selected from (C1-4)alkyl or halogen; (ii) (C2-9)heteroaryl, optionally substituted with one or more groups selected from halogen, amino or (C1-4)alkyl; or (iii) (C6-14)aryl, optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, (C1-3)alkoxycarbonyl, (C1-4)alkyl, or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one or more halogens.
+
+5. The compound of claim 3, wherein
+
+R1 is (C2-9)heteroaryl or (C6-14)aryl, both optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, (C1-3)alkoxycarbonyl, (C1-4)alkyl or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one or more halogens.
+
+6. The compound of claim 5, wherein R1 is phenyl, naphthyl, pyridinyl, quinolinyl, benzooxadiazolyl, thiophenyl, or isoxazolyl, each optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, (C1-3)alkoxycarbonyl, (C1-4)alkyl or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one or more halogens.
+
+7. The compound of claim 6, wherein R1 is phenyl, optionally substituted with one or more groups selected from halogen, amino, cyano, nitro, hydroxy, (C1-3)alkoxycarbonyl, (C1-4)alkyl or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one or more halogens.
+
+8. The compound of claim 7, wherein R2 is C(O)OH.
+
+9. The compound of claim 1 having Formula Ib
+
+[![Figure US09884043-20180206-C00396](https://patentimages.storage.googleapis.com/88/71/0f/ff525937732078/US09884043-20180206-C00396.png)](https://patentimages.storage.googleapis.com/88/71/0f/ff525937732078/US09884043-20180206-C00396.png)
+
+ 
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+10. The compound of claim 9 having Formula Ic
+
+[![Figure US09884043-20180206-C00397](https://patentimages.storage.googleapis.com/55/c3/89/0e7c2fada09fa1/US09884043-20180206-C00397.png)](https://patentimages.storage.googleapis.com/55/c3/89/0e7c2fada09fa1/US09884043-20180206-C00397.png)
+
+ 
+
+or a pharmaceutically acceptable salt or solvate thereof wherein
+
+X is C(O) or SO2;
+
+R8 is selected from halogen, amino, cyano, nitro, hydroxy, H2NC(O)—, (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy, wherein (C1-3)alkoxycarbonyl, (di)(C1-6)alkylaminocarbonyl, (C1-4)alkyl or (C1-3)alkoxy are optionally substituted with one or more halogens; and
+
+x is 0, 1, 2, 3, 4 or 5.
+
+11. The compound of claim 10 having Formula Id
+
+[![Figure US09884043-20180206-C00398](https://patentimages.storage.googleapis.com/1d/ec/90/6ddb1fb2523b30/US09884043-20180206-C00398.png)](https://patentimages.storage.googleapis.com/1d/ec/90/6ddb1fb2523b30/US09884043-20180206-C00398.png)
+
+ 
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+12. The compound of claim 11 having Formula Ie
+
+[![Figure US09884043-20180206-C00399](https://patentimages.storage.googleapis.com/32/0e/fe/bc3ef27bc55e96/US09884043-20180206-C00399.png)](https://patentimages.storage.googleapis.com/32/0e/fe/bc3ef27bc55e96/US09884043-20180206-C00399.png)
+
+ 
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+13. A pharmaceutical composition comprising a compound of claim 1 and one or more pharmaceutically acceptable excipients.
+
+14. A method for treating a disease or condition mediated by RORgammaT in a subject comprising administering to the subject an amount of a compound of claim 1 effective for treating the disease or condition mediated by RORgammaT in the subject, to thereby treat the disease or condition, wherein the disease or condition is an autoimmune disease.
+
+15. A method for treating a disease or condition mediated by RORgammaT in a subject comprising administering to the subject an amount of a compound of claim 1 effective for treating the disease or condition mediated by RORgammaT in the subject, to thereby treat the disease or condition, wherein the disease or condition is multiple sclerosis, inflammatory bowel disease, Crohn's disease, psoriasis, rheumatoid arthritis, asthma, osteoarthritis, Kawasaki disease, Hashimoto's thyroiditis, or mucosal leishmaniasis.
+
+16. A method for treating a disease in a subject, comprising administering to the subject an amount of a compound of claim 8 effective for treating the disease, to thereby treat the disease, wherein the disease is multiple sclerosis, inflammatory bowel disease, Crohn's disease, psoriasis, rheumatoid arthritis, asthma, osteoarthritis, Kawasaki disease, Hashimoto's thyroiditis, or mucosal leishmaniasis.
+
+17. A pharmaceutical composition comprising a compound of claim 8 and one or more pharmaceutically acceptable excipients.
+
+18. A pharmaceutical composition comprising a compound of claim 12 and one or more pharmaceutically acceptable excipients.
+
+19. The compound of claim 1, wherein the compound is one of the following or a pharmaceutically acceptable salt thereof:
+
+4-(1-(2,6-dichlorobenzoyl)-1H-pyrazolo[4,3-c]pyridin-3-yl)benzoic acid, or
+
+4-(1-(2-chlorophenylsulfonyl)-1H-pyrazolo[4,3-c]pyridin-3-yl)benzoic acid.

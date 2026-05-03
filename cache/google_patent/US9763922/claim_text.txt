@@ -1,0 +1,1120 @@
+Claims (20)
+-----------
+
+We claim:
+
+1. A compound of formula (I) or formula (II):
+
+[![Figure US09763922-20170919-C01290](https://patentimages.storage.googleapis.com/fc/78/79/09e276700c8bf9/US09763922-20170919-C01290.png)](https://patentimages.storage.googleapis.com/fc/78/79/09e276700c8bf9/US09763922-20170919-C01290.png)
+
+ 
+
+or a salt thereof, wherein:
+
+R1 of Formula (I) is C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle, wherein each C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle of R1 is optionally substituted with one or more groups Rb;
+
+R2 of Formula (I) is selected from C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)(C1-C20 heteroaryl), —(C1-C20 heteroaryl)-(C6-C20 aryl), and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl), wherein each C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)-(C1-C20 heteroaryl) and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl) is independently optionally substituted with one or more substituent groups independently selected from Rc, oxo, —F, —Cl, —Br, —I, —NO2, —N(Ra)2, —CN, —C(O)—N(Ra)2, —S(O)—N(Ra)2, —S(O)2—N(Ra)2, —O—Ra, —S—Ra, —O—C(O)—Ra, —O—C(O)—O—Ra, —C(O)—Ra, —C(O)—O—Ra, —S(O)—Ra, —S(O)2—Ra, —O—C(O)—N(Ra)2, —N(Ra)—C(O)—ORa, —N(Ra)—C(O)—N(Ra)2, —N(Ra)—C(O)—Ra, —N(Ra)—S(O)—Ra, —N(Ra)—S(O)2—Ra, —N(Ra)—S(O)—N(Ra)2, and —N(Ra)—S(O)2—N(Ra)2;
+
+R3 of Formula (I) is C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle, wherein each C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle of R3 is optionally substituted with one or more groups Re; or
+
+R2 and R3 of Formula (I) taken together with the nitrogen to which they are attached form a 3-12 membered heterocycle that is optionally substituted with one or more groups Re;
+
+R4 of Formula (I) is C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, 3-5 membered heterocycle, —C(O)—N(Rh)2, —S(O)—N(Rh)2, —S(O)2—N(Rh)2, —C(O)—Rh, —C(O)—O—Rh, —S(O)—Rh, or
+
+—S(O)2—Rh, wherein any C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, and 3-5 membered heterocycle is optionally substituted with one or more substituent groups independently selected from —F, —Cl, —Br, —I, 3-5 membered carbocycle, —C(O)—N(Rh)2, —S(O)—N(Rh)2, —S(O)2—N(Rh)2, —O— Rh, —S—Rh, —O—C(O)—Rh, —O—C(O)—O—Rh, —C(O)—Rh, —C(O)—O—Rh, —S(O)—Rh, —S(O)2—Rh, —O—C(O)—N(Rh)2, —N(Rh)—C(O)—ORh, —N(Rh)—C(O)—N(Rh)2, —N(Rh)—C(O)—Ra, —N(Rh)—S(O)—Rh, —N(Rh)—S(O)2—Rh, —N(Rh)—S(O)—N(Rh)2, and —N(Rh)—S(O)2—N(Rh)2;
+
+each Ra of Formula (I) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Ra are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rb of Formula (I) is independently selected from oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, heteroaryl, —F, —Cl, —Br, —I, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —O—Rc, —S—Rc, —O—C(O)—O—Rc, —O—C(O)—O—Rc, —C(O)—Rc, —C(O)—O—Rc, —S(O)—Rc, —S(O)2—Rc, —O—C(O)—N(Rc)2, —N(Rc)—C(O)—ORc, —N(Rc)—C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc, —N(Rc)—S(O)—N(Rc)2, and —N(Rc)—S(O)2—N(Rc)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, and heteroaryl is optionally substituted with one or more groups independently selected from oxo, halo, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —O—Rc, —S—Rc, —O—C(O)—Rc, —C(O)—Rc, —S(O)—Rc, —S(O)2—Rc, —C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rc of Formula (I) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, carbocyclyl, heterocyclyl, halo, —NO2, —N(Rd)2, —CN, —C(O)—N(Rd)2, —S(O)—N(Rd)2, —S(O)2—N(Rd)2, —O—Rd, —S—Rd, —O—C(O)—Rd, —C(O)—Rd, —C(O)—O—Rd, —S(O)—Rd, —S(O)2—Rd, —C(O)—N(Rd)2, —N(Rd)—C(O)—Rd, —N(Rd)—S(O)—Rd, N(Rd)—S(O)2—Rd, and C1-6alkyl, which carbocyclyl and C1-6alkyl are optionally substituted with one or more groups independently selected from oxo, halo, C1-6alkyl, cyano, —N(Rd)2, —O—Rd, heterocyclyl, and carbocyclyl that is optionally substituted with one or more groups independently selected from halo, and C1-6alkyl;
+
+each Rd of Formula (I) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Rd are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Re of Formula (I) is independently selected from oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, heteroaryl, —F, —Cl, —Br, —I, —NO2, —N(Rf)2, —CN, —C(O)—N(Rf)2, —S(O)—N(Rf)2, —S(O)2—N(Rf)2, —O—Rf, —S—Rf, —O—C(O)—Rf, —O—C(O)—O—Rf, —C(O)—Rf, —C(O)—O—Rf, —S(O)—Rf, —S(O)2—Rf, —O—C(O)—N(Rf)2, —N(Rf)—C(O)—ORf, —N(Rf)—C(O)—N(Rf)2, —N(Rf)—C(O)—Rf, —N(Rf)—S(O)—Rf, —N(Rf)—S(O)2—Rf, —N(Rf)—S(O)—N(Rf)2, and —N(Rf)—S(O)2—N(Rf)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, and heteroaryl is optionally substituted with one or more groups independently selected from oxo,
+
+halo, —NO2, —N(Rf)2, —CN, —C(O)—N(Rf)2, —S(O)—N(Rf)2, —S(O)2—N(Rf)2, —O—Rf, —S—Rf, —O—C(O)—Rf, —C(O)—Rf, —C(O)—O—Rf, —S(O)—Rf, —S(O)2—Rf, —C(O)—N(Rf)2, —N(Rf)—C(O)—Rf, —N(Rf)—S(O)—Rf, —N(Rf)—S(O)2—Rf, carbocycle, and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rf of Formula (I) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, carbocyclyl, heterocyclyl, halo, —NO2, —N(Rg)2, —CN, —C(O)—N(Rg)2, —S(O)—N(Rg)2, —S(O)2—N(Rg)2, —O—Rg, —S—Rg, —O—C(O)—Rg, —C(O)—Rg, —C(O)—O—Rg, —S(O)—Rg, —S(O)2—Rg, —C(O)—N(Rg)2, —N(Rg)—C(O)—Rg, —N(Rg)—S(O)—Rg, N(Rg)—S(O)2—Rg, and C1-6alkyl, which carbocyclyl and C1-6alkyl are optionally substituted with one or more groups independently selected from oxo, halo, C1-6alkyl, cyano, —N(Rg)2, —O—Rg, heterocyclyl, and carbocyclyl that is optionally substituted with one or more groups independently selected from halo, and C1-6alkyl;
+
+each Rg of Formula (I) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Rg are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rh of Formula (I) is independently selected from hydrogen, C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl, wherein each C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-3alkoxy, and C1-C3 alkyl that is optionally substituted with one or more groups independently selected from halo; and
+
+R1 of Formula (II) is selected from C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)-(C1-C20 heteroaryl), and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl), wherein each C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)-(C1-C20 heteroaryl) and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl) is independently optionally substituted with one or more substituent groups independently selected from Rc, oxo, —F, —Cl, —Br, —I, —NO2, —N(Ra)2, —CN, —C(O)—N(Ra)2, —S(O)—N(Ra)2, —S(O)2—N(Ra)2, —O—Ra, —S—Ra, —O—C(O)—Ra, —O—C(O)—O—Ra, —C(O)—Ra, —C(O)—O—Ra, —S(O)—Ra, —S(O)2—Ra, —O—C(O)—N(Ra)2, —N(Ra)—C(O)—ORa, —N(Ra)—C(O)—N(Ra)2, —N(Ra)—C(O)—Ra, —N(Ra)—S(O)—Ra, —N(Ra)—S(O)2—Ra, —N(Ra)—S(O)—N(Ra)2, and —N(Ra)—S(O)2—N(Ra)2;
+
+R2 of Formula (II) is C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle, wherein each C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle of R2 is optionally substituted with one or more groups Rb;
+
+R3 of Formula (II) is C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, 3-5 membered heterocycle, —C(O)—N(Re)2, —S(O)—N(Re)2, —S(O)2—N(Re)2, —C(O)—Re, —C(O)—O—Re, —S(O)—Re, or —S(O)2—Re, wherein any C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, and 3-5 membered heterocycle is optionally substituted with one or more substituent groups independently selected from —F, —Cl, —Br, —I, 3-5 membered carbocycle, —C(O)—N(Re)2, —S(O)—N(Re)2, —S(O)2—N(Re)2, —O—Re, —S—Re, —O—C(O)—Re, —O—C(O)—O—Re, —C(O)—Re, —C(O)—O—Re, —S(O)—Re, —S(O)2—Re, —O—C(O)—N(Re)2, —N(Re)—C(O)—ORe, —N(Re)—C(O)—N(Re)2, —N(Re)—C(O)—Re, —N(Re)—S(O)—Re, —N(Re)—S(O)2—Re, —N(Re)—S(O)—N(Re)2, and —N(Re)—S(O)2—N(Re)2;
+
+each Ra of Formula (II) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Ra are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rb of Formula (II) is independently selected from oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, heteroaryl, —F, —Cl, —Br, —I, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —O—Rc, —S—Rc, —O—C(O)—O—Rc, —C(O)—Rc, —C(O)—O—Rc, —S(O)—Rc, —S(O)2—Rc, —O—C(O)—N(Rc)2, —N(Rc)—C(O)—ORc, —N(Rc)—C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc, —N(Rc)—S(O)—N(Rc)2, and —N(Rc)—S(O)2—N(Rc)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, and heteroaryl is optionally substituted with one or more groups independently selected from oxo, halo, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —O—Rc, —S—Rc, —O—C(O)—Rc, —C(O)—Rc, —C(O)—O—Rc, —S(O)—Rc, —S(O)2—Rc, —C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rc of Formula (II) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, carbocyclyl, heterocyclyl, halo, —NO2, —N(Rd)2, —CN, —C(O)—N(Rd)2, —S(O)—N(Rd)2, —S(O)2—N(Rd)2, —O—Rd, —O—C(O)—Rd, —C(O)—Rd, —C(O)—O—Rd, —S(O)—Rd, —S(O)2—Rd, —C(O)—N(Rd)2, —N(Rd)—C(O)—Rd, —N(Rd)—S(O)—Rd, N(Rd)—S(O)2—Rd, and C1-6alkyl, which carbocyclyl and C1-6alkyl are optionally substituted with one or more groups independently selected from oxo, halo, C1-6alkyl, cyano, —N(Rd)2, —O—Rd, heterocyclyl, and carbocyclyl that is optionally substituted with one or more groups independently selected from halo, and C1-6alkyl;
+
+each Rd of Formula (II) is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Rd are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; and
+
+each Re of Formula (II) is independently selected from hydrogen, C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl, wherein each C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-3alkoxy, and C1-C3 alkyl that is optionally substituted with one or more groups independently selected from halo; provided that R1 is not unsubstituted phenyl, when R2 is carboxymethyl or 2-carboxyethyl.
+
+2. The compound of claim 1, where the compound is of formula (I):
+
+[![Figure US09763922-20170919-C01291](https://patentimages.storage.googleapis.com/e3/34/3e/a0db638b286b97/US09763922-20170919-C01291.png)](https://patentimages.storage.googleapis.com/e3/34/3e/a0db638b286b97/US09763922-20170919-C01291.png)
+
+ 
+
+or a salt thereof, wherein:
+
+R1 is C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle, wherein each C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle of R1 is optionally substituted with one or more groups Rb;
+
+R2 is selected from C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)-(C1-C20 heteroaryl), —(C1-C20 heteroaryl)-(C6-C20 aryl), and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl), wherein each C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)-(C1-C20 heteroaryl) and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl) is independently optionally substituted with one or more substituent groups independently selected from Rc, oxo, —F, —Cl, —Br, —I, —NO2, —N(Ra)2, —CN, —C(O)—N(Ra)2, —S(O)—N(Ra)2, —S(O)2—N(Ra)2, —O—Ra, —S—Ra, —O—C(O)—Ra, —O—C(O)—O—Ra, —C(O)—Ra, —C(O)—O—Ra, —S(O)—Ra, —S(O)2—Ra, —O—C(O)—N(Ra)2, —N(Ra)—C(O)—ORa, —N(Ra)—C(O)—N(Ra)2, —N(Ra)—C(O)—Ra, —N(Ra)—S(O)—Ra, —N(Ra)—S(O)2—Ra, —N(Ra)—S(O)—N(Ra)2, and —N(Ra)—S(O)2—N(Ra)2;
+
+R3 is C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle, wherein each C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle of R3 is optionally substituted with one or more groups Re; or
+
+R2 and R3 taken together with the nitrogen to which they are attached form a 3-12 membered heterocycle that is optionally substituted with one or more groups Re;
+
+R4 is C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, 3-5 membered heterocycle, —C(O)—N(Rh)2, —S(O)—N(Rh)2, —S(O)2—N(Rh)2, —C(O)—Rh, —C(O)—O—Rh, —S(O)—Rh, or —S(O)2—Rh, wherein any C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, and 3-5 membered heterocycle is optionally substituted with one or more substituent groups independently selected from —F, —Cl, —Br, —I, 3-5 membered carbocycle, —C(O)—N(Rh)2, —S(O)—N(Rh)2, —S(O)2—N(Rh)2, —O—Rh, —S—Rh, —O—C(O)—Rh, —O—C(O)—O—Rh, —C(O)—Rh, —C(O)—O—Rh, —S(O)—Rh, —S(O)2—Rh, —O—C(O)—N(Rh)2, —N(Rh)—C(O)—ORh, —N(Rh)—C(O)—N(Rh)2, —N(Rh)—C(O)—Ra, —N(Rh)—S(O)—Rh, —N(Rh)—S(O)2—Rh, —N(Rh)—S(O)—N(Rh)2, and —N(Rh)—S(O)2—N(Rh)2;
+
+each Ra is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Ra are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rb is independently selected from oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, heteroaryl, —F, —Cl, —Br, —I, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —O—Rc, —S—Rc, —O—C(O)—Rc, —O—C(O)—O—Rc, —C(O)—Rc, —C(O)—O—Rc, —S(O)—Rc, —S(O)2—Rc, —O—C(O)—N(Rc)2, —N(Rc)—C(O)—ORc, —N(Rc)—C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc, —N(Rc)—S(O)—N(Rc)2, and —N(R)—S(O)2—N(Rc)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, and heteroaryl is optionally substituted with one or more groups independently selected from oxo, halo, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —O—Rc, —S—Rc, —O—C(O)—Rc, —C(O)—Rc, —C(O)—O—Rc, —S(O)—Rc, —S(O)2—Rc, —C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rc is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, carbocyclyl, heterocyclyl, halo, —NO2, —N(Rd)2, —CN, —C(O)—N(Rd)2, —S(O)—N(Rd)2, —S(O)2—N(Rd)2, —O—Rd, —S—Rd, —O—C(O)—Rd, —C(O)—Rd, —C(O)—O—Rd, —S(O)—Rd, —S(O)2—Rd, —C(O)—N(Rd)2, —N(Rd)—C(O)—Rd, —N(Rd)—S(O)—Rd, N(Rd)—S(O)2—Rd, and C1-6alkyl, which carbocyclyl and C1-6alkyl are optionally substituted with one or more groups independently selected from oxo, halo, C1-6alkyl, cyano, —N(Rd)2, —O—Rd, heterocyclyl, and carbocyclyl that is optionally substituted with one or more groups independently selected from halo, and C1-6alkyl;
+
+each Rd is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Rd are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Re is independently selected from oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, heteroaryl, —F, —Cl, —Br, —I, —NO2, —N(Rf)2, —CN, —C(O)—N(Rf)2, —S(O)—N(Rf)2, —S(O)2—N(Rf)2, —O—Rf, —S—Rf, —O—C(O)—Rf, —O—C(O)—O—Rf, —C(O)—Rf, —C(O)—O—Rf, —S(O)—Rf, —S(O)2—Rf, —O—C(O)—N(Rf)2, —N(Rf)—C(O)—ORf, —N(Rf)—C(O)—N(Rf)2, —N(Rf)—C(O)—Rf, —N(Rf)—S(O)—Rf, —N(Rf)—S(O)2—Rf, —N(Rf)—S(O)—N(Rf)2, and —N(Rf)—S(O)2—N(Rf)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, and heteroaryl is optionally substituted with one or more groups independently selected from oxo,
+
+halo, —NO2, —N(Rf)2, —CN, —C(O)—N(Rf)2, —S(O)—N(Rf)2, —S(O)2—N(Rf)2, —O—Rf, —S—Rf, —O—C(O)—Rf, —C(O)—Rf, —C(O)—O—Rf, —S(O)—Rf, —S(O)2—Rf, —C(O)—N(Rf)2, —N(Rf)—C(O)—Rf, —N(Rf)—S(O)—Rf, —N(Rf)—S(O)2—Rf, carbocycle, and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rf is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, carbocyclyl, heterocyclyl, halo, —NO2, —N(Rg)2, —CN, —C(O)—N(Rg)2, —S(O)—N(Rg)2, —S(O)2—N(Rg)2, —O—Rg, —S—Rg, —O—C(O)—Rg, —C(O)—Rg, —C(O)—O—Rg, —S(O)—Rg, —S(O)2—Rg, —C(O)—N(Rg)2, —N(Rg)—C(O)—Rg, —N(Rg)—S(O)—Rg, N(Rg)—S(O)2—Rg, and C1-6alkyl, which carbocyclyl and C1-6alkyl are optionally substituted with one or more groups independently selected from oxo, halo, C1-6alkyl, cyano, —N(Rg)2, —O—Rg, heterocyclyl, and carbocyclyl that is optionally substituted with one or more groups independently selected from halo, and C1-6alkyl;
+
+each Rg is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Rg are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; and
+
+each Rh is independently selected from hydrogen, C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl, wherein each C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-3alkoxy, and C1-C3 alkyl that is optionally substituted with one or more groups independently selected from halo.
+
+3. The compound of claim 2 wherein R1 is:
+
+[![Figure US09763922-20170919-C01292](https://patentimages.storage.googleapis.com/c2/bd/70/4d44c189f5924a/US09763922-20170919-C01292.png)](https://patentimages.storage.googleapis.com/c2/bd/70/4d44c189f5924a/US09763922-20170919-C01292.png)
+
+4. The compound of claim 2 wherein R2 is phenyl optionally substituted with one or more substituent groups independently selected from Rc, and R3 is methyl or phenyl, wherein each methyl and phenyl of R3 is optionally substituted with one or more groups Re.
+
+5. The compound of claim 2 wherein R2 and R3 taken together with the nitrogen to which they are attached form a 9- or 10-membered bicyclic heterocycle that is optionally substituted with one or more groups Re.
+
+6. The compound of claim 2 wherein R2 and R3 taken together with the nitrogen to which they are attached form a 9- or 10-membered bicyclic heterocycle that is optionally substituted with one or more groups Re; and wherein the 9- or 10-membered bicyclic heterocycle comprises at least one aromatic ring.
+
+7. The compound of claim 2 wherein —NR2R3 taken together is selected from the group consisting of:
+
+[![Figure US09763922-20170919-C01293](https://patentimages.storage.googleapis.com/6e/42/70/0a177df5d9e61b/US09763922-20170919-C01293.png)](https://patentimages.storage.googleapis.com/6e/42/70/0a177df5d9e61b/US09763922-20170919-C01293.png)
+
+ 
+
+[![Figure US09763922-20170919-C01294](https://patentimages.storage.googleapis.com/41/39/f7/c4c8b2f69f4790/US09763922-20170919-C01294.png)](https://patentimages.storage.googleapis.com/41/39/f7/c4c8b2f69f4790/US09763922-20170919-C01294.png)
+
+ 
+
+[![Figure US09763922-20170919-C01295](https://patentimages.storage.googleapis.com/1f/7d/69/7dbf003288a239/US09763922-20170919-C01295.png)](https://patentimages.storage.googleapis.com/1f/7d/69/7dbf003288a239/US09763922-20170919-C01295.png)
+
+ 
+
+[![Figure US09763922-20170919-C01296](https://patentimages.storage.googleapis.com/4a/13/fe/6c4552399b8e6b/US09763922-20170919-C01296.png)](https://patentimages.storage.googleapis.com/4a/13/fe/6c4552399b8e6b/US09763922-20170919-C01296.png)
+
+ 
+
+[![Figure US09763922-20170919-C01297](https://patentimages.storage.googleapis.com/4e/6f/07/4fbe847b37be40/US09763922-20170919-C01297.png)](https://patentimages.storage.googleapis.com/4e/6f/07/4fbe847b37be40/US09763922-20170919-C01297.png)
+
+ 
+
+[![Figure US09763922-20170919-C01298](https://patentimages.storage.googleapis.com/4d/63/a3/c203176992f9c2/US09763922-20170919-C01298.png)](https://patentimages.storage.googleapis.com/4d/63/a3/c203176992f9c2/US09763922-20170919-C01298.png)
+
+ 
+
+[![Figure US09763922-20170919-C01299](https://patentimages.storage.googleapis.com/73/69/e0/e190ad758170ca/US09763922-20170919-C01299.png)](https://patentimages.storage.googleapis.com/73/69/e0/e190ad758170ca/US09763922-20170919-C01299.png)
+
+ 
+
+[![Figure US09763922-20170919-C01300](https://patentimages.storage.googleapis.com/0f/7b/4a/1a7ebb41ab6b57/US09763922-20170919-C01300.png)](https://patentimages.storage.googleapis.com/0f/7b/4a/1a7ebb41ab6b57/US09763922-20170919-C01300.png)
+
+ 
+
+[![Figure US09763922-20170919-C01301](https://patentimages.storage.googleapis.com/d0/00/2d/d8c46e1114d344/US09763922-20170919-C01301.png)](https://patentimages.storage.googleapis.com/d0/00/2d/d8c46e1114d344/US09763922-20170919-C01301.png)
+
+ 
+
+[![Figure US09763922-20170919-C01302](https://patentimages.storage.googleapis.com/ac/59/ac/f0c91c7645b9c5/US09763922-20170919-C01302.png)](https://patentimages.storage.googleapis.com/ac/59/ac/f0c91c7645b9c5/US09763922-20170919-C01302.png)
+
+ 
+
+[![Figure US09763922-20170919-C01303](https://patentimages.storage.googleapis.com/08/2d/7e/0852915f726340/US09763922-20170919-C01303.png)](https://patentimages.storage.googleapis.com/08/2d/7e/0852915f726340/US09763922-20170919-C01303.png)
+
+ 
+
+[![Figure US09763922-20170919-C01304](https://patentimages.storage.googleapis.com/79/db/05/d37f4df2860cee/US09763922-20170919-C01304.png)](https://patentimages.storage.googleapis.com/79/db/05/d37f4df2860cee/US09763922-20170919-C01304.png)
+
+ 
+
+[![Figure US09763922-20170919-C01305](https://patentimages.storage.googleapis.com/16/61/94/f376a9e7802baa/US09763922-20170919-C01305.png)](https://patentimages.storage.googleapis.com/16/61/94/f376a9e7802baa/US09763922-20170919-C01305.png)
+
+ 
+
+[![Figure US09763922-20170919-C01306](https://patentimages.storage.googleapis.com/5a/c0/ed/be85141918aa61/US09763922-20170919-C01306.png)](https://patentimages.storage.googleapis.com/5a/c0/ed/be85141918aa61/US09763922-20170919-C01306.png)
+
+ 
+
+[![Figure US09763922-20170919-C01307](https://patentimages.storage.googleapis.com/32/d8/12/0cad58516353f2/US09763922-20170919-C01307.png)](https://patentimages.storage.googleapis.com/32/d8/12/0cad58516353f2/US09763922-20170919-C01307.png)
+
+ 
+
+[![Figure US09763922-20170919-C01308](https://patentimages.storage.googleapis.com/d2/96/c2/01dc11300960bf/US09763922-20170919-C01308.png)](https://patentimages.storage.googleapis.com/d2/96/c2/01dc11300960bf/US09763922-20170919-C01308.png)
+
+ 
+
+[![Figure US09763922-20170919-C01309](https://patentimages.storage.googleapis.com/68/96/51/9beb1a01e391ea/US09763922-20170919-C01309.png)](https://patentimages.storage.googleapis.com/68/96/51/9beb1a01e391ea/US09763922-20170919-C01309.png)
+
+ 
+
+[![Figure US09763922-20170919-C01310](https://patentimages.storage.googleapis.com/f3/95/d1/c2f0e3122f8acd/US09763922-20170919-C01310.png)](https://patentimages.storage.googleapis.com/f3/95/d1/c2f0e3122f8acd/US09763922-20170919-C01310.png)
+
+ 
+
+[![Figure US09763922-20170919-C01311](https://patentimages.storage.googleapis.com/86/3d/70/6ae135cc61c5a6/US09763922-20170919-C01311.png)](https://patentimages.storage.googleapis.com/86/3d/70/6ae135cc61c5a6/US09763922-20170919-C01311.png)
+
+ 
+
+[![Figure US09763922-20170919-C01312](https://patentimages.storage.googleapis.com/00/8d/ca/f021a559ec6720/US09763922-20170919-C01312.png)](https://patentimages.storage.googleapis.com/00/8d/ca/f021a559ec6720/US09763922-20170919-C01312.png)
+
+ 
+
+[![Figure US09763922-20170919-C01313](https://patentimages.storage.googleapis.com/21/ab/a3/d6aee8e5d6bd05/US09763922-20170919-C01313.png)](https://patentimages.storage.googleapis.com/21/ab/a3/d6aee8e5d6bd05/US09763922-20170919-C01313.png)
+
+ 
+
+[![Figure US09763922-20170919-C01314](https://patentimages.storage.googleapis.com/5d/2f/0e/681e1c367af137/US09763922-20170919-C01314.png)](https://patentimages.storage.googleapis.com/5d/2f/0e/681e1c367af137/US09763922-20170919-C01314.png)
+
+ 
+
+[![Figure US09763922-20170919-C01315](https://patentimages.storage.googleapis.com/09/36/3d/955c4d7b9b470e/US09763922-20170919-C01315.png)](https://patentimages.storage.googleapis.com/09/36/3d/955c4d7b9b470e/US09763922-20170919-C01315.png)
+
+ 
+
+[![Figure US09763922-20170919-C01316](https://patentimages.storage.googleapis.com/53/8f/d5/10e6ad79cfde8c/US09763922-20170919-C01316.png)](https://patentimages.storage.googleapis.com/53/8f/d5/10e6ad79cfde8c/US09763922-20170919-C01316.png)
+
+ 
+
+[![Figure US09763922-20170919-C01317](https://patentimages.storage.googleapis.com/d8/d2/d9/62ce9e01375ad2/US09763922-20170919-C01317.png)](https://patentimages.storage.googleapis.com/d8/d2/d9/62ce9e01375ad2/US09763922-20170919-C01317.png)
+
+8. The compound of claim 2 wherein R4 is selected from the group consisting of:
+
+[![Figure US09763922-20170919-C01318](https://patentimages.storage.googleapis.com/a1/7a/f5/d6e9f3f4e58687/US09763922-20170919-C01318.png)](https://patentimages.storage.googleapis.com/a1/7a/f5/d6e9f3f4e58687/US09763922-20170919-C01318.png)
+
+9. The compound of claim 2 wherein:
+
+R1 is methyl, oxetanyl, tetrahydrofuranyl, tetrahydropyranyl, dioxothiolanyl, piperidyl, or pyrrolidinyl, wherein each methyl, oxetanyl, tetrahydrofuranyl, tetrahydropyranyl, dioxothiolanyl, piperidyl, or pyrrolidinyl of R1 is optionally substituted with one or more groups Rb;
+
+—NR2R3 taken together is selected from the group consisting of:
+
+[![Figure US09763922-20170919-C01319](https://patentimages.storage.googleapis.com/89/95/2e/e98cea5eb842e7/US09763922-20170919-C01319.png)](https://patentimages.storage.googleapis.com/89/95/2e/e98cea5eb842e7/US09763922-20170919-C01319.png)
+
+ 
+
+[![Figure US09763922-20170919-C01320](https://patentimages.storage.googleapis.com/62/f5/39/d0eb503f84d744/US09763922-20170919-C01320.png)](https://patentimages.storage.googleapis.com/62/f5/39/d0eb503f84d744/US09763922-20170919-C01320.png)
+
+ 
+
+[![Figure US09763922-20170919-C01321](https://patentimages.storage.googleapis.com/49/0f/59/e8d27fd64ff617/US09763922-20170919-C01321.png)](https://patentimages.storage.googleapis.com/49/0f/59/e8d27fd64ff617/US09763922-20170919-C01321.png)
+
+ 
+
+[![Figure US09763922-20170919-C01322](https://patentimages.storage.googleapis.com/2b/99/63/cd5e24c8350b1a/US09763922-20170919-C01322.png)](https://patentimages.storage.googleapis.com/2b/99/63/cd5e24c8350b1a/US09763922-20170919-C01322.png)
+
+ 
+
+[![Figure US09763922-20170919-C01323](https://patentimages.storage.googleapis.com/a6/b3/2f/a3d63b2526efa1/US09763922-20170919-C01323.png)](https://patentimages.storage.googleapis.com/a6/b3/2f/a3d63b2526efa1/US09763922-20170919-C01323.png)
+
+ 
+
+[![Figure US09763922-20170919-C01324](https://patentimages.storage.googleapis.com/f0/7a/36/657b198553c66f/US09763922-20170919-C01324.png)](https://patentimages.storage.googleapis.com/f0/7a/36/657b198553c66f/US09763922-20170919-C01324.png)
+
+ 
+
+[![Figure US09763922-20170919-C01325](https://patentimages.storage.googleapis.com/9d/0e/75/a8335e70d7a4b2/US09763922-20170919-C01325.png)](https://patentimages.storage.googleapis.com/9d/0e/75/a8335e70d7a4b2/US09763922-20170919-C01325.png)
+
+ 
+
+[![Figure US09763922-20170919-C01326](https://patentimages.storage.googleapis.com/7a/e0/93/062d2fc4f492a3/US09763922-20170919-C01326.png)](https://patentimages.storage.googleapis.com/7a/e0/93/062d2fc4f492a3/US09763922-20170919-C01326.png)
+
+ 
+
+[![Figure US09763922-20170919-C01327](https://patentimages.storage.googleapis.com/0f/de/95/16b88644937161/US09763922-20170919-C01327.png)](https://patentimages.storage.googleapis.com/0f/de/95/16b88644937161/US09763922-20170919-C01327.png)
+
+ 
+
+[![Figure US09763922-20170919-C01328](https://patentimages.storage.googleapis.com/44/a7/85/2fee856eea7d6a/US09763922-20170919-C01328.png)](https://patentimages.storage.googleapis.com/44/a7/85/2fee856eea7d6a/US09763922-20170919-C01328.png)
+
+ 
+
+[![Figure US09763922-20170919-C01329](https://patentimages.storage.googleapis.com/dc/00/1d/49ea4dae41ab12/US09763922-20170919-C01329.png)](https://patentimages.storage.googleapis.com/dc/00/1d/49ea4dae41ab12/US09763922-20170919-C01329.png)
+
+ 
+
+[![Figure US09763922-20170919-C01330](https://patentimages.storage.googleapis.com/99/fb/ff/5e0ebbf0e5e188/US09763922-20170919-C01330.png)](https://patentimages.storage.googleapis.com/99/fb/ff/5e0ebbf0e5e188/US09763922-20170919-C01330.png)
+
+ 
+
+[![Figure US09763922-20170919-C01331](https://patentimages.storage.googleapis.com/ee/3d/de/739a3df84aab63/US09763922-20170919-C01331.png)](https://patentimages.storage.googleapis.com/ee/3d/de/739a3df84aab63/US09763922-20170919-C01331.png)
+
+ 
+
+[![Figure US09763922-20170919-C01332](https://patentimages.storage.googleapis.com/51/bf/69/aca4086836da28/US09763922-20170919-C01332.png)](https://patentimages.storage.googleapis.com/51/bf/69/aca4086836da28/US09763922-20170919-C01332.png)
+
+ 
+
+[![Figure US09763922-20170919-C01333](https://patentimages.storage.googleapis.com/9b/31/37/bec1b830a55fe1/US09763922-20170919-C01333.png)](https://patentimages.storage.googleapis.com/9b/31/37/bec1b830a55fe1/US09763922-20170919-C01333.png)
+
+ 
+
+[![Figure US09763922-20170919-C01334](https://patentimages.storage.googleapis.com/58/e4/08/0f330d122ca292/US09763922-20170919-C01334.png)](https://patentimages.storage.googleapis.com/58/e4/08/0f330d122ca292/US09763922-20170919-C01334.png)
+
+ 
+
+[![Figure US09763922-20170919-C01335](https://patentimages.storage.googleapis.com/1f/d9/6b/268e4f19afdabe/US09763922-20170919-C01335.png)](https://patentimages.storage.googleapis.com/1f/d9/6b/268e4f19afdabe/US09763922-20170919-C01335.png)
+
+ 
+
+[![Figure US09763922-20170919-C01336](https://patentimages.storage.googleapis.com/ed/85/a1/d11fb21a011c6a/US09763922-20170919-C01336.png)](https://patentimages.storage.googleapis.com/ed/85/a1/d11fb21a011c6a/US09763922-20170919-C01336.png)
+
+ 
+
+[![Figure US09763922-20170919-C01337](https://patentimages.storage.googleapis.com/e6/c2/12/d66492a7db86b1/US09763922-20170919-C01337.png)](https://patentimages.storage.googleapis.com/e6/c2/12/d66492a7db86b1/US09763922-20170919-C01337.png)
+
+ 
+
+[![Figure US09763922-20170919-C01338](https://patentimages.storage.googleapis.com/e7/31/a8/c74a9459d48076/US09763922-20170919-C01338.png)](https://patentimages.storage.googleapis.com/e7/31/a8/c74a9459d48076/US09763922-20170919-C01338.png)
+
+ 
+
+[![Figure US09763922-20170919-C01339](https://patentimages.storage.googleapis.com/15/87/72/9ed19b4f29e361/US09763922-20170919-C01339.png)](https://patentimages.storage.googleapis.com/15/87/72/9ed19b4f29e361/US09763922-20170919-C01339.png)
+
+ 
+
+[![Figure US09763922-20170919-C01340](https://patentimages.storage.googleapis.com/5a/44/d2/db8513921b3db0/US09763922-20170919-C01340.png)](https://patentimages.storage.googleapis.com/5a/44/d2/db8513921b3db0/US09763922-20170919-C01340.png)
+
+ 
+
+[![Figure US09763922-20170919-C01341](https://patentimages.storage.googleapis.com/f0/d1/d0/88598cbaf27268/US09763922-20170919-C01341.png)](https://patentimages.storage.googleapis.com/f0/d1/d0/88598cbaf27268/US09763922-20170919-C01341.png)
+
+ 
+
+[![Figure US09763922-20170919-C01342](https://patentimages.storage.googleapis.com/d3/26/1f/8583e12dcf05a4/US09763922-20170919-C01342.png)](https://patentimages.storage.googleapis.com/d3/26/1f/8583e12dcf05a4/US09763922-20170919-C01342.png)
+
+ 
+
+[![Figure US09763922-20170919-C01343](https://patentimages.storage.googleapis.com/7f/57/52/d78d5eaecfd149/US09763922-20170919-C01343.png)](https://patentimages.storage.googleapis.com/7f/57/52/d78d5eaecfd149/US09763922-20170919-C01343.png)
+
+ 
+
+and
+
+R4 is acetyl, aminocarbonyl, methylaminocarbonyl, dimethylaminocarbonyl, methoxycarbonyl, propanoyl, cyclopropylcarbonyl, methyl sulfonyl, butanoyl, difluoroacetyl, thiadiazole or isoxazole.
+
+10. The compound of claim 2 selected from the group consisting of:
+
+[![Figure US09763922-20170919-C01344](https://patentimages.storage.googleapis.com/87/48/3f/cfe1067d669819/US09763922-20170919-C01344.png)](https://patentimages.storage.googleapis.com/87/48/3f/cfe1067d669819/US09763922-20170919-C01344.png)
+
+ 
+
+[![Figure US09763922-20170919-C01345](https://patentimages.storage.googleapis.com/c1/e8/a3/86624780cc820c/US09763922-20170919-C01345.png)](https://patentimages.storage.googleapis.com/c1/e8/a3/86624780cc820c/US09763922-20170919-C01345.png)
+
+ 
+
+[![Figure US09763922-20170919-C01346](https://patentimages.storage.googleapis.com/24/90/f3/2c35ea61bab93f/US09763922-20170919-C01346.png)](https://patentimages.storage.googleapis.com/24/90/f3/2c35ea61bab93f/US09763922-20170919-C01346.png)
+
+ 
+
+[![Figure US09763922-20170919-C01347](https://patentimages.storage.googleapis.com/f0/83/a9/f97defa16c0fb7/US09763922-20170919-C01347.png)](https://patentimages.storage.googleapis.com/f0/83/a9/f97defa16c0fb7/US09763922-20170919-C01347.png)
+
+ 
+
+[![Figure US09763922-20170919-C01348](https://patentimages.storage.googleapis.com/b5/ce/e1/11680faac53f69/US09763922-20170919-C01348.png)](https://patentimages.storage.googleapis.com/b5/ce/e1/11680faac53f69/US09763922-20170919-C01348.png)
+
+ 
+
+[![Figure US09763922-20170919-C01349](https://patentimages.storage.googleapis.com/07/60/20/1681400cdaff52/US09763922-20170919-C01349.png)](https://patentimages.storage.googleapis.com/07/60/20/1681400cdaff52/US09763922-20170919-C01349.png)
+
+ 
+
+[![Figure US09763922-20170919-C01350](https://patentimages.storage.googleapis.com/81/7b/5f/3b1a86ac47ee76/US09763922-20170919-C01350.png)](https://patentimages.storage.googleapis.com/81/7b/5f/3b1a86ac47ee76/US09763922-20170919-C01350.png)
+
+ 
+
+[![Figure US09763922-20170919-C01351](https://patentimages.storage.googleapis.com/df/0a/a3/10a409ab1ec42c/US09763922-20170919-C01351.png)](https://patentimages.storage.googleapis.com/df/0a/a3/10a409ab1ec42c/US09763922-20170919-C01351.png)
+
+ 
+
+[![Figure US09763922-20170919-C01352](https://patentimages.storage.googleapis.com/e2/5e/f4/d337a39ccd91bd/US09763922-20170919-C01352.png)](https://patentimages.storage.googleapis.com/e2/5e/f4/d337a39ccd91bd/US09763922-20170919-C01352.png)
+
+ 
+
+[![Figure US09763922-20170919-C01353](https://patentimages.storage.googleapis.com/74/b8/c1/2b4517b99baeb7/US09763922-20170919-C01353.png)](https://patentimages.storage.googleapis.com/74/b8/c1/2b4517b99baeb7/US09763922-20170919-C01353.png)
+
+ 
+
+[![Figure US09763922-20170919-C01354](https://patentimages.storage.googleapis.com/2d/76/b8/fc59a0b5aba06f/US09763922-20170919-C01354.png)](https://patentimages.storage.googleapis.com/2d/76/b8/fc59a0b5aba06f/US09763922-20170919-C01354.png)
+
+ 
+
+[![Figure US09763922-20170919-C01355](https://patentimages.storage.googleapis.com/0e/66/f0/413193d1e1cd13/US09763922-20170919-C01355.png)](https://patentimages.storage.googleapis.com/0e/66/f0/413193d1e1cd13/US09763922-20170919-C01355.png)
+
+ 
+
+[![Figure US09763922-20170919-C01356](https://patentimages.storage.googleapis.com/b8/f9/ee/2f2e821e256d29/US09763922-20170919-C01356.png)](https://patentimages.storage.googleapis.com/b8/f9/ee/2f2e821e256d29/US09763922-20170919-C01356.png)
+
+ 
+
+[![Figure US09763922-20170919-C01357](https://patentimages.storage.googleapis.com/bc/71/66/5753f4854cdfa1/US09763922-20170919-C01357.png)](https://patentimages.storage.googleapis.com/bc/71/66/5753f4854cdfa1/US09763922-20170919-C01357.png)
+
+ 
+
+[![Figure US09763922-20170919-C01358](https://patentimages.storage.googleapis.com/b0/c0/ed/9ba83eda648ff4/US09763922-20170919-C01358.png)](https://patentimages.storage.googleapis.com/b0/c0/ed/9ba83eda648ff4/US09763922-20170919-C01358.png)
+
+ 
+
+[![Figure US09763922-20170919-C01359](https://patentimages.storage.googleapis.com/3f/ba/eb/24651faf3d6c98/US09763922-20170919-C01359.png)](https://patentimages.storage.googleapis.com/3f/ba/eb/24651faf3d6c98/US09763922-20170919-C01359.png)
+
+ 
+
+[![Figure US09763922-20170919-C01360](https://patentimages.storage.googleapis.com/19/8e/90/ddcfc92467f63c/US09763922-20170919-C01360.png)](https://patentimages.storage.googleapis.com/19/8e/90/ddcfc92467f63c/US09763922-20170919-C01360.png)
+
+ 
+
+[![Figure US09763922-20170919-C01361](https://patentimages.storage.googleapis.com/eb/15/c9/7755acb75c8271/US09763922-20170919-C01361.png)](https://patentimages.storage.googleapis.com/eb/15/c9/7755acb75c8271/US09763922-20170919-C01361.png)
+
+ 
+
+[![Figure US09763922-20170919-C01362](https://patentimages.storage.googleapis.com/ee/0e/20/f451ecfefb63da/US09763922-20170919-C01362.png)](https://patentimages.storage.googleapis.com/ee/0e/20/f451ecfefb63da/US09763922-20170919-C01362.png)
+
+ 
+
+[![Figure US09763922-20170919-C01363](https://patentimages.storage.googleapis.com/98/68/0e/ac7e8ee6b4fc71/US09763922-20170919-C01363.png)](https://patentimages.storage.googleapis.com/98/68/0e/ac7e8ee6b4fc71/US09763922-20170919-C01363.png)
+
+ 
+
+[![Figure US09763922-20170919-C01364](https://patentimages.storage.googleapis.com/af/2d/f7/6ab52ef6a79e29/US09763922-20170919-C01364.png)](https://patentimages.storage.googleapis.com/af/2d/f7/6ab52ef6a79e29/US09763922-20170919-C01364.png)
+
+ 
+
+[![Figure US09763922-20170919-C01365](https://patentimages.storage.googleapis.com/94/8d/f6/177a7704df8bf3/US09763922-20170919-C01365.png)](https://patentimages.storage.googleapis.com/94/8d/f6/177a7704df8bf3/US09763922-20170919-C01365.png)
+
+ 
+
+[![Figure US09763922-20170919-C01366](https://patentimages.storage.googleapis.com/f8/39/35/ad4ec4b29100fb/US09763922-20170919-C01366.png)](https://patentimages.storage.googleapis.com/f8/39/35/ad4ec4b29100fb/US09763922-20170919-C01366.png)
+
+ 
+
+[![Figure US09763922-20170919-C01367](https://patentimages.storage.googleapis.com/25/45/b8/14f00164389464/US09763922-20170919-C01367.png)](https://patentimages.storage.googleapis.com/25/45/b8/14f00164389464/US09763922-20170919-C01367.png)
+
+ 
+
+[![Figure US09763922-20170919-C01368](https://patentimages.storage.googleapis.com/e5/d0/8d/8ef44221fe69f0/US09763922-20170919-C01368.png)](https://patentimages.storage.googleapis.com/e5/d0/8d/8ef44221fe69f0/US09763922-20170919-C01368.png)
+
+ 
+
+[![Figure US09763922-20170919-C01369](https://patentimages.storage.googleapis.com/79/2b/f4/64ce9d667be8ae/US09763922-20170919-C01369.png)](https://patentimages.storage.googleapis.com/79/2b/f4/64ce9d667be8ae/US09763922-20170919-C01369.png)
+
+ 
+
+[![Figure US09763922-20170919-C01370](https://patentimages.storage.googleapis.com/41/87/66/0805192547ca1c/US09763922-20170919-C01370.png)](https://patentimages.storage.googleapis.com/41/87/66/0805192547ca1c/US09763922-20170919-C01370.png)
+
+ 
+
+[![Figure US09763922-20170919-C01371](https://patentimages.storage.googleapis.com/2a/a5/bd/a9c9f8b68d8ee8/US09763922-20170919-C01371.png)](https://patentimages.storage.googleapis.com/2a/a5/bd/a9c9f8b68d8ee8/US09763922-20170919-C01371.png)
+
+ 
+
+[![Figure US09763922-20170919-C01372](https://patentimages.storage.googleapis.com/6f/1e/8c/a37ec8d7d7191d/US09763922-20170919-C01372.png)](https://patentimages.storage.googleapis.com/6f/1e/8c/a37ec8d7d7191d/US09763922-20170919-C01372.png)
+
+ 
+
+[![Figure US09763922-20170919-C01373](https://patentimages.storage.googleapis.com/01/33/17/464acd750cd187/US09763922-20170919-C01373.png)](https://patentimages.storage.googleapis.com/01/33/17/464acd750cd187/US09763922-20170919-C01373.png)
+
+ 
+
+[![Figure US09763922-20170919-C01374](https://patentimages.storage.googleapis.com/69/aa/d5/174f40226ae174/US09763922-20170919-C01374.png)](https://patentimages.storage.googleapis.com/69/aa/d5/174f40226ae174/US09763922-20170919-C01374.png)
+
+ 
+
+[![Figure US09763922-20170919-C01375](https://patentimages.storage.googleapis.com/59/32/28/85e4d95584271f/US09763922-20170919-C01375.png)](https://patentimages.storage.googleapis.com/59/32/28/85e4d95584271f/US09763922-20170919-C01375.png)
+
+ 
+
+[![Figure US09763922-20170919-C01376](https://patentimages.storage.googleapis.com/f7/03/91/cbfe3257925381/US09763922-20170919-C01376.png)](https://patentimages.storage.googleapis.com/f7/03/91/cbfe3257925381/US09763922-20170919-C01376.png)
+
+ 
+
+[![Figure US09763922-20170919-C01377](https://patentimages.storage.googleapis.com/b1/05/f0/463f3af1ce97dd/US09763922-20170919-C01377.png)](https://patentimages.storage.googleapis.com/b1/05/f0/463f3af1ce97dd/US09763922-20170919-C01377.png)
+
+ 
+
+[![Figure US09763922-20170919-C01378](https://patentimages.storage.googleapis.com/bc/9c/9a/5871965c21f45c/US09763922-20170919-C01378.png)](https://patentimages.storage.googleapis.com/bc/9c/9a/5871965c21f45c/US09763922-20170919-C01378.png)
+
+ 
+
+[![Figure US09763922-20170919-C01379](https://patentimages.storage.googleapis.com/2d/ba/fc/c9cacd1a407e20/US09763922-20170919-C01379.png)](https://patentimages.storage.googleapis.com/2d/ba/fc/c9cacd1a407e20/US09763922-20170919-C01379.png)
+
+ 
+
+[![Figure US09763922-20170919-C01380](https://patentimages.storage.googleapis.com/df/b0/52/274936cb5b70c5/US09763922-20170919-C01380.png)](https://patentimages.storage.googleapis.com/df/b0/52/274936cb5b70c5/US09763922-20170919-C01380.png)
+
+ 
+
+[![Figure US09763922-20170919-C01381](https://patentimages.storage.googleapis.com/b2/5e/28/c581d6232b4762/US09763922-20170919-C01381.png)](https://patentimages.storage.googleapis.com/b2/5e/28/c581d6232b4762/US09763922-20170919-C01381.png)
+
+ 
+
+[![Figure US09763922-20170919-C01382](https://patentimages.storage.googleapis.com/8d/5b/f9/bec02ec9641c6f/US09763922-20170919-C01382.png)](https://patentimages.storage.googleapis.com/8d/5b/f9/bec02ec9641c6f/US09763922-20170919-C01382.png)
+
+ 
+
+[![Figure US09763922-20170919-C01383](https://patentimages.storage.googleapis.com/c8/23/63/2f59da7cb2d4c9/US09763922-20170919-C01383.png)](https://patentimages.storage.googleapis.com/c8/23/63/2f59da7cb2d4c9/US09763922-20170919-C01383.png)
+
+ 
+
+[![Figure US09763922-20170919-C01384](https://patentimages.storage.googleapis.com/52/74/e3/3a71e60e20f83b/US09763922-20170919-C01384.png)](https://patentimages.storage.googleapis.com/52/74/e3/3a71e60e20f83b/US09763922-20170919-C01384.png)
+
+ 
+
+[![Figure US09763922-20170919-C01385](https://patentimages.storage.googleapis.com/d8/55/ca/a22a4c898ebb10/US09763922-20170919-C01385.png)](https://patentimages.storage.googleapis.com/d8/55/ca/a22a4c898ebb10/US09763922-20170919-C01385.png)
+
+ 
+
+[![Figure US09763922-20170919-C01386](https://patentimages.storage.googleapis.com/ec/26/f9/89eba9511d4131/US09763922-20170919-C01386.png)](https://patentimages.storage.googleapis.com/ec/26/f9/89eba9511d4131/US09763922-20170919-C01386.png)
+
+ 
+
+[![Figure US09763922-20170919-C01387](https://patentimages.storage.googleapis.com/b5/ca/0f/b0b5e09860e27b/US09763922-20170919-C01387.png)](https://patentimages.storage.googleapis.com/b5/ca/0f/b0b5e09860e27b/US09763922-20170919-C01387.png)
+
+ 
+
+[![Figure US09763922-20170919-C01388](https://patentimages.storage.googleapis.com/52/49/91/000221c4d8c240/US09763922-20170919-C01388.png)](https://patentimages.storage.googleapis.com/52/49/91/000221c4d8c240/US09763922-20170919-C01388.png)
+
+ 
+
+[![Figure US09763922-20170919-C01389](https://patentimages.storage.googleapis.com/b3/c5/66/11b0283ac1df7c/US09763922-20170919-C01389.png)](https://patentimages.storage.googleapis.com/b3/c5/66/11b0283ac1df7c/US09763922-20170919-C01389.png)
+
+ 
+
+[![Figure US09763922-20170919-C01390](https://patentimages.storage.googleapis.com/99/92/08/80b4494d621b79/US09763922-20170919-C01390.png)](https://patentimages.storage.googleapis.com/99/92/08/80b4494d621b79/US09763922-20170919-C01390.png)
+
+ 
+
+[![Figure US09763922-20170919-C01391](https://patentimages.storage.googleapis.com/a5/cd/d2/9745ce64b5c03f/US09763922-20170919-C01391.png)](https://patentimages.storage.googleapis.com/a5/cd/d2/9745ce64b5c03f/US09763922-20170919-C01391.png)
+
+ 
+
+[![Figure US09763922-20170919-C01392](https://patentimages.storage.googleapis.com/4c/18/9d/06a1f99f0dbde0/US09763922-20170919-C01392.png)](https://patentimages.storage.googleapis.com/4c/18/9d/06a1f99f0dbde0/US09763922-20170919-C01392.png)
+
+ 
+
+[![Figure US09763922-20170919-C01393](https://patentimages.storage.googleapis.com/0c/7b/e4/8a6d8c8d1a0935/US09763922-20170919-C01393.png)](https://patentimages.storage.googleapis.com/0c/7b/e4/8a6d8c8d1a0935/US09763922-20170919-C01393.png)
+
+ 
+
+[![Figure US09763922-20170919-C01394](https://patentimages.storage.googleapis.com/66/fa/19/6c8c48c4de6248/US09763922-20170919-C01394.png)](https://patentimages.storage.googleapis.com/66/fa/19/6c8c48c4de6248/US09763922-20170919-C01394.png)
+
+ 
+
+[![Figure US09763922-20170919-C01395](https://patentimages.storage.googleapis.com/73/6c/c7/c25bdc5dfbbb80/US09763922-20170919-C01395.png)](https://patentimages.storage.googleapis.com/73/6c/c7/c25bdc5dfbbb80/US09763922-20170919-C01395.png)
+
+ 
+
+[![Figure US09763922-20170919-C01396](https://patentimages.storage.googleapis.com/a1/c5/71/62c66c189b40bf/US09763922-20170919-C01396.png)](https://patentimages.storage.googleapis.com/a1/c5/71/62c66c189b40bf/US09763922-20170919-C01396.png)
+
+ 
+
+[![Figure US09763922-20170919-C01397](https://patentimages.storage.googleapis.com/da/4a/c2/4b686ac2c0cec3/US09763922-20170919-C01397.png)](https://patentimages.storage.googleapis.com/da/4a/c2/4b686ac2c0cec3/US09763922-20170919-C01397.png)
+
+ 
+
+[![Figure US09763922-20170919-C01398](https://patentimages.storage.googleapis.com/b2/ba/f2/09111e28649470/US09763922-20170919-C01398.png)](https://patentimages.storage.googleapis.com/b2/ba/f2/09111e28649470/US09763922-20170919-C01398.png)
+
+ 
+
+[![Figure US09763922-20170919-C01399](https://patentimages.storage.googleapis.com/22/6f/03/606e6393cc3f16/US09763922-20170919-C01399.png)](https://patentimages.storage.googleapis.com/22/6f/03/606e6393cc3f16/US09763922-20170919-C01399.png)
+
+ 
+
+[![Figure US09763922-20170919-C01400](https://patentimages.storage.googleapis.com/b1/fe/7b/8467b08b84a063/US09763922-20170919-C01400.png)](https://patentimages.storage.googleapis.com/b1/fe/7b/8467b08b84a063/US09763922-20170919-C01400.png)
+
+ 
+
+[![Figure US09763922-20170919-C01401](https://patentimages.storage.googleapis.com/6f/8c/0c/5bfbcd8bbd3f5e/US09763922-20170919-C01401.png)](https://patentimages.storage.googleapis.com/6f/8c/0c/5bfbcd8bbd3f5e/US09763922-20170919-C01401.png)
+
+ 
+
+[![Figure US09763922-20170919-C01402](https://patentimages.storage.googleapis.com/f0/dd/fd/5c7e3882e32bfb/US09763922-20170919-C01402.png)](https://patentimages.storage.googleapis.com/f0/dd/fd/5c7e3882e32bfb/US09763922-20170919-C01402.png)
+
+ 
+
+[![Figure US09763922-20170919-C01403](https://patentimages.storage.googleapis.com/c7/08/3c/2d2444190e78f8/US09763922-20170919-C01403.png)](https://patentimages.storage.googleapis.com/c7/08/3c/2d2444190e78f8/US09763922-20170919-C01403.png)
+
+ 
+
+[![Figure US09763922-20170919-C01404](https://patentimages.storage.googleapis.com/23/f7/53/5dfea1d1733a5a/US09763922-20170919-C01404.png)](https://patentimages.storage.googleapis.com/23/f7/53/5dfea1d1733a5a/US09763922-20170919-C01404.png)
+
+ 
+
+[![Figure US09763922-20170919-C01405](https://patentimages.storage.googleapis.com/68/1c/3d/e678081c766a78/US09763922-20170919-C01405.png)](https://patentimages.storage.googleapis.com/68/1c/3d/e678081c766a78/US09763922-20170919-C01405.png)
+
+ 
+
+[![Figure US09763922-20170919-C01406](https://patentimages.storage.googleapis.com/a7/c1/bd/f41dc2838cbb9f/US09763922-20170919-C01406.png)](https://patentimages.storage.googleapis.com/a7/c1/bd/f41dc2838cbb9f/US09763922-20170919-C01406.png)
+
+ 
+
+[![Figure US09763922-20170919-C01407](https://patentimages.storage.googleapis.com/fd/6c/23/e3d220de86ea04/US09763922-20170919-C01407.png)](https://patentimages.storage.googleapis.com/fd/6c/23/e3d220de86ea04/US09763922-20170919-C01407.png)
+
+ 
+
+[![Figure US09763922-20170919-C01408](https://patentimages.storage.googleapis.com/e8/40/9f/30426b5b30acb0/US09763922-20170919-C01408.png)](https://patentimages.storage.googleapis.com/e8/40/9f/30426b5b30acb0/US09763922-20170919-C01408.png)
+
+ 
+
+[![Figure US09763922-20170919-C01409](https://patentimages.storage.googleapis.com/02/07/19/7566950f4b35ea/US09763922-20170919-C01409.png)](https://patentimages.storage.googleapis.com/02/07/19/7566950f4b35ea/US09763922-20170919-C01409.png)
+
+ 
+
+[![Figure US09763922-20170919-C01410](https://patentimages.storage.googleapis.com/95/b5/fd/a0431490f183a2/US09763922-20170919-C01410.png)](https://patentimages.storage.googleapis.com/95/b5/fd/a0431490f183a2/US09763922-20170919-C01410.png)
+
+ 
+
+[![Figure US09763922-20170919-C01411](https://patentimages.storage.googleapis.com/8e/b2/e0/5d9b4f44871ef0/US09763922-20170919-C01411.png)](https://patentimages.storage.googleapis.com/8e/b2/e0/5d9b4f44871ef0/US09763922-20170919-C01411.png)
+
+ 
+
+[![Figure US09763922-20170919-C01412](https://patentimages.storage.googleapis.com/1a/a9/9b/a5c6b9a92827d5/US09763922-20170919-C01412.png)](https://patentimages.storage.googleapis.com/1a/a9/9b/a5c6b9a92827d5/US09763922-20170919-C01412.png)
+
+ 
+
+[![Figure US09763922-20170919-C01413](https://patentimages.storage.googleapis.com/7e/7b/27/da6d02af42b1b3/US09763922-20170919-C01413.png)](https://patentimages.storage.googleapis.com/7e/7b/27/da6d02af42b1b3/US09763922-20170919-C01413.png)
+
+ 
+
+[![Figure US09763922-20170919-C01414](https://patentimages.storage.googleapis.com/1a/3b/70/733f60f8ea5e75/US09763922-20170919-C01414.png)](https://patentimages.storage.googleapis.com/1a/3b/70/733f60f8ea5e75/US09763922-20170919-C01414.png)
+
+ 
+
+[![Figure US09763922-20170919-C01415](https://patentimages.storage.googleapis.com/6b/da/14/e537cd7310fb8a/US09763922-20170919-C01415.png)](https://patentimages.storage.googleapis.com/6b/da/14/e537cd7310fb8a/US09763922-20170919-C01415.png)
+
+ 
+
+[![Figure US09763922-20170919-C01416](https://patentimages.storage.googleapis.com/c3/d2/67/73e7000733c4d2/US09763922-20170919-C01416.png)](https://patentimages.storage.googleapis.com/c3/d2/67/73e7000733c4d2/US09763922-20170919-C01416.png)
+
+ 
+
+[![Figure US09763922-20170919-C01417](https://patentimages.storage.googleapis.com/31/1f/27/fe9bd2591cf353/US09763922-20170919-C01417.png)](https://patentimages.storage.googleapis.com/31/1f/27/fe9bd2591cf353/US09763922-20170919-C01417.png)
+
+ 
+
+[![Figure US09763922-20170919-C01418](https://patentimages.storage.googleapis.com/36/97/c2/2560df092865b2/US09763922-20170919-C01418.png)](https://patentimages.storage.googleapis.com/36/97/c2/2560df092865b2/US09763922-20170919-C01418.png)
+
+ 
+
+[![Figure US09763922-20170919-C01419](https://patentimages.storage.googleapis.com/1a/71/19/dfeb74fe939b6a/US09763922-20170919-C01419.png)](https://patentimages.storage.googleapis.com/1a/71/19/dfeb74fe939b6a/US09763922-20170919-C01419.png)
+
+ 
+
+[![Figure US09763922-20170919-C01420](https://patentimages.storage.googleapis.com/US9763922B2/US09763922-20170919-C01420.png)](https://patentimages.storage.googleapis.com/US9763922B2/US09763922-20170919-C01420.png)
+
+ 
+
+[![Figure US09763922-20170919-C01421](https://patentimages.storage.googleapis.com/57/e8/7a/b127ad98e86933/US09763922-20170919-C01421.png)](https://patentimages.storage.googleapis.com/57/e8/7a/b127ad98e86933/US09763922-20170919-C01421.png)
+
+ 
+
+[![Figure US09763922-20170919-C01422](https://patentimages.storage.googleapis.com/3c/13/99/5b11ebe10d7839/US09763922-20170919-C01422.png)](https://patentimages.storage.googleapis.com/3c/13/99/5b11ebe10d7839/US09763922-20170919-C01422.png)
+
+ 
+
+[![Figure US09763922-20170919-C01423](https://patentimages.storage.googleapis.com/3d/e3/b8/1ae9db475dfbaf/US09763922-20170919-C01423.png)](https://patentimages.storage.googleapis.com/3d/e3/b8/1ae9db475dfbaf/US09763922-20170919-C01423.png)
+
+ 
+
+[![Figure US09763922-20170919-C01424](https://patentimages.storage.googleapis.com/6f/30/17/b9668a0015f85c/US09763922-20170919-C01424.png)](https://patentimages.storage.googleapis.com/6f/30/17/b9668a0015f85c/US09763922-20170919-C01424.png)
+
+ 
+
+[![Figure US09763922-20170919-C01425](https://patentimages.storage.googleapis.com/7f/56/e7/d36727f1108e7a/US09763922-20170919-C01425.png)](https://patentimages.storage.googleapis.com/7f/56/e7/d36727f1108e7a/US09763922-20170919-C01425.png)
+
+ 
+
+[![Figure US09763922-20170919-C01426](https://patentimages.storage.googleapis.com/1d/33/d8/9d3d5acacff427/US09763922-20170919-C01426.png)](https://patentimages.storage.googleapis.com/1d/33/d8/9d3d5acacff427/US09763922-20170919-C01426.png)
+
+ 
+
+[![Figure US09763922-20170919-C01427](https://patentimages.storage.googleapis.com/97/43/6d/5c3ad7e57c96f3/US09763922-20170919-C01427.png)](https://patentimages.storage.googleapis.com/97/43/6d/5c3ad7e57c96f3/US09763922-20170919-C01427.png)
+
+ 
+
+[![Figure US09763922-20170919-C01428](https://patentimages.storage.googleapis.com/ad/74/77/2000367a5d519a/US09763922-20170919-C01428.png)](https://patentimages.storage.googleapis.com/ad/74/77/2000367a5d519a/US09763922-20170919-C01428.png)
+
+ 
+
+[![Figure US09763922-20170919-C01429](https://patentimages.storage.googleapis.com/c6/04/09/e87f61081c5d7c/US09763922-20170919-C01429.png)](https://patentimages.storage.googleapis.com/c6/04/09/e87f61081c5d7c/US09763922-20170919-C01429.png)
+
+ 
+
+[![Figure US09763922-20170919-C01430](https://patentimages.storage.googleapis.com/d8/28/1d/164faf21190a27/US09763922-20170919-C01430.png)](https://patentimages.storage.googleapis.com/d8/28/1d/164faf21190a27/US09763922-20170919-C01430.png)
+
+ 
+
+[![Figure US09763922-20170919-C01431](https://patentimages.storage.googleapis.com/9d/02/b1/b8da6531c2358b/US09763922-20170919-C01431.png)](https://patentimages.storage.googleapis.com/9d/02/b1/b8da6531c2358b/US09763922-20170919-C01431.png)
+
+ 
+
+[![Figure US09763922-20170919-C01432](https://patentimages.storage.googleapis.com/2e/b3/b0/c100ad1abbc032/US09763922-20170919-C01432.png)](https://patentimages.storage.googleapis.com/2e/b3/b0/c100ad1abbc032/US09763922-20170919-C01432.png)
+
+ 
+
+[![Figure US09763922-20170919-C01433](https://patentimages.storage.googleapis.com/e2/d2/2e/6160592af4deca/US09763922-20170919-C01433.png)](https://patentimages.storage.googleapis.com/e2/d2/2e/6160592af4deca/US09763922-20170919-C01433.png)
+
+ 
+
+[![Figure US09763922-20170919-C01434](https://patentimages.storage.googleapis.com/16/ee/dc/36bb4593ea1678/US09763922-20170919-C01434.png)](https://patentimages.storage.googleapis.com/16/ee/dc/36bb4593ea1678/US09763922-20170919-C01434.png)
+
+ 
+
+[![Figure US09763922-20170919-C01435](https://patentimages.storage.googleapis.com/58/5c/f4/4b4240a27c46df/US09763922-20170919-C01435.png)](https://patentimages.storage.googleapis.com/58/5c/f4/4b4240a27c46df/US09763922-20170919-C01435.png)
+
+ 
+
+[![Figure US09763922-20170919-C01436](https://patentimages.storage.googleapis.com/2b/c1/d3/44638cf8eaee1a/US09763922-20170919-C01436.png)](https://patentimages.storage.googleapis.com/2b/c1/d3/44638cf8eaee1a/US09763922-20170919-C01436.png)
+
+ 
+
+[![Figure US09763922-20170919-C01437](https://patentimages.storage.googleapis.com/85/56/df/e032cca9e2f5e4/US09763922-20170919-C01437.png)](https://patentimages.storage.googleapis.com/85/56/df/e032cca9e2f5e4/US09763922-20170919-C01437.png)
+
+ 
+
+[![Figure US09763922-20170919-C01438](https://patentimages.storage.googleapis.com/f8/fc/2c/9d3fc1236a56d9/US09763922-20170919-C01438.png)](https://patentimages.storage.googleapis.com/f8/fc/2c/9d3fc1236a56d9/US09763922-20170919-C01438.png)
+
+ 
+
+[![Figure US09763922-20170919-C01439](https://patentimages.storage.googleapis.com/b3/e9/ba/8d75c13f4758bc/US09763922-20170919-C01439.png)](https://patentimages.storage.googleapis.com/b3/e9/ba/8d75c13f4758bc/US09763922-20170919-C01439.png)
+
+ 
+
+and salts thereof.
+
+11. The compound of claim 1, wherein the compound is of formula (II):
+
+[![Figure US09763922-20170919-C01440](https://patentimages.storage.googleapis.com/80/5c/ad/8203c93c7d68cf/US09763922-20170919-C01440.png)](https://patentimages.storage.googleapis.com/80/5c/ad/8203c93c7d68cf/US09763922-20170919-C01440.png)
+
+ 
+
+or a salt thereof, wherein:
+
+R1 is selected from C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)-(C1-C20 heteroaryl), and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl), wherein each C6-C20 aryl, C1-C20 heteroaryl, —(C6-C20 aryl)-(C1-C20 heteroaryl) and —(C1-C20 heteroaryl)-(C1-C20 heteroaryl) is independently optionally substituted with one or more substituent groups independently selected from Rc, oxo, —F, —Cl, —Br, —I, —NO2, —N(Ra)2, —CN, —C(O)—N(Ra)2, —S(O)—N(Ra)2, —S(O)2, —N(Ra)2, —O—Ra, —S—Ra, —O—C(O)—Ra, —O—C(O)—O—Ra, —C(O)—Ra, —C(O)—O—Ra, —S(O)—Ra, —S(O)2—Ra, —O—C(O)—N(Ra)2, —N(Ra)—C(O)—ORa, —N(Ra)—C(O)—N(Ra)2, —N(Ra)—C(O)—Ra, —N(Ra)—S(O)—Ra, —N(Ra)—S(O)2—Ra and —N(Ra)—S(O)2—N(Ra)2;
+
+R2 is C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle, wherein each C1-12alkyl, C2-12alkenyl, C2-12alkynyl, 3-12 membered carbocycle, and 3-12 membered heterocycle of R2 is optionally substituted with one or more groups Rb;
+
+R3 is C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, 3-5 membered heterocycle, —C(O)—N(Re)2, —S(O)—N(Re)2, —S(O)2—N(Re)2, —C(O)—Re, —C(O)—O—Re, —S(O)—Re, or —S(O)2—Re, wherein any C1-4alkyl, C2-4alkenyl, C2-4alkynyl, 3-5 membered carbocycle, and 3-5 membered heterocycle is optionally substituted with one or more substituent groups independently selected from —F, —Cl, —Br, —I, 3-5 membered carbocycle, —C(O)—N(Re)2, —S(O)—N(Re)2, —S(O)2—N(Re)2, —O—Re, —S—Re, —O—C(O)—Re, —O—C(O)—O—Re, —C(O)—Re, —C(O)—O—Re, —S(O)—Re, —S(O)2—Re, —O—C(O)—N(Re)2, —N(Re)—C(O)—ORe, —N(Re)—C(O)—N(Re)2, —N(Re)—C(O)—Re, —N(Re)—S(O)—Re, —N(Re)—S(O)2—Re, —N(Re)—S(O)—N(Re)2, and —N(Re)—S(O)2—N(Re)2;
+
+each Ra is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two IV are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rb is independently selected from oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, heteroaryl, —F, —Cl, —Br, —I, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —O—C(O)—O—Rc, —C(O)—Rc, —C(O)—O—Rc, —S(O)—Rc, —S(O)2Rc, —O—C(O)—N(Rc)2, —N(Rc)—C(O)—ORc, —N(Rc)—C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc, —N(Rc)—S(O)—N(Rc)2, and —N(Rc)—S(O)2—N(Rc)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, heterocyclyl, aryl, and heteroaryl is optionally substituted with one or more groups independently selected from oxo, halo, —NO2, —N(Rc)2, —CN, —C(O)—N(Rc)2, —S(O)—N(Rc)2, —S(O)2—N(Rc)2, —S—Rc, —O—C(O)—Rc, —C(O)—Rc, —S(O)—Rc, —S(O)2Rc—, —C(O)—N(Rc)2, —N(Rc)—C(O)—Rc, —N(Rc)—S(O)—Rc, —N(Rc)—S(O)2—Rc and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rc is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, carbocyclyl, heterocyclyl, halo, —NO2, —N(Rd)2, —CN, —C(O)—N(Rd)2, —S(O)—N(Rd)2, —S(O)2—N(Rd)2, —O—Rd, —S—Rd, —O—C(O)—Rd, —C(O)—Rd, —C(O)—O—Rd, —S(O)—Rd, —S(O)2—Rd, —C(O)—N(Rd)2, —N(Rd)—C(O)—Rd, —N(Rd)—S(O)—Rd, N(Rd)—S(O)2—Rd, and C1-6alkyl, which carbocyclyl and C1-6alkyl are optionally substituted with one or more groups independently selected from oxo, halo, C1-6alkyl, cyano, —N(Rd)2, —O—Rd, heterocyclyl, and carbocyclyl that is optionally substituted with one or more groups independently selected from halo, and C1-6alkyl;
+
+each Rd is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkynyl, C1-6alkoxy, carbocyclyl, and heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkoxy, carbocyclyl, heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Rd are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; and
+
+each Re is independently selected from hydrogen, C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl, wherein each C1-4alkyl, C2-4alkenyl, C2-4alkynyl, and C2-5cycloalkyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-3alkoxy, and C1-C3 alkyl that is optionally substituted with one or more groups independently selected from halo; provided that R1 is not unsubstituted phenyl, when R2 is carboxymethyl or 2-carboxyethyl.
+
+12. The compound of claim 11 wherein R1 is selected from:
+
+[![Figure US09763922-20170919-C01441](https://patentimages.storage.googleapis.com/d6/ed/fd/8879e8e687488f/US09763922-20170919-C01441.png)](https://patentimages.storage.googleapis.com/d6/ed/fd/8879e8e687488f/US09763922-20170919-C01441.png)
+
+ 
+
+[![Figure US09763922-20170919-C01442](https://patentimages.storage.googleapis.com/3b/2e/21/b7195a5e57f67a/US09763922-20170919-C01442.png)](https://patentimages.storage.googleapis.com/3b/2e/21/b7195a5e57f67a/US09763922-20170919-C01442.png)
+
+ 
+
+[![Figure US09763922-20170919-C01443](https://patentimages.storage.googleapis.com/bb/95/e1/6523df3c1d972a/US09763922-20170919-C01443.png)](https://patentimages.storage.googleapis.com/bb/95/e1/6523df3c1d972a/US09763922-20170919-C01443.png)
+
+ 
+
+[![Figure US09763922-20170919-C01444](https://patentimages.storage.googleapis.com/cf/8f/58/c70c9c1a525221/US09763922-20170919-C01444.png)](https://patentimages.storage.googleapis.com/cf/8f/58/c70c9c1a525221/US09763922-20170919-C01444.png)
+
+ 
+
+[![Figure US09763922-20170919-C01445](https://patentimages.storage.googleapis.com/92/78/ab/f31fb35bdd981b/US09763922-20170919-C01445.png)](https://patentimages.storage.googleapis.com/92/78/ab/f31fb35bdd981b/US09763922-20170919-C01445.png)
+
+ 
+
+[![Figure US09763922-20170919-C01446](https://patentimages.storage.googleapis.com/27/3d/f9/094e57459f3306/US09763922-20170919-C01446.png)](https://patentimages.storage.googleapis.com/27/3d/f9/094e57459f3306/US09763922-20170919-C01446.png)
+
+ 
+
+[![Figure US09763922-20170919-C01447](https://patentimages.storage.googleapis.com/a4/47/0d/bf5958ac451bf0/US09763922-20170919-C01447.png)](https://patentimages.storage.googleapis.com/a4/47/0d/bf5958ac451bf0/US09763922-20170919-C01447.png)
+
+ 
+
+[![Figure US09763922-20170919-C01448](https://patentimages.storage.googleapis.com/05/69/9f/7e30c12dc4c947/US09763922-20170919-C01448.png)](https://patentimages.storage.googleapis.com/05/69/9f/7e30c12dc4c947/US09763922-20170919-C01448.png)
+
+ 
+
+[![Figure US09763922-20170919-C01449](https://patentimages.storage.googleapis.com/18/a9/a5/0f9f6756619dd4/US09763922-20170919-C01449.png)](https://patentimages.storage.googleapis.com/18/a9/a5/0f9f6756619dd4/US09763922-20170919-C01449.png)
+
+ 
+
+[![Figure US09763922-20170919-C01450](https://patentimages.storage.googleapis.com/c0/a0/e8/6af760bad7bb37/US09763922-20170919-C01450.png)](https://patentimages.storage.googleapis.com/c0/a0/e8/6af760bad7bb37/US09763922-20170919-C01450.png)
+
+ 
+
+[![Figure US09763922-20170919-C01451](https://patentimages.storage.googleapis.com/9e/83/d7/b9bbff1263ff4d/US09763922-20170919-C01451.png)](https://patentimages.storage.googleapis.com/9e/83/d7/b9bbff1263ff4d/US09763922-20170919-C01451.png)
+
+ 
+
+[![Figure US09763922-20170919-C01452](https://patentimages.storage.googleapis.com/c8/9a/9d/64363fde04fa47/US09763922-20170919-C01452.png)](https://patentimages.storage.googleapis.com/c8/9a/9d/64363fde04fa47/US09763922-20170919-C01452.png)
+
+ 
+
+[![Figure US09763922-20170919-C01453](https://patentimages.storage.googleapis.com/90/69/40/cfd46c9190bbca/US09763922-20170919-C01453.png)](https://patentimages.storage.googleapis.com/90/69/40/cfd46c9190bbca/US09763922-20170919-C01453.png)
+
+ 
+
+[![Figure US09763922-20170919-C01454](https://patentimages.storage.googleapis.com/c7/14/67/5e99c016bb3c72/US09763922-20170919-C01454.png)](https://patentimages.storage.googleapis.com/c7/14/67/5e99c016bb3c72/US09763922-20170919-C01454.png)
+
+ 
+
+[![Figure US09763922-20170919-C01455](https://patentimages.storage.googleapis.com/d0/63/19/0866d1010749a8/US09763922-20170919-C01455.png)](https://patentimages.storage.googleapis.com/d0/63/19/0866d1010749a8/US09763922-20170919-C01455.png)
+
+ 
+
+[![Figure US09763922-20170919-C01456](https://patentimages.storage.googleapis.com/30/ba/11/9d3bfe9b4ed64d/US09763922-20170919-C01456.png)](https://patentimages.storage.googleapis.com/30/ba/11/9d3bfe9b4ed64d/US09763922-20170919-C01456.png)
+
+ 
+
+[![Figure US09763922-20170919-C01457](https://patentimages.storage.googleapis.com/66/ef/d9/93b23e1ed1eb26/US09763922-20170919-C01457.png)](https://patentimages.storage.googleapis.com/66/ef/d9/93b23e1ed1eb26/US09763922-20170919-C01457.png)
+
+ 
+
+[![Figure US09763922-20170919-C01458](https://patentimages.storage.googleapis.com/da/99/00/5962a098a7d245/US09763922-20170919-C01458.png)](https://patentimages.storage.googleapis.com/da/99/00/5962a098a7d245/US09763922-20170919-C01458.png)
+
+ 
+
+[![Figure US09763922-20170919-C01459](https://patentimages.storage.googleapis.com/03/7f/3a/3942909a6cb2a9/US09763922-20170919-C01459.png)](https://patentimages.storage.googleapis.com/03/7f/3a/3942909a6cb2a9/US09763922-20170919-C01459.png)
+
+ 
+
+[![Figure US09763922-20170919-C01460](https://patentimages.storage.googleapis.com/87/7a/40/c99c7818697f98/US09763922-20170919-C01460.png)](https://patentimages.storage.googleapis.com/87/7a/40/c99c7818697f98/US09763922-20170919-C01460.png)
+
+ 
+
+[![Figure US09763922-20170919-C01461](https://patentimages.storage.googleapis.com/8c/e2/58/97b7db9722b57c/US09763922-20170919-C01461.png)](https://patentimages.storage.googleapis.com/8c/e2/58/97b7db9722b57c/US09763922-20170919-C01461.png)
+
+ 
+
+[![Figure US09763922-20170919-C01462](https://patentimages.storage.googleapis.com/a7/4a/45/4089f0f034cb54/US09763922-20170919-C01462.png)](https://patentimages.storage.googleapis.com/a7/4a/45/4089f0f034cb54/US09763922-20170919-C01462.png)
+
+ 
+
+[![Figure US09763922-20170919-C01463](https://patentimages.storage.googleapis.com/a3/c8/e5/d3cae795239430/US09763922-20170919-C01463.png)](https://patentimages.storage.googleapis.com/a3/c8/e5/d3cae795239430/US09763922-20170919-C01463.png)
+
+13. The compound of claim 11 wherein R2 is:
+
+[![Figure US09763922-20170919-C01464](https://patentimages.storage.googleapis.com/a6/df/42/6b671cb836161a/US09763922-20170919-C01464.png)](https://patentimages.storage.googleapis.com/a6/df/42/6b671cb836161a/US09763922-20170919-C01464.png)
+
+ 
+
+[![Figure US09763922-20170919-C01465](https://patentimages.storage.googleapis.com/c7/3d/55/f86200eaaa2afd/US09763922-20170919-C01465.png)](https://patentimages.storage.googleapis.com/c7/3d/55/f86200eaaa2afd/US09763922-20170919-C01465.png)
+
+ 
+
+[![Figure US09763922-20170919-C01466](https://patentimages.storage.googleapis.com/59/c3/c4/03f41f34da6d69/US09763922-20170919-C01466.png)](https://patentimages.storage.googleapis.com/59/c3/c4/03f41f34da6d69/US09763922-20170919-C01466.png)
+
+ 
+
+[![Figure US09763922-20170919-C01467](https://patentimages.storage.googleapis.com/fd/75/e8/8f90b83a52c02e/US09763922-20170919-C01467.png)](https://patentimages.storage.googleapis.com/fd/75/e8/8f90b83a52c02e/US09763922-20170919-C01467.png)
+
+14. The compound of claim 11 wherein R3 is selected from the group consisting of:
+
+[![Figure US09763922-20170919-C01468](https://patentimages.storage.googleapis.com/a2/6f/83/6c7884621c7536/US09763922-20170919-C01468.png)](https://patentimages.storage.googleapis.com/a2/6f/83/6c7884621c7536/US09763922-20170919-C01468.png)
+
+ 
+
+[![Figure US09763922-20170919-C01469](https://patentimages.storage.googleapis.com/cd/06/b1/ddcacb36ac7863/US09763922-20170919-C01469.png)](https://patentimages.storage.googleapis.com/cd/06/b1/ddcacb36ac7863/US09763922-20170919-C01469.png)
+
+15. The compound of claim 11 selected from:
+
+[![Figure US09763922-20170919-C01470](https://patentimages.storage.googleapis.com/f5/a5/8e/b07b42a1874877/US09763922-20170919-C01470.png)](https://patentimages.storage.googleapis.com/f5/a5/8e/b07b42a1874877/US09763922-20170919-C01470.png)
+
+ 
+
+[![Figure US09763922-20170919-C01471](https://patentimages.storage.googleapis.com/2b/f1/00/a0f58718489dd4/US09763922-20170919-C01471.png)](https://patentimages.storage.googleapis.com/2b/f1/00/a0f58718489dd4/US09763922-20170919-C01471.png)
+
+ 
+
+[![Figure US09763922-20170919-C01472](https://patentimages.storage.googleapis.com/cc/97/eb/f396046a716816/US09763922-20170919-C01472.png)](https://patentimages.storage.googleapis.com/cc/97/eb/f396046a716816/US09763922-20170919-C01472.png)
+
+ 
+
+[![Figure US09763922-20170919-C01473](https://patentimages.storage.googleapis.com/d9/2b/c7/fe8398a32b01c4/US09763922-20170919-C01473.png)](https://patentimages.storage.googleapis.com/d9/2b/c7/fe8398a32b01c4/US09763922-20170919-C01473.png)
+
+ 
+
+[![Figure US09763922-20170919-C01474](https://patentimages.storage.googleapis.com/b9/14/b9/cdb45f306ca7a2/US09763922-20170919-C01474.png)](https://patentimages.storage.googleapis.com/b9/14/b9/cdb45f306ca7a2/US09763922-20170919-C01474.png)
+
+ 
+
+[![Figure US09763922-20170919-C01475](https://patentimages.storage.googleapis.com/33/e1/81/00da901412835f/US09763922-20170919-C01475.png)](https://patentimages.storage.googleapis.com/33/e1/81/00da901412835f/US09763922-20170919-C01475.png)
+
+ 
+
+[![Figure US09763922-20170919-C01476](https://patentimages.storage.googleapis.com/78/12/fe/32226b343eaaaa/US09763922-20170919-C01476.png)](https://patentimages.storage.googleapis.com/78/12/fe/32226b343eaaaa/US09763922-20170919-C01476.png)
+
+ 
+
+[![Figure US09763922-20170919-C01477](https://patentimages.storage.googleapis.com/01/96/26/24793a82d9a342/US09763922-20170919-C01477.png)](https://patentimages.storage.googleapis.com/01/96/26/24793a82d9a342/US09763922-20170919-C01477.png)
+
+ 
+
+[![Figure US09763922-20170919-C01478](https://patentimages.storage.googleapis.com/5e/dd/52/5488178b2dbcb0/US09763922-20170919-C01478.png)](https://patentimages.storage.googleapis.com/5e/dd/52/5488178b2dbcb0/US09763922-20170919-C01478.png)
+
+ 
+
+[![Figure US09763922-20170919-C01479](https://patentimages.storage.googleapis.com/31/4e/72/68b1b93270822e/US09763922-20170919-C01479.png)](https://patentimages.storage.googleapis.com/31/4e/72/68b1b93270822e/US09763922-20170919-C01479.png)
+
+ 
+
+[![Figure US09763922-20170919-C01480](https://patentimages.storage.googleapis.com/39/1a/28/6a7a0b433b6145/US09763922-20170919-C01480.png)](https://patentimages.storage.googleapis.com/39/1a/28/6a7a0b433b6145/US09763922-20170919-C01480.png)
+
+ 
+
+[![Figure US09763922-20170919-C01481](https://patentimages.storage.googleapis.com/a4/42/e8/b7d03d184cf035/US09763922-20170919-C01481.png)](https://patentimages.storage.googleapis.com/a4/42/e8/b7d03d184cf035/US09763922-20170919-C01481.png)
+
+ 
+
+[![Figure US09763922-20170919-C01482](https://patentimages.storage.googleapis.com/72/c2/28/e3ca07455e6d29/US09763922-20170919-C01482.png)](https://patentimages.storage.googleapis.com/72/c2/28/e3ca07455e6d29/US09763922-20170919-C01482.png)
+
+ 
+
+[![Figure US09763922-20170919-C01483](https://patentimages.storage.googleapis.com/dc/9e/87/e6678973b24404/US09763922-20170919-C01483.png)](https://patentimages.storage.googleapis.com/dc/9e/87/e6678973b24404/US09763922-20170919-C01483.png)
+
+ 
+
+[![Figure US09763922-20170919-C01484](https://patentimages.storage.googleapis.com/32/25/e9/e1de1e3f94e7d9/US09763922-20170919-C01484.png)](https://patentimages.storage.googleapis.com/32/25/e9/e1de1e3f94e7d9/US09763922-20170919-C01484.png)
+
+ 
+
+[![Figure US09763922-20170919-C01485](https://patentimages.storage.googleapis.com/82/00/44/a8534d4470de97/US09763922-20170919-C01485.png)](https://patentimages.storage.googleapis.com/82/00/44/a8534d4470de97/US09763922-20170919-C01485.png)
+
+ 
+
+[![Figure US09763922-20170919-C01486](https://patentimages.storage.googleapis.com/0a/15/f4/d0cefb17108bef/US09763922-20170919-C01486.png)](https://patentimages.storage.googleapis.com/0a/15/f4/d0cefb17108bef/US09763922-20170919-C01486.png)
+
+ 
+
+[![Figure US09763922-20170919-C01487](https://patentimages.storage.googleapis.com/be/a8/f4/e6a8826337e589/US09763922-20170919-C01487.png)](https://patentimages.storage.googleapis.com/be/a8/f4/e6a8826337e589/US09763922-20170919-C01487.png)
+
+ 
+
+[![Figure US09763922-20170919-C01488](https://patentimages.storage.googleapis.com/a9/07/a4/c354c5fbb6a278/US09763922-20170919-C01488.png)](https://patentimages.storage.googleapis.com/a9/07/a4/c354c5fbb6a278/US09763922-20170919-C01488.png)
+
+ 
+
+[![Figure US09763922-20170919-C01489](https://patentimages.storage.googleapis.com/cb/6f/29/e69f78e313cea3/US09763922-20170919-C01489.png)](https://patentimages.storage.googleapis.com/cb/6f/29/e69f78e313cea3/US09763922-20170919-C01489.png)
+
+ 
+
+[![Figure US09763922-20170919-C01490](https://patentimages.storage.googleapis.com/76/ae/97/d9dfac4c440208/US09763922-20170919-C01490.png)](https://patentimages.storage.googleapis.com/76/ae/97/d9dfac4c440208/US09763922-20170919-C01490.png)
+
+ 
+
+[![Figure US09763922-20170919-C01491](https://patentimages.storage.googleapis.com/50/b4/5b/2d4ee25b8cc00b/US09763922-20170919-C01491.png)](https://patentimages.storage.googleapis.com/50/b4/5b/2d4ee25b8cc00b/US09763922-20170919-C01491.png)
+
+ 
+
+[![Figure US09763922-20170919-C01492](https://patentimages.storage.googleapis.com/6c/8b/e1/550fe0375da5c2/US09763922-20170919-C01492.png)](https://patentimages.storage.googleapis.com/6c/8b/e1/550fe0375da5c2/US09763922-20170919-C01492.png)
+
+ 
+
+[![Figure US09763922-20170919-C01493](https://patentimages.storage.googleapis.com/3b/f3/12/7196d4b64426a8/US09763922-20170919-C01493.png)](https://patentimages.storage.googleapis.com/3b/f3/12/7196d4b64426a8/US09763922-20170919-C01493.png)
+
+ 
+
+[![Figure US09763922-20170919-C01494](https://patentimages.storage.googleapis.com/f7/57/c6/efa96755ac74b7/US09763922-20170919-C01494.png)](https://patentimages.storage.googleapis.com/f7/57/c6/efa96755ac74b7/US09763922-20170919-C01494.png)
+
+ 
+
+[![Figure US09763922-20170919-C01495](https://patentimages.storage.googleapis.com/44/97/65/8be521d1691f47/US09763922-20170919-C01495.png)](https://patentimages.storage.googleapis.com/44/97/65/8be521d1691f47/US09763922-20170919-C01495.png)
+
+ 
+
+[![Figure US09763922-20170919-C01496](https://patentimages.storage.googleapis.com/d0/32/ee/eef1a76cab58ef/US09763922-20170919-C01496.png)](https://patentimages.storage.googleapis.com/d0/32/ee/eef1a76cab58ef/US09763922-20170919-C01496.png)
+
+ 
+
+[![Figure US09763922-20170919-C01497](https://patentimages.storage.googleapis.com/2d/15/d5/8a4277a1935cd3/US09763922-20170919-C01497.png)](https://patentimages.storage.googleapis.com/2d/15/d5/8a4277a1935cd3/US09763922-20170919-C01497.png)
+
+ 
+
+[![Figure US09763922-20170919-C01498](https://patentimages.storage.googleapis.com/e8/93/d3/cad9388b73dcc7/US09763922-20170919-C01498.png)](https://patentimages.storage.googleapis.com/e8/93/d3/cad9388b73dcc7/US09763922-20170919-C01498.png)
+
+ 
+
+[![Figure US09763922-20170919-C01499](https://patentimages.storage.googleapis.com/d4/33/cb/4497a4908ca851/US09763922-20170919-C01499.png)](https://patentimages.storage.googleapis.com/d4/33/cb/4497a4908ca851/US09763922-20170919-C01499.png)
+
+ 
+
+[![Figure US09763922-20170919-C01500](https://patentimages.storage.googleapis.com/24/71/15/28837f7bb79b20/US09763922-20170919-C01500.png)](https://patentimages.storage.googleapis.com/24/71/15/28837f7bb79b20/US09763922-20170919-C01500.png)
+
+ 
+
+[![Figure US09763922-20170919-C01501](https://patentimages.storage.googleapis.com/95/7e/1e/ec75e46760197d/US09763922-20170919-C01501.png)](https://patentimages.storage.googleapis.com/95/7e/1e/ec75e46760197d/US09763922-20170919-C01501.png)
+
+ 
+
+[![Figure US09763922-20170919-C01502](https://patentimages.storage.googleapis.com/d4/05/ae/8a7b8caf6344c6/US09763922-20170919-C01502.png)](https://patentimages.storage.googleapis.com/d4/05/ae/8a7b8caf6344c6/US09763922-20170919-C01502.png)
+
+ 
+
+[![Figure US09763922-20170919-C01503](https://patentimages.storage.googleapis.com/ab/31/a6/73753a3036ee9f/US09763922-20170919-C01503.png)](https://patentimages.storage.googleapis.com/ab/31/a6/73753a3036ee9f/US09763922-20170919-C01503.png)
+
+ 
+
+[![Figure US09763922-20170919-C01504](https://patentimages.storage.googleapis.com/4b/0f/f4/98c44665780c14/US09763922-20170919-C01504.png)](https://patentimages.storage.googleapis.com/4b/0f/f4/98c44665780c14/US09763922-20170919-C01504.png)
+
+ 
+
+[![Figure US09763922-20170919-C01505](https://patentimages.storage.googleapis.com/68/52/cf/16607d5cb7fce7/US09763922-20170919-C01505.png)](https://patentimages.storage.googleapis.com/68/52/cf/16607d5cb7fce7/US09763922-20170919-C01505.png)
+
+ 
+
+[![Figure US09763922-20170919-C01506](https://patentimages.storage.googleapis.com/33/6b/4d/4d1814b50c096c/US09763922-20170919-C01506.png)](https://patentimages.storage.googleapis.com/33/6b/4d/4d1814b50c096c/US09763922-20170919-C01506.png)
+
+ 
+
+[![Figure US09763922-20170919-C01507](https://patentimages.storage.googleapis.com/ad/fc/1c/0b21484f07cbdb/US09763922-20170919-C01507.png)](https://patentimages.storage.googleapis.com/ad/fc/1c/0b21484f07cbdb/US09763922-20170919-C01507.png)
+
+ 
+
+[![Figure US09763922-20170919-C01508](https://patentimages.storage.googleapis.com/1e/63/72/815bd119974eb3/US09763922-20170919-C01508.png)](https://patentimages.storage.googleapis.com/1e/63/72/815bd119974eb3/US09763922-20170919-C01508.png)
+
+ 
+
+[![Figure US09763922-20170919-C01509](https://patentimages.storage.googleapis.com/2b/86/f3/eace6e1f340b2d/US09763922-20170919-C01509.png)](https://patentimages.storage.googleapis.com/2b/86/f3/eace6e1f340b2d/US09763922-20170919-C01509.png)
+
+ 
+
+[![Figure US09763922-20170919-C01510](https://patentimages.storage.googleapis.com/63/a1/53/d99cf1c8623f5a/US09763922-20170919-C01510.png)](https://patentimages.storage.googleapis.com/63/a1/53/d99cf1c8623f5a/US09763922-20170919-C01510.png)
+
+ 
+
+[![Figure US09763922-20170919-C01511](https://patentimages.storage.googleapis.com/33/09/a9/b9502795dbf129/US09763922-20170919-C01511.png)](https://patentimages.storage.googleapis.com/33/09/a9/b9502795dbf129/US09763922-20170919-C01511.png)
+
+ 
+
+[![Figure US09763922-20170919-C01512](https://patentimages.storage.googleapis.com/d6/d4/b2/79fe5b3cb28862/US09763922-20170919-C01512.png)](https://patentimages.storage.googleapis.com/d6/d4/b2/79fe5b3cb28862/US09763922-20170919-C01512.png)
+
+ 
+
+[![Figure US09763922-20170919-C01513](https://patentimages.storage.googleapis.com/eb/74/ce/9ee1e2decf7dee/US09763922-20170919-C01513.png)](https://patentimages.storage.googleapis.com/eb/74/ce/9ee1e2decf7dee/US09763922-20170919-C01513.png)
+
+ 
+
+[![Figure US09763922-20170919-C01514](https://patentimages.storage.googleapis.com/cb/99/92/e7401ad81810e8/US09763922-20170919-C01514.png)](https://patentimages.storage.googleapis.com/cb/99/92/e7401ad81810e8/US09763922-20170919-C01514.png)
+
+ 
+
+[![Figure US09763922-20170919-C01515](https://patentimages.storage.googleapis.com/36/e7/39/bffa844acdd3a9/US09763922-20170919-C01515.png)](https://patentimages.storage.googleapis.com/36/e7/39/bffa844acdd3a9/US09763922-20170919-C01515.png)
+
+ 
+
+[![Figure US09763922-20170919-C01516](https://patentimages.storage.googleapis.com/d1/fb/e4/5bfee8399c8835/US09763922-20170919-C01516.png)](https://patentimages.storage.googleapis.com/d1/fb/e4/5bfee8399c8835/US09763922-20170919-C01516.png)
+
+ 
+
+[![Figure US09763922-20170919-C01517](https://patentimages.storage.googleapis.com/f3/40/60/e4b916c841681c/US09763922-20170919-C01517.png)](https://patentimages.storage.googleapis.com/f3/40/60/e4b916c841681c/US09763922-20170919-C01517.png)
+
+ 
+
+[![Figure US09763922-20170919-C01518](https://patentimages.storage.googleapis.com/c8/1e/ba/d702431775dd5c/US09763922-20170919-C01518.png)](https://patentimages.storage.googleapis.com/c8/1e/ba/d702431775dd5c/US09763922-20170919-C01518.png)
+
+ 
+
+[![Figure US09763922-20170919-C01519](https://patentimages.storage.googleapis.com/3e/fd/d4/cd1935a838aad0/US09763922-20170919-C01519.png)](https://patentimages.storage.googleapis.com/3e/fd/d4/cd1935a838aad0/US09763922-20170919-C01519.png)
+
+ 
+
+[![Figure US09763922-20170919-C01520](https://patentimages.storage.googleapis.com/45/fe/0d/2dad62d2f9f137/US09763922-20170919-C01520.png)](https://patentimages.storage.googleapis.com/45/fe/0d/2dad62d2f9f137/US09763922-20170919-C01520.png)
+
+ 
+
+[![Figure US09763922-20170919-C01521](https://patentimages.storage.googleapis.com/d3/c2/f8/2fe1147cc8ef41/US09763922-20170919-C01521.png)](https://patentimages.storage.googleapis.com/d3/c2/f8/2fe1147cc8ef41/US09763922-20170919-C01521.png)
+
+ 
+
+[![Figure US09763922-20170919-C01522](https://patentimages.storage.googleapis.com/5d/e6/d1/22930550417cb4/US09763922-20170919-C01522.png)](https://patentimages.storage.googleapis.com/5d/e6/d1/22930550417cb4/US09763922-20170919-C01522.png)
+
+ 
+
+[![Figure US09763922-20170919-C01523](https://patentimages.storage.googleapis.com/ce/27/cd/6cc9ff8a8df121/US09763922-20170919-C01523.png)](https://patentimages.storage.googleapis.com/ce/27/cd/6cc9ff8a8df121/US09763922-20170919-C01523.png)
+
+ 
+
+[![Figure US09763922-20170919-C01524](https://patentimages.storage.googleapis.com/ed/bd/a9/3c3e1125d14719/US09763922-20170919-C01524.png)](https://patentimages.storage.googleapis.com/ed/bd/a9/3c3e1125d14719/US09763922-20170919-C01524.png)
+
+ 
+
+[![Figure US09763922-20170919-C01525](https://patentimages.storage.googleapis.com/3e/9b/93/a2de8228609147/US09763922-20170919-C01525.png)](https://patentimages.storage.googleapis.com/3e/9b/93/a2de8228609147/US09763922-20170919-C01525.png)
+
+ 
+
+[![Figure US09763922-20170919-C01526](https://patentimages.storage.googleapis.com/ea/5e/1d/37b8d8949c8a19/US09763922-20170919-C01526.png)](https://patentimages.storage.googleapis.com/ea/5e/1d/37b8d8949c8a19/US09763922-20170919-C01526.png)
+
+ 
+
+[![Figure US09763922-20170919-C01527](https://patentimages.storage.googleapis.com/e6/a3/dd/2c6928a316a07a/US09763922-20170919-C01527.png)](https://patentimages.storage.googleapis.com/e6/a3/dd/2c6928a316a07a/US09763922-20170919-C01527.png)
+
+ 
+
+[![Figure US09763922-20170919-C01528](https://patentimages.storage.googleapis.com/d8/e2/dd/fd3c3a741dcbf9/US09763922-20170919-C01528.png)](https://patentimages.storage.googleapis.com/d8/e2/dd/fd3c3a741dcbf9/US09763922-20170919-C01528.png)
+
+ 
+
+[![Figure US09763922-20170919-C01529](https://patentimages.storage.googleapis.com/c9/f2/e3/b26df9c6321a4a/US09763922-20170919-C01529.png)](https://patentimages.storage.googleapis.com/c9/f2/e3/b26df9c6321a4a/US09763922-20170919-C01529.png)
+
+ 
+
+[![Figure US09763922-20170919-C01530](https://patentimages.storage.googleapis.com/ca/61/54/b35d36849e0487/US09763922-20170919-C01530.png)](https://patentimages.storage.googleapis.com/ca/61/54/b35d36849e0487/US09763922-20170919-C01530.png)
+
+ 
+
+[![Figure US09763922-20170919-C01531](https://patentimages.storage.googleapis.com/69/62/e5/8d39894de35d42/US09763922-20170919-C01531.png)](https://patentimages.storage.googleapis.com/69/62/e5/8d39894de35d42/US09763922-20170919-C01531.png)
+
+ 
+
+[![Figure US09763922-20170919-C01532](https://patentimages.storage.googleapis.com/e7/34/4a/488dc0ead963a2/US09763922-20170919-C01532.png)](https://patentimages.storage.googleapis.com/e7/34/4a/488dc0ead963a2/US09763922-20170919-C01532.png)
+
+ 
+
+[![Figure US09763922-20170919-C01533](https://patentimages.storage.googleapis.com/d6/86/01/e3d6848d638ed9/US09763922-20170919-C01533.png)](https://patentimages.storage.googleapis.com/d6/86/01/e3d6848d638ed9/US09763922-20170919-C01533.png)
+
+ 
+
+[![Figure US09763922-20170919-C01534](https://patentimages.storage.googleapis.com/3b/33/af/887f137c0c4cd8/US09763922-20170919-C01534.png)](https://patentimages.storage.googleapis.com/3b/33/af/887f137c0c4cd8/US09763922-20170919-C01534.png)
+
+ 
+
+and salts thereof.
+
+16. A composition comprising a compound of formula (I) or formula (II) as described in claim 1 or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable adjuvant, carrier, or vehicle.
+
+17. A method for treating a CBP and/or EP300-mediated disorder in an animal comprising administering a compound of formula (I) or formula (II), or a pharmaceutically acceptable salt thereof as described in claim 1, to the animal, wherein the treating does not include preventing the disorder.
+
+18. A method of increasing efficacy of a cancer treatment comprising a cytotoxic agent in an animal comprising administering to the animal an effective amount of a compound of formula (I) or formula (II) or a pharmaceutically acceptable salt thereof as described in claim 1.
+
+19. A method of extending the duration of response to a cancer therapy in an animal, comprising administering to an animal undergoing the cancer therapy a compound of formula (I) or formula (II) or a pharmaceutically acceptable salt thereof, as described in claim 1, wherein the duration of response to the cancer therapy when the compound of formula (I) or formula (II) or the pharmaceutically acceptable salt thereof is administered is extended over the duration of response to the cancer therapy in the absence of the administration of the compound of formula (I) or formula (II) or the pharmaceutically acceptable salt thereof.
+
+20. A method of treating cancer in an individual comprising administering to the individual (a) a compound of formula (I) or formula (II) or a pharmaceutically acceptable salt thereof as described in claim 1, and (b) a cytotoxic agent, wherein the treating does not include preventing the cancer.

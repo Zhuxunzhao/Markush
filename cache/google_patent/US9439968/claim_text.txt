@@ -1,0 +1,124 @@
+Claims (29)
+-----------
+
+What is claimed is:
+
+1. A compound of Formula (III):
+
+[![Figure US09439968-20160913-C00144](https://patentimages.storage.googleapis.com/b3/60/4d/7274f106527a89/US09439968-20160913-C00144.png)](https://patentimages.storage.googleapis.com/b3/60/4d/7274f106527a89/US09439968-20160913-C00144.png)
+
+ 
+
+or a salt thereof, wherein:
+
+each L is, independently, branched or unbranched C1-6 alkylene, wherein L is optionally substituted with one or more fluorine radicals;
+
+each R is, independently, hydrogen or —CH2CH2C(═O)ORB;
+
+each RB is, independently, C10-14 alkyl, wherein RB is optionally substituted with one or more fluorine radicals;
+
+each R1 is, independently, fluoro or C1-6 alkyl optionally substituted with one or more fluorine radicals;
+
+j is 0, 1, 2, 3, or 4; and
+
+p is 1 or 2;
+
+provided that at least three R groups are —CH2CH2C(═O)ORB.
+
+2. The compound of claim 1, wherein L is unbranched C1-6 alkylene.
+
+3. The compound of claim 1, wherein L is methylene, ethylene, or propylene.
+
+4. The compound of claim 1, wherein the compound is of the Formula (III-a):
+
+[![Figure US09439968-20160913-C00145](https://patentimages.storage.googleapis.com/9c/6d/ef/0cd0d6dd32aefa/US09439968-20160913-C00145.png)](https://patentimages.storage.googleapis.com/9c/6d/ef/0cd0d6dd32aefa/US09439968-20160913-C00145.png)
+
+ 
+
+or a salt thereof, wherein each w is, independently, 1, 2, or 3.
+
+5. The compound of claim 1, wherein p is 1.
+
+6. The compound of claim 1, wherein p is 2.
+
+7. The compound of claim 4, wherein the compound is of the formula:
+
+[![Figure US09439968-20160913-C00146](https://patentimages.storage.googleapis.com/3d/91/39/72faf5c9e52371/US09439968-20160913-C00146.png)](https://patentimages.storage.googleapis.com/3d/91/39/72faf5c9e52371/US09439968-20160913-C00146.png)
+
+ 
+
+or a salt thereof.
+
+8. The compound of claim 4, wherein w is 1.
+
+9. The compound of claim 4, wherein w is 2.
+
+10. The compound of claim 4, wherein w is 3.
+
+11. The compound of claim 1, wherein the compound is of the formula:
+
+[![Figure US09439968-20160913-C00147](https://patentimages.storage.googleapis.com/be/30/04/0a9b5fb56f2a26/US09439968-20160913-C00147.png)](https://patentimages.storage.googleapis.com/be/30/04/0a9b5fb56f2a26/US09439968-20160913-C00147.png)
+
+ 
+
+or a salt thereof.
+
+12. The compound of claim 1, wherein all R groups are —CH2CH2C(═O)ORB.
+
+13. The compound of claim 1, wherein all RB groups are the same.
+
+14. The compound of claim 1, wherein RB is C10 alkyl, C11 alkyl, C12 alkyl, C13 alkyl, or C14 alkyl.
+
+15. The compound of claim 1, wherein the compound is selected from the group consisting of:
+
+[![Figure US09439968-20160913-C00148](https://patentimages.storage.googleapis.com/1e/ed/c9/a1946948c30744/US09439968-20160913-C00148.png)](https://patentimages.storage.googleapis.com/1e/ed/c9/a1946948c30744/US09439968-20160913-C00148.png)
+
+ 
+
+[![Figure US09439968-20160913-C00149](https://patentimages.storage.googleapis.com/0b/0a/e7/03cf0bae95b307/US09439968-20160913-C00149.png)](https://patentimages.storage.googleapis.com/0b/0a/e7/03cf0bae95b307/US09439968-20160913-C00149.png)
+
+ 
+
+[![Figure US09439968-20160913-C00150](https://patentimages.storage.googleapis.com/af/88/f5/d9dfe74e662ec4/US09439968-20160913-C00150.png)](https://patentimages.storage.googleapis.com/af/88/f5/d9dfe74e662ec4/US09439968-20160913-C00150.png)
+
+ 
+
+[![Figure US09439968-20160913-C00151](https://patentimages.storage.googleapis.com/a1/70/80/0d171065d0fabd/US09439968-20160913-C00151.png)](https://patentimages.storage.googleapis.com/a1/70/80/0d171065d0fabd/US09439968-20160913-C00151.png)
+
+ 
+
+[![Figure US09439968-20160913-C00152](https://patentimages.storage.googleapis.com/0a/68/47/7a3d835a154952/US09439968-20160913-C00152.png)](https://patentimages.storage.googleapis.com/0a/68/47/7a3d835a154952/US09439968-20160913-C00152.png)
+
+ 
+
+and salts thereof.
+
+16. A nanoparticle comprising a compound of claim 1 and one or more agents to be delivered.
+
+17. The nanoparticle of claim 16, wherein at least one of the one or more agents is a polynucleotide, drug, protein, peptide, small molecule, or gas.
+
+18. A composition comprising one or more compounds of claim 1, and an excipient.
+
+19. The composition of claim 18, wherein the composition further comprises an agent.
+
+20. A method of administering an agent, the method comprising:
+
+administering to a subject in need thereof a therapeutically effective amount of a composition comprising a compound of claim 1 and an agent to be delivered.
+
+21. The nanoparticle of claim 16, wherein at least one of the one or more agents is DNA or RNA.
+
+22. The composition of claim 19, wherein the agent is a small molecule or drug.
+
+23. The composition of claim 19, wherein the agent is a protein or peptide.
+
+24. The composition of claim 19, wherein the agent is a polynucleotide.
+
+25. The composition of claim 19, wherein the agent is DNA.
+
+26. The composition of claim 19, wherein the agent is RNA.
+
+27. The composition of claim 19, wherein the agent is siRNA, shRNA, mRNA, dsRNA, miRNA, or antisense RNA.
+
+28. The method of claim 20, wherein the agent is a small molecule, drug, protein, peptide, or polynucleotide.
+
+29. The method of claim 20, wherein the agent is DNA or RNA.

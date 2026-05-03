@@ -1,0 +1,486 @@
+Claims (45)
+-----------
+
+What is claimed is:
+
+1. A compound having a structure represented by the formula:
+
+[![Figure US10526323-20200107-C00450](https://patentimages.storage.googleapis.com/6f/1b/4e/c088a2bc63ed93/US10526323-20200107-C00450.png)](https://patentimages.storage.googleapis.com/6f/1b/4e/c088a2bc63ed93/US10526323-20200107-C00450.png)
+
+ 
+
+wherein the variables are substituted when permissible or unsubstituted and:
+
+X and Y together form:
+
+[![Figure US10526323-20200107-C00451](https://patentimages.storage.googleapis.com/57/28/f4/8aa0d7fcd41906/US10526323-20200107-C00451.png)](https://patentimages.storage.googleapis.com/57/28/f4/8aa0d7fcd41906/US10526323-20200107-C00451.png)
+
+ 
+
+Z is N, CH, CD, or C-halogen, C-Me, C—O-Me, C—CN;
+
+R is independently chosen from H, Cl, F, CN, alkyl, cycloalkyl, Me, OMe, alkoxy;
+
+X1 is N, C, CH, CD, CR1;
+
+X2 is N, NR1, or NR2;
+
+X3 is N, C, CH, CD, CR1;
+
+provided that one of X1 or X3 is C or CR1;
+
+R1 is independently H, alkyl, cycloalkyl, phenyl, halogen, CF3, Cl, CD3, CD2R, CDRR2, aryl, heteroaryl, SO2R3, O—R, O-aryl, O-heteroaryl, NHR, NR2R2, perfluorinated alkyl, heteroalkyl, benzyl, heteroaryl benzyl (CH2heteroaryl), alkenyl, alkyl-cycloalkyl, O-alkyl-cycloalkyl, CH2-cycloalkyl, CH2—CF3, hydroxyalkyl, alkyl-alkoxy, alkyl-heterocycloalkyl, alkyl-heteroaryl, alkyl-carboxylic acid, CO—CF3, alkyl-CO—O-alkyl, CO-alkyl-sulfonyl-alkyl, CO-heterocycloalkyl, CO—NH-cycloalkyl, CN, alkoxy-cycloalkyl, alkoxy-heterocycloalkyl, O-alkoxy, O-phenyl, O-alkoxyphenyl, O-dioxothianyl, hydroxyl, alkoxy, O-alkyl-heteroaryl, O-alkyl-heterocycloalkyl, alkoxy-heteroalkyl, methyl sulfonyl, O-heterocycloalkyl, O-alkoxy-heterocycloalkyl, O-alkoxyaryl, alkoxy-heteroaryl, alkyl-phenyl, heterocycloalkyl, O—CD3, O—CD2R, hydroxyl, amino, CO-alkyl, CO-cycloalkyl, CO-alkyl-cycloalkyl, CO-amino-alkyl-sulfonylmethyl, CO-amino-cycloalkyl;
+
+R2 is independently H, heteroaryl, alkyl, phenyl, aryl, O-heterocycloalkyl, alkoxy-heterocycloalkyl, O-alkoxy-heterocycloalkyl, O-alkoxyaryl, O-heteroaryl, alkoxy-heteroaryl, alkoxy, alkoxy-heterocycloalkyl, alkyl-phenyl, heterocycloalkyl, O—CD3, O—CD2R, hydroxyl, amino, cycloalkyl, CH2-cycloalkyl, CO-alkyl; heterocycloalkyl, H, CF3, halogen, CD3, CD2R, CDRR2, SO2R3, OR, O-aryl, NHR, NR1R1, perfluorinated alkyl, heteroalkyl, benzyl, heteroaryl benzyl (CH2heteroaryl), alkenyl, alkyl-cycloalkyl, CH2-cycloalkyl, CH2—CF3, hydroxyalkyl, alkyl-alkoxy, alkyl-heterocycloalkyl, alkyl-heteroaryl, O-alkyl-heteroaryl, alkyl-carboxylic acid, CO—CF3, alkyl-CO—O-alkyl, CO-alkyl-sulfonyl-alkyl, CO-heterocycloalkyl, CO—NH-cycloalkyl, CN, alkoxy-cycloalkyl, O-dioxothianyl, methyl sulfonyl;
+
+R3 is H, alkyl, alkoxyphenyl, pyridinyl, nitrilepyridinyl, chloropyridinyl;
+
+or a pharmaceutically acceptable salt thereof.
+
+2. The compound of claim 1, wherein R, when present, is F.
+
+3. The compound of claim 1, wherein Z is N, CH, CD, or C—Cl.
+
+4. The compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00452](https://patentimages.storage.googleapis.com/c0/3b/e0/5467a530f42f73/US10526323-20200107-C00452.png)](https://patentimages.storage.googleapis.com/c0/3b/e0/5467a530f42f73/US10526323-20200107-C00452.png)
+
+5. The compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00453](https://patentimages.storage.googleapis.com/ec/4e/9f/551a22f7cdc1b6/US10526323-20200107-C00453.png)](https://patentimages.storage.googleapis.com/ec/4e/9f/551a22f7cdc1b6/US10526323-20200107-C00453.png)
+
+6. The compound of claim 5, wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+7. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00454](https://patentimages.storage.googleapis.com/da/ae/ed/9262619daff65d/US10526323-20200107-C00454.png)](https://patentimages.storage.googleapis.com/da/ae/ed/9262619daff65d/US10526323-20200107-C00454.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, heterocycloalkyl, alkyl-cycloalkyl, trifluoroalkyl, hydroxyalkyl, alkyl-alkoxy; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+8. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00455](https://patentimages.storage.googleapis.com/de/36/10/b24bd2f3e0fb68/US10526323-20200107-C00455.png)](https://patentimages.storage.googleapis.com/de/36/10/b24bd2f3e0fb68/US10526323-20200107-C00455.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, heterocycloalkyl, heteroaryl, CO—CF3, CD2-alkyl, alkyl-heteroaryl, alkyl-cycloalkyl, and R2 is H, alkyl, cycloalkyl, heterocycloalkyl, alkyl-phenyl.
+
+9. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00456](https://patentimages.storage.googleapis.com/c2/54/42/24b88c9ae93a9f/US10526323-20200107-C00456.png)](https://patentimages.storage.googleapis.com/c2/54/42/24b88c9ae93a9f/US10526323-20200107-C00456.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, heterocycloalkyl, heteroaryl; and R2 is H, alkyl, cycloalkyl, heterocycloalkyl.
+
+10. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00457](https://patentimages.storage.googleapis.com/2a/80/0c/dd092cce62cf47/US10526323-20200107-C00457.png)](https://patentimages.storage.googleapis.com/2a/80/0c/dd092cce62cf47/US10526323-20200107-C00457.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, heteroaryl; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+11. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00458](https://patentimages.storage.googleapis.com/8d/b4/e6/5cdf2b7749d736/US10526323-20200107-C00458.png)](https://patentimages.storage.googleapis.com/8d/b4/e6/5cdf2b7749d736/US10526323-20200107-C00458.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, heteroaryl; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+12. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00459](https://patentimages.storage.googleapis.com/3d/ec/70/554518cda57070/US10526323-20200107-C00459.png)](https://patentimages.storage.googleapis.com/3d/ec/70/554518cda57070/US10526323-20200107-C00459.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl; and R2 is H, alkyl, alkyl-cycloalkyl, alkyl-heteroaryl, CD3.
+
+13. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00460](https://patentimages.storage.googleapis.com/cd/e9/6a/20d020aa18e89b/US10526323-20200107-C00460.png)](https://patentimages.storage.googleapis.com/cd/e9/6a/20d020aa18e89b/US10526323-20200107-C00460.png)
+
+ 
+
+wherein R is H, Cl, F, CN, alkyl, cycloalkyl, Me, OMe, alkoxy; R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, heteroaryl; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+14. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00461](https://patentimages.storage.googleapis.com/73/ca/2a/9559acf5984f4f/US10526323-20200107-C00461.png)](https://patentimages.storage.googleapis.com/73/ca/2a/9559acf5984f4f/US10526323-20200107-C00461.png)
+
+ 
+
+wherein Z is N, C—H, C-Me, C—O-Me; R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, CN, methyl sulfonyl, O-alkoxy, O-heterocycloalkyl, heterocycloalkyl, alkoxy-heterocycloalkyl, halogen, and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkyl-heteroaryl, alkyl-acetic acid, heterocycloalkyl, CD3.
+
+15. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00462](https://patentimages.storage.googleapis.com/94/6c/e2/012eb935aeb95e/US10526323-20200107-C00462.png)](https://patentimages.storage.googleapis.com/94/6c/e2/012eb935aeb95e/US10526323-20200107-C00462.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkenyl.
+
+16. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00463](https://patentimages.storage.googleapis.com/55/62/20/d3883d7f6ad0c1/US10526323-20200107-C00463.png)](https://patentimages.storage.googleapis.com/55/62/20/d3883d7f6ad0c1/US10526323-20200107-C00463.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkoxy, alkyl-cycloalkyl, R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, heterocycloalkyl.
+
+17. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00464](https://patentimages.storage.googleapis.com/57/78/68/195d109ff74d5d/US10526323-20200107-C00464.png)](https://patentimages.storage.googleapis.com/57/78/68/195d109ff74d5d/US10526323-20200107-C00464.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+18. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00465](https://patentimages.storage.googleapis.com/7e/ea/8d/a05b627f11a0ab/US10526323-20200107-C00465.png)](https://patentimages.storage.googleapis.com/7e/ea/8d/a05b627f11a0ab/US10526323-20200107-C00465.png)
+
+ 
+
+wherein Z is N, CH, CD, C-halogen, C—O-Me; R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, methylsulfonyl; and R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkyl-heteroaryl, CD3.
+
+19. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00466](https://patentimages.storage.googleapis.com/17/53/a2/59f2f540026905/US10526323-20200107-C00466.png)](https://patentimages.storage.googleapis.com/17/53/a2/59f2f540026905/US10526323-20200107-C00466.png)
+
+ 
+
+wherein R1 is O—R, O-aryl, O-heteroaryl, O-alkyl-cycloalkyl, CO—CF3, alkyl-CO—O-alkyl, CO-alkyl-sulfonyl-alkyl, CO-heterocycloalkyl, CO—NH-cycloalkyl, O-alkoxy, O-phenyl, O-alkoxyphenyl, O-dioxothianyl, O-alkyl-heteroaryl, O-alkyl-heterocycloalkyl, O-heterocycloalkyl, O-alkoxy-heterocycloalkyl, O-alkoxyaryl, O—CD3, O—CD2R, CO-alkyl, CO-cycloalkyl, CO-alkyl-cycloalkyl, CO-amino-alkyl-sulfonylmethyl, CO-amino-cycloalkyl.
+
+20. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00467](https://patentimages.storage.googleapis.com/0e/18/98/b5d4869eb91525/US10526323-20200107-C00467.png)](https://patentimages.storage.googleapis.com/0e/18/98/b5d4869eb91525/US10526323-20200107-C00467.png)
+
+ 
+
+wherein R may be optionally present and when present is F; R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkoxy, hydroxyl, cycloalkyl, methysulfonyl; R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkyl-heteroaryl.
+
+21. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00468](https://patentimages.storage.googleapis.com/68/35/d6/a33ca6bcf06f21/US10526323-20200107-C00468.png)](https://patentimages.storage.googleapis.com/68/35/d6/a33ca6bcf06f21/US10526323-20200107-C00468.png)
+
+ 
+
+wherein R may be optionally present and when present is O—Me; R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+22. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00469](https://patentimages.storage.googleapis.com/b9/c9/81/f0eba240e2d256/US10526323-20200107-C00469.png)](https://patentimages.storage.googleapis.com/b9/c9/81/f0eba240e2d256/US10526323-20200107-C00469.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkyl-heteroaryl; or
+
+a compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00470](https://patentimages.storage.googleapis.com/04/e2/df/dd9c86ec477692/US10526323-20200107-C00470.png)](https://patentimages.storage.googleapis.com/04/e2/df/dd9c86ec477692/US10526323-20200107-C00470.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; R2 is alkyl, alkyl-cycloalkyl, alkylheteroaryl.
+
+23. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00471](https://patentimages.storage.googleapis.com/06/41/ba/63e02f4440d121/US10526323-20200107-C00471.png)](https://patentimages.storage.googleapis.com/06/41/ba/63e02f4440d121/US10526323-20200107-C00471.png)
+
+ 
+
+wherein R is F; R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, CD3.
+
+24. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00472](https://patentimages.storage.googleapis.com/76/84/7f/8ed9eb2658ab66/US10526323-20200107-C00472.png)](https://patentimages.storage.googleapis.com/76/84/7f/8ed9eb2658ab66/US10526323-20200107-C00472.png)
+
+ 
+
+wherein R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+25. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00473](https://patentimages.storage.googleapis.com/95/82/e2/a75689aea84cf4/US10526323-20200107-C00473.png)](https://patentimages.storage.googleapis.com/95/82/e2/a75689aea84cf4/US10526323-20200107-C00473.png)
+
+ 
+
+wherein Y is N or CH; Z is CH, CD, C—Cl, N; R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, alkenyl, CD3, alkyl, alkyl-heteroaryl; and R3 is H, alkyl, cycloalkyl, alkyl-cycloalkyl.
+
+26. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00474](https://patentimages.storage.googleapis.com/a4/52/ea/9d9aafb5abfd3f/US10526323-20200107-C00474.png)](https://patentimages.storage.googleapis.com/a4/52/ea/9d9aafb5abfd3f/US10526323-20200107-C00474.png)
+
+ 
+
+wherein Y is N or CH; Z is CH, C—Cl, or N.
+
+27. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00475](https://patentimages.storage.googleapis.com/42/27/80/d37a4cb6accb74/US10526323-20200107-C00475.png)](https://patentimages.storage.googleapis.com/42/27/80/d37a4cb6accb74/US10526323-20200107-C00475.png)
+
+ 
+
+Z is CH, CD, C—Cl, N; R is optionally and independently present, and when present is H, alkyl, F; R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; and R3 is H, alkyl, cycloalkyl, alkyl-cycloalkyl, CD3.
+
+28. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00476](https://patentimages.storage.googleapis.com/42/6d/72/543b60c158953b/US10526323-20200107-C00476.png)](https://patentimages.storage.googleapis.com/42/6d/72/543b60c158953b/US10526323-20200107-C00476.png)
+
+ 
+
+R1 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; R2 is H, alkyl, cycloalkyl, alkyl-cycloalkyl; and R3 is alkoxy phenyl, pyridinyl, nitrilepyridinyl, chloropyridinyl.
+
+29. A compound of claim 1, where X1 is N and R1 is alkyl, alkenyl, CH2-cycloalkyl, cycloalkyl, CH2—CF3, hydroxyalkyl, heterocycloalkyl, alkyl-alkoxy, heteroaryl, alkyl-heterocycloalkyl, alkyl-heteroaryl, alkyl-carboxylic acid, CD3, CO—CF3, alkyl-CO—O-alkyl.
+
+30. A compound of claim 1, where X1 is CH and R1 is CO-alkyl-sulfonyl-alkyl, CO-heterocycloalkyl, CO—NH-cycloalkyl, CN, alkoxy-cycloalkyl, alkoxy-heterocycloalkyl, O-alkoxy, O-dioxothianyl, hydroxyl, alkoxy, cycloalkyl, O-heteroalkyl, alkoxy-heteroalkyl, methyl sulfonyl.
+
+31. A compound of claim 7, where R1 is cyclopentylmethyl, cyclobutylmethyl, cyclobutyl, cyclopropyl, cyclohexyl, tetrahydropyranyl, methoxyethyl.
+
+32. A compound of claim 8, wherein R1 is heteroaryl and heteroaryl is pyridinyl.
+
+33. A compound of claim 10, wherein R1 is heteroaryl and heteroaryl is pyridinepyrazolyl.
+
+34. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00477](https://patentimages.storage.googleapis.com/e0/de/2a/d8f51d5b004bb4/US10526323-20200107-C00477.png)](https://patentimages.storage.googleapis.com/e0/de/2a/d8f51d5b004bb4/US10526323-20200107-C00477.png)
+
+35. A compound of formula 1, of the following formula:
+
+[![Figure US10526323-20200107-C00478](https://patentimages.storage.googleapis.com/9f/a4/a5/d7f5920ded77e9/US10526323-20200107-C00478.png)](https://patentimages.storage.googleapis.com/9f/a4/a5/d7f5920ded77e9/US10526323-20200107-C00478.png)
+
+ 
+
+[![Figure US10526323-20200107-C00479](https://patentimages.storage.googleapis.com/d0/44/b9/65edca2f618dae/US10526323-20200107-C00479.png)](https://patentimages.storage.googleapis.com/d0/44/b9/65edca2f618dae/US10526323-20200107-C00479.png)
+
+ 
+
+[![Figure US10526323-20200107-C00480](https://patentimages.storage.googleapis.com/c2/4e/bd/e092782397bce4/US10526323-20200107-C00480.png)](https://patentimages.storage.googleapis.com/c2/4e/bd/e092782397bce4/US10526323-20200107-C00480.png)
+
+ 
+
+[![Figure US10526323-20200107-C00481](https://patentimages.storage.googleapis.com/01/b9/73/535ad209ad35c6/US10526323-20200107-C00481.png)](https://patentimages.storage.googleapis.com/01/b9/73/535ad209ad35c6/US10526323-20200107-C00481.png)
+
+ 
+
+[![Figure US10526323-20200107-C00482](https://patentimages.storage.googleapis.com/d7/c8/ee/71bcfcc8aaa9c8/US10526323-20200107-C00482.png)](https://patentimages.storage.googleapis.com/d7/c8/ee/71bcfcc8aaa9c8/US10526323-20200107-C00482.png)
+
+ 
+
+[![Figure US10526323-20200107-C00483](https://patentimages.storage.googleapis.com/1d/39/5c/53a11bf09a97fa/US10526323-20200107-C00483.png)](https://patentimages.storage.googleapis.com/1d/39/5c/53a11bf09a97fa/US10526323-20200107-C00483.png)
+
+ 
+
+[![Figure US10526323-20200107-C00484](https://patentimages.storage.googleapis.com/bc/4f/5e/d30d997dd047d8/US10526323-20200107-C00484.png)](https://patentimages.storage.googleapis.com/bc/4f/5e/d30d997dd047d8/US10526323-20200107-C00484.png)
+
+ 
+
+[![Figure US10526323-20200107-C00485](https://patentimages.storage.googleapis.com/7b/49/f1/09d9ec99077c84/US10526323-20200107-C00485.png)](https://patentimages.storage.googleapis.com/7b/49/f1/09d9ec99077c84/US10526323-20200107-C00485.png)
+
+ 
+
+[![Figure US10526323-20200107-C00486](https://patentimages.storage.googleapis.com/31/78/4d/ebe23eee32d144/US10526323-20200107-C00486.png)](https://patentimages.storage.googleapis.com/31/78/4d/ebe23eee32d144/US10526323-20200107-C00486.png)
+
+ 
+
+[![Figure US10526323-20200107-C00487](https://patentimages.storage.googleapis.com/46/93/e8/03a0f47b81fbae/US10526323-20200107-C00487.png)](https://patentimages.storage.googleapis.com/46/93/e8/03a0f47b81fbae/US10526323-20200107-C00487.png)
+
+ 
+
+[![Figure US10526323-20200107-C00488](https://patentimages.storage.googleapis.com/49/c5/95/03d923a337fb53/US10526323-20200107-C00488.png)](https://patentimages.storage.googleapis.com/49/c5/95/03d923a337fb53/US10526323-20200107-C00488.png)
+
+ 
+
+[![Figure US10526323-20200107-C00489](https://patentimages.storage.googleapis.com/a6/72/23/64c2e8ffeb6d7e/US10526323-20200107-C00489.png)](https://patentimages.storage.googleapis.com/a6/72/23/64c2e8ffeb6d7e/US10526323-20200107-C00489.png)
+
+ 
+
+[![Figure US10526323-20200107-C00490](https://patentimages.storage.googleapis.com/80/f7/ca/81741f07805d6c/US10526323-20200107-C00490.png)](https://patentimages.storage.googleapis.com/80/f7/ca/81741f07805d6c/US10526323-20200107-C00490.png)
+
+ 
+
+[![Figure US10526323-20200107-C00491](https://patentimages.storage.googleapis.com/b4/1c/f5/66e100f195db34/US10526323-20200107-C00491.png)](https://patentimages.storage.googleapis.com/b4/1c/f5/66e100f195db34/US10526323-20200107-C00491.png)
+
+ 
+
+[![Figure US10526323-20200107-C00492](https://patentimages.storage.googleapis.com/53/59/96/0b5454711653cb/US10526323-20200107-C00492.png)](https://patentimages.storage.googleapis.com/53/59/96/0b5454711653cb/US10526323-20200107-C00492.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+36. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00493](https://patentimages.storage.googleapis.com/13/f1/64/ac4b5e79412387/US10526323-20200107-C00493.png)](https://patentimages.storage.googleapis.com/13/f1/64/ac4b5e79412387/US10526323-20200107-C00493.png)
+
+ 
+
+[![Figure US10526323-20200107-C00494](https://patentimages.storage.googleapis.com/fa/43/49/97b38af94a1ba0/US10526323-20200107-C00494.png)](https://patentimages.storage.googleapis.com/fa/43/49/97b38af94a1ba0/US10526323-20200107-C00494.png)
+
+ 
+
+[![Figure US10526323-20200107-C00495](https://patentimages.storage.googleapis.com/2b/3e/16/9c8b1864f331b0/US10526323-20200107-C00495.png)](https://patentimages.storage.googleapis.com/2b/3e/16/9c8b1864f331b0/US10526323-20200107-C00495.png)
+
+ 
+
+[![Figure US10526323-20200107-C00496](https://patentimages.storage.googleapis.com/d4/78/4d/5067afffb615a0/US10526323-20200107-C00496.png)](https://patentimages.storage.googleapis.com/d4/78/4d/5067afffb615a0/US10526323-20200107-C00496.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+37. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00497](https://patentimages.storage.googleapis.com/79/fd/c0/6760b9700b8b5e/US10526323-20200107-C00497.png)](https://patentimages.storage.googleapis.com/79/fd/c0/6760b9700b8b5e/US10526323-20200107-C00497.png)
+
+ 
+
+[![Figure US10526323-20200107-C00498](https://patentimages.storage.googleapis.com/40/86/63/aeeab70db5cbdb/US10526323-20200107-C00498.png)](https://patentimages.storage.googleapis.com/40/86/63/aeeab70db5cbdb/US10526323-20200107-C00498.png)
+
+ 
+
+[![Figure US10526323-20200107-C00499](https://patentimages.storage.googleapis.com/57/09/32/52aaf575660a40/US10526323-20200107-C00499.png)](https://patentimages.storage.googleapis.com/57/09/32/52aaf575660a40/US10526323-20200107-C00499.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+38. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00500](https://patentimages.storage.googleapis.com/bc/da/47/a1b10d4e7b96e5/US10526323-20200107-C00500.png)](https://patentimages.storage.googleapis.com/bc/da/47/a1b10d4e7b96e5/US10526323-20200107-C00500.png)
+
+ 
+
+[![Figure US10526323-20200107-C00501](https://patentimages.storage.googleapis.com/de/50/11/d9a76fb27a55ed/US10526323-20200107-C00501.png)](https://patentimages.storage.googleapis.com/de/50/11/d9a76fb27a55ed/US10526323-20200107-C00501.png)
+
+ 
+
+[![Figure US10526323-20200107-C00502](https://patentimages.storage.googleapis.com/aa/aa/ae/866bc56de2e617/US10526323-20200107-C00502.png)](https://patentimages.storage.googleapis.com/aa/aa/ae/866bc56de2e617/US10526323-20200107-C00502.png)
+
+ 
+
+[![Figure US10526323-20200107-C00503](https://patentimages.storage.googleapis.com/44/b4/ab/0c5bafb27b1073/US10526323-20200107-C00503.png)](https://patentimages.storage.googleapis.com/44/b4/ab/0c5bafb27b1073/US10526323-20200107-C00503.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+39. A pharmaceutical composition comprising a compound of claim 1, and a pharmaceutically acceptable carrier.
+
+40. A compound of claim 1, wherein heteroaryl in R1 is substituted or unsubstituted and chosen from isoxazolyl, methyl-isoxazolyl, alkyl-isoxazolyl, benzoisoxazolyl, quinnolinyl, pyridinyl, nitrilepyridinyl, or chloropyridinyl.
+
+41. A compound of claim 19, of the following formula:
+
+[![Figure US10526323-20200107-C00504](https://patentimages.storage.googleapis.com/7e/66/8d/868065645dedec/US10526323-20200107-C00504.png)](https://patentimages.storage.googleapis.com/7e/66/8d/868065645dedec/US10526323-20200107-C00504.png)
+
+ 
+
+[![Figure US10526323-20200107-C00505](https://patentimages.storage.googleapis.com/52/b7/c8/b4b7d272818257/US10526323-20200107-C00505.png)](https://patentimages.storage.googleapis.com/52/b7/c8/b4b7d272818257/US10526323-20200107-C00505.png)
+
+ 
+
+[![Figure US10526323-20200107-C00506](https://patentimages.storage.googleapis.com/75/ba/21/2047bfc6768164/US10526323-20200107-C00506.png)](https://patentimages.storage.googleapis.com/75/ba/21/2047bfc6768164/US10526323-20200107-C00506.png)
+
+ 
+
+and pharmaceutically acceptable salts thereof.
+
+42. A compound of claim 22, of the following formula:
+
+[![Figure US10526323-20200107-C00507](https://patentimages.storage.googleapis.com/70/02/2d/8d5073befe8e62/US10526323-20200107-C00507.png)](https://patentimages.storage.googleapis.com/70/02/2d/8d5073befe8e62/US10526323-20200107-C00507.png)
+
+ 
+
+[![Figure US10526323-20200107-C00508](https://patentimages.storage.googleapis.com/a7/e7/53/f38802fb2aa0ad/US10526323-20200107-C00508.png)](https://patentimages.storage.googleapis.com/a7/e7/53/f38802fb2aa0ad/US10526323-20200107-C00508.png)
+
+ 
+
+[![Figure US10526323-20200107-C00509](https://patentimages.storage.googleapis.com/23/86/bd/f47c740f6bafee/US10526323-20200107-C00509.png)](https://patentimages.storage.googleapis.com/23/86/bd/f47c740f6bafee/US10526323-20200107-C00509.png)
+
+ 
+
+[![Figure US10526323-20200107-C00510](https://patentimages.storage.googleapis.com/a8/94/21/5d8056b94182e4/US10526323-20200107-C00510.png)](https://patentimages.storage.googleapis.com/a8/94/21/5d8056b94182e4/US10526323-20200107-C00510.png)
+
+ 
+
+and pharmaceutically acceptable salts thereof.
+
+43. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00511](https://patentimages.storage.googleapis.com/2f/da/65/62b4f6431e501f/US10526323-20200107-C00511.png)](https://patentimages.storage.googleapis.com/2f/da/65/62b4f6431e501f/US10526323-20200107-C00511.png)
+
+ 
+
+[![Figure US10526323-20200107-C00512](https://patentimages.storage.googleapis.com/c5/75/88/2bd6dde062c93f/US10526323-20200107-C00512.png)](https://patentimages.storage.googleapis.com/c5/75/88/2bd6dde062c93f/US10526323-20200107-C00512.png)
+
+ 
+
+[![Figure US10526323-20200107-C00513](https://patentimages.storage.googleapis.com/e9/12/1b/c1bdeb9e482066/US10526323-20200107-C00513.png)](https://patentimages.storage.googleapis.com/e9/12/1b/c1bdeb9e482066/US10526323-20200107-C00513.png)
+
+ 
+
+[![Figure US10526323-20200107-C00514](https://patentimages.storage.googleapis.com/c9/1d/1c/03a9fc62736ccf/US10526323-20200107-C00514.png)](https://patentimages.storage.googleapis.com/c9/1d/1c/03a9fc62736ccf/US10526323-20200107-C00514.png)
+
+ 
+
+[![Figure US10526323-20200107-C00515](https://patentimages.storage.googleapis.com/dc/4f/4b/37239f49675416/US10526323-20200107-C00515.png)](https://patentimages.storage.googleapis.com/dc/4f/4b/37239f49675416/US10526323-20200107-C00515.png)
+
+ 
+
+[![Figure US10526323-20200107-C00516](https://patentimages.storage.googleapis.com/8f/78/d1/a9f7ad5e82f1b5/US10526323-20200107-C00516.png)](https://patentimages.storage.googleapis.com/8f/78/d1/a9f7ad5e82f1b5/US10526323-20200107-C00516.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+44. A compound of claim 1, of the following formula:
+
+[![Figure US10526323-20200107-C00517](https://patentimages.storage.googleapis.com/da/bd/2f/c3329e81ef7028/US10526323-20200107-C00517.png)](https://patentimages.storage.googleapis.com/da/bd/2f/c3329e81ef7028/US10526323-20200107-C00517.png)
+
+ 
+
+[![Figure US10526323-20200107-C00518](https://patentimages.storage.googleapis.com/02/3e/e3/79e16d0c5ce338/US10526323-20200107-C00518.png)](https://patentimages.storage.googleapis.com/02/3e/e3/79e16d0c5ce338/US10526323-20200107-C00518.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.
+
+45. A method for the treatment of a neurotransmission dysfunction associated with mGluR4 activity in a mammal comprising the step of administering to the mammal at least one compound in a dosage and amount effective to treat the dysfunction in the mammal, the compound having a structure represented by the formula:
+
+[![Figure US10526323-20200107-C00519](https://patentimages.storage.googleapis.com/2f/ca/c4/fff37641b8e4f1/US10526323-20200107-C00519.png)](https://patentimages.storage.googleapis.com/2f/ca/c4/fff37641b8e4f1/US10526323-20200107-C00519.png)
+
+ 
+
+wherein the variables are substituted when permissible or unsubstituted and:
+
+X and Y together form:
+
+[![Figure US10526323-20200107-C00520](https://patentimages.storage.googleapis.com/6d/b6/ec/f298e8be8f7d9d/US10526323-20200107-C00520.png)](https://patentimages.storage.googleapis.com/6d/b6/ec/f298e8be8f7d9d/US10526323-20200107-C00520.png)
+
+ 
+
+Z is N, CH, CD, or C-halogen, C-Me, C—O-Me, C—CN;
+
+R is independently chosen from H, Cl, F, CN, alkyl, cycloalkyl, Me, OMe, alkoxy;
+
+X1 is N, C, CH, CD, CR1;
+
+X2 is N, NR1, or NR2;
+
+X3 is N, C, CH, CD, CR1;
+
+provided that one of X1 or X3 is C or CR1;
+
+R1 is independently H, alkyl, cycloalkyl, phenyl, halogen, CF3, Cl, CD3, CD2R, CDRR2, aryl, heteroaryl, SO2R3, O—R, O-aryl, O-heteroaryl, NHR, NR2R2, perfluorinated alkyl, heteroalkyl, benzyl, heteroaryl benzyl (CH2heteroaryl), alkenyl, alkyl-cycloalkyl, O-alkyl-cycloalkyl, CH2-cycloalkyl, CH2—CF3, hydroxyalkyl, alkyl-alkoxy, alkyl-heterocycloalkyl, alkyl-heteroaryl, alkyl-carboxylic acid, CO—CF3, alkyl-CO—O-alkyl, CO-alkyl-sulfonyl-alkyl, CO-heterocycloalkyl, CO—NH-cycloalkyl, CN, alkoxy-cycloalkyl, alkoxy-heterocycloalkyl, O-alkoxy, O-phenyl, O-alkoxyphenyl, O-dioxothianyl, hydroxyl, alkoxy, O-alkyl-heteroaryl, O-alkyl-heterocycloalkyl, alkoxy-heteroalkyl, methyl sulfonyl, O-heterocycloalkyl, O-alkoxy-heterocycloalkyl, O-alkoxyaryl, alkoxy-heteroaryl, alkyl-phenyl, heterocycloalkyl, O—CD3, O—CD2R, hydroxyl, amino, CO-alkyl, CO-cycloalkyl, CO-alkyl-cycloalkyl, CO-amino-alkyl-sulfonylmethyl, CO-amino-cycloalkyl;
+
+R2 is independently H, heteroaryl, alkyl, phenyl, aryl, O-heterocycloalkyl, alkoxy-heterocycloalkyl, O-alkoxy-heterocycloalkyl, O-alkoxyaryl, O-heteroaryl, alkoxy-heteroaryl, alkoxy, alkoxy-heterocycloalkyl, alkyl-phenyl, heterocycloalkyl, O—CD3, O—CD2R, hydroxyl, amino, cycloalkyl, CH2-cycloalkyl, CO-alkyl; heterocycloalkyl, H, CF3, halogen, CD3, CD2R, CDRR2, SO2R3, OR, O-aryl, NHR, NR1R1, perfluorinated alkyl, heteroalkyl, benzyl, heteroaryl benzyl (CH2heteroaryl), alkenyl, alkyl-cycloalkyl, CH2-cycloalkyl, CH2—CF3, hydroxyalkyl, alkyl-alkoxy, alkyl-heterocycloalkyl, alkyl-heteroaryl, O-alkyl-heteroaryl, alkyl-carboxylic acid, CO—CF3, alkyl-CO—O-alkyl, CO-alkyl-sulfonyl-alkyl, CO-heterocycloalkyl, CO—NH-cycloalkyl, CN, alkoxy-cycloalkyl, O-dioxothianyl, methyl sulfonyl;
+
+R3 is H, alkyl, alkoxyphenyl, pyridinyl, nitrilepyridinyl, chloropyridinyl;
+
+or a pharmaceutically acceptable salt thereof;
+
+wherein the dysfunction is Parkinson's disease.

@@ -1,0 +1,242 @@
+Claims
+------
+
+CLAIMSWhat is claimed is:
+
+1. A compound of structural Formula I:
+
+[![Figure imgf000368_0001](https://patentimages.storage.googleapis.com/d7/5d/7c/3b626840a187dc/imgf000368_0001.png)](https://patentimages.storage.googleapis.com/d7/5d/7c/3b626840a187dc/imgf000368_0001.png)
+
+or a salt thereof, wherein:
+
+Xi is selected from the group consisting of N, O, S, CH2 and CR3;
+
+X2 is selected from the group consisting of N, O, S, CH2 and CR4;
+
+X3 is selected from the group consisting of N, O, S, CH2, CH, and C-methyl;
+
+Gi is selected from the group consisting of CRaRb, NR7, and optionally substituted N-heterocycloalkyl;
+
+G2 is selected from the group consisting of a bond, lower alkyl, lower heteroalkyl, NRg, O and SO2, any of which may be optionally substituted;
+
+Ri is selected from the group consisting of aryl, N-containing heteroaryl; arylalkyl, and N-containing heteroarylalkyl, any of which may be optionally substituted;
+
+R2 is selected from the group consisting of lower alkyl, lower alkenyl, lower alkynyl, lower hydroxyalkyl, amino, aryl, and heteroaryl, any of which may be optionally substituted; or, when Gi is substituted N-heterocycloalkyl, R2 may be null;
+
+R3 and R4 are independently selected from the group consisting of hydrogen, halogen, cyano, hydroxy, lower amino, lower alkyl, lower alkoxy, lower perfluoroalkyl, and lower perfluoroalkoxy, or R3 and R4 taken together may form a 5-6-membered aryl, cycloalkyl, heteroaryl, or heterocycloalkyl, any of which may be optionally substituted;
+
+R5, R6, R7, and R8 are each independently selected from the group consisting of halogen, hydrogen, hydroxy, lower alkyl, lower alkenyl, lower alkynyl, lower alkoxy, phenyloxy, acyl, carboxyl, amino, lower heteroalkyl, lower alkylthio, lower aminoalkyl, lower alkylsulfonyl, sulfonamido, lower aryl, lower arylalkyl, lower cycloalkyl, lower cycloalkylalkyl, lower haloalkyl, lower perhaloalkyl, lower perhaloalkoxy, lower heteroaryl, lower heteroarylalkyl, lower heterocycloalkyl, and lower heterocycloalkylalkyl, any of which may be optionally substituted, or R5 and R6, taken together, form oxy; and
+
+Ra and Rb are each independently selected from the group consisting of hydrogen, halogen, cyano, hydroxy, lower amino, lower alkyl, lower alkenyl, lower alkynyl, lower alkoxy, lower hydroxyalkyl, lower perfluoroalkyl, lower perfluoroalkoxy, optionally substituted lower cycloalkyl, optionally substituted lower heterocycloalkyl, optionally substituted lower heteroaryl, and optionally substituted phenyl.
+
+2. The compound as recited in claim 1, wherein R5 and R6, taken together, form oxy.
+
+3. The compound as recited in claim 2, wherein Ri is selected from the group consisting of aryl and N-containing heteroaryl, any of which may be optionally substituted.
+
+4. The compound as recited in claim 3, wherein Ri is selected from the group consisting of substituted phenyl and substituted, monocyclic N-containing heteroaryl.
+
+5. The compound as recited in claim 4, wherein Ri is substituted pyridyl.
+
+6. The compound as recited in claim 4, wherein Ri is substituted phenyl.
+
+7. The compound as recited in claim 1, wherein Gi is NR7.
+
+8. The compound as recited in claim 7, wherein Gi is NH.
+
+9. The compound as recited in claim 7, wherein R7 is selected from the group consisting of hydrogen, halogen, hydroxy, C1-C3 alkyl, C1-C3 hydroxyalkyl, C1-C3 alkynyl, perfluoromethyl, and perfluoromethoxy.
+
+10. The compound as recited in claim 1, wherein Gi is CR3Rb,
+
+11. The compound as recited in claim 1 , wherein G2 is selected from the group consisting of a bond, lower alkyl, lower heteroalkyl, and NRs, any of which may be optionally substituted.
+
+12. The compound as recited in claim 11, wherein
+
+G2 is selected from the group consisting of optionally substituted Ci-C3 alkyl and Ci -C3 heteroalkyl containing one heteroatom selected from the group consisting of O and N, and NRs; and
+
+Rg is selected from the group consisting of hydrogen, halogen, hydroxy, Ci-C3 alkyl, Ci-C3 hydroxyalkyl, Ci-C3 alkynyl, perfluoromethyl, and perfluoromethoxy.
+
+13. The compound as recited in claim 12, wherein
+
+G2 is selected from the group consisting of NRg and CH2; and Rg is hydrogen,
+
+14. The compound as recited in claim 1, wherein R2 is selected from the group consisting of aryl and heteroaryl, either of which may be optionally substituted.
+
+15. The compound as recited in claim 14, wherein R2 is substituted pyridyl.
+
+16. The compound as recited in claim 14, wherein R2 is substituted phenyl.
+
+17. The compound as recited in claim 1, having structural Formula II:
+
+[![Figure imgf000370_0001](https://patentimages.storage.googleapis.com/e3/77/89/540794214b8ae2/imgf000370_0001.png)](https://patentimages.storage.googleapis.com/e3/77/89/540794214b8ae2/imgf000370_0001.png)
+
+or a salt thereof, wherein:
+
+Gi is selected from the group consisting of CH2, and NR7;
+
+G2 is selected from the group consisting of a bond, CH2, and NRg;
+
+Xi is selected from the group consisting of CRio and N;
+
+X2 is selected from the group consisting of CRi2, N, O, and S;
+
+X3 is selected from the group consisting of CR14, N, O, and S;
+
+Yi is selected from the group consisting of CR2I, N, O, and S;
+
+Y2 is selected from the group consisting of CR22, N, O, and S;
+
+Y3 is selected from the group consisting of CR23, N, O, and S; R2 is selected from the group consisting of lower alkyl, lower amino, aryl, and heteroaryl, any of which may be optionally substituted; q is an integer from 0 to 3;
+
+Rs, R6, R7, and Rs are each independently selected from the group consisting of hydrogen, hydroxy, alkoxy, aryloxy, alkyl, acyl, alkenyl, amino, alkynyl, heteroalkyl, carboxyl, alkylthio, alkylamino, alkylsulfonyl, sulfonamido, aryl, arylalkyl, cycloalkyl, cycloalkylalkyl, haloalkyl, perhaloalkyl, perhaloalkoxy, heteroaryl, heteroarylalkyl, heterocycloalkyl, and heterocycloalkylalkyl, any of which may be optionally substituted , or R3 and R4, taken together, may form oxy; and
+
+Rio, R12, Ri4, Ri9, R21, R22, R23, R27, and R28 are each independently selected from the group consisting of null, hydrogen, halogen, hydroxy, nitro, amino, cyano, alkyl, haloalkyl, perhaloalkyl, heteroalkyl, hydroxyalkyl, alkoxyalkyl, aminoalkyl, alkylaminoalkyl, thioalkyl, arylalkyl, cycloalkylalkyl, heteroarylalkyl, heterocycloalkylalkyl, alkenyl, arylalkenyl , heteroarylalkenyl, heterocycloalkylalkenyl, alkynyl, arylalkynyl , heteroarylalkynyl, heterocycloalkylalkynyl, alkoxy, haloalkoxy, perhaloalkoxy, acyloxy, arylalkoxy, aryloxy, heteroaryloxy, acyl, arylalkanoyl, alkylcarbonyl, alkoxycarbonyl, carboxyl, alkylamino, arylamino, C-amido, N-amido, carbamate, urea, N- sulfonamido, S -sulfonamido, alkylsulfonyl, thiol, alkylthio, arylthio, heteroarylthio, aryl, heteroaryl, cycloalkyl, and heterocycloalkyl, any of which may be optionally substituted, or R27 and R28, taken together with R2 to which they are attached, form cycloalkyl, heterocycloalkyl, aryl or heteroaryl, any of which may be optionally substituted.
+
+18. The compound as recited in claim 17, wherein R5 and R6, taken together, form oxy.
+
+19. The compound as recited in claim 18, wherein
+
+Yi is selected from the group consisting of CR2I and N; Y2 is selected from the group consisting of CR22 and N; and Y3 is selected from the group consisting of CR23 and N.
+
+20. The compound as recited in claim 18, wherein R27 and R28, taken together with R2 to which they are attached, form cycloalkyl, heterocycloalkyl, aryl or heteroaryl, any of which may be optionally substituted.
+
+21. The compound as recited in claim 20, wherein R27 and R28, taken together with R2 to which they are attached, form cycloalkyl or heterocycloalkyl, either of which may be optionally substituted.
+
+22. The compound as recited in claim 21, wherein said cycloalkyl is a C3-C7 monocyclic cycloalkyl, which may be optionally substituted; and said heterocycloalkyl, is a C4-C7 monocyclic heterocycloalkyl, which may be optionally substituted.
+
+23. The compound as recited in claim 22, wherein said C4-C7 monocyclic heterocycloalkyl is selected from the group consisting of pyrrolidine, piperidine, piperazine, and morpholine, any of which may be optionally substituted.
+
+24. A compound as recited in claim 20 having structural Formula III:
+
+[![Figure imgf000372_0001](https://patentimages.storage.googleapis.com/61/d6/53/ddfe72a05c23ce/imgf000372_0001.png)](https://patentimages.storage.googleapis.com/61/d6/53/ddfe72a05c23ce/imgf000372_0001.png)
+
+or a salt thereof, wherein:
+
+Gi is selected from the group consisting of CH2, and NR7;
+
+G2 is selected from the group consisting of a bond, CH2, and NRs;
+
+Xi is selected from the group consisting of CH and N;
+
+X2 is selected from the group consisting of CH and N;
+
+X3 is selected from the group consisting of CH and N;
+
+Yi is selected from the group consisting of CR2I and N;
+
+Y2 is selected from the group consisting of CR22 and N;
+
+Y3 is selected from the group consisting of CR23 and N;
+
+Zi is selected from the group consisting of CR24 and N; Z2 is selected from the group consisting of CR25 and N;
+
+Z3 is selected from the group consisting of CR26 and N;
+
+Z4 is selected from the group consisting of CR29 and N; q and r are each independently an integer from 0 to 3;
+
+R7, and Rs are each independently selected from the group consisting of hydrogen, hydroxy, lower alkoxy, lower alkyl, lower alkenyl, lower amino, lower alkynyl, lower heteroalkyl; and
+
+Rig, Ri9, R21, R22, R23, R24, R25, R26, and R29 are each independently selected from the group consisting of hydrogen, halogen, hydroxy, nitro, amino, cyano, alkyl, haloalkyl, perhaloalkyl, heteroalkyl, hydroxyalkyl, alkoxyalkyl, aminoalkyl, alkylaminoalkyl, thioalkyl, arylalkyl, cycloalkylalkyl, heteroarylalkyl, heterocycloalkylalkyl, alkenyl, arylalkenyl , heteroarylalkenyl, heterocycloalkylalkenyl, alkynyl, arylalkynyl , heteroarylalkynyl, heterocycloalkylalkynyl, alkoxy, haloalkoxy, perhaloalkoxy, acyloxy, arylalkoxy, aryloxy, heteroaryloxy, acyl, arylalkanoyl, alkylcarbonyl, alkoxycarbonyl, carboxyl, alkylamino, arylamino, heteroarylamino, C-amido, N-amido, carbamate, urea, N-sulfonamido, S-sulfonamido, alkylsulfonyl, thiol, alkylthio, arylthio, heteroarylthio, aryl, heteroaryl, cycloalkyl, and heterocycloalkyl, any of which may be optionally substituted.
+
+25. The compound as recited in claim 24, wherein
+
+Gi is selected from the group consisting of CH2, and NR7; and G2 is selected from the group consisting of a bond, CH2, and NRs.
+
+26. The compound as recited in claim 25, wherein
+
+[![Figure imgf000373_0001](https://patentimages.storage.googleapis.com/22/fb/56/3dc5d60b293275/imgf000373_0001.png)](https://patentimages.storage.googleapis.com/22/fb/56/3dc5d60b293275/imgf000373_0001.png)
+
+X2 is N.
+
+27. The compound as recited in claim 25, wherein Xi and X2 are each CH; and
+
+X3 is N.
+
+28. The compound as recited in claim 25, wherein Xi is N; and
+
+X2 and X3 are each CH.
+
+29. The compound as recited in claim 25, wherein X1, X2 and X3 are each CH.
+
+30. The compound as recited in claim 24, wherein Y1 Is CR21;
+
+Y2 is CR22; and Y3 is N.
+
+31. The compound as recited in claim 25, wherein Y1 Is CR21;
+
+Y2 is CR22; and Y3 is CR23.
+
+32. The compound as recited in claim 30, wherein Z3 is CR26; and
+
+R26 is not hydrogen.
+
+33. The compound as recited in claim 32, wherein Zi is N.
+
+34. The compound as recited in claim 25, wherein G2 is selected from the group consisting of NH and CH2.
+
+35. The compound as recited in claim 25, wherein Gi is NH.
+
+36. A compound as recited in claim 33 having structural Formula IV:
+
+[![Figure imgf000374_0001](https://patentimages.storage.googleapis.com/6c/0d/c0/0013ec03d05e97/imgf000374_0001.png)](https://patentimages.storage.googleapis.com/6c/0d/c0/0013ec03d05e97/imgf000374_0001.png)
+
+or a salt, ester, or prodrug thereof, wherein:
+
+Gi is selected from the group consisting of NH and CH2;
+
+G2 is selected from the group consisting of NH, CH2, SO2, and O;
+
+Zi is selected from the group consisting of CR24 and N;
+
+Z4 is selected from the group consisting of CR27 and N; q is an integer from 1 to 3; r is an integer from 1 to 3, or r may be 0 if R27 is not hydrogen; and each Rig, each Ri9, R24, R26, and R27 are each independently selected from the group consisting of hydrogen, halogen, hydroxy, nitro, amino, cyano, alkyl, haloalkyl, perhaloalkyl, heteroalkyl, hydroxyalkyl, alkoxyalkyl, aminoalkyl, alkylaminoalkyl, thioalkyl, arylalkyl, cycloalkylalkyl, heteroarylalkyl, heterocycloalkylalkyl, alkenyl, arylalkenyl , heteroarylalkenyl, heterocycloalkylalkenyl, alkynyl, arylalkynyl , heteroarylalkynyl, heterocycloalkylalkynyl, alkoxy, haloalkoxy, perhaloalkoxy, acyloxy, arylalkoxy, aryloxy, heteroaryloxy, acyl, arylalkanoyl, alkylcarbonyl, alkoxycarbonyl, carboxyl, alkylamino, arylamino, heteroarylamino, C-amido, N-amido, carbamate, urea, N-sulfonamido, S-sulfonamido, alkylsulfonyl, thiol, alkylthio, arylthio, heteroarylthio, aryl, heteroaryl, cycloalkyl, and heterocycloalkyl, any of which may be optionally substituted.
+
+37. The compound as recited in claim 36, wherein G2 is selected from the group consisting of NH and CH2.
+
+38. The compound as recited in claim 37, wherein Gi is NH.
+
+39. The compound as recited in claim 38, wherein
+
+Zi is N; and Z4 is CR27.
+
+40. The compound as recited in claim 38, wherein Zi and Z4 are both N.
+
+41. The compound as recited in claim 38, wherein R27 is not hydrogen.
+
+42. The compound as recited in claim 38, wherein R27 and each Rig are independently selected from the group consisting of hydrogen, halogen, haloalkyl, haloalkoxy, optionally substituted arylamino, optionally substituted heteroarylamino, optionally substituted heteroaryloxy, and optionally substituted aryloxy, provided that one of R27 and each Rig is not hydrogen.
+
+43. The compound as recited in claim 42, wherein R26Is selected from the group consisting of optionally substituted phenyloxy and optionally substituted 5-6 membered monocyclic heteroaryloxy.
+
+44. The compound as recited in claim 43, wherein R26is selected from the group consisting of optionally substituted phenyloxy and optionally substituted pyridinyloxy.
+
+45. The compound as recited in claim 44, wherein said pyridinyloxy or aryloxy is optionally substituted with one or more substituents selected from the group consisting of halogen, cyano, hydroxy, lower amino, lower alkyl, lower alkenyl, lower alkynyl, lower alkoxy, lower hydroxyalkyl, lower perfluoroalkyl, lower perfluoroalkoxy, optionally substituted lower cycloalkyl, optionally substituted lower heterocycloalkyl, optionally substituted lower heteroaryl, and optionally substituted phenyl.
+
+46. The compound as recited in claim 45, wherein said pyridinyloxy or aryloxy is optionally substituted with one or more substituents selected from the group consisting ofhalogen, hydroxy, Ci-C3 alkyl, Ci-C3 hydroxyalkyl, Ci-C3 alkynyl, perfluoromethyl, and perfluoromethoxy.
+
+47. The compound as recited in claim 38, wherein each R49 is independently selected from the group consisting ofhalogen, haloalkyl, and haloalkoxy.
+
+48. The compound as recited in claim 48, wherein each R49 is independently selected from the group consisting ofhalogen, perfluoromethyl, and perfluoromethoxy.
+
+49. The compound as recited in claim 49, wherein q is 1 or 2.
+
+50. The compound as recited in claim 50, wherein q is 2, and the two R19 groups are meta to each other.
+
+51. A compound selected from the group consisting of Examples 1 to 640.
+
+52. A compound as recited in Claim 1 for use as a medicament.
+
+53. A compound as recited in Claim 1 for use in the manufacture of a medicament for the prevention or treatment of a disease or condition ameliorated by the modulation of GPRl 19.
+
+54. A pharmaceutical composition comprising a compound as recited in Claim 1 together with a pharmaceutically acceptable carrier.
+
+55. A method of modulating GPRl 19 comprising contacting GPRl 19 with a compound as recited in Claim 1.
+
+56. A method of treatment of a GPRl 19-mediated disease comprising the administration of a therapeutically effective amount of a compound as recited in Claim 1 to a patient in need thereof.
+
+57. The method as recited in Claim 56 wherein said disease is a metabolic disease.
+
+58. The method as recited in Claim 57 wherein said disease is diabetes.
+
+59. A method of treatment of a GPRl 19-mediated disease comprising the administration of: a. a therapeutically effective amount of a compound as recited in Claim 1; and b. another therapeutic agent.
+
+60. The method as recited in Claim 59, wherein said agent is selected from the group consisting of insulin, metformin, Glipizide, glyburide, Amaryl, gliclazide, meglitinides, nateglinide, repaglinide, pramlintide, PTP-112, SB-517955, SB- 4195052, SB-216763, NN-57-05441, NN-57-05445, GW-0791, AGN-194204, T- 1095, BAY R3401, acarbose, miglitol, voglibose, Exendin-4, DPP728, LAF237, vildagliptin , BMS477118, PT-100, GSK-823093, PSN-9301, T-6666, SYR-322, SYR-619, Liraglutide, CJC- 1134-PC, naliglutide, MK-0431, saxagliptin, GSK23A, pioglitazone, rosiglitazone, AVE2268, GW869682, GSKl 89075, APD668, PSN- 119-1, PSN-821, rosuvastatin, atrovastatin, simvastatin, lovastatin, pravastatin, fluvastatin, cerivastatin, rosuvastatin, pitavastatin, fenofibrate, benzafibrate, clofibrate, gemfibrozil, Ezetimibe, eflucimibe, CP-529414, CETi-I, JTT-705, cholestyramine, colestipol, niacin, implitapide, (7?)-l-{4-[5-methyl-2-(4- trifluoromethyl-phenyl)-oxazol-4-ylmethoxy]-benzenesulfonyl}2,3-dihydro-lH- indole-2-carboxylic acid, and GI-262570.
+
+61. A method for achieving an effect in a patient comprising the administration of a therapeutically effective amount of a compound as recited in Claim 1 to a patient, wherein the effect is the modulation of a metabolic disease.

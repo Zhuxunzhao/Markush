@@ -1,0 +1,74 @@
+Claims (5)
+----------
+
+What is claimed is:
+
+1. A method of preparing a pharmaceutical composition for administration, comprising reconstituting the contents of a sterile container using a pharmaceutically acceptable diluent, wherein the sterile container comprises:
+
+an antibacterial agent in solid form; and
+
+a compound of Formula (I) in solid form having the structure:
+
+[![Figure US11684629-20230627-C00210](https://patentimages.storage.googleapis.com/be/18/74/9d92336ac469f8/US11684629-20230627-C00210.png)](https://patentimages.storage.googleapis.com/be/18/74/9d92336ac469f8/US11684629-20230627-C00210.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+Y is a 1-4 atom alkylene or 2-4 atom alkenylene linker, optionally substituted by one or more substituents selected from the group consisting of Cl, F, CN, CF3, —R9, —OR9, —C(═O)NR9R10, and —C(═O)OR9, wherein said alkylene or alkenylene linker is optionally fused to an optionally substituted aryl, optionally substituted heteroaryl, optionally substituted carbocyclyl, or optionally substituted heterocyclyl;
+
+R1 is selected from a group consisting of —C1-9alkyl, —C2-9alkenyl, —C2-9alkynyl, —NR9R10, —C1-9alkylR11, —C2-9alkenylR11, —C2-9alkynylR11, -carbocyclyl-R11, —CH(OH)C1-9alkylR9, —CH(OH)C2-9alkenylR9, —CH(OH)C2-9alkynylR9, —CH(OH)carbocyclyl-R9, —C(═O)R9, —C(═O)C1-9alkylR9, —C(═O)C2-9alkenylR9, —C(═O)C2-9alkynylR9, —C(═O)C2-9carbocyclyl-R9, —C(═O)NR9R10, —N(R9)C(═O)R9, —N(R9)C(═O)NR9R10, —N(R9)C(═O)OR9, —N(R9)C(═O)C(═NR10)R9, —N(R9)C(═O)C(═CR9R10)R9, —N(R9)C(═O)C1-4alkylN(R9)C(═O)R9, —N(R9)C(═NR10)R9, —C(═NR10)NR9R10, —N═C(R9)NR9R10, —N(R9)SO2R9, —N(R9)SO2NR9R10, —N═CHR9, optionally substituted aryl, optionally substituted heteroaryl, optionally substituted carbocyclyl, and optionally substituted heterocyclyl;
+
+R6 is selected from a group consisting of H, —C1-9alkyl, —C2-9alkenyl, —C2-9alkynyl, carbocyclyl, —C1-9alkylR11, —C2-9alkenylR11, —C2-9alkynylR11, -carbocyclyl-R11, —C(═O)OR9, —C1-9alkylCO2R9, —C2-9alkenylCO2R9, —C2-9alkynylCO2R9, and -carbocyclyl-CO2R9, or alternatively:
+
+(i) R6 and an R7 are taken together with the atoms to which they are attached to form an optionally substituted carbocyclyl or optionally substituted heterocyclyl, or
+
+(ii) R6 is absent when the carbon to which it is attached is a ring atom in an aryl or heteroaryl ring;
+
+each R7 is independently selected from a group consisting of H, halo, —C1-9alkyl, —C2-9alkenyl, —C2-9alkynyl, —NR9R10, —OR9, —C1-9alkylCO2R9, —C2-9alkenylCO2R9, —C2-9alkynylCO2R9, and -carbocyclyl-CO2R9, or independently:
+
+(i) R6 and an R7 are taken together with the atoms to which they are attached to form an optionally substituted carbocyclyl or optionally substituted heterocyclyl, or
+
+(ii) R7 and an R8 are taken together with the atoms to which they are attached to form an optionally substituted carbocyclyl or optionally substituted heterocyclyl;
+
+each R8 is independently selected from a group consisting of H, halo, —C1-9alkyl, —C2-9alkenyl, —C2-9alkynyl, —NR9R10, —OR9, —C1-9alkylCO2R9, —C2-9alkenylCO2R9, —C2-9alkynylCO2R9, and -carbocyclyl-CO2R9, or independently:
+
+(i) an R7 and an R8 are taken together with the atoms to which they are attached to form an optionally substituted carbocyclyl or optionally substituted heterocyclyl,
+
+(ii) a geminal R7 and R8 together form —C2-9alkenylenylCO2R9, or
+
+(iii) each R8 attached to a ring atom forming part of an optionally substituted aryl is absent;
+
+each R9 is independently selected from a group consisting of H, —C1-9alkyl, —C2-9alkenyl, —C2-9alkynyl, carbocyclyl, —C1-9alkylR11, —C2-9alkenylR11, —C2-9alkynylR11, -carbocyclyl-R11, optionally substituted aryl, optionally substituted heteroaryl, optionally substituted —(CH2)0-3carbocyclyl, and optionally substituted heterocyclyl;
+
+each R10 is independently selected from a group consisting of H, —C1-9alkyl, —OR9, —CH(═NH), —C(═O)OR9, optionally substituted aryl, optionally substituted heteroaryl, optionally substituted carbocyclyl, and optionally substituted heterocyclyl;
+
+each R11 is independently selected from a group consisting of optionally substituted aryl, optionally substituted heteroaryl, optionally substituted carbocyclyl, and optionally substituted heterocyclyl;
+
+X is selected from a group consisting of —CO2R12 and a carboxylic acid isostere;
+
+R12 is selected from a group consisting of H, —C1-9alkyl, —(CH2)0-3—R11, —C(R13)2OC(O)C1-9alkyl, —C(R13)2OC(O)R11, —C(R13)2OC(O)OC1-9alkyl, and —C(R13)2OC(O)OR11;
+
+each R13 is independently selected from a group consisting of H and —C1-4alkyl; and
+
+m is independently zero or an integer from 1 to 2,
+
+wherein each —C1-9alkyl, —C2-9alkenyl, and —C2-9alkynyl is independently optionally substituted.
+
+2. The method of claim 1, wherein the diluent is selected from the group consisting of a saline solution, a dextrose solution, and a sodium carbonate solution.
+
+3. The method of claim 1, wherein the antibacterial agent comprises meropenem, and the compound is:
+
+[![Figure US11684629-20230627-C00211](https://patentimages.storage.googleapis.com/4e/bb/77/f37a3847466d58/US11684629-20230627-C00211.png)](https://patentimages.storage.googleapis.com/4e/bb/77/f37a3847466d58/US11684629-20230627-C00211.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+4. A method of administration comprising administering the reconstituted solution of claim 1 intravenously to a patient.
+
+5. The method of claim 4, wherein the antibacterial agent comprises meropenem, and the compound is:
+
+[![Figure US11684629-20230627-C00212](https://patentimages.storage.googleapis.com/ce/02/1e/aa45fc946516ea/US11684629-20230627-C00212.png)](https://patentimages.storage.googleapis.com/ce/02/1e/aa45fc946516ea/US11684629-20230627-C00212.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof.

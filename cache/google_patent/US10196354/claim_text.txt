@@ -1,0 +1,414 @@
+Claims (29)
+-----------
+
+What is claimed is:
+
+1. A compound according to Formula I
+
+[![Figure US10196354-20190205-C00317](https://patentimages.storage.googleapis.com/50/d0/88/df7951aef46ec5/US10196354-20190205-C00317.png)](https://patentimages.storage.googleapis.com/50/d0/88/df7951aef46ec5/US10196354-20190205-C00317.png)
+
+or a pharmaceutically acceptable salt or solvate thereof, wherein:
+
+Y is CH, CRa, or N;
+
+n=0, 1, 2, 3 or 4;
+
+Ra is (C1-4)alkyl or (C3-7)cycloalkyl;
+
+R1 is
+
+(i) (C3-12)carbocyclyl(C0-4)alkyl, or
+
+(ii) a 4- to 12-membered heterocyclyl(C0-4)alkyl,
+
+each being substituted with (i) one occurrence of R8 that is (C3-7) cycloalkyl and (ii) optionally one, two, three, or four other occurrences of R8;
+
+R2 is hydroxycarbonyl, hydroxycarbonyl(C1-10)alkyl, (C1-10)alkylsulfoxyaminocarbonyl, or carbamoyl;
+
+R3 is hydrogen, halogen, cyano, hydroxy, (C1-4)alkylcarbonyloxy, (C1-4) alkylsulfonylamino, (C1-4) alkylcarbonylamino, (C1-4)alkyl, or (C1-4)alkoxy, wherein (C1-4)alkyl and (C1-4)alkoxy are optionally substituted with one or more halogen;
+
+R4-R7 independently are hydrogen, halogen, amino, cyano, hydroxy, (C1-3)alkoxy, (C1-4)-alkyl, (C0-10)alkylaminocarbonyl, (C0-6)alkyoxycarbonylamino, (di)(C1-6)alkylaminocarbonyl, (C1-6)alkylcarbonylamino, (C1-4)alkylamino, or amino(C1-4)alkyl, wherein (C1-3)alkoxy and (C1-4)alkyl are optionally substituted with one or more halogen; or a group having the formula
+
+[![Figure US10196354-20190205-C00318](https://patentimages.storage.googleapis.com/32/6a/d4/ff08477d88819b/US10196354-20190205-C00318.png)](https://patentimages.storage.googleapis.com/32/6a/d4/ff08477d88819b/US10196354-20190205-C00318.png)
+
+ 
+
+optionally substituted with one or more of the following: (C1-10)alkyl, halogen, amino, cyano, hydroxy, (C1-3)alkoxy, and wherein m is 1, 2, 3, or 4; or
+
+R6 is additionally selected from:
+
+(i) (C3-7)cycloalkyl or (C3-5)heterocycloalkyl, both optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, oxo (═O), (C1-4)alkyl or (C1-3)alkoxy;
+
+(ii) (C2-9)heteroaryl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(iii) (C6-14)aryl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(iv) (C3-5)heterocycloalkylcarbonyl or (C3-5)heterocycloalkylcarbonyl(C1-4)alkyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(v) (C3-5)heterocycloalkylamino, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(vi) (C3-5)cycloalkylaminocarbonyl or di(C3-5)cycloalkylaminocarbonyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(vii) (C3-5)cycloalkylcarbonylamino, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(viii) (C3-5)cycloalkyl(C1-4)alkyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(ix) (C3-5)cycloalkylamino, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(x) (C3-5)cycloalkylcarbonyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(xi) (C2-9)heteroaryl(C1-4)alkyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(xii) (C2-9)heteroarylcarbonyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+and
+
+R8 is halogen, cyano, amino, hydroxy, di(C1-3)alkylamino, (C1-4)alkyl, (C3-5)heterocycloalkyl, (C1-4)alkenyl, (C3-6)cycloalkoxy or (C1-3)alkoxy, wherein (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one, two or three halogens.
+
+2. The compound of claim 1 having Formula Ia
+
+[![Figure US10196354-20190205-C00319](https://patentimages.storage.googleapis.com/f6/17/5a/9d0ed1a20e172e/US10196354-20190205-C00319.png)](https://patentimages.storage.googleapis.com/f6/17/5a/9d0ed1a20e172e/US10196354-20190205-C00319.png)
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+3. The compound of claim 1 having Formula Ib
+
+[![Figure US10196354-20190205-C00320](https://patentimages.storage.googleapis.com/31/ec/79/f4a43fd30442f2/US10196354-20190205-C00320.png)](https://patentimages.storage.googleapis.com/31/ec/79/f4a43fd30442f2/US10196354-20190205-C00320.png)
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+4. The compound of claim 3, wherein Y is N.
+
+5. The compound of claim 3 having Formula Ic
+
+[![Figure US10196354-20190205-C00321](https://patentimages.storage.googleapis.com/2c/08/0c/10b59fb13e706c/US10196354-20190205-C00321.png)](https://patentimages.storage.googleapis.com/2c/08/0c/10b59fb13e706c/US10196354-20190205-C00321.png)
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+6. The compound of claim 5 having Formula Id
+
+[![Figure US10196354-20190205-C00322](https://patentimages.storage.googleapis.com/6d/6c/c9/1bd1a9c0497ae8/US10196354-20190205-C00322.png)](https://patentimages.storage.googleapis.com/6d/6c/c9/1bd1a9c0497ae8/US10196354-20190205-C00322.png)
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+7. The compound of claim 6, wherein Y is N.
+
+8. The compound of claim 2 having Formula Ie
+
+[![Figure US10196354-20190205-C00323](https://patentimages.storage.googleapis.com/a5/38/a6/862e00d30b13da/US10196354-20190205-C00323.png)](https://patentimages.storage.googleapis.com/a5/38/a6/862e00d30b13da/US10196354-20190205-C00323.png)
+
+ 
+
+wherein x is 1, 2, 3, 4 or 5; and at least one occurrence of R8 is (C3-7)cycloalkyl;
+
+or a pharmaceutically acceptable salt or solvate thereof.
+
+9. The compound of claim 8 having Formula If
+
+[![Figure US10196354-20190205-C00324](https://patentimages.storage.googleapis.com/fa/4f/ce/7881db09ce9567/US10196354-20190205-C00324.png)](https://patentimages.storage.googleapis.com/fa/4f/ce/7881db09ce9567/US10196354-20190205-C00324.png)
+
+or a pharmaceutically acceptable salt or solvate thereof; wherein at least one occurrence of R8 is (C3-7)cycloalkyl.
+
+10. The compound of claim 9 having Formula Ig
+
+[![Figure US10196354-20190205-C00325](https://patentimages.storage.googleapis.com/d3/03/02/f36a09b15e5cbc/US10196354-20190205-C00325.png)](https://patentimages.storage.googleapis.com/d3/03/02/f36a09b15e5cbc/US10196354-20190205-C00325.png)
+
+or a pharmaceutically acceptable salt or solvate thereof; wherein at least one occurrence of R8 is (C3-7)cycloalkyl.
+
+11. The compound of claim 10 having Formula Ih
+
+[![Figure US10196354-20190205-C00326](https://patentimages.storage.googleapis.com/3e/83/16/d2c363e42be2b2/US10196354-20190205-C00326.png)](https://patentimages.storage.googleapis.com/3e/83/16/d2c363e42be2b2/US10196354-20190205-C00326.png)
+
+or a pharmaceutically acceptable salt or solvate thereof; wherein R8 is (C3-7)cycloalkyl.
+
+12. The compound of claim 1, wherein Y is N.
+
+13. The compound of claim 1, wherein R1 is
+
+(i) (C3-7)cycloalkyl or (C3-5)heterocycloalkyl, both being substituted with (i) one occurrence of R8 that is (C3-7)cycloalkyl and (ii) optionally one, two, three, or four other occurrences of or five R8;
+
+(ii) (C2-9)heteroaryl(C0-4)alkyl, being substituted with (i) one occurrence of R8 that is (C3-7)cycloalkyl and (ii) optionally one, two, three, or four other occurrences of R8; or
+
+(iii) (C6-14)aryl(C0-4)alkyl, being substituted with (i) one occurrence of R8 that is (C3-7)cycloalkyl and (ii) optionally one, two, three, or four other occurrences of R8.
+
+14. The compound of claim 13, wherein R1 is (i) (C2-9)heteroaryl, or (ii) (C6-14)aryl, both substituted with (i) one occurrence of R8 that is (C3-7)cycloalkyl and (ii) optionally one, two, three, or four other occurrences of R8.
+
+15. The compound of claim 14, wherein R1 is (C6-14)aryl substituted with (i) one occurrence of R8 that is (C3-7)cycloalkyl and (ii) optionally one other occurrence of R8.
+
+16. The compound of claim 15, wherein R1 is phenyl substituted with (i) one occurrence of R8 that is (C3-7)cycloalkyl and (ii) optionally one other occurrence of R8.
+
+17. The compound of claim 16, wherein R2 is C(O)OH.
+
+18. The compound of claim 1, wherein R6 is
+
+[![Figure US10196354-20190205-C00327](https://patentimages.storage.googleapis.com/f9/91/1b/a3d45cfc8b471a/US10196354-20190205-C00327.png)](https://patentimages.storage.googleapis.com/f9/91/1b/a3d45cfc8b471a/US10196354-20190205-C00327.png)
+
+ 
+
+[![Figure US10196354-20190205-C00328](https://patentimages.storage.googleapis.com/72/31/ec/8dda92fa350e4d/US10196354-20190205-C00328.png)](https://patentimages.storage.googleapis.com/72/31/ec/8dda92fa350e4d/US10196354-20190205-C00328.png)
+
+19. A compound selected from:
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-4-formyl-1H-indazol-3-yl)benzoic acid;
+
+3-fluoro-4-(1-(2-phenylpropanoyl)-1H-indazol-3-yl)benzoic acid;
+
+3-fluoro-4-[1-(methoxyacetyl)-1H-indazol-3-yl]benzoic acid;
+
+3-fluoro-4-[1-(pyridin-3-ylcarbonyl)-1H-indazol-3-yl]benzoic acid;
+
+3-fluoro-4-{1-[(2-oxopyrrolidin-1-yl)acetyl]-1H-indazol-3-yl}benzoic acid;
+
+3-fluoro-4-[1-(naphthalen-1-ylcarbonyl)-1H-indazol-3-yl]benzoic acid;
+
+3-fluoro-4-{1-[(1-methyl-1H-indol-2-yl)carbonyl]-1H-indazol-3-yl}benzoic acid;
+
+4-{1-[(2-bromo-3-methylphenyl)carbonyl]-1H-indazol-3-yl}-3-fluorobenzoic acid;
+
+4-[1-(2,3-dihydro-1H-inden-4-ylcarbonyl)-1H-indazol-3-yl]-3-fluorobenzoic acid;
+
+4-(1-{[3-(tertbutoxycarbonyl)-3-azabicyclo[3.1.0]hex-6-yl]carbonyl}-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-[1-(2,3-dihydro-1-benzofuran-7-ylcarbonyl)-1H-indazol-3-yl]-3-fluorobenzoic acid;
+
+4-[1-(1-benzofuran-7-ylcarbonyl)-1H-indazol-3-yl]-3-fluorobenzoic acid;
+
+4-{1-[(2-bromo-3-chlorophenyl)carbonyl]-1H-indazol-3-yl}-3-fluorobenzoic acid;
+
+3-fluoro-4-(1-(tetrahydrofuran-2-carbonyl)-1H-indazol-3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(morpholine-4-carbonyl)-1H-indazol-3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-((2S,6R)-2,6-dimethylmorpholine-4-carbonyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(4-oxopiperidine-1-carbonyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+2-acetamido-4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indazol -3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl) benzoyl)-6-(3-hydroxyazetidin-1-yl)-1H-indazol-3-yl)benzoic acid;
+
+4-(6-(azetidin-1-yl)-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(cyclopropylamino)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(oxetan-3-ylamino)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(3-hydroxypyrrolidin-1-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-morpholino-1H-indazol-3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(methoxycarbonylamino)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(N-methylacetamido)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(cyclopropanecarboxamido)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(methylsulfonamido)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(3-methylureido)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(6-acetamido-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(N-methylmethylsulfonamido)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(1,3-dimethylureido)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(2-oxo-imidazolidin-1-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(2-oxoazetidin-1-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(6-(2-carboxyethylamino)-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(3-methyl-2-oxoimidazolidin-1-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(2-oxopyrrolidin-1-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(morpholine-4-carbonyl)-1H-indazol-3-yl)benzoic acid;
+
+3-(4-carboxyphenyl)-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indazole-6-carboxylic acid;
+
+sodium 4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(5-methyloxazol-2-yl)-1H-indazol-3-yl)benzoate;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(5-methyloxazol-2-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(3-hydroxyprop-1-ynyl)-1H-indazol-3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(3-hydroxybut-1-ynyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(6-(3-aminoprop-1-ynyl)-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-ethynyl-1H-indazol-3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(3-methyl-1,2,4-oxadiazol-5-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(5-(hydroxymethyl)oxazol-2-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(1-methyl-1H-imidazol-4-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(oxazol-2-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(6-(5-bromooxazol-2-yl)-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+(E)-4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(N′-cyano-N,N-dimethylcarbamimidoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(5-oxo-4,5-dihydro-1,3,4-oxadiazol-2-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(4H-1,2,4-triazol-3-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(5-methyl-1,3,4-oxadiazol-2-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(1-methyl-1H-imidazol-2-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(1-methyl-1H-imidazol-5-yl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(5-methylthiophen-3-yl)-1H-indazol-3-yl]benzoic acid;
+
+4-(1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-pyrimidin-2-yl-1H-indazol-3-yl)benzoic acid;
+
+4-(1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-pyrimidin-4-yl-1H-indazol-3-yl)benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(1-methyl-1H-imidazol-4-yl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(1,3-thiazol-4-yl)-1H-indazol-3-yl]benzoic acid;
+
+4-(6-[4-(aminomethyl)pyridin-2-yl]-1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-1H-indazol-3-yl)benzoic acid;
+
+4-(1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-pyridin-2-yl-1H-indazol-3-yl)benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(1,3-thiazol-5-yl)-1H-indazol-3-yl]benzoic acid;
+
+4-(1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-pyridin-4-yl-1H-indazol-3-yl)benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(4-cyanophenyl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(3-cyanophenyl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(2-cyanophenyl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(2-fluorophenyl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(3-fluorophenyl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(4-fluorophenyl)-1H-indazol-3-yl]benzoic acid;
+
+4-[1-{[2-chloro-6-(trifluoromethyl)phenyl]carbonyl}-6-(1-methyl-1H-pyrazol-5-yl)-1H-indazol-3-yl]benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(methylsulfonamidomethyl)-1H-indazol-3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(2,5-dioxoimidazolidin-4-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(4-chloro-1-(2-chloro-6-cyclopropylbenzoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-cyclopropylbenzoyl)-4-fluoro-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-cyclopropylbenzoyl)-1H-indazol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-2-methyl-1H-indol-3-yl)-3-fluorobenzoic acid;
+
+4-(2-methyl-1-(2-(trifluoromethyl)benzoyl)-1H-indol-3-yl)benzoic acid;
+
+4-(1-(2-chloro-6-cyclopropylbenzoyl)-1H-indazol-3-yl)-3,5-difluorobenzoic acid;
+
+4-(1-(2-chloro-6-cyclopropylbenzoyl)-4-fluoro-1H-indazol-3-yl)-3,5-difluorobenzoic acid;
+
+4-(6-(azetidine-1-carbonyl)-1-(2-chloro-6-(trifluoromethyl)benzoyl)-1H-indol-3-yl)-3-fluorobenzoic acid;
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(3-methoxy-azetidine-1-carbonyl)-1H-indol-3-yl)-3-fluorobenzoic acid; and
+
+4-(1-(2-chloro-6-(trifluoromethyl)benzoyl)-6-(oxetan-3-yl)-1H-indazol-3-yl)-3-fluorobenzoic acid.
+
+20. A pharmaceutical composition comprising a compound of claim 1 or a pharmaceutically acceptable salt or solvate thereof, and one or more pharmaceutically acceptable excipients.
+
+21. A method for treating a disease or condition mediated by RORgammaT in a subject, comprising administering to the subject an amount of a compound of claim 1, or a pharmaceutically acceptable salt or solvate thereof, that is effective for treating the disease or condition mediated by RORgammaT in the subject, wherein the disease or condition is an autoimmune disease or inflammatory disease.
+
+22. A method for treating a disease or condition mediated by RORgammaT in a subject, comprising administering to the subject an amount of a compound of claim 1, or a pharmaceutically acceptable salt or solvate thereof, that is effective for treating the disease or condition mediated by RORgammaT in the subject, wherein the disease or condition is multiple sclerosis, inflammatory bowel disease, Crohn's disease, ankylosing spondylitis, psoriasis, rheumatoid arthritis, asthma, osteoarthritis, Kawasaki disease, Hashimoto's thyroiditis, or mucosal leishmaniasis.
+
+23. The compound of claim 7, wherein:
+
+R2 is C(O)OH;
+
+R3 is hydrogen or halogen; and
+
+R4, R5, and R7 are hydrogen or halogen.
+
+24. The compound of claim 23, wherein R6 is (C3-5)heterocycloalkylcarbonyl or (C3-5)heterocycloalkylcarbonyl(C1-4)alkyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy.
+
+25. A pharmaceutical composition comprising a compound of claim 24 or a pharmaceutically acceptable salt thereof, and one or more pharmaceutically acceptable excipients.
+
+26. A compound according to the Formula:
+
+[![Figure US10196354-20190205-C00329](https://patentimages.storage.googleapis.com/c8/a3/49/2e8276257d4369/US10196354-20190205-C00329.png)](https://patentimages.storage.googleapis.com/c8/a3/49/2e8276257d4369/US10196354-20190205-C00329.png)
+
+ 
+
+or a pharmaceutically acceptable salt or solvate thereof, wherein:
+
+Y is CH, CRa, or N;
+
+n=0, 1, 2, 3 or 4;
+
+Ra is (C1-4)alkyl or (C3-7)cycloalkyl;
+
+R1 is
+
+(i) (C3-12)carbocyclyl(C0-4)alkyl, or
+
+(ii) a 4- to 12-membered heterocyclyl(C0-4)alkyl,
+
+each optionally substituted with one, two, three, four or five R8;
+
+R2 is hydroxycarbonyl, hydroxycarbonyl(C1-10)alkyl, (C1-10)alkylsulfoxyaminocarbonyl, or carbamoyl;
+
+R3 is hydrogen, halogen, cyano, nitro, hydroxy, (C1-4)alkylcarbonyloxy, (C1-4) alkylcarbonylamino, (C1-4)alkyl, or (C1-4)alkoxy, wherein (C1-4)alkyl and (C1-4)alkoxy are optionally substituted with one or more halogen;
+
+R4, R5, and R7 independently are hydrogen, halogen, amino, cyano, hydroxy, (C1-3)alkoxy, (C1-4)alkyl, (C0-10)alkylaminocarbonyl, (C0-6)alkyoxycarbonylamino, (di)(C1-6)alkylaminocarbonyl, (C1-6)alkylcarbonylamino, (C1-4)alkylamino, or amino(C1-4)alkyl, wherein (C1-3)alkoxy and (C1-4)alkyl are optionally substituted with one or more halogen; or a group having the formula
+
+[![Figure US10196354-20190205-C00330](https://patentimages.storage.googleapis.com/bf/93/77/5dd74cb380f24c/US10196354-20190205-C00330.png)](https://patentimages.storage.googleapis.com/bf/93/77/5dd74cb380f24c/US10196354-20190205-C00330.png)
+
+ 
+
+optionally substituted with one or more of the following: (C1-10)alkyl, halogen, amino, cyano, hydroxy, (C1-3)alkoxy, and wherein m is 1, 2, 3, or 4;
+
+R6 is:
+
+(i) (C3-7)cycloalkyl or (C3-5)heterocycloalkyl, both optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, oxo (═O), (C1-4)alkyl or (C1-3)alkoxy;
+
+(ii) (C2-9)heteroaryl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(iii) (C6-14)aryl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(iv) (C3-5)heterocycloalkylamino, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(v) (C3-5)cycloalkyl(C1-4)alkyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(vi) (C3-5)cycloalkylamino, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(vii) (C3-5)cycloalkylcarbonyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(viii) (C2-9)heteroaryl(C1-4)alkyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(ix) (C2-9)heteroarylcarbonyl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+and
+
+R8 is halogen, cyano, amino, hydroxy, di(C1-3)alkylamino, (C1-4)alkyl, (C3-5)heterocycloalkyl, (C1-4)alkenyl, (C3-6)cycloalkoxy or (C1-3)alkoxy, wherein (C1-4)alkyl and (C1-3)alkoxy are optionally substituted with one, two or three halogens.
+
+27. The compound of claim 26, wherein:
+
+Y is N;
+
+R2 is C(O)OH;
+
+R3 is hydrogen or halogen; and
+
+R4, R5, and R7 are hydrogen or halogen.
+
+28. The compound of claim 27, wherein R6 is:
+
+(i) (C3-7)cycloalkyl or (C3-5)heterocycloalkyl, both optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy;
+
+(ii) (C2-9)heteroaryl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4)alkyl or (C1-3)alkoxy; or
+
+(iii) (C6-14)aryl, optionally substituted with one or more groups selected from halogen, amino, amino(C1-4)alkyl, cyano, hydroxyl, (C1-4alkyl or (C1-3)alkoxy.
+
+29. A pharmaceutical composition comprising a compound of claim 26 or a pharmaceutically acceptable salt thereof, and one or more pharmaceutically acceptable excipients.

@@ -1,0 +1,1182 @@
+Abstract
+--------
+
+The present invention provides sulfamoylbenzamide derivatives, and pharmaceutical compositions thereof. In certain embodiments, the compounds and pharmaceutical compositions of the invention inhibit pregenomic RNA encapsidation. In other embodiments, the compounds and pharmaceutical compositions of the invention are useful for treating Hepatitis B virus (HBV) infection.
+
+
+Claims (14)
+-----------
+
+What is claimed is:
+
+**1**. A method for treating Hepatitis B virus (HBV) infection and related conditions, said method comprising administering to a subject an effective amount of at least one compound having formula (I):
+
+[![Figure US20210070703A1-20210311-C00210](https://patentimages.storage.googleapis.com/18/5e/55/e97d029cfc8fa4/US20210070703A1-20210311-C00210.png)](https://patentimages.storage.googleapis.com/18/5e/55/e97d029cfc8fa4/US20210070703A1-20210311-C00210.png)
+
+ 
+
+R1 is hydrogen;
+
+R2 is selected from a group consisting of hydrogen, methyl, trifluoromethyl, fluorine, and chlorine;
+
+R3 is selected from a group consisting of hydrogen, methyl, fluorine, and chlorine;
+
+R4 is selected from a group consisting of hydrogen, fluorine, chlorine, and methyl;
+
+R5 is selected from a group consisting of hydrogen and chlorine;
+
+R7 is selected from a group consisting of hydrogen, chlorine, fluorine, and bromine;
+
+R9 is selected from a group consisting of hydrogen methyl fluorine and chlorine;
+
+Rx is selected from a group consisting of NH2,
+
+[![Figure US20210070703A1-20210311-C00211](https://patentimages.storage.googleapis.com/6c/ea/f3/4c559915d36b25/US20210070703A1-20210311-C00211.png)](https://patentimages.storage.googleapis.com/6c/ea/f3/4c559915d36b25/US20210070703A1-20210311-C00211.png)
+
+ 
+
+[![Figure US20210070703A1-20210311-C00212](https://patentimages.storage.googleapis.com/33/95/3d/3a3ec81f6ac993/US20210070703A1-20210311-C00212.png)](https://patentimages.storage.googleapis.com/33/95/3d/3a3ec81f6ac993/US20210070703A1-20210311-C00212.png)
+
+or a pharmaceutically acceptable salt form thereof.
+
+**2**. The method of claim 1, wherein the at least one compound is at least one member selected from the group consisting of
+
+2-Chloro-5-sulfamoyl-N-3-methylphenyl-benzamide;
+
+4-Fluoro-3-sulfamoyl-N-(3-trifluoromethyl-phenyl)-benzamide;
+
+N-(2-Chloro-5-trifluoromethyl-phenyl)-4-fluoro-3-sulfamoyl-benzamide;
+
+N-Phenyl-3-sulfamoyl-benzamide;
+
+5-sec-Butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+3-Diethylsulfamoyl-N-phenyl-benzamide;
+
+5-Diethylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+2-Chloro-5-diethylsulfamoyl-N-m-tolyl-benzamide;
+
+N-(4-Chloro-phenyl)-3-diethylsulfamoyl-benzamide;
+
+5-Allylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-5-dipropylsulfamoyl-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-2-fluoro-N-p-tolyl-benzamide;
+
+5-Cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+2-Bromo-5-cyclohexylsulfamoyl-N-phenyl-benzamide;
+
+4-Chloro-3-cyclohexylsulfamoyl-N-(4-fluoro-phenyl)-benzamide;
+
+3-Cyclohexylsulfamoyl-4-methyl-N-phenyl-benzamide;
+
+N-(3,4-Difluoro-phenyl)-4-fluoro-3-(2-methyl-cyclohexylsulfamoyl)-benzamide;
+
+3-Cyclopentylsulfamoyl-N-phenyl-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclopentylsulfamoyl-2-fluoro-N-(4-fluoro-phenyl)-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,5-dimethyl-phenyl)-2-fluoro-benzamide;
+
+3-Cyclopentylsulfamoyl-4-fluoro-N-3-methylphenyl-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,5-dichloro-phenyl)-2-fluoro-benzamide,
+
+3-[(Furan-2-ylmethyl)-sulfamoyl]-N-phenyl-benzamide;
+
+N-(3-Chloro-4-fluoro-phenyl)-5-[(furan-2-ylmethyl)-sulfamoyl]-2-methyl-benzamide;
+
+2-Fluoro-N-(3-fluoro-phenyl)-5-[(furan-2-ylmethyl)-sulfamoyl]-benzamide;
+
+N-(3,5-Dichloro-phenyl)-2-fluoro-5-[(furan-2-ylmethyl)-sulfamoyl]-benzamide;
+
+4-Fluoro-3-[(furan-2-ylmethyl)-sulfamoyl]-N-3-methylphenyl-benzamide;
+
+5-[(4-Chloro-3-phenylcarbamoyl-benzenesulfonylamino)-methyl]-furan-2-carboxylic acid methyl ester;
+
+N-(3-Chloro-phenyl)-5-(2-cyclohex-1-enyl-ethylsulfamoyl)-2-fluoro-benzamide;
+
+5-(2-Cyclohex-1-enyl-ethylsulfamoyl)-N-(3,5-dimethyl-phenyl)-2-fluoro-benzamide;
+
+5-(2-Cyclohex-1-enyl-ethylsulfamoyl)-N-(3,5-dimethyl-phenyl)-2-fluoro-benzamide;
+
+N-(3-Chloro-phenyl)-4-fluoro-3-[(pyridin-3-ylmethyl)-sulfamoyl]-benzamide;
+
+N-(3,4-Difluoro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+N-(3-Chloro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+5-Benzylsulfamoyl-N-(3-chloro-4-fluoro-phenyl)-2-fluoro-benzamide;
+
+5-Benzylsulfamoyl-2-chloro-N-phenyl-benzamide;
+
+N-(4-Chloro-phenyl)-5-[2-(3,4-dimethoxy-phenyl)-ethylsulfamoyl]-2-fluoro-benzamide;
+
+5-(2-Chloro-benzylsulfamoyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide,
+
+3-(2-Chloro-benzylsulfamoyl)-N-(4-chloro-phenyl)-4-fluoro-benzamide;
+
+2-Fluoro-5-(4-methoxy-phenylsulfamoyl)-N-3-methylphenyl-benzamide;
+
+2-Fluoro-5-(4-fluoro-phenylsulfamoyl)-N-3-methylphenyl-benzamide;
+
+N-(4-Chloro-phenyl)-3-(3-fluoro-phenylsulfamoyl)-benzamide;
+
+N-(4-Chloro-phenyl)-3-2-methylphenylsulfamoyl-benzamide;
+
+N-Phenyl-3-m-tolylsulfamoyl-benzamide;
+
+N-Phenyl-3-o-tolylsulfamoyl-benzamide;
+
+3-(Benzyl-ethyl-sulfamoyl)-N-(3,4-difluoro-phenyl)-4-fluoro-benzamide;
+
+5-(Azepane-1-sulfonyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+4-Methyl-N-phenyl-3-(piperidine-1-sulfonyl)-benzamide;
+
+4-Methyl-N-phenyl-3-(piperidine-1-sulfonyl)-benzamide;
+
+4-Chloro-N-(3-fluoro-phenyl)-3-(morpholine-4-sulfonyl)-benzamide;
+
+4-Chloro-N-phenyl-3-(thiomorpholine-4-sulfonyl)-benzamide;
+
+5-sec-Butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Diethylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Allylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-5-dipropylsulfamoyl-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-(Azepane-1-sulfonyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+5-(2-Chloro-benzylsulfamoyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**3**. The method of claim 1, wherein the at least one compound is administered in a composition further comprising at least one excipient.
+
+**4**. The method of claim 3, wherein the at least one compound is at least one member selected from the group consisting of
+
+2-Chloro-5-sulfamoyl-N-3-methylphenyl-benzamide;
+
+4-Fluoro-3-sulfamoyl-N-(3-trifluoromethyl-phenyl)-benzamide;
+
+N-(2-Chloro-5-trifluoromethyl-phenyl)-4-fluoro-3-sulfamoyl-benzamide;
+
+N-Phenyl-3-sulfamoyl-benzamide;
+
+5-sec-Butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+3-Diethylsulfamoyl-N-phenyl-benzamide;
+
+5-Diethylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+2-Chloro-5-diethylsulfamoyl-N-m-tolyl-benzamide;
+
+N-(4-Chloro-phenyl)-3-diethylsulfamoyl-benzamide;
+
+5-Allylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide,
+
+N-(3,4-Difluoro-phenyl)-5-dipropylsulfamoyl-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-2-fluoro-N-p-tolyl-benzamide;
+
+5-Cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+2-Bromo-5-cyclohexylsulfamoyl-N-phenyl-benzamide;
+
+4-Chloro-3-cyclohexylsulfamoyl-N-(4-fluoro-phenyl)-benzamide;
+
+3-Cyclohexylsulfamoyl-4-methyl-N-phenyl-benzamide;
+
+N-(3,4-Difluoro-phenyl)-4-fluoro-3-(2-methyl-cyclohexylsulfamoyl)-benzamide;
+
+3-Cyclopentylsulfamoyl-N-phenyl-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclopentylsulfamoyl-2-fluoro-N-(4-fluoro-phenyl)-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,5-dimethyl-phenyl)-2-fluoro-benzamide;
+
+3-Cyclopentylsulfamoyl-4-fluoro-N-3-methylphenyl-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,5-dichloro-phenyl)-2-fluoro-benzamide;
+
+3-[(Furan-2-ylmethyl)-sulfamoyl]-N-phenyl-benzamide;
+
+N-(3-Chloro-4-fluoro-phenyl)-5-[(furan-2-ylmethyl)-sulfamoyl]-2-methyl-benzamide;
+
+2-Fluoro-N-(3-fluoro-phenyl)-5-[(furan-2-ylmethyl)-sulfamoyl]-benzamide;
+
+N-(3,5-Dichloro-phenyl)-2-fluoro-5-[(furan-2-ylmethyl)-sulfamoyl]-benzamide;
+
+4-Fluoro-3-[(furan-2-ylmethyl)-sulfamoyl]-N-3-methylphenyl-benzamide;
+
+5-[(4-Chloro-3-phenylcarbamoyl-benzenesulfonylamino)-methyl]-furan-2-carboxylic acid methyl ester;
+
+N-(3-Chloro-phenyl)-5-(2-cyclohex-1-enyl-ethylsulfamoyl)-2-fluoro-benzamide;
+
+5-(2-Cyclohex-1-enyl-ethylsulfamoyl)-N-(3,5-dimethyl-phenyl)-2-fluoro-benzamide;
+
+5-(2-Cyclohex-1-enyl-ethylsulfamoyl)-N-(3,5-dimethyl-phenyl)-2-fluoro-benzamide;
+
+N-(3-Chloro-phenyl)-4-fluoro-3-[(pyridin-3-ylmethyl)-sulfamoyl]-benzamide;
+
+N-(3,4-Difluoro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+N-(3-Chloro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+5-Benzylsulfamoyl-N-(3-chloro-4-fluoro-phenyl)-2-fluoro-benzamide;
+
+5-Benzylsulfamoyl-2-chloro-N-phenyl-benzamide;
+
+N-(4-Chloro-phenyl)-5-[2-(3,4-dimethoxy-phenyl)-ethylsulfamoyl]-2-fluoro-benzamide;
+
+5-(2-Chloro-benzylsulfamoyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+3-(2-Chloro-benzylsulfamoyl)-N-(4-chloro-phenyl)-4-fluoro-benzamide;
+
+2-Fluoro-5-(4-methoxy-phenylsulfamoyl)-N-3-methylphenyl-benzamide;
+
+2-Fluoro-5-(4-fluoro-phenylsulfamoyl)-N-3-methylphenyl-benzamide;
+
+N-(4-Chloro-phenyl)-3-(3-fluoro-phenylsulfamoyl)-benzamide;
+
+N-(4-Chloro-phenyl)-3-2-methylphenylsulfamoyl-benzamide,
+
+N-Phenyl-3-m-tolylsulfamoyl-benzamide;
+
+N-Phenyl-3-o-tolylsulfamoyl-benzamide;
+
+3-(Benzyl-ethyl-sulfamoyl)-N-(3,4-difluoro-phenyl)-4-fluoro-benzamide;
+
+5-(Azepane-1-sulfonyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+4-Methyl-N-phenyl-3-(piperidine-1-sulfonyl)-benzamide;
+
+4-Methyl-N-phenyl-3-(piperidine-1-sulfonyl)-benzamide;
+
+4-Chloro-N-(3-fluoro-phenyl)-3-(morpholine-4-sulfonyl)-benzamide;
+
+4-Chloro-N-phenyl-3-(thiomorpholine-4-sulfonyl)-benzamide;
+
+5-sec-Butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Diethylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Allylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-5-dipropylsulfamoyl-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-(Azepane-1-sulfonyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+5-(2-Chloro-benzylsulfamoyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**5**. A method for treating Hepatitis B virus (HBV) infection and related conditions, said method comprising administering to a subject an effective amount of at least one compound having formula (II):
+
+[![Figure US20210070703A1-20210311-C00213](https://patentimages.storage.googleapis.com/c5/e6/62/28ccf5c0e3ad12/US20210070703A1-20210311-C00213.png)](https://patentimages.storage.googleapis.com/c5/e6/62/28ccf5c0e3ad12/US20210070703A1-20210311-C00213.png)
+
+ 
+
+Including hydrates, solvates, pharmaceutically acceptable salts, pro-drugs and complexes thereof, wherein:
+
+Rx is selected from a group consisting of
+
+[![Figure US20210070703A1-20210311-C00214](https://patentimages.storage.googleapis.com/31/46/18/7ad97f2829f130/US20210070703A1-20210311-C00214.png)](https://patentimages.storage.googleapis.com/31/46/18/7ad97f2829f130/US20210070703A1-20210311-C00214.png)
+
+or a pharmaceutically acceptable salt form thereof.
+
+**6**. The method of claim 5, wherein the at least one compound is at least one member selected from the group consisting of
+
+5-sec-Butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Diethylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Allylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-5-dipropylsulfamoyl-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-(Azepane-1-sulfonyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+5-(2-Chloro-benzylsulfamoyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**7**. The method of claim 5, wherein the at least one compound is administered in a composition further comprising at least one excipient.
+
+**8**. The method of claim 7, wherein the at least one compound is at least one member selected from the group consisting of
+
+5-sec-Butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Diethylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Allylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-5-dipropylsulfamoyl-2-fluoro-benzamide;
+
+5-Cycloheptylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-(Azepane-1-sulfonyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+5-Cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+N-(3,4-Difluoro-phenyl)-2-fluoro-5-phenethylsulfamoyl-benzamide;
+
+5-(2-Chloro-benzylsulfamoyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**9**. A method for treating Hepatitis B virus (HBV) infection and related conditions, said method comprising administering to a subject an effective amount of at least one compound having formula (III):
+
+[![Figure US20210070703A1-20210311-C00215](https://patentimages.storage.googleapis.com/d7/89/fd/cdf0063f283d65/US20210070703A1-20210311-C00215.png)](https://patentimages.storage.googleapis.com/d7/89/fd/cdf0063f283d65/US20210070703A1-20210311-C00215.png)
+
+ 
+
+Including hydrates, solvates, pharmaceutically acceptable salts, prodrugs and complexes thereof, wherein:
+
+R10 is selected from a group consisting of hydrogen, methyl, chlorine and bromine;
+
+Ry is selected from a group consisting of,
+
+[![Figure US20210070703A1-20210311-C00216](https://patentimages.storage.googleapis.com/79/6a/93/2e16010bd09194/US20210070703A1-20210311-C00216.png)](https://patentimages.storage.googleapis.com/79/6a/93/2e16010bd09194/US20210070703A1-20210311-C00216.png)
+
+or a pharmaceutically acceptable salt form thereof.
+
+**10**. The method of claim 9, wherein the at least one compound is at least one member selected from the group consisting of
+
+3-(Azepane-1-sulfonyl)-N-benzyl-4-chloro-benzamide;
+
+N-Benzyl-4-chloro-3-(piperidine-1-sulfonyl)-benzamide;
+
+N-Benzyl-4-methyl-3-(4-methyl-piperidine-1-sulfonyl)-benzamide,
+
+N-Benzyl-3-benzylsulfamoyl-4-methyl-benzamide;
+
+3-(3-Benzylcarbamoyl-benzenesulfonylamino)-benzoic acid;
+
+N-Benzyl-4-bromo-3-diethylsulfamoyl-benzamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**11**. The method of claim 9, wherein the at least one compound is administered in a composition further comprising at least one excipient.
+
+**12**. The method of claim 11, wherein the at least one compound is at least one member selected from the group consisting of
+
+3-(Azepane-1-sulfonyl)-N-benzyl-4-chloro-benzamide;
+
+N-Benzyl-4-chloro-3-(piperidine-1-sulfonyl)-benzamide;
+
+N-Benzyl-4-methyl-3-(4-methyl-piperidine-1-sulfonyl)-benzamide;
+
+N-Benzyl-3-benzylsulfamoyl-4-methyl-benzamide;
+
+3-(3-Benzylcarbamoyl-benzenesulfonylamino)-benzoic acid;
+
+N-Benzyl-4-bromo-3-diethylsulfamoyl-benzamide;
+
+and pharmaceutically acceptable forms thereof.
+
+**13**. A method for treating Hepatitis B virus (HBV) infection and related conditions, said method comprising administering to a subject an effective amount of at least one compound having formula (IV):
+
+[![Figure US20210070703A1-20210311-C00217](https://patentimages.storage.googleapis.com/1c/0c/33/2e72ecc0198fb3/US20210070703A1-20210311-C00217.png)](https://patentimages.storage.googleapis.com/1c/0c/33/2e72ecc0198fb3/US20210070703A1-20210311-C00217.png)
+
+or a pharmaceutically acceptable salt form thereof.
+
+**14**. The method of claim 13, wherein the at least one compound is administered in a composition further comprising at least one excipient.
+
+
+Description
+-----------
+
+CROSS-REFERENCE TO RELATED APPLICATIONS* The present application is a continuation of, and claims priority to, U.S. patent application Ser. No. 16/459,665, filed Jul. 2, 2019, U.S. patent application Ser. No. 15/656,769, filed Jul. 21, 2017, now abandoned, which is a continuation of U.S. patent application Ser. No. 14/975,239, filed Dec. 18, 2015, issued as U.S. Pat. No. 9,758,477 on Sep. 12, 2017, which is a continuation of U.S. patent application Ser. No. 14/130,140, filed Mar. 18, 2014, issued as U.S. Pat. No. 9,399,619 on Jul. 26, 2016, which is the U.S. national phase application filed under 35 U.S.C. § 371 of International Patent Application No. PCT/US2012/044775, filed Jun. 29, 2012, which claims priority under 35 U.S.C. § 119(e) to U.S. Provisional Patent Application No. 61/503,830, filed Jul. 1, 2011, all of which are hereby incorporated by reference in their entireties.
+FIELD OF INVENTION* The present invention describes compounds and methods useful as pregenomic RNA encapsidation inhibitors, useful for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+BACKGROUND OF THE INVENTION* Hepatitis B virus (HBV) infection remains a major public health problem. Currently, an estimated 350 million people worldwide and 1.4 million in the US are chronically infected with HBV (McMahon, 2005). Approximately one-third of these individuals will die from serious liver diseases, such as cirrhosis and hepatocellular carcinoma, if left untreated (Lee, 1997; Lok, 2004).
+* Seven drugs are currently available for the management of chronic hepatitis B, which include two formulations of alpha-interferon (standard and pegylated) and five nucleos(t)ide analogues (lamivudine, adefovir, entecavir, telbivudine, and tenofovir) that inhibit HBV DNA polymerase (Keeffe et al., 2008). At present, the preferred first-line treatment choices are entecavir, tenofovir or peg-interferon alfa-2a. However, even with the first-line treatment options, peg-interferon alfa-2a is effective in achieving certain serological milestones in only one-third of treated patients and frequently associated with severe side effects (Janssen et al., 2005; Lau et al., 2005; Perrillo, 2009). Entecavir and tenofovir are highly potent HBV inhibitors, but a long-term or possibly life-time treatment is required to continuously suppress HBV replication, which may eventually fail due to emergence of drug resistant viruses (Dienstag, 2009). Hence, there is a pressing need for the introduction of novel, safe and effective therapies for chronic hepatitis B, which is listed by National Institute of Allergy and Infectious Diseases (NIAID) as a High Priority Area of Interest.
+* HBV is a noncytopathic, liver tropic DNA virus belonging to Hepadnaviridae family. Pregenomic (pg) RNA is the template for reverse transcriptional replication of HBV DNA and its encapsidation, together with viral DNA polymerase, into nucleocapsid is essential for the subsequent viral DNA synthesis. Inhibition of pregenomic RNA (pg) encapsidation would block HBV replication and provide a new therapeutic approach to the treatment of HBV.
+* Clinically, inhibition of pregenomic RNA (pg) encapsidation offers the following therapeutic advantages: First, inhibition of pregenomic RNA (pg) encapsidation will complement the current medications by providing an additional option for a subpopulation of patients that do not tolerate or benefit from the current medications (Akbar et al., 2009; Liaw, 2009; Peters, 2009; Wiegand, van Bommel, and Berg). Second, based on their distinct antiviral mechanism, inhibition of pregenomic RNA (pg) encapsidation will be effective against HBV variants that are resistant to the currently available DNA polymerase inhibitors (Zoulim and Locarnini, 2009). Third, like the Highly Active Antiretroviral Therapy (HAART) for human immunodeficiency virus (HIV) infection (Este and Cihlar), combination therapy of the inhibitors of pregenomic RNA (pg) encapsidation with DNA polymerase inhibitors should synergistically suppress HBV replication and prevent the emergence of drug resistance and thus offers a safer and more effective treatment for chronic hepatitis B infection.
+* There is a long felt need for new antiviral drugs that are both disease-modifying and effective in treating patients that are infected with hepatitis B virus. There is also a clear and present need for new antiviral drugs that are both disease modifying and effective in treating patients that are infected with drug resistant hepatitis B virus. The present invention addresses the need for new antiviral drugs that are both disease-modifying and effective in treating patients that are infected with hepatitis B virus.
+BRIEF SUMMARY OF THE INVENTION* The present invention is directed toward the novel method of use of sulfamoylbenzamide derivatives of the formula (I), useful as pregenomic RNA encapsidation inhibitors of HBV for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+* [![Figure US20210070703A1-20210311-C00001](https://patentimages.storage.googleapis.com/d9/f2/4b/e7e09d00b568da/US20210070703A1-20210311-C00001.png)](https://patentimages.storage.googleapis.com/d9/f2/4b/e7e09d00b568da/US20210070703A1-20210311-C00001.png)
+* including hydrates, solvates, pharmaceutically acceptable salts, prodrugs and complexes thereof, wherein:
+
+  R1 is hydrogen;
+
+  R2 is selected from a group consisting of hydrogen, methyl, trifluoromethyl, fluorine, and chlorine;
+
+  R3 is selected from a group consisting of hydrogen, methyl, fluorine, and chlorine;
+
+  R4 is selected from a group consisting of hydrogen, fluorine, chlorine, and methyl;
+
+  R5 is selected from a group consisting of hydrogen and chlorine;
+
+  R7 is selected from a group consisting of hydrogen, chlorine, fluorine, and bromine;
+
+  R9 is selected from a group consisting of hydrogen, methyl, fluorine, and chlorine;
+
+  Rx is selected from a group consisting of NH2,
+* [![Figure US20210070703A1-20210311-C00002](https://patentimages.storage.googleapis.com/ef/d0/69/495c5be2755653/US20210070703A1-20210311-C00002.png)](https://patentimages.storage.googleapis.com/ef/d0/69/495c5be2755653/US20210070703A1-20210311-C00002.png)
+
+   
+
+  [![Figure US20210070703A1-20210311-C00003](https://patentimages.storage.googleapis.com/26/80/10/6f921ac3ea724d/US20210070703A1-20210311-C00003.png)](https://patentimages.storage.googleapis.com/26/80/10/6f921ac3ea724d/US20210070703A1-20210311-C00003.png)
+* The present invention is further directed toward the novel method of use of sulfamoylbenzamide derivatives of the formula (II), useful as pregenomic RNA encapsidation inhibitors of HBV for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+* [![Figure US20210070703A1-20210311-C00004](https://patentimages.storage.googleapis.com/50/3b/75/bbf81d31608405/US20210070703A1-20210311-C00004.png)](https://patentimages.storage.googleapis.com/50/3b/75/bbf81d31608405/US20210070703A1-20210311-C00004.png)
+* including hydrates, solvates, pharmaceutically acceptable salts, prodrugs and complexes thereof, wherein:
+
+  Rx is selected from a group consisting of
+* [![Figure US20210070703A1-20210311-C00005](https://patentimages.storage.googleapis.com/dc/74/cd/3f3aa185730ee0/US20210070703A1-20210311-C00005.png)](https://patentimages.storage.googleapis.com/dc/74/cd/3f3aa185730ee0/US20210070703A1-20210311-C00005.png)
+* The present invention is further directed toward the novel method of use of sulfamoylbenzamide derivatives of the formula (III), useful as pregenomic RNA encapsidation inhibitors of HBV for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+* [![Figure US20210070703A1-20210311-C00006](https://patentimages.storage.googleapis.com/8d/c7/55/8650e6f4f8e1e2/US20210070703A1-20210311-C00006.png)](https://patentimages.storage.googleapis.com/8d/c7/55/8650e6f4f8e1e2/US20210070703A1-20210311-C00006.png)
+* including hydrates, solvates, pharmaceutically acceptable salts, prodrugs and complexes thereof, wherein:
+
+  R10 is selected from a group consisting of hydrogen, methyl, chlorine, and bromine;
+
+  Ry is selected from a group consisting of
+* [![Figure US20210070703A1-20210311-C00007](https://patentimages.storage.googleapis.com/a8/51/f3/e6115fcfedadab/US20210070703A1-20210311-C00007.png)](https://patentimages.storage.googleapis.com/a8/51/f3/e6115fcfedadab/US20210070703A1-20210311-C00007.png)
+* The present invention is further directed toward the novel method of use of sulfamoylbenzamide derivatives of the formula (IV), useful as pregenomic RNA encapsidation inhibitors of HBV for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+* [![Figure US20210070703A1-20210311-C00008](https://patentimages.storage.googleapis.com/76/dc/78/dc95089a0e808b/US20210070703A1-20210311-C00008.png)](https://patentimages.storage.googleapis.com/76/dc/78/dc95089a0e808b/US20210070703A1-20210311-C00008.png)
+* including hydrates, solvates, pharmaceutically acceptable salts, prodrugs and complexes thereof.
+* The present invention further relates to compositions comprising:
+* an effective amount of one or more compounds according to the present invention and an excipient.
+* The present invention also relates to a method for treating or preventing diseases that involve pregenomic RNA encapsidation, including, for example, HBV infection, said method comprising administering to a subject an effective amount of a compound or composition according to the present invention.
+* The present invention yet further relates to a method for treating or preventing diseases that involve pregenomic RNA encapsidation, including, for example, HBV infection, wherein said method comprises administering to a subject a composition comprising an effective amount of one or more compounds according to the present invention and an excipient.
+* The present invention also relates to a method for treating or preventing disease or conditions associated with HBV infection, and diseases that involve pregenomic RNA encapsidation. Said methods comprise administering to a subject an effective amount of a compound or composition according to the present invention.
+* The present invention yet further relates to a method for treating or preventing disease or conditions associated with HBV infection, and diseases that involve pregenomic RNA encapsidation, wherein said method comprises administering to a subject a composition comprising an effective amount of one or more compounds according to the present invention and an excipient.
+* These and other objects, features, and advantages will become apparent to those of ordinary skill in the art from a reading of the following detailed description and the appended claims. All percentages, ratios and proportions herein are by weight, unless otherwise specified. All temperatures are in degrees Celsius (° C.) unless otherwise specified. All documents cited are in relevant part, incorporated herein by reference; the citation of any document is not to be construed as an admission that it is prior art with respect to the present invention.
+BRIEF DESCRIPTION OF THE DRAWINGS* FIG. 1: Effects of the selected compounds of the present invention on HBV DNA replication in HepDES19 cells. HepDES19 cells were left untreated (control) or treated with the indicated concentrations of the compounds of the disclosure for 6 days. Intracellular nucleocapsid-associated HBV DNA was extracted and resolved in 1.5% agarose gel by electrophoresis and determined by Southern blot hybridizations. Abbreviations: rcDNA: relaxed circular DNA; dslDNA: double-stranded linear DNA; ssDNA: single-stranded DNA
+* FIG. 2: Comparison of antiviral activity of DVR-23 with Lamivudine and Bay 41-4109. HepDES19 cells were left untreated (NT) or treated with the indicated concentrations (μM) of DVR-23, Lamivudine or Bay 41-4109 for 4 days. Cytoplasmic core-associated HBV DNA replication intermediates were extracted and determined by Southern blot hybridizations. RC, L and SS indicate relaxed circular, double-stranded linear and single-stranded HBV DNA, respectively.
+* FIG. 3: Antiviral mechanism of the compounds of the present invention. AML12HBV10 cells were left untreated (NT) or treated with the indicated concentrations of the compounds of the disclosure DVR-1, DVR-56 and DVR-23, respectively, for 2 days. Bay-4109 (5 μM) or AT-61 (25 μM) served as positive controls. (A) Intracellular viral RNA was determined by Northern blot hybridization. (B) The total amounts of nucleocapsids were determined by a particle gel assay. (C) Encapsidated pgRNA were extracted and measured by Northern blot. (D) Nucleocapsid-associated HBV DNA was quantified by alkaline-treatment of nucleocapsids on the membrane following the particle gel assay and hybridized with a HBV-specific riboprobe. (E) HBV DNA replication intermediates were extracted and determined by Southern blot hybridizations.
+DETAILED DESCRIPTION OF THE INVENTION* The pregenomic RNA encapsidation inhibitors of the present invention are capable of treating and preventing diseases associated with pregenomic RNA encapsidation, for example HBV infection. Pregenomic (pg) RNA is the template for reverse transcriptional replication of HBV DNA and its encapsidation, together with viral DNA polymerase, into nucleocapsid is essential for the subsequent viral DNA synthesis. Without wishing to be limited by theory, it is believed that inhibition of pregenomic RNA encapsidation can ameliorate, abate, or otherwise cause to be controlled, diseases associated with pregenomic RNA encapsidation, for example HBV infection. Pregenomic RNA encapsidation inhibitors of the present invention address the clear and unmet need to identify novel and safe antiviral agents for the treatment of HBV infection that are chemically and mechanistically distinct from HBV antiviral drugs in current clinical use.
+* Clinically, the pregenomic RNA encapsidation inhibitors of the present invention complement the current medications by providing an additional option for a subpopulation of patients that do not tolerate or benefit from the current medications (Akbar et al., 2009; Liaw, 2009; Peters, 2009; Wiegand, van Bommel, and Berg). In addition, the pregenomic RNA encapsidation inhibitors of the present invention may be effective on HBV variants that are resistant to the currently available DNA polymerase inhibitors (Zoulim and Locarnini, 2009). Further, combination therapies of the pregenomic RNA encapsidation inhibitors of the present invention with DNA polymerase inhibitors may synergistically suppress HBV replication and prevent the emergence of drug resistance, offering a safer and more effective treatment for chronic hepatitis B (Billioud et al., 2011).
+* Throughout the description, where compositions are described as having, including, or comprising specific components, or where processes are described as having, including, or comprising specific process steps, it is contemplated that compositions of the present teachings also consist essentially of, or consist of, the recited components, and that the processes of the present teachings also consist essentially of, or consist of, the recited processing steps.
+* In the application, where an element or component is said to be included in and/or selected from a list of recited elements or components, it should be understood that the element or component can be any one of the recited elements or components and can be selected from a group consisting of two or more of the recited elements or components.
+* The use of the singular herein includes the plural (and vice versa) unless specifically stated otherwise. In addition, where the use of the term “about” is before a quantitative value, the present teachings also include the specific quantitative value itself, unless specifically stated otherwise.
+* It should be understood that the order of steps or order for performing certain actions is immaterial so long as the present teachings remain operable. Moreover, two or more steps or actions can be conducted simultaneously
+* As used herein, the term “halogen” shall mean chlorine, bromine, fluorine and iodine.
+* As used herein, unless otherwise noted, “alkyl” and/or “aliphatic” whether used alone or as part of a substituent group refers to straight and branched carbon chains having 1 to 20 carbon atoms or any number within this range, for example 1 to 6 carbon atoms or 1 to 4 carbon atoms. Designated numbers of carbon atoms (e.g. C1-6) shall refer independently to the number of carbon atoms in an alkyl moiety or to the alkyl portion of a larger alkyl-containing substituent. Non-limiting examples of alkyl groups include methyl, ethyl, n-propyl, iso-propyl, n-butyl, sec-butyl, iso-butyl, tert-butyl, and the like. Alkyl groups can be optionally substituted. Non-limiting examples of substituted alkyl groups include hydroxymethyl, chloromethyl, trifluoromethyl, aminomethyl, 1-chloroethyl, 2-hydroxyethyl, 1,2-difluoroethyl, 3-carboxypropyl, and the like. In substituent groups with multiple alkyl groups such as (C1-6alkyl)2amino, the alkyl groups may be the same or different.
+* As used herein, the terms “alkenyl” and “alkynyl” groups, whether used alone or as part of a substituent group, refer to straight and branched carbon chains having 2 or more carbon atoms, preferably 2 to 20, wherein an alkenyl chain has at least one double bond in the chain and an alkynyl chain has at least one triple bond in the chain. Alkenyl and alkynyl groups can be optionally substituted. Nonlimiting examples of alkenyl groups include ethenyl, 3-propenyl, 1-propenyl (also 2-methylethenyl), isopropenyl (also 2-methylethen-2-yl), buten-4-yl, and the like. Nonlimiting examples of substituted alkenyl groups include 2-chloroethenyl (also 2-chlorovinyl), 4-hydroxybuten-1-yl, 7-hydroxy-7-methyloct-4-en-2-yl, 7-hydroxy-7-methyloct-3,5-dien-2-yl, and the like. Nonlimiting examples of alkynyl groups include ethynyl, prop-2-ynyl (also propargyl), propyn-1-yl, and 2-methyl-hex-4-yn-1-yl. Nonlimiting examples of substituted alkynyl groups include, 5-hydroxy-5-methylhex-3-ynyl, 6-hydroxy-6-methylhept-3-yn-2-yl, 5-hydroxy-5-ethylhept-3-ynyl, and the like.
+* As used herein, “cycloalkyl,” whether used alone or as part of another group, refers to a non-aromatic carbon-containing ring including cyclized alkyl, alkenyl, and alkynyl groups, e.g., having from 3 to 14 ring carbon atoms, preferably from 3 to 7 or 3 to 6 ring carbon atoms, or even 3 to 4 ring carbon atoms, and optionally containing one or more (e.g., 1, 2, or 3) double or triple bond. Cycloalkyl groups can be monocyclic (e.g., cyclohexyl) or polycyclic (e.g., containing fused, bridged, and/or spiro ring systems), wherein the carbon atoms are located inside or outside of the ring system. Any suitable ring position of the cycloalkyl group can be covalently linked to the defined chemical structure. Cycloalkyl rings can be optionally substituted. Nonlimiting examples of cycloalkyl groups include: cyclopropyl, 2-methyl-cyclopropyl, cyclopropenyl, cyclobutyl, 2,3-dihydroxycyclobutyl, cyclobutenyl, cyclopentyl, cyclopentenyl, cyclopentadienyl, cyclohexyl, cyclohexenyl, cycloheptyl, cyclooctanyl, decalinyl, 2,5-dimethylcyclopentyl, 3,5-dichlorocyclohexyl, 4-hydroxycyclohexyl, 3,3,5-trimethylcyclohex-1-yl, octahydropentalenyl, octahydro-1H-indenyl, 3a,4,5,6,7,7a-hexahydro-3H-inden-4-yl, decahydroazulenyl; bicyclo[6.2.0]decanyl, decahydronaphthalenyl, and dodecahydro-1H-fluorenyl. The term “cycloalkyl” also includes carbocyclic rings which are bicyclic hydrocarbon rings, non-limiting examples of which include, bicyclo-[2.1.1]hexanyl, bicyclo[2.2.1]heptanyl, bicyclo[3.1.1]heptanyl, 1,3-dimethyl[2.2.1]heptan-2-yl, bicyclo[2.2.2]octanyl, and bicyclo[3.3.3]undecanyl.
+* “Haloalkyl” is intended to include both branched and straight-chain saturated aliphatic hydrocarbon groups having the specified number of carbon atoms, substituted with 1 or more halogen. Haloalkyl groups include perhaloalkyl groups, wherein all hydrogens of an alkyl group have been replaced with halogens (e.g., —CF3, —CF2CF3). Haloalkyl groups can optionally be substituted with one or more substituents in addition to halogen. Examples of haloalkyl groups include, but are not limited to, fluoromethyl, dichloroethyl, trifluoromethyl, trichloromethyl, pentafluoroethyl, and pentachloroethyl groups.
+* The term “alkoxy” refers to the group —O-alkyl, wherein the alkyl group is as defined above. Alkoxy groups optionally may be substituted. The term C3-C6 cyclic alkoxy refers to a ring containing 3 to 6 carbon atoms and at least one oxygen atom (e.g., tetrahydrofuran, tetrahydro-2H-pyran). C3-C6 cyclic alkoxy groups optionally may be substituted.
+* The term “aryl,” wherein used alone or as part of another group, is defined herein as a an unsaturated, aromatic monocyclic ring of 6 carbon members or to an unsaturated, aromatic polycyclic ring of from 10 to 14 carbon members. Aryl rings can be, for example, phenyl or naphthyl ring each optionally substituted with one or more moieties capable of replacing one or more hydrogen atoms. Non-limiting examples of aryl groups include: phenyl, naphthylen-1-yl, naphthylen-2-yl, 4-fluorophenyl, 2-hydroxyphenyl, 3-methylphenyl, 2-amino-4-fluorophenyl, 2-(N,N-diethylamino)phenyl, 2-cyanophenyl, 2,6-di-tert-butylphenyl, 3-methoxyphenyl, 8-hydroxynaphthylen-2-yl 4,5-dimethoxynaphthylen-1-yl, and 6-cyano-naphthylen-1-yl. Aryl groups also include, for example, phenyl or naphthyl rings fused with one or more saturated or partially saturated carbon rings (e.g., bicyclo[4.2.0]octa-1,3,5-trienyl, indanyl), which can be substituted at one or more carbon atoms of the aromatic and/or saturated or partially saturated rings.
+* The term “arylalkyl” or “aralkyl” refers to the group -alkyl-aryl, where the alkyl and aryl groups are as defined herein. Aralkyl groups of the present invention are optionally substituted. Examples of arylalkyl groups include, for example, benzyl, 1-phenylethyl, 2-phenylethyl, 3-phenylpropyl, 2-phenylpropyl, fluorenylmethyl and the like.
+* The terms “heterocyclic” and/or “heterocycle” and/or “heterocylyl,” whether used alone or as part of another group, are defined herein as one or more ring having from 3 to 20 atoms wherein at least one atom in at least one ring is a heteroatom selected from nitrogen (N), oxygen (O), or sulfur (S), and wherein further the ring that includes the heteroatom is non-aromatic. In heterocycle groups that include 2 or more fused rings, the non-heteroatom bearing ring may be aryl (e.g., indolinyl, tetrahydroquinolinyl, chromanyl). Exemplary heterocycle groups have from 3 to 14 ring atoms of which from 1 to 5 are heteroatoms independently selected from nitrogen (N), oxygen (O), or sulfur (S). One or more N or S atoms in a heterocycle group can be oxidized. Heterocycle groups can be optionally substituted.
+* Non-limiting examples of heterocyclic units having a single ring include: diazirinyl, aziridinyl, urazolyl, azetidinyl, pyrazolidinyl, imidazolidinyl, oxazolidinyl, isoxazolinyl, isoxazolyl, thiazolidinyl, isothiazolyl, isothiazolinyl oxathiazolidinonyl, oxazolidinonyl, hydantoinyl, tetrahydrofuranyl, pyrrolidinyl, morpholinyl, piperazinyl, piperidinyl, dihydropyranyl, tetrahydropyranyl, piperidin-2-onyl (valerolactam), 2,3,4,5-tetrahydro-1H-azepinyl, 2,3-dihydro-1H-indole, and 1,2,3,4-tetrahydro-quinoline. Non-limiting examples of heterocyclic units having 2 or more rings include: hexahydro-1H-pyrrolizinyl, 3a,4,5,6,7,7a-hexahydro-1H-benzo[d]imidazolyl, 3a,4,5,6,7,7a-hexahydro-1H-indolyl, 1,2,3,4-tetrahydroquinolinyl, chromanyl, isochromanyl, indolinyl, isoindolinyl, and decahydro-1H-cycloocta[b]pyrrolyl.
+* The term “heteroaryl,” whether used alone or as part of another group, is defined herein as one or more rings having from 5 to 20 atoms wherein at least one atom in at least one ring is a heteroatom chosen from nitrogen (N), oxygen (O), or sulfur (S), and wherein further at least one of the rings that includes a heteroatom is aromatic. In heteroaryl groups that include 2 or more fused rings, the non-heteroatom bearing ring may be a carbocycle (e.g., 6,7-Dihydro-5H-cyclopentapyrimidine) or aryl (e.g., benzofuranyl, benzothiophenyl, indolyl). Exemplary heteroaryl groups have from 5 to 14 ring atoms and contain from 1 to 5 ring heteroatoms independently selected from nitrogen (N), oxygen (O), or sulfur (S). One or more N or S atoms in a heteroaryl group can be oxidized. Heteroaryl groups can be substituted. Non-limiting examples of heteroaryl rings containing a single ring include: 1,2,3,4-tetrazolyl, [1,2,3]triazolyl, [1,2,4]triazolyl, triazinyl, thiazolyl, 1H-imidazolyl, oxazolyl, furanyl, thiopheneyl, pyrimidinyl, 2-phenylpyrimidinyl, pyridinyl, 3-methylpyridinyl, and 4-dimethylaminopyridinyl. Non-limiting examples of heteroaryl rings containing 2 or more fused rings include: benzofuranyl, benzothiophenyl, benzoxazolyl, benzthiazolyl, benztriazolyl, cinnolinyl, naphthyridinyl, phenanthridinyl, 7H-purinyl, 9H-purinyl, 6-amino-9H-purinyl, 5H-pyrrolo[3,2-d]pyrimidinyl, 7H-pyrrolo[2,3-d]pyrimidinyl, pyrido[2,3-d]pyrimidinyl, 2-phenylbenzo[d]thiazolyl, 1H-indolyl, 4,5,6,7-tetrahydro-1-H-indolyl, quinoxalinyl, 5-methylquinoxalinyl, quinazolinyl, quinolinyl, 8-hydroxy-quinolinyl, and isoquinolinyl.
+* One non-limiting example of a heteroaryl group as described above is C1-C5 heteroaryl, which has 1 to 5 carbon ring atoms and at least one additional ring atom that is a heteroatom (preferably 1 to 4 additional ring atoms that are heteroatoms) independently selected from nitrogen (N), oxygen (O), or sulfur (S). Examples of C1-C5 heteroaryl include, but are not limited to, triazinyl, thiazol-2-yl, thiazol-4-yl, imidazol-1-yl, 1H-imidazol-2-yl, 1H-imidazol-4-yl, isoxazolin-5-yl, furan-2-yl, furan-3-yl, thiophen-2-yl, thiophen-4-yl, pyrimidin-2-yl, pyrimidin-4-yl, pyrimidin-5-yl, pyridin-2-yl, pyridin-3-yl, and pyridin-4-yl.
+* Unless otherwise noted, when two substituents are taken together to form a ring having a specified number of ring atoms (e.g., R2 and R3 taken together with the nitrogen (N) to which they are attached to form a ring having from 3 to 7 ring members), the ring can have carbon atoms and optionally one or more (e.g., 1 to 3) additional heteroatoms independently selected from nitrogen (N), oxygen (O), or sulfur (S). The ring can be saturated or partially saturated and can be optionally substituted.
+* For the purposed of the present invention fused ring units, as well as spirocyclic rings, bicyclic rings and the like, which comprise a single heteroatom will be considered to belong to the cyclic family corresponding to the heteroatom containing ring. For example, 1,2,3,4-tetrahydroquinoline having the formula:
+* [![Figure US20210070703A1-20210311-C00009](https://patentimages.storage.googleapis.com/df/7d/2f/7fb3fee5e7234e/US20210070703A1-20210311-C00009.png)](https://patentimages.storage.googleapis.com/df/7d/2f/7fb3fee5e7234e/US20210070703A1-20210311-C00009.png)
+* is, for the purposes of the present invention, considered a heterocyclic unit. 6,7-Dihydro-5H-cyclopentapyrimidine having the formula:
+* [![Figure US20210070703A1-20210311-C00010](https://patentimages.storage.googleapis.com/c4/84/2b/dffc3f8071c38a/US20210070703A1-20210311-C00010.png)](https://patentimages.storage.googleapis.com/c4/84/2b/dffc3f8071c38a/US20210070703A1-20210311-C00010.png)
+* is, for the purposes of the present invention, considered a heteroaryl unit. When a fused ring unit contains heteroatoms in both a saturated and an aryl ring, the aryl ring will predominate and determine the type of category to which the ring is assigned. For example, 1,2,3,4-tetrahydro-[1,8]naphthyridine having the formula:
+* [![Figure US20210070703A1-20210311-C00011](https://patentimages.storage.googleapis.com/ff/f9/bc/0d72ab113760f8/US20210070703A1-20210311-C00011.png)](https://patentimages.storage.googleapis.com/ff/f9/bc/0d72ab113760f8/US20210070703A1-20210311-C00011.png)
+* is, for the purposes of the present invention, considered a heteroaryl unit.
+* Whenever a term or either of their prefix roots appear in a name of a substituent the name is to be interpreted as including those limitations provided herein. For example, whenever the term “alkyl” or “aryl” or either of their prefix roots appear in a name of a substituent (e.g., arylalkyl, alkylamino) the name is to be interpreted as including those limitations given above for “alkyl” and “aryl.”
+* The term “substituted” is used throughout the specification. The term “substituted” is defined herein as a moiety, whether acyclic or cyclic, which has one or more hydrogen atoms replaced by a substituent or several (e.g., 1 to 10) substituents as defined herein below. The substituents are capable of replacing one or two hydrogen atoms of a single moiety at a time. In addition, these substituents can replace two hydrogen atoms on two adjacent carbons to form said substituent, new moiety or unit. For example, a substituted unit that requires a single hydrogen atom replacement includes halogen, hydroxyl, and the like. A two hydrogen atom replacement includes carbonyl, oximino, and the like. A two hydrogen atom replacement from adjacent carbon atoms includes epoxy, and the like. The term “substituted” is used throughout the present specification to indicate that a moiety can have one or more of the hydrogen atoms replaced by a substituent. When a moiety is described as “substituted” any number of the hydrogen atoms may be replaced. For example, difluoromethyl is a substituted C1 alkyl; trifluoromethyl is a substituted C1 alkyl; 4-hydroxyphenyl is a substituted aromatic ring; (N,N-dimethyl-5-amino)octanyl is a substituted C8 alkyl; 3-guanidinopropyl is a substituted C3 alkyl; and 2-carboxypyridinyl is a substituted heteroaryl.
+* The variable groups defined herein, e.g., alkyl, alkenyl, alkynyl, cycloalkyl, alkoxy, aryloxy, aryl, heterocycle and heteroaryl groups defined herein, whether used alone or as part of another group, can be optionally substituted. Optionally substituted groups will be so indicated.
+* For the purposes of the present invention the terms “compound,” “analog,” and “composition of matter” stand equally well for the pregenomic RNA encapsidation inhibitors described herein, including all enantiomeric forms, diastereomeric forms, salts, and the like, and the terms “compound,” “analog,” and “composition of matter” are used interchangeably throughout the present specification.
+* Compounds described herein can contain an asymmetric atom (also referred as a chiral center), and some of the compounds can contain one or more asymmetric atoms or centers, which can thus give rise to optical isomers (enantiomers) and diastereomers. The present teachings and compounds disclosed herein include such enantiomers and diastereomers, as well as the racemic and resolved, enantiomerically pure R and S stereoisomers, as well as other mixtures of the R and S stereoisomers and pharmaceutically acceptable salts thereof. Optical isomers can be obtained in pure form by standard procedures known to those skilled in the art, which include, but are not limited to, diastereomeric salt formation, kinetic resolution, and asymmetric synthesis. The present teachings also encompass cis and trans isomers of compounds containing alkenyl moieties (e.g., alkenes and imines). It is also understood that the present teachings encompass all possible regioisomers, and mixtures thereof, which can be obtained in pure form by standard separation procedures known to those skilled in the art, and include, but are not limited to, column chromatography, thin-layer chromatography, and high-performance liquid chromatography.
+* Pharmaceutically acceptable salts of compounds of the present teachings, which can have an acidic moiety, can be formed using organic and inorganic bases. Both mono and polyanionic salts are contemplated, depending on the number of acidic hydrogens available for deprotonation. Suitable salts formed with bases include metal salts, such as alkali metal or alkaline earth metal salts, for example sodium, potassium, or magnesium salts; ammonia salts and organic amine salts, such as those formed with morpholine, thiomorpholine, piperidine, pyrrolidine, a mono-, di- or tri-lower alkylamine (e.g., ethyl-tert-butyl-, diethyl-, diisopropyl-, triethyl-, tributyl- or dimethylpropylamine), or a mono-, di-, or trihydroxy lower alkylamine (e.g., mono-, di- or triethanolamine). Specific non-limiting examples of inorganic bases include NaHCO3, Na2CO3, KHCO3, K2CO3, Cs2CO3, LiOH, NaOH, KOH, NaH2PO4, Na2HPO4, and Na3PO4. Internal salts also can be formed. Similarly, when a compound disclosed herein contains a basic moiety, salts can be formed using organic and inorganic acids. For example, salts can be formed from the following acids: acetic, propionic, lactic, benzenesulfonic, benzoic, camphorsulfonic, citric, tartaric, succinic, dichloroacetic, ethenesulfonic, formic, fumaric, gluconic, glutamic, hippuric, hydrobromic, hydrochloric, isethionic, lactic, maleic, malic, malonic, mandelic, methanesulfonic, mucic, napthalenesulfonic, nitric, oxalic, pamoic, pantothenic, phosphoric, phthalic, propionic, succinic, sulfuric, tartaric, toluenesulfonic, and camphorsulfonic as well as other known pharmaceutically acceptable acids.
+* The terms “treat” and “treating” and “treatment” as used herein, refer to partially or completely alleviating, inhibiting, ameliorating and/or relieving a condition from which a patient is suspected to suffer.
+* As used herein, “therapeutically effective” and “effective dose” refer to a substance or an amount that elicits a desirable biological activity or effect.
+* Except when noted, the terms “subject” or “patient” are used interchangeably and refer to mammals such as human patients and non-human primates, as well as experimental animals such as rabbits, rats, and mice, and other animals. Accordingly, the term “subject” or “patient” as used herein means any mammalian patient or subject to which the compounds of the invention can be administered. In an exemplary embodiment of the present invention, to identify subject patients for treatment according to the methods of the invention, accepted screening methods are employed to determine risk factors associated with a targeted or suspected disease or condition or to determine the status of an existing disease or condition in a subject. These screening methods include, for example, conventional work-ups to determine risk factors that may be associated with the targeted or suspected disease or condition. These and other routine methods allow the clinician to select patients in need of therapy using the methods and compounds of the present invention.
+* The pregenomic RNA encapsidation inhibitors
+* The pregenomic RNA encapsidation inhibitors of the present invention useful for the treatment of Hepatitis B virus (HBV) infection and related conditions are sulfamoylbenzamide derivatives, and include all enantiomeric and diastereomeric forms and pharmaceutically accepted salts thereof having the formula (I):
+* [![Figure US20210070703A1-20210311-C00012](https://patentimages.storage.googleapis.com/a4/75/65/96eb4e089c0d74/US20210070703A1-20210311-C00012.png)](https://patentimages.storage.googleapis.com/a4/75/65/96eb4e089c0d74/US20210070703A1-20210311-C00012.png)
+* including hydrates, solvates, pharmaceutically acceptable salts, pro-drugs and complexes thereof, wherein:
+
+  R1 is hydrogen;
+
+  R2 is selected from a group consisting of hydrogen, methyl, trifluoromethyl, fluorine, and chlorine;
+
+  R3 is selected from a group consisting of hydrogen, methyl, fluorine, and chlorine;
+
+  R4 is selected from a group consisting of hydrogen, fluorine, chlorine, and methyl;
+
+  R5 is selected from a group consisting of hydrogen and chlorine;
+
+  R7 is selected from a group consisting of hydrogen, chlorine, fluorine, and bromine;
+
+  R9 is selected from a group consisting of hydrogen, methyl, fluorine, and chlorine;
+
+  Rx is selected from a group consisting of NH2,
+* [![Figure US20210070703A1-20210311-C00013](https://patentimages.storage.googleapis.com/51/e2/46/41ab09bc5f031a/US20210070703A1-20210311-C00013.png)](https://patentimages.storage.googleapis.com/51/e2/46/41ab09bc5f031a/US20210070703A1-20210311-C00013.png)
+
+   
+
+  [![Figure US20210070703A1-20210311-C00014](https://patentimages.storage.googleapis.com/36/f4/5d/077f77b91e6e47/US20210070703A1-20210311-C00014.png)](https://patentimages.storage.googleapis.com/36/f4/5d/077f77b91e6e47/US20210070703A1-20210311-C00014.png)
+* The present invention is further directed toward the novel method of use of sulfamoylbenzamide derivatives of the formula (II), useful as pregenomic RNA encapsidation inhibitors for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+* [![Figure US20210070703A1-20210311-C00015](https://patentimages.storage.googleapis.com/d2/ae/c4/413661a86d3fe3/US20210070703A1-20210311-C00015.png)](https://patentimages.storage.googleapis.com/d2/ae/c4/413661a86d3fe3/US20210070703A1-20210311-C00015.png)
+* including hydrates, solvates, pharmaceutically acceptable salts, prodrugs and complexes thereof, wherein:
+
+  Rx is selected from a group consisting of
+* [![Figure US20210070703A1-20210311-C00016](https://patentimages.storage.googleapis.com/7d/8d/42/be63d2c7ac100c/US20210070703A1-20210311-C00016.png)](https://patentimages.storage.googleapis.com/7d/8d/42/be63d2c7ac100c/US20210070703A1-20210311-C00016.png)
+* The present invention is further directed toward the novel method of use of sulfamoylbenzamide derivatives of the formula (III), useful as pregenomic RNA encapsidation inhibitors for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+* [![Figure US20210070703A1-20210311-C00017](https://patentimages.storage.googleapis.com/8b/d5/81/258ce506c3e0b9/US20210070703A1-20210311-C00017.png)](https://patentimages.storage.googleapis.com/8b/d5/81/258ce506c3e0b9/US20210070703A1-20210311-C00017.png)
+* Including hydrates, solvates, pharmaceutically acceptable salts, pro-drugs and complexes thereof, wherein:
+
+  R10 is selected from a group consisting of hydrogen, methyl, chlorine, and bromine;
+
+  Ry is selected from a group consisting of
+* [![Figure US20210070703A1-20210311-C00018](https://patentimages.storage.googleapis.com/2f/9e/d0/b42714d2eae70c/US20210070703A1-20210311-C00018.png)](https://patentimages.storage.googleapis.com/2f/9e/d0/b42714d2eae70c/US20210070703A1-20210311-C00018.png)
+* The present invention is further directed toward the novel method of use of sulfamoylbenzamide derivatives of the formula (IV), useful as pregenomic RNA encapsidation inhibitors for the treatment of Hepatitis B virus (HBV) infection and related conditions.
+* [![Figure US20210070703A1-20210311-C00019](https://patentimages.storage.googleapis.com/60/83/64/744e6d6c4a3a60/US20210070703A1-20210311-C00019.png)](https://patentimages.storage.googleapis.com/60/83/64/744e6d6c4a3a60/US20210070703A1-20210311-C00019.png)
+* Including hydrates, solvates, pharmaceutically acceptable salts, prodrugs and complexes thereof.
+* For the purposes of demonstrating the manner in which the compounds of the present invention are named and referred to herein, the compound having the formula:
+* [![Figure US20210070703A1-20210311-C00020](https://patentimages.storage.googleapis.com/38/b1/54/17030b928a8cd5/US20210070703A1-20210311-C00020.png)](https://patentimages.storage.googleapis.com/38/b1/54/17030b928a8cd5/US20210070703A1-20210311-C00020.png)
+* has the chemical name 2-Chloro-5-sulfamoyl-N-3-methylphenyl-benzamide.
+* For the purposes of demonstrating the manner in which the compounds of the present invention are named and referred to herein the compound having the formula:
+* [![Figure US20210070703A1-20210311-C00021](https://patentimages.storage.googleapis.com/a1/27/4f/ee6b8055a23eb8/US20210070703A1-20210311-C00021.png)](https://patentimages.storage.googleapis.com/a1/27/4f/ee6b8055a23eb8/US20210070703A1-20210311-C00021.png)
+* has the chemical name 5-(2-Butylsulfamoyl)-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide.
+* For the purposes of demonstrating the manner in which the compounds of the present invention are named and referred to herein, the compound having the formula:
+* [![Figure US20210070703A1-20210311-C00022](https://patentimages.storage.googleapis.com/ec/7c/54/d6992b7743db8e/US20210070703A1-20210311-C00022.png)](https://patentimages.storage.googleapis.com/ec/7c/54/d6992b7743db8e/US20210070703A1-20210311-C00022.png)
+* has the chemical name N-Benzyl-4-bromo-3-diethylsulfamoyl-benzamide.
+* For the purposes of demonstrating the manner in which the compounds of the present invention are named and referred to herein, the compound having the formula:
+* [![Figure US20210070703A1-20210311-C00023](https://patentimages.storage.googleapis.com/e8/17/f1/708f220e06e5e1/US20210070703A1-20210311-C00023.png)](https://patentimages.storage.googleapis.com/e8/17/f1/708f220e06e5e1/US20210070703A1-20210311-C00023.png)
+* has the  chemical name  5,5,11-Trioxo-10,11-dihydro-5H-5l6-dibenzo[b,f][1,4]thiazepine-8-carboxylic acid benzylamide.
+* For the purposes of the present invention, a compound depicted by the racemic formula, for example:
+* [![Figure US20210070703A1-20210311-C00024](https://patentimages.storage.googleapis.com/d5/08/9b/21604f79b032dd/US20210070703A1-20210311-C00024.png)](https://patentimages.storage.googleapis.com/d5/08/9b/21604f79b032dd/US20210070703A1-20210311-C00024.png)
+* will stand equally well for either of the two enantiomers having the formula:
+* [![Figure US20210070703A1-20210311-C00025](https://patentimages.storage.googleapis.com/dc/3e/bc/5a6a3357532d21/US20210070703A1-20210311-C00025.png)](https://patentimages.storage.googleapis.com/dc/3e/bc/5a6a3357532d21/US20210070703A1-20210311-C00025.png)
+* or the formula:
+* [![Figure US20210070703A1-20210311-C00026](https://patentimages.storage.googleapis.com/6d/ff/e9/a5f140618978c4/US20210070703A1-20210311-C00026.png)](https://patentimages.storage.googleapis.com/6d/ff/e9/a5f140618978c4/US20210070703A1-20210311-C00026.png)
+* or mixtures thereof, or in the case where a second chiral center is present, all diastereomers.
+* In some embodiments, R1 is hydrogen.
+* In some embodiments, R2 is hydrogen.
+* In some embodiments, R2 is methyl.
+* In some embodiments, R2 is trifluoromethyl.
+* In some embodiments, R2 is fluorine.
+* In some embodiments, R2 is chlorine.
+* In some embodiments, R3 is hydrogen.
+* In some embodiments, R3 is methyl.
+* In some embodiments, R3 is fluorine.
+* In some embodiments, R3 is chlorine.
+* In some embodiments, R4 is hydrogen.
+* In some embodiments, R4 is methyl.
+* In some embodiments, R4 is fluorine.
+* In some embodiments, R4 is chlorine.
+* In some embodiments, R5 is hydrogen.
+* In some embodiments, R5 is chlorine.
+* In some embodiments, R7 is hydrogen.
+* In some embodiments, R7 is chlorine.
+* In some embodiments, R7 is fluorine.
+* In some embodiments, R7 is bromine.
+* In some embodiments, R9 is hydrogen.
+* In some embodiments, R9 is methyl.
+* In some embodiments, R9 is fluorine.
+* In some embodiments, R9 is chlorine.
+* In some embodiments, Rx is NH2.
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00027](https://patentimages.storage.googleapis.com/11/26/ba/5b082840f5176c/US20210070703A1-20210311-C00027.png)](https://patentimages.storage.googleapis.com/11/26/ba/5b082840f5176c/US20210070703A1-20210311-C00027.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00028](https://patentimages.storage.googleapis.com/8f/d1/ac/053195a06df39b/US20210070703A1-20210311-C00028.png)](https://patentimages.storage.googleapis.com/8f/d1/ac/053195a06df39b/US20210070703A1-20210311-C00028.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00029](https://patentimages.storage.googleapis.com/ad/39/24/7b5bb59b2aff76/US20210070703A1-20210311-C00029.png)](https://patentimages.storage.googleapis.com/ad/39/24/7b5bb59b2aff76/US20210070703A1-20210311-C00029.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00030](https://patentimages.storage.googleapis.com/58/6e/ab/15ca3a7e309286/US20210070703A1-20210311-C00030.png)](https://patentimages.storage.googleapis.com/58/6e/ab/15ca3a7e309286/US20210070703A1-20210311-C00030.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00031](https://patentimages.storage.googleapis.com/3d/59/21/03cb123b4ef0c5/US20210070703A1-20210311-C00031.png)](https://patentimages.storage.googleapis.com/3d/59/21/03cb123b4ef0c5/US20210070703A1-20210311-C00031.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00032](https://patentimages.storage.googleapis.com/fa/53/54/ec77bdece4f61e/US20210070703A1-20210311-C00032.png)](https://patentimages.storage.googleapis.com/fa/53/54/ec77bdece4f61e/US20210070703A1-20210311-C00032.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00033](https://patentimages.storage.googleapis.com/a7/b3/7e/d1e691d820a917/US20210070703A1-20210311-C00033.png)](https://patentimages.storage.googleapis.com/a7/b3/7e/d1e691d820a917/US20210070703A1-20210311-C00033.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00034](https://patentimages.storage.googleapis.com/df/30/13/79a9047e9f355a/US20210070703A1-20210311-C00034.png)](https://patentimages.storage.googleapis.com/df/30/13/79a9047e9f355a/US20210070703A1-20210311-C00034.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00035](https://patentimages.storage.googleapis.com/cf/40/10/35c2f25c6df973/US20210070703A1-20210311-C00035.png)](https://patentimages.storage.googleapis.com/cf/40/10/35c2f25c6df973/US20210070703A1-20210311-C00035.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00036](https://patentimages.storage.googleapis.com/2e/e6/bd/a913b4941361d4/US20210070703A1-20210311-C00036.png)](https://patentimages.storage.googleapis.com/2e/e6/bd/a913b4941361d4/US20210070703A1-20210311-C00036.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00037](https://patentimages.storage.googleapis.com/a3/fa/0e/5ae8e1454acfb5/US20210070703A1-20210311-C00037.png)](https://patentimages.storage.googleapis.com/a3/fa/0e/5ae8e1454acfb5/US20210070703A1-20210311-C00037.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00038](https://patentimages.storage.googleapis.com/03/68/fa/c1e69eb80dc5a1/US20210070703A1-20210311-C00038.png)](https://patentimages.storage.googleapis.com/03/68/fa/c1e69eb80dc5a1/US20210070703A1-20210311-C00038.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00039](https://patentimages.storage.googleapis.com/f1/ab/38/d6317c34697165/US20210070703A1-20210311-C00039.png)](https://patentimages.storage.googleapis.com/f1/ab/38/d6317c34697165/US20210070703A1-20210311-C00039.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00040](https://patentimages.storage.googleapis.com/f0/e1/ee/a8c564327c10c3/US20210070703A1-20210311-C00040.png)](https://patentimages.storage.googleapis.com/f0/e1/ee/a8c564327c10c3/US20210070703A1-20210311-C00040.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00041](https://patentimages.storage.googleapis.com/de/32/3e/f6e53344fbced4/US20210070703A1-20210311-C00041.png)](https://patentimages.storage.googleapis.com/de/32/3e/f6e53344fbced4/US20210070703A1-20210311-C00041.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00042](https://patentimages.storage.googleapis.com/fd/50/68/9494e05421c342/US20210070703A1-20210311-C00042.png)](https://patentimages.storage.googleapis.com/fd/50/68/9494e05421c342/US20210070703A1-20210311-C00042.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00043](https://patentimages.storage.googleapis.com/8f/39/ae/8e1634cf3b2fe0/US20210070703A1-20210311-C00043.png)](https://patentimages.storage.googleapis.com/8f/39/ae/8e1634cf3b2fe0/US20210070703A1-20210311-C00043.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00044](https://patentimages.storage.googleapis.com/95/37/8f/de05ad8b637352/US20210070703A1-20210311-C00044.png)](https://patentimages.storage.googleapis.com/95/37/8f/de05ad8b637352/US20210070703A1-20210311-C00044.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00045](https://patentimages.storage.googleapis.com/55/d1/06/cc3d14e90f8179/US20210070703A1-20210311-C00045.png)](https://patentimages.storage.googleapis.com/55/d1/06/cc3d14e90f8179/US20210070703A1-20210311-C00045.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00046](https://patentimages.storage.googleapis.com/f8/89/68/f7e565ccc828d4/US20210070703A1-20210311-C00046.png)](https://patentimages.storage.googleapis.com/f8/89/68/f7e565ccc828d4/US20210070703A1-20210311-C00046.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00047](https://patentimages.storage.googleapis.com/cf/84/85/d5ba52cf0a2dd4/US20210070703A1-20210311-C00047.png)](https://patentimages.storage.googleapis.com/cf/84/85/d5ba52cf0a2dd4/US20210070703A1-20210311-C00047.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00048](https://patentimages.storage.googleapis.com/98/26/60/a954910beb5465/US20210070703A1-20210311-C00048.png)](https://patentimages.storage.googleapis.com/98/26/60/a954910beb5465/US20210070703A1-20210311-C00048.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00049](https://patentimages.storage.googleapis.com/3e/49/fa/dfa4d0860737d5/US20210070703A1-20210311-C00049.png)](https://patentimages.storage.googleapis.com/3e/49/fa/dfa4d0860737d5/US20210070703A1-20210311-C00049.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00050](https://patentimages.storage.googleapis.com/c9/c5/6c/26a97fc57444e6/US20210070703A1-20210311-C00050.png)](https://patentimages.storage.googleapis.com/c9/c5/6c/26a97fc57444e6/US20210070703A1-20210311-C00050.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00051](https://patentimages.storage.googleapis.com/7a/52/4f/874bc8915e1992/US20210070703A1-20210311-C00051.png)](https://patentimages.storage.googleapis.com/7a/52/4f/874bc8915e1992/US20210070703A1-20210311-C00051.png)
+* In some embodiments, Rx is
+* [![Figure US20210070703A1-20210311-C00052](https://patentimages.storage.googleapis.com/d1/2d/a1/0de2337d23caf7/US20210070703A1-20210311-C00052.png)](https://patentimages.storage.googleapis.com/d1/2d/a1/0de2337d23caf7/US20210070703A1-20210311-C00052.png)
+* In some embodiments, R10 is hydrogen.
+* In some embodiments, R10 is methyl.
+* In some embodiments, R10 is chlorine.
+* In some embodiments, R10 is bromine.
+* In some embodiments, Ry is
+* [![Figure US20210070703A1-20210311-C00053](https://patentimages.storage.googleapis.com/c1/9e/6c/6c2d9d66c527a5/US20210070703A1-20210311-C00053.png)](https://patentimages.storage.googleapis.com/c1/9e/6c/6c2d9d66c527a5/US20210070703A1-20210311-C00053.png)
+* In some embodiments, Ry is
+* [![Figure US20210070703A1-20210311-C00054](https://patentimages.storage.googleapis.com/dd/62/78/e12eb4f4a8a975/US20210070703A1-20210311-C00054.png)](https://patentimages.storage.googleapis.com/dd/62/78/e12eb4f4a8a975/US20210070703A1-20210311-C00054.png)
+* In some embodiments, Ry is
+* [![Figure US20210070703A1-20210311-C00055](https://patentimages.storage.googleapis.com/fd/fb/0f/d4b63f1b7c806c/US20210070703A1-20210311-C00055.png)](https://patentimages.storage.googleapis.com/fd/fb/0f/d4b63f1b7c806c/US20210070703A1-20210311-C00055.png)
+* In some embodiments, Ry is
+* [![Figure US20210070703A1-20210311-C00056](https://patentimages.storage.googleapis.com/32/c1/8d/1e21ad1045b1fd/US20210070703A1-20210311-C00056.png)](https://patentimages.storage.googleapis.com/32/c1/8d/1e21ad1045b1fd/US20210070703A1-20210311-C00056.png)
+* In some embodiments, Ry is
+* [![Figure US20210070703A1-20210311-C00057](https://patentimages.storage.googleapis.com/4a/ed/7a/03e4bd11950efd/US20210070703A1-20210311-C00057.png)](https://patentimages.storage.googleapis.com/4a/ed/7a/03e4bd11950efd/US20210070703A1-20210311-C00057.png)
+* In some embodiments, Ry is
+* [![Figure US20210070703A1-20210311-C00058](https://patentimages.storage.googleapis.com/55/37/b7/38efc7a9aff865/US20210070703A1-20210311-C00058.png)](https://patentimages.storage.googleapis.com/55/37/b7/38efc7a9aff865/US20210070703A1-20210311-C00058.png)
+* Exemplary embodiments include compounds having the formula (V) or a pharmaceutically acceptable salt form thereof:
+* [![Figure US20210070703A1-20210311-C00059](https://patentimages.storage.googleapis.com/41/da/85/b4ba6f18440ff9/US20210070703A1-20210311-C00059.png)](https://patentimages.storage.googleapis.com/41/da/85/b4ba6f18440ff9/US20210070703A1-20210311-C00059.png)
+* wherein non-limiting examples of R1, R2, R3, R5, R7 and R9 are defined herein below in Table 1.
+* | TABLE 1 |
+  | --- |
+  |  |
+  | Exemplary embodiments of compounds of the formula (V): |
+
+  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | Compound |  |  |  |  |  |  |
+  | Name | R1 | R2 | R3 | R5 | R7 | R9 |
+  |  | | | | | | |
+  | DVR-16 | H | CH3 | H | H | Cl | H |
+  | DVR-19 | H | CF3 | H | H | H | F |
+  | DVR-21 | H | CF3 | H | Cl | H | F |
+  | DVR-22 | H | H | H | H | H | H |
+  |  | | | | | | |
+* Exemplary embodiments include compounds having the formula (VI) or a pharmaceutically acceptable salt form thereof:
+* [![Figure US20210070703A1-20210311-C00060](https://patentimages.storage.googleapis.com/ff/f7/92/75d08f59abcf42/US20210070703A1-20210311-C00060.png)](https://patentimages.storage.googleapis.com/ff/f7/92/75d08f59abcf42/US20210070703A1-20210311-C00060.png)
+* wherein non-limiting examples of R2, R3, R4, R7, R9, and Rx are defined herein below in Table 2.
+* | TABLE 2 |
+  | --- |
+  |  |
+  | Exemplary embodiments of compounds of the formula (VI) |
+
+  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | Compound | R2 | R3 | R4 | R7 | R9 | RX |
+  |  | | | | | | |
+  | DVR-23 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00061](https://patentimages.storage.googleapis.com/04/b0/bf/9448df610bd615/US20210070703A1-20210311-C00061.png) |
+  |  |
+  | DVR-24 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00062](https://patentimages.storage.googleapis.com/58/b9/01/214d680973470b/US20210070703A1-20210311-C00062.png) |
+  |  |
+  | DVR-25 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00063](https://patentimages.storage.googleapis.com/e0/44/09/508f28bdd2ee25/US20210070703A1-20210311-C00063.png) |
+  |  |
+  | DVR-26 | CH3 | H | H | Cl | H | [Figure US20210070703A1-20210311-C00064](https://patentimages.storage.googleapis.com/98/0b/f8/327b57d3ff92d5/US20210070703A1-20210311-C00064.png) |
+  |  |
+  | DVR-27 | H | Cl | H | H | H | [Figure US20210070703A1-20210311-C00065](https://patentimages.storage.googleapis.com/b9/44/32/79d718be3e373c/US20210070703A1-20210311-C00065.png) |
+  |  |
+  | DVR-34 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00066](https://patentimages.storage.googleapis.com/d7/46/41/345ca8b11e3067/US20210070703A1-20210311-C00066.png) |
+  |  |
+  | DVR-42 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00067](https://patentimages.storage.googleapis.com/1f/10/bd/a609c2aacb7912/US20210070703A1-20210311-C00067.png) |
+  |  |
+  | DVR-43 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00068](https://patentimages.storage.googleapis.com/87/85/85/0753dc50d88bfe/US20210070703A1-20210311-C00068.png) |
+  |  |
+  | DVR-44 | H | CH3 | H | F | H | [Figure US20210070703A1-20210311-C00069](https://patentimages.storage.googleapis.com/71/85/f2/d610efca34edde/US20210070703A1-20210311-C00069.png) |
+  |  |
+  | DVR-45 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00070](https://patentimages.storage.googleapis.com/fd/8d/e1/e38b0ce798f919/US20210070703A1-20210311-C00070.png) |
+  |  |
+  | DVR-47 | H | H | H | Br | H | [Figure US20210070703A1-20210311-C00071](https://patentimages.storage.googleapis.com/4a/dd/47/99f8557cf4e68e/US20210070703A1-20210311-C00071.png) |
+  |  |
+  | DVR-51 | H | F | H | H | Cl | [Figure US20210070703A1-20210311-C00072](https://patentimages.storage.googleapis.com/cc/2c/48/90d0b67afb585c/US20210070703A1-20210311-C00072.png) |
+  |  |
+  | DVR-52 | H | H | H | H | CH3 | [Figure US20210070703A1-20210311-C00073](https://patentimages.storage.googleapis.com/c6/d2/3e/64bb433c879100/US20210070703A1-20210311-C00073.png) |
+  |  |
+  | DVR-53 | F | F | H | H | F | [Figure US20210070703A1-20210311-C00074](https://patentimages.storage.googleapis.com/8b/9f/7f/8eb19892abf333/US20210070703A1-20210311-C00074.png) |
+  |  |
+  | DVR-55 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00075](https://patentimages.storage.googleapis.com/d7/9b/2c/9da2b6de77cbfe/US20210070703A1-20210311-C00075.png) |
+  |  |
+  | DVR-56 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00076](https://patentimages.storage.googleapis.com/bc/ee/60/8d1e4eaa9abf81/US20210070703A1-20210311-C00076.png) |
+  |  |
+  | DVR-57 | H | F | H | F | H | [Figure US20210070703A1-20210311-C00077](https://patentimages.storage.googleapis.com/ea/eb/86/cf75979cfc41f6/US20210070703A1-20210311-C00077.png) |
+  |  |
+  | DVR-61 | CH3 | H | CH3 | F | H | [Figure US20210070703A1-20210311-C00078](https://patentimages.storage.googleapis.com/e4/7d/e2/9778a9f8b2b5ba/US20210070703A1-20210311-C00078.png) |
+  |  |
+  | DVR-62 | CH3 | H | H | H | F | [Figure US20210070703A1-20210311-C00079](https://patentimages.storage.googleapis.com/b4/03/32/ba621c6b60e449/US20210070703A1-20210311-C00079.png) |
+  |  |
+  | DVR-63 | Cl | H | Cl | F | H | [Figure US20210070703A1-20210311-C00080](https://patentimages.storage.googleapis.com/52/df/dc/d0fee62a264e2c/US20210070703A1-20210311-C00080.png) |
+  |  |
+  | DVR-64 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00081](https://patentimages.storage.googleapis.com/15/de/0a/b5497d791518f0/US20210070703A1-20210311-C00081.png) |
+  |  |
+  | DVR-65 | Cl | F | H | F | H | [Figure US20210070703A1-20210311-C00082](https://patentimages.storage.googleapis.com/d9/87/f9/173a554ce38047/US20210070703A1-20210311-C00082.png) |
+  |  |
+  | DVR-66 | F | H | H | F | H | [Figure US20210070703A1-20210311-C00083](https://patentimages.storage.googleapis.com/14/ae/0e/743582a8e8846e/US20210070703A1-20210311-C00083.png) |
+  |  |
+  | DVR-68 | Cl | H | Cl | F | H | [Figure US20210070703A1-20210311-C00084](https://patentimages.storage.googleapis.com/d0/17/9e/03d8a04cbf4bd0/US20210070703A1-20210311-C00084.png) |
+  |  |
+  | DVR-69 | CH3 | H | H | H | F | [Figure US20210070703A1-20210311-C00085](https://patentimages.storage.googleapis.com/e7/f0/c6/80cb33c743345a/US20210070703A1-20210311-C00085.png) |
+  |  |
+  | DVR-70 | H | H | H | Cl | H | [Figure US20210070703A1-20210311-C00086](https://patentimages.storage.googleapis.com/25/93/59/5c33e5d6302827/US20210070703A1-20210311-C00086.png) |
+  |  |
+  | DVR-73 | Cl | H | H | F | H | [Figure US20210070703A1-20210311-C00087](https://patentimages.storage.googleapis.com/66/28/31/82334f055b9ab3/US20210070703A1-20210311-C00087.png) |
+  |  |
+  | DVR-74 | CH3 | H | CH3 | F | H | [Figure US20210070703A1-20210311-C00088](https://patentimages.storage.googleapis.com/17/ad/19/6e6529ed036cc9/US20210070703A1-20210311-C00088.png) |
+  |  |
+  | DVR-75 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00089](https://patentimages.storage.googleapis.com/84/0b/e8/aa6f3cc314fcc3/US20210070703A1-20210311-C00089.png) |
+  |  |
+  | DVR-77 | Cl | H | H | H | F | [Figure US20210070703A1-20210311-C00090](https://patentimages.storage.googleapis.com/e2/fd/5b/1f65ac7ee1283f/US20210070703A1-20210311-C00090.png) |
+  |  |
+  | DVR-82 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00091](https://patentimages.storage.googleapis.com/c7/f7/0d/14d1cc06dc87aa/US20210070703A1-20210311-C00091.png) |
+  |  |
+  | DVR-83 | Cl | H | H | F | H | [Figure US20210070703A1-20210311-C00092](https://patentimages.storage.googleapis.com/37/67/fd/0201c8c5b42867/US20210070703A1-20210311-C00092.png) |
+  |  |
+  | DVR-87 | Cl | F | H | F | H | [Figure US20210070703A1-20210311-C00093](https://patentimages.storage.googleapis.com/3f/7c/b7/56db9fb065c8cd/US20210070703A1-20210311-C00093.png) |
+  |  |
+  | DVR-89 | H | H | H | Cl | H | [Figure US20210070703A1-20210311-C00094](https://patentimages.storage.googleapis.com/6b/72/de/8e0dfe94f37988/US20210070703A1-20210311-C00094.png) |
+  |  |
+  | DVR-91 | H | Cl | H | F | H | [Figure US20210070703A1-20210311-C00095](https://patentimages.storage.googleapis.com/6f/de/41/609315112a30fc/US20210070703A1-20210311-C00095.png) |
+  |  |
+  | DVR-92 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00096](https://patentimages.storage.googleapis.com/ef/9b/67/0a005e83d1fe1e/US20210070703A1-20210311-C00096.png) |
+  |  |
+  | DVR-93 | H | Cl | H | H | F | [Figure US20210070703A1-20210311-C00097](https://patentimages.storage.googleapis.com/a3/2c/59/54a660febd081b/US20210070703A1-20210311-C00097.png) |
+  |  |
+  | DVR-94 | CH3 | H | H | F | H | [Figure US20210070703A1-20210311-C00098](https://patentimages.storage.googleapis.com/67/c0/14/68677c4ddf89dd/US20210070703A1-20210311-C00098.png) |
+  |  |
+  | DVR-96 | CH3 | H | H | F | H | [Figure US20210070703A1-20210311-C00099](https://patentimages.storage.googleapis.com/3d/b2/85/3e66fa086eac30/US20210070703A1-20210311-C00099.png) |
+  |  |
+  | DVR-98 | H | Cl | H | H | H | [Figure US20210070703A1-20210311-C00100](https://patentimages.storage.googleapis.com/d0/b7/3b/44c87e6c38a84c/US20210070703A1-20210311-C00100.png) |
+  |  |
+  | DVR-100 | H | Cl | H | H | H | [Figure US20210070703A1-20210311-C00101](https://patentimages.storage.googleapis.com/e4/88/d8/62abf47b6dea31/US20210070703A1-20210311-C00101.png) |
+  |  |
+  | DVR-101 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00102](https://patentimages.storage.googleapis.com/6f/b5/fb/74f2cf8796b2a8/US20210070703A1-20210311-C00102.png) |
+  |  |
+  | DVR-102 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00103](https://patentimages.storage.googleapis.com/39/06/f2/852eb1d0b869a0/US20210070703A1-20210311-C00103.png) |
+  |  |
+  | DVR-103 | F | F | H | H | F | [Figure US20210070703A1-20210311-C00104](https://patentimages.storage.googleapis.com/b4/91/df/2cfa7b2b93d8e8/US20210070703A1-20210311-C00104.png) |
+  |  |
+  | DVR-104 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00105](https://patentimages.storage.googleapis.com/6e/dc/34/2ebe7c08bd737c/US20210070703A1-20210311-C00105.png) |
+  |  |
+  | DVR-107 | H | H | H | H | CH3 | [Figure US20210070703A1-20210311-C00106](https://patentimages.storage.googleapis.com/dc/b6/60/39b9e7d381a13e/US20210070703A1-20210311-C00106.png) |
+  |  |
+  | DVR-108 | H | F | H | H | Cl | [Figure US20210070703A1-20210311-C00107](https://patentimages.storage.googleapis.com/2b/ab/18/b83810c407f31b/US20210070703A1-20210311-C00107.png) |
+  |  |
+  | DVR-115 | F | H | H | H | Cl | [Figure US20210070703A1-20210311-C00108](https://patentimages.storage.googleapis.com/56/d0/eb/9b4566d52fef2a/US20210070703A1-20210311-C00108.png) |
+  |  |
+  | DVR-117 | H | H | H | H | Cl | [Figure US20210070703A1-20210311-C00109](https://patentimages.storage.googleapis.com/68/2e/55/458e6cda2dc6cb/US20210070703A1-20210311-C00109.png) |
+  |  | | | | | | |
+* Exemplary embodiments include compounds having the formula (II) or a pharmaceutically acceptable salt form thereof:
+* [![Figure US20210070703A1-20210311-C00110](https://patentimages.storage.googleapis.com/6b/b4/75/b2c1132de29573/US20210070703A1-20210311-C00110.png)](https://patentimages.storage.googleapis.com/6b/b4/75/b2c1132de29573/US20210070703A1-20210311-C00110.png)
+* wherein non-limiting examples of Rx are defined herein below in Table 3.
+* | TABLE 3 |
+  | --- |
+  |  |
+  | Exemplary embodiments of compounds of the formula (II) |
+
+  |  |  |  |
+  | --- | --- | --- |
+  |  | Compound | Rx |
+  |  |  | | |
+  |  | DVR-23 | [Figure US20210070703A1-20210311-C00111](https://patentimages.storage.googleapis.com/fe/89/16/2a3b926fb592f0/US20210070703A1-20210311-C00111.png) |
+  |  |  |
+  |  | DVR-25 | [Figure US20210070703A1-20210311-C00112](https://patentimages.storage.googleapis.com/0e/52/90/4ba1d302ef948d/US20210070703A1-20210311-C00112.png) |
+  |  |  |
+  |  | DVR-34 | [Figure US20210070703A1-20210311-C00113](https://patentimages.storage.googleapis.com/8a/18/8c/7b35442602af2d/US20210070703A1-20210311-C00113.png) |
+  |  |  |
+  |  | DVR-42 | [Figure US20210070703A1-20210311-C00114](https://patentimages.storage.googleapis.com/43/dd/82/f4e9089073082f/US20210070703A1-20210311-C00114.png) |
+  |  |  |
+  |  | DVR-43 | [Figure US20210070703A1-20210311-C00115](https://patentimages.storage.googleapis.com/b7/60/47/0839674ab7e5d2/US20210070703A1-20210311-C00115.png) |
+  |  |  |
+  |  | DVR-104 | [Figure US20210070703A1-20210311-C00116](https://patentimages.storage.googleapis.com/f2/8f/c8/97d51cca280707/US20210070703A1-20210311-C00116.png) |
+  |  |  |
+  |  | DVR-45 | [Figure US20210070703A1-20210311-C00117](https://patentimages.storage.googleapis.com/b7/1c/bc/7035b3e69064e1/US20210070703A1-20210311-C00117.png) |
+  |  |  |
+  |  | DVR-56 | [Figure US20210070703A1-20210311-C00118](https://patentimages.storage.googleapis.com/43/e3/dc/e360ae5bc31858/US20210070703A1-20210311-C00118.png) |
+  |  |  |
+  |  | DVR-82 | [Figure US20210070703A1-20210311-C00119](https://patentimages.storage.googleapis.com/29/73/30/2c6d3bbd90ba1b/US20210070703A1-20210311-C00119.png) |
+  |  |  |
+  |  | DVR-92 | [Figure US20210070703A1-20210311-C00120](https://patentimages.storage.googleapis.com/6b/4f/3b/9a3f6deb91c88f/US20210070703A1-20210311-C00120.png) |
+  |  |  | | |
+* Exemplary embodiments include compounds having the formula (III) or a pharmaceutically acceptable salt form thereof:
+* [![Figure US20210070703A1-20210311-C00121](https://patentimages.storage.googleapis.com/e5/b8/dd/57e3984f0d7e86/US20210070703A1-20210311-C00121.png)](https://patentimages.storage.googleapis.com/e5/b8/dd/57e3984f0d7e86/US20210070703A1-20210311-C00121.png)
+* wherein non-limiting examples of R are defined herein below in Table 3.
+* | TABLE 4 |
+  | --- |
+  |  |
+  | Exemplary embodiments of compounds of the formula (III) |
+
+  |  |  |  |  |
+  | --- | --- | --- | --- |
+  |  | Compound | R10 | Ry |
+  |  |  | | | |
+  |  | DVR-01 | Cl | [Figure US20210070703A1-20210311-C00122](https://patentimages.storage.googleapis.com/5c/90/1a/fc6b27633a9a7b/US20210070703A1-20210311-C00122.png) |
+  |  |  |
+  |  | DVR-02 | Cl | [Figure US20210070703A1-20210311-C00123](https://patentimages.storage.googleapis.com/6f/67/12/dcfa48d73757a0/US20210070703A1-20210311-C00123.png) |
+  |  |  |
+  |  | DVR-08 | CH3 | [Figure US20210070703A1-20210311-C00124](https://patentimages.storage.googleapis.com/bc/80/a4/6422bb4ce56962/US20210070703A1-20210311-C00124.png) |
+  |  |  |
+  |  | DVR-09 | CH3 | [Figure US20210070703A1-20210311-C00125](https://patentimages.storage.googleapis.com/0b/5c/3e/ddb7fe456db5f8/US20210070703A1-20210311-C00125.png) |
+  |  |  |
+  |  | DVR-10 | H | [Figure US20210070703A1-20210311-C00126](https://patentimages.storage.googleapis.com/b5/18/0e/d82e7902654133/US20210070703A1-20210311-C00126.png) |
+  |  |  |
+  |  | DVR-11 | Br | [Figure US20210070703A1-20210311-C00127](https://patentimages.storage.googleapis.com/5f/f9/11/504ad1e7a5e592/US20210070703A1-20210311-C00127.png) |
+  |  |  | | | |
+* Exemplary embodiments include a compound having the formula (IV) or a pharmaceutically acceptable salt form thereof:
+* [![Figure US20210070703A1-20210311-C00128](https://patentimages.storage.googleapis.com/cc/5b/b6/c0bc736ec66136/US20210070703A1-20210311-C00128.png)](https://patentimages.storage.googleapis.com/cc/5b/b6/c0bc736ec66136/US20210070703A1-20210311-C00128.png)
+* In all of the embodiments provided herein, examples of suitable optional substituents are not intended to limit the scope of the claimed invention. The compounds of the invention may contain any of the substituents, or combinations of substituents, provided herein.
+* Compounds of the present teachings can be prepared in accordance with the procedures outlined herein, from commercially available starting materials, compounds known in the literature, or readily prepared intermediates, by employing standard synthetic methods and procedures known to those skilled in the art. Standard synthetic methods and procedures for the preparation of organic molecules and functional group transformations and manipulations can be readily obtained from the relevant scientific literature or from standard textbooks in the field. It will be appreciated that where typical or preferred process conditions (i.e., reaction temperatures, times, mole ratios of reactants, solvents, pressures, etc.) are given, other process conditions can also be used unless otherwise stated. Optimum reaction conditions can vary with the particular reactants or solvent used, but such conditions can be determined by one skilled in the art by routine optimization procedures. Those skilled in the art of organic synthesis will recognize that the nature and order of the synthetic steps presented can be varied for the purpose of optimizing the formation of the compounds described herein.
+* The processes described herein can be monitored according to any suitable method known in the art. For example, product formation can be monitored by spectroscopic means, such as nuclear magnetic resonance spectroscopy (e.g., 1H or 13C), infrared spectroscopy, spectrophotometry (e.g., UV-visible), mass spectrometry, or by chromatography such as high pressure liquid chromatograpy (HPLC), gas chromatography (GC), gel-permeation chromatography (GPC), or thin layer chromatography (TLC).
+* Preparation of the compounds can involve protection and deprotection of various chemical groups. The need for protection and deprotection and the selection of appropriate protecting groups can be readily determined by one skilled in the art. The chemistry of protecting groups can be found, for example, in Greene et al., *Protective Groups in Organic Synthesis,* 2d. Ed. (Wiley & Sons, 1991), the entire disclosure of which is incorporated by reference herein for all purposes.
+* The reactions or the processes described herein can be carried out in suitable solvents which can be readily selected by one skilled in the art of organic synthesis. Suitable solvents typically are substantially nonreactive with the reactants, intermediates, and/or products at the temperatures at which the reactions are carried out, i.e., temperatures that can range from the solvent's freezing temperature to the solvent's boiling temperature. A given reaction can be carried out in one solvent or a mixture of more than one solvent. Depending on the particular reaction step, suitable solvents for a particular reaction step can be selected.
+* The compounds of these teachings can be prepared by methods known in the art of organic chemistry. The reagents used in the preparation of the compounds of these teachings can be either commercially obtained or can be prepared by standard procedures described in the literature.
+EXAMPLES* The examples below provide methods for preparing representative compounds of formula (II). The skilled practitioner will know how to substitute the appropriate reagents, starting materials and purification methods known to those skilled in the art, in order to prepare additional compounds of the present invention.
+Example 1: Synthesis of 5-cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide (DVR-56)* [![Figure US20210070703A1-20210311-C00129](https://patentimages.storage.googleapis.com/9c/f5/29/81d952114690c2/US20210070703A1-20210311-C00129.png)](https://patentimages.storage.googleapis.com/9c/f5/29/81d952114690c2/US20210070703A1-20210311-C00129.png)
+* 5-Chlorosulfonyl-2-fluoro-benzoic acid (A, 0.506 g, 0.0021 mol), cyclopentylamine (B, 0.1806 g, 0.00212 mol) and diisopropylethyl amine (DIEA, 1.1 mL, 0.00636 mol) in CH2Cl2 were stirred at room temperature overnight. The solvent was evaporated and the crude product was purified by silica gel chromatography (MeOH containing 10% AcOH)/CH2Cl2) to give 5-cyclopentylsulfamoyl-2-fluoro-benzoic acid (C, 0.55 g, 90%). After drying overnight under vacuum, C (0.48 g, 0.0016 mol) in SOCl2 (5 mL) was heated at 80° C. for 3 hours, after which the SOCl2 was evaporated and the residue was dried overnight. The residue was then dissolved in tetrahydrofuran (5 mL), 3,4-Difluoro-phenylamine (D, 0.216 g, 0.00167 mol) was added followed by diisopropylethyl amine (0.5 mL). The mixture was heated to 70° C. overnight. The solvent was evaporated, followed by ethyl acetate extraction. After purification by silica gel chromatography (ethyl acetate/hexane), 0.3 g (45%) of 5-cyclopentylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide (DVR-56) was obtained.
+Example 2: Synthesis of 5-sec-butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide (DVR-23)* [![Figure US20210070703A1-20210311-C00130](https://patentimages.storage.googleapis.com/a2/76/a6/9e43020b1dfef2/US20210070703A1-20210311-C00130.png)](https://patentimages.storage.googleapis.com/a2/76/a6/9e43020b1dfef2/US20210070703A1-20210311-C00130.png)
+* 5-Chlorosulfonyl-2-fluoro-benzoic acid (A, 0.506 g, 0.0021 mol), sec-butylamine (E, 0.155 g, 0.00212 mol) and DIEA (1.1 mL, 0.00636 mol) in CH2Cl2 were stirred at room temperature overnight. The solvent was evaporated and the crude product was purified by silica gel chromatography (MeOH containing 10% AcOH)/CH2Cl2) to give 5-sec-Butylsulfamoyl-2-fluoro-benzoic acid (F, 0.56 g, 96%). After drying overnight under vacuum, F (0.56 g, 0.0020 mol) in SOCl2 (5 mL) was heated at 80° C. for 3 hours, after which the SOCl2 was evaporated and the residue was dried overnight. The residue was then dissolved in tetrahydrofuran (5 mL), 3,4-difluoro-phenylamine (D, 0.26 g, 0.0020 mol) was added followed by DIEA (0.8 mL). The mixture was heated to 70° C. overnight. The solvent was evaporated, followed by ethyl acetate extraction. After purification by silica gel chromatography (ethyl acetate/hexane), 0.45 g (57%) of 5-sec-butylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide (DVR-23) was obtained.
+Example 3: Synthesis of 5-cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide (DVR-45)* [![Figure US20210070703A1-20210311-C00131](https://patentimages.storage.googleapis.com/bf/41/62/895c90fbd010c2/US20210070703A1-20210311-C00131.png)](https://patentimages.storage.googleapis.com/bf/41/62/895c90fbd010c2/US20210070703A1-20210311-C00131.png)
+* 5-Chlorosulfonyl-2-fluoro-benzoic acid (A, 0.508 g, 0.0021 mol), Cyclohexylamine (G, 0.211 g, 0.00212 mol) and DIEA (1.1 mL, 0.00636 mol) in CH2Cl2 were stirred at room temperature overnight. The solvent was evaporated and the crude product was purified by silica gel chromatography (MeOH containing 10% AcOH)/CH2Cl2) to give 5-cyclohexylsulfamoyl-2-fluoro-benzoic acid (H, 0.6 g, 95%). After drying overnight under vacuum, H (0.22 g, 0.737 mmol) in SOCl2 (5 mL) was heated at 80° C. for 2 hours after which the SOCl2 was evaporated and the residue was dried overnight. The residue was then dissolved in tetrahydrofuran (5 mL), 3,4-difluoro-phenylamine (D, 95 mg, 0.737 mmol) was added followed by DIEA (0.8 mL). The mixture was heated to 70° C. overnight. The solvent was evaporated, followed by ethyl acetate extraction. After purification by silica gel chromatography (ethyl acetate/hexane), 0.192 g (63%) of 5-cyclohexylsulfamoyl-N-(3,4-difluoro-phenyl)-2-fluoro-benzamide (DVR-45) was obtained.
+Formulations* The present invention also relates to compositions or formulations which comprise the pregenomic RNA encapsidation inhibitors according to the present invention. In general, the compositions of the present invention comprise an effective amount of one or more sulfamoylbenzamide derivatives and salts thereof according to the present invention which are effective for useful for the treatment of Hepatitis B virus (HBV) infection and related conditions; and one or more excipients.
+* For the purposes of the present invention the term “excipient” and “carrier” are used interchangeably throughout the description of the present invention and said terms are defined herein as, “ingredients which are used in the practice of formulating a safe and effective pharmaceutical composition.”
+* The formulator will understand that excipients are used primarily to serve in delivering a safe, stable, and functional pharmaceutical, serving not only as part of the overall vehicle for delivery but also as a means for achieving effective absorption by the recipient of the active ingredient. An excipient may fill a role as simple and direct as being an inert filler, or an excipient as used herein may be part of a pH stabilizing system or coating to insure delivery of the ingredients safely to the stomach. The formulator can also take advantage of the fact the compounds of the present invention have improved cellular potency, pharmacokinetic properties, as well as improved oral bioavailability.
+* The present teachings also provide pharmaceutical compositions that include at least one compound described herein and one or more pharmaceutically acceptable carriers, excipients, or diluents. Examples of such carriers are well known to those skilled in the art and can be prepared in accordance with acceptable pharmaceutical procedures, such as, for example, those described in *Remington's Pharmaceutical Sciences,* 17th edition, ed. Alfonoso R. Gennaro, Mack Publishing Company, Easton, Pa. (1985), the entire disclosure of which is incorporated by reference herein for all purposes. As used herein, “pharmaceutically acceptable” refers to a substance that is acceptable for use in pharmaceutical applications from a toxicological perspective and does not adversely interact with the active ingredient. Accordingly, pharmaceutically acceptable carriers are those that are compatible with the other ingredients in the formulation and are biologically acceptable. Supplementary active ingredients can also be incorporated into the pharmaceutical compositions.
+* Compounds of the present teachings can be administered orally or parenterally, neat or in combination with conventional pharmaceutical carriers. Applicable solid carriers can include one or more substances which can also act as flavoring agents, lubricants, solubilizers, suspending agents, fillers, glidants, compression aids, binders or tablet-disintegrating agents, or encapsulating materials. The compounds can be formulated in conventional manner, for example, in a manner similar to that used for known antiviral agents. Oral formulations containing a compound disclosed herein can comprise any conventionally used oral form, including tablets, capsules, buccal forms, troches, lozenges and oral liquids, suspensions or solutions. In powders, the carrier can be a finely divided solid, which is an admixture with a finely divided compound. In tablets, a compound disclosed herein can be mixed with a carrier having the necessary compression properties in suitable proportions and compacted in the shape and size desired. The powders and tablets can contain up to 99% of the compound.
+* Capsules can contain mixtures of one or more compound(s) disclosed herein with inert filler(s) and/or diluent(s) such as pharmaceutically acceptable starches (e.g., corn, potato or tapioca starch), sugars, artificial sweetening agents, powdered celluloses (e.g., crystalline and microcrystalline celluloses), flours, gelatins, gums, and the like.
+* Useful tablet formulations can be made by conventional compression, wet granulation or dry granulation methods and utilize pharmaceutically acceptable diluents, binding agents, lubricants, disintegrants, surface modifying agents (including surfactants), suspending or stabilizing agents, including, but not limited to, magnesium stearate, stearic acid, sodium lauryl sulfate, talc, sugars, lactose, dextrin, starch, gelatin, cellulose, methyl cellulose, microcrystalline cellulose, sodium carboxymethyl cellulose, carboxymethylcellulose calcium, polyvinylpyrrolidine, alginic acid, acacia gum, xanthan gum, sodium citrate, complex silicates, calcium carbonate, glycine, sucrose, sorbitol, dicalcium phosphate, calcium sulfate, lactose, kaolin, mannitol, sodium chloride, low melting waxes, and ion exchange resins. Surface modifying agents include nonionic and anionic surface modifying agents. Representative examples of surface modifying agents include, but are not limited to, poloxamer 188, benzalkonium chloride, calcium stearate, cetostearl alcohol, cetomacrogol emulsifying wax, sorbitan esters, colloidal silicon dioxide, phosphates, sodium dodecylsulfate, magnesium aluminum silicate, and triethanolamine. Oral formulations herein can utilize standard delay or time-release formulations to alter the absorption of the compound(s). The oral formulation can also consist of administering a compound disclosed herein in water or fruit juice, containing appropriate solubilizers or emulsifiers as needed.
+* Liquid carriers can be used in preparing solutions, suspensions, emulsions, syrups, elixirs, and for inhaled delivery. A compound of the present teachings can be dissolved or suspended in a pharmaceutically acceptable liquid carrier such as water, an organic solvent, or a mixture of both, or a pharmaceutically acceptable oils or fats. The liquid carrier can contain other suitable pharmaceutical additives such as solubilizers, emulsifiers, buffers, preservatives, sweeteners, flavoring agents, suspending agents, thickening agents, colors, viscosity regulators, stabilizers, and osmo-regulators. Examples of liquid carriers for oral and parenteral administration include, but are not limited to, water (particularly containing additives as described herein, e.g., cellulose derivatives such as a sodium carboxymethyl cellulose solution), alcohols (including monohydric alcohols and polyhydric alcohols, e.g., glycols) and their derivatives, and oils (e.g., fractionated coconut oil and arachis oil). For parenteral administration, the carrier can be an oily ester such as ethyl oleate and isopropyl myristate. Sterile liquid carriers are used in sterile liquid form compositions for parenteral administration. The liquid carrier for pressurized compositions can be halogenated hydrocarbon or other pharmaceutically acceptable propellants.
+* Liquid pharmaceutical compositions, which are sterile solutions or suspensions, can be utilized by, for example, intramuscular, intraperitoneal or subcutaneous injection. Sterile solutions can also be administered intravenously. Compositions for oral administration can be in either liquid or solid form.
+* Preferably the pharmaceutical composition is in unit dosage form, for example, as tablets, capsules, powders, solutions, suspensions, emulsions, granules, or suppositories. In such form, the pharmaceutical composition can be sub-divided in unit dose(s) containing appropriate quantities of the compound. The unit dosage forms can be packaged compositions, for example, packeted powders, vials, ampoules, prefilled syringes or sachets containing liquids. Alternatively, the unit dosage form can be a capsule or tablet itself, or it can be the appropriate number of any such compositions in package form. Such unit dosage form can contain from about 1 mg/kg of compound to about 500 mg/kg of compound, and can be given in a single dose or in two or more doses. Such doses can be administered in any manner useful in directing the compound(s) to the recipient's bloodstream, including orally, via implants, parenterally (including intravenous, intraperitoneal and subcutaneous injections), rectally, vaginally, and transdermally.
+* When administered for the treatment or inhibition of a particular disease state or disorder, it is understood that an effective dosage can vary depending upon the particular compound utilized, the mode of administration, and severity of the condition being treated, as well as the various physical factors related to the individual being treated. In therapeutic applications, a compound of the present teachings can be provided to a patient already suffering from a disease in an amount sufficient to cure or at least partially ameliorate the symptoms of the disease and its complications. The dosage to be used in the treatment of a specific individual typically must be subjectively determined by the attending physician. The variables involved include the specific condition and its state as well as the size, age and response pattern of the patient.
+* In some cases it may be desirable to administer a compound directly to the airways of the patient, using devices such as, but not limited to, metered dose inhalers, breath-operated inhalers, multidose dry-powder inhalers, pumps, squeeze-actuated nebulized spray dispensers, aerosol dispensers, and aerosol nebulizers. For administration by intranasal or intrabronchial inhalation, the compounds of the present teachings can be formulated into a liquid composition, a solid composition, or an aerosol composition. The liquid composition can include, by way of illustration, one or more compounds of the present teachings dissolved, partially dissolved, or suspended in one or more pharmaceutically acceptable solvents and can be administered by, for example, a pump or a squeeze-actuated nebulized spray dispenser. The solvents can be, for example, isotonic saline or bacteriostatic water. The solid composition can be, by way of illustration, a powder preparation including one or more compounds of the present teachings intermixed with lactose or other inert powders that are acceptable for intrabronchial use, and can be administered by, for example, an aerosol dispenser or a device that breaks or punctures a capsule encasing the solid composition and delivers the solid composition for inhalation. The aerosol composition can include, by way of illustration, one or more compounds of the present teachings, propellants, surfactants, and co-solvents, and can be administered by, for example, a metered device. The propellants can be a chlorofluorocarbon (CFC), a hydrofluoroalkane (IFA), or other propellants that are physiologically and environmentally acceptable.
+* Compounds described herein can be administered parenterally or intraperitoneally. Solutions or suspensions of these compounds or a pharmaceutically acceptable salts, hydrates, or esters thereof can be prepared in water suitably mixed with a surfactant such as hydroxyl-propylcellulose. Dispersions can also be prepared in glycerol, liquid polyethylene glycols, and mixtures thereof in oils. Under ordinary conditions of storage and use, these preparations typically contain a preservative to inhibit the growth of microorganisms.
+* The pharmaceutical forms suitable for injection can include sterile aqueous solutions or dispersions and sterile powders for the extemporaneous preparation of sterile injectable solutions or dispersions. In some embodiments, the form can sterile and its viscosity permits it to flow through a syringe. The form preferably is stable under the conditions of manufacture and storage and can be preserved against the contaminating action of microorganisms such as bacteria and fungi. The carrier can be a solvent or dispersion medium containing, for example, water, ethanol, polyol (e.g., glycerol, propylene glycol and liquid polyethylene glycol), suitable mixtures thereof, and vegetable oils.
+* Compounds described herein can be administered transdermally, i.e., administered across the surface of the body and the inner linings of bodily passages including epithelial and mucosal tissues. Such administration can be carried out using the compounds of the present teachings including pharmaceutically acceptable salts, hydrates, or esters thereof, in lotions, creams, foams, patches, suspensions, solutions, and suppositories (rectal and vaginal).
+* Transdermal administration can be accomplished through the use of a transdermal patch containing a compound, such as a compound disclosed herein, and a carrier that can be inert to the compound, can be non-toxic to the skin, and can allow delivery of the compound for systemic absorption into the blood stream via the skin. The carrier can take any number of forms such as creams and ointments, pastes, gels, and occlusive devices. The creams and ointments can be viscous liquid or semisolid emulsions of either the oil-in-water or water-in-oil type. Pastes comprised of absorptive powders dispersed in petroleum or hydrophilic petroleum containing the compound can also be suitable. A variety of occlusive devices can be used to release the compound into the blood stream, such as a semi-permeable membrane covering a reservoir containing the compound with or without a carrier, or a matrix containing the compound. Other occlusive devices are known in the literature.
+* Compounds described herein can be administered rectally or vaginally in the form of a conventional suppository. Suppository formulations can be made from traditional materials, including cocoa butter, with or without the addition of waxes to alter the suppository's melting point, and glycerin. Water-soluble suppository bases, such as polyethylene glycols of various molecular weights, can also be used.
+* Lipid formulations or nanocapsules can be used to introduce compounds of the present teachings into host cells either in vitro or in vivo. Lipid formulations and nanocapsules can be prepared by methods known in the art.
+* To increase the effectiveness of compounds of the present teachings, it can be desirable to combine a compound with other agents effective in the treatment of the target disease. For example, other active compounds (i.e., other active ingredients or agents) effective in treating the target disease can be administered with compounds of the present teachings. The other agents can be administered at the same time or at different times than the compounds disclosed herein.
+* Compounds of the present teachings can be useful for the treatment or inhibition of a pathological condition or disorder in a mammal, for example, a human subject. The present teachings accordingly provide methods of treating or inhibiting a pathological condition or disorder by providing to a mammal a compound of the present teachings including its pharmaceutically acceptable salt) or a pharmaceutical composition that includes one or more compounds of the present teachings in combination or association with pharmaceutically acceptable carriers. Compounds of the present teachings can be administered alone or in combination with other therapeutically effective compounds or therapies for the treatment or inhibition of the pathological condition or disorder.
+* Non-limiting examples of compositions according to the present invention include from about 0.001 mg to about 1000 mg of one or more pregenomic RNA encapsidation inhibitors according to the present invention and one or more excipients; from about 0.01 mg to about 100 mg of one or more pregenomic RNA encapsidation inhibitors according to the present invention and one or more excipients; and from about 0.1 mg to about 10 mg of one or more pregenomic RNA encapsidation inhibitors according to the present invention; and one or more excipients.
+Procedures* The following procedures can be utilized in evaluating and selecting compounds as the pregenomic RNA encapsidation inhibitors of HBV.
+* The HBV replication inhibitors of the present invention are capable of treating and preventing diseases associated with HBV infection. The results presented in Tables 5 to 9 demonstrated that compounds of the present invention inhibit HBV replication in an immortalized murine hepatocyte (AML12)-derived stable cell line (AML12HBV10) that supports robust HBV replication in a tetracycline inducible manner without measurable cytotoxicity up to 50 μM by using the standard MTT assay (Promega).
+* The antiviral efficacy of the compounds of the disclosure, as presented in Tables 5, 6, 7, 8 and 9, were determined in AML12HBV10 cells. AML12HBV10 is an immortalized murine hepatocyte (AML12)-derived stable cell line that supports robust HBV replication in a tetracycline inducible manner (Xu et al.). The cells were seeded into 96 well plates at a density of 2×104 cells per well and cultured in DMEM/F12 media with 10% fetal bovine serum in the absence of tetracycline to allow pgRNA transcription and HBV DNA replication. One day after seeding, cells were left untreated or treated with a serial dilution of testing compounds, ranging from 50 μM to 0.39 μM, for 48 hours. Cells were then lysed by adding into each well of 100 μl lysis buffer containing 10 mM Tris-HCl (pH 7.6), 1 mM EDTA, 100 mM NaCl and 1% NP-40 and incubated at 37° C. for 30 minutes. Half amount (50 μl) of cell lysate from each well was combined with equal volume of denaturing solution containing 0.5N NaOH and 1.5M NaCl. After 5 minute incubation, 100 μl of neutralization solution (1M Tris-HCl, pH 7.4, 1.5M NaCl) was added into each well. The denatured cell lysates (totally 200 μl) were applied onto Nylon membrane using 96-well dot-blot manifold (Biorad). HBV DNA in the cell lysates were determined by dot-blot hybridization with alpha-32P-UTP-labelled riboprobe specific for HBV minus strand DNA. The antiviral efficacy of a compound of the disclosure was expressed as the concentration that reduces the amount of HBV DNA by 50% (EC50).
+* Determination of cytotoxicity of compounds of the disclosure in AML12HBV10 cells: To determine the cytotoxicity of the compounds, AML12HBV10 cells were seeded into 96-well plates at a density of 2×104 cells per well and cultured in DMEM/F12 media with 10% fetal bovine serum in the absence of tetracycline to allow pgRNA transcription and HBV DNA replication. One day after seeding, cells were left untreated or treated with a serial dilution of testing compounds, ranging from 50 μM to 0.39 μM, for 48 hours. The cell viability was measured by a MTT assay, following procedure provided by the manufacturer (Promega). The cytotoxicity of a compound was expressed as the concentration of compound that reduces the viability of the cells by 50% (CC50).
+* Determination of antiviral activity of compounds of the disclosure, as presented in FIG. 1, FIG. 2 and Table 10, in human hepatoma-derived cell lines: To further confirm the antiviral activity of the compounds of the disclosure against HBV in human hepatocyte-derived cells, HepDES19 cells, a human hepatoma cell line supporting HBV replication in a tetracycline inducible manner (Guo et al., 2007), seeded into 12-well plates at a density of 5×105 cells per well and cultured in DMEM/F12 media with 10% fetal bovine serum and 1 μg/ml tetracycline. Two days after seeding, the cells were mock-treated or treated with a serial dilution of compounds of the disclosure, ranging from 10 μM to 0.018 μM, for 6 days in the absence of tetracycline. Upon the completion of treatment, cells were lysed by adding into each well of the 12-well plates 0.5 ml of lysis buffer containing 10 mM Tris-HCl (pH 8.0), 1 mM EDTA, 1% NP40 and 2% sucrose and incubating at 37° C. for 10 minutes. Cell debris and nuclei were removed by centrifugation and the supernatant was mixed with 130 μl of 35% polyethylene glycol (PEG) 8000 containing 1.5 M NaCl. After 1 hour incubation in ice, viral nucleocapsids were pelleted by centrifugation at 6,000×g for 5 min at 4° C., followed by 1 hour digestion at 37° C. in 400 μl of digestion buffer containing 0.5 mg/ml pronase (Calbiochem), 0.5% SDS, 150 mM NaCl, 25 mM Tris-HCl (pH 8.0) and 10 mM EDTA. The digestion mixture was extracted twice with phenol and DNA was precipitated with ethanol, dissolved in TE buffer (10 mM Tris-HCl, pH 8.0; 0.1 mM EDTA). One half of the DNA sample from each well was resolved by electrophoresis into a 1.5% agarose gel. The gel was then subjected to denaturation in a solution containing 0.5 M NaOH and 1.5 M NaCl, followed by neutralization in a buffer containing 1 M Tris-HCl (pH7.4) and 1.5 M NaCl. DNA was then blotted onto Hybond-XL membrane (GE Health care) in 20×SSC buffer. The amounts of cytoplasmic HBV core-associated HBV DNA were determined by Southern blot hybridization and the antiviral efficacy of a compound was expressed as its concentration that reduce the amount of HBV DNA by 50% (EC50) or 90% (EC90).
+* Determination of cytotoxicity of compounds of the disclosure in human hepatoma-derived cell lines, HepDES19 cells were seeded into 96-well plates at a density of 6×104 cells per well and cultured in DMEM/F12 media with 10% fetal bovine serum in the absence of tetracycline. One day after seeding, cells were left untreated or treated with a serial dilution of testing compounds, ranging from 50 μM to 0.39 μM, for 6 days. The cell viability was measured by a MTT assay, following procedure provided by the manufacturer (Promega). The cytotoxicity of a compound was expressed as the concentration of compound that reduces the viability of the cells by 50% (CC50).
+* Antiviral efficacy of the selective compounds of the disclosure in HepDES19 cells is presented in FIG. 1. A side-by-side comparison of the antiviral efficacy between DVR23 and two known anti-HBV compounds, lamivudine and Bay 41-4109 is presented in FIG. 2. A summary of the antiviral efficacy and cytotoxicity of representative compounds of the disclosure in AML12HBV10 and HepDES19 cells is presented in Table 10. These results clearly demonstrate that the compounds of the disclosure selectively inhibit HBV replication not only in murine hepatocyte-derived cell line (AML12HBV10), but also in human hepatocyte-derived cell lline (HepDES19). The results also demonstrate that DVR-26 inhibits HBV DNA replication at a similar efficacy of lamivudine and Bay 41-4109.
+* To obtain mechanistic insight of the compounds of present invention against HBV, AML12HBV10 cells cultured in the 12-well plates were treated with a series of concentrations of DVR-1, DVR-56 or DVR-23 for two days in the absence of tetracycline (Guo et al., 2007). As positive controls, the cells were also treated with Bay41-4109 (5 μM) or AT-61 (25 μM), the known HBV nucleocapsid assembly effectors that either bind to HBV core protein dimmer to misdirect its interaction and prevent capsid formation (Bay41-4109) (Deres et al., 2003; Stray and Zlotnick, 2006), or interact with a core assembly intermediate and promote the formation of empty capsids (AT-61) (Feld et al., 2007; Katen et al.,; King et al., 1998). The amounts of intracellular viral mRNA, encapsidated pgRNA, capsids and nucleocapsid-associated HBV DNA were analyzed with the methods detailed below.
+* Procedure for analysis of HBV mRNA: Upon the completion of treatment, total cellular RNA was extracted with TRIzol reagents (Invitrogen). Five micrograms of total RNA was resolved in 1.5% agarose gel containing 2.2 M formaldehyde and transferred onto Hybond-XL membrane in 20×SSC buffer. The amounts of HBV mRNA were determined by Northern blot hybridization with an alpha-32P-UTP labeled riboprobe specific for plus strand of HBV genome.
+* Determination of encapsidated pgRNA: AML12HBV10 cells were lysed by addition of 600 of lysis buffer (50 mM Tris-HCl [pH 7.5], 1 mM EDTA, 150 mM NaCl, 1% NP-40) into each well of 12-well plates. The nuclei were removed by centrifugation at 5,000 g for 10 minutes. One-half of the sample was mixed with 6 U of micrococcal nuclease (Pharmacia) and 15 μl of 100 mM CaCl2) and incubated for 15 minutes at 37° C. to digest free nucleic acids. The reaction was stopped with 6 μl of 0.5 M EDTA, and capsids were precipitated by adding 125 μl of 35% polyethylene glycol 8000 in 1.75 M NaCl to the reaction and incubating in ice for 30 minutes, followed by centrifugation at 6,000 g for 10 minutes at 4° C. Pellets were re-suspended in 50 of TNE buffer (10 mM Tris-HCl [pH 8], 100 mM NaCl, 1 mM EDTA). pgRNA was extracted by the addition of 1 ml of Trizol reagent. The encapsidated pgRNA were electrophoresed through a 2.2 M formaldehyde-1% agarose gel, transferred to a nylon membrane, and immobilized by UV cross-linking (Stratagene). Hybridization was performed with an alpha-32P-UTP labeled riboprobe specific for plus strand of HBV genome.
+* Procedures of viral capsids and nucleocapsid-associated DNA analysis: HepDES19 cells were lysed by addition of 300 μl buffer containing 10 mM Tris-HCl (pH7.6), 100 mM NaCl, 1 mM EDTA and 0.1% NP-40 to each well of 12-well plate. Cell debris were removed by centrifugation at 5000 g for 10 minutes. Ten microliters of the clarified cell lysates were fractionated by electrophoresis through nondenaturing 1% agarose gels and transferred to a nitrocellulose filter by blotting with TNE buffer (10 mM Tris-HCl, pH7.6; 150 mM NaCl and 1 mM EDTA). HBV capsids were detected by probing the membrane with an antibody against HBV core protein (DAKO). Bound antibody was revealed by IRDye secondary antibodies and visualized by Li-COR Odyssey system. To detect capsid associated HBV DNA, the membrane were treated with buffer containing 0.5N NaOH and 1.5 M NaCl for 5 minutes and followed by neutralization with buffer containing 1 M TRIS-HCl and 1.5M NaCl for 5 minutes. The viral DNA was detected by hybridization with a α-32P-UTP (800 Ci/mmol, Perkin Elmer) labeled minus strand specific full-length HBV riboprobe (Xu et al.).
+* To analyze the HBV DNA replication intermediates, cells were lysed by adding into each well of the 12-well plates 0.5 ml of lysis buffer containing 10 mM Tris-HCl (pH 8.0), 1 mM EDTA, 1% NP40 and 2% sucrose and incubating at 37° C. for 10 minutes. Cell debris and nuclei were removed by centrifugation and the supernatant was mixed with 130 μl of 35% polyethylene glycol (PEG) 8000 containing 1.5 M NaCl. After 1 hour incubation in ice, viral nucleocapsids were pelleted by centrifugation at 6,000×g for 5 minutes at 4° C., followed by 1 hour digestion at 37° C. in 400 μl of digestion buffer containing 0.5 mg/ml pronase (Calbiochem), 0.5% SDS, 150 mM NaCl, 25 mM Tris-HCl (pH 8.0) and 10 mM EDTA. The digestion mixture was extracted twice with phenol and DNA was precipitated with ethanol, dissolved in TE buffer (10 mM Tris-HCl, pH 8.0; 0.1 mM EDTA). One half of the DNA sample from each well was resolved by electrophoresis into a 1.5% agarose gel. The gel was then subjected to denaturation in a solution containing 0.5 M NaOH and 1.5 M NaCl, followed by neutralization in a buffer containing 1 M Tris-HCl (pH7.4) and 1.5 M NaCl. DNA was then blotted onto Hybond-XL membrane (GE Health care) in 20×SSC buffer. The HBV DNA replication intermediates were probed with an alpha-32P-UTP labeled riboprobe specific for minus strand of HBV genome.
+* As shown in FIG. 3, DVR-1, DVR-56 and DVR-23 did not affect the amount of viral mRNA (panel A), but dose-dependently reduced the level of encapsidated pgRNA (Panel C). However, consistent with the proposed mechanism, particle gel assay reveled that Bay41-4109 treatment completely abolished capsid formation (panel B) and thus pgRNA encapsidation and DNA synthesis (panels C, D and E), AT-61 treatment did not affect capsid formation (panel B), but dose-dependently reduced the amounts of encapsidated pgRNA (panel C) and the capsid-associated HBV DNA (panels D and E). Similar to AT-61, DVR compounds did not significantly affect capsid formation (panel B), but reduced encapsidated pgRNA and capsid-associated HBV DNA in a dose-dependent manner (panels C, D and E). The above results imply that phenotypically similar with AT-61, the DVR compounds inhibited pgRNA encapsidateion into nucleocapsids and resulted in formation of empty capsids. As a consequence, the subsequent HBV DNA replication could not occur.
+* | TABLE 5 |
+  | --- |
+  |  |
+  | Antiviral activity (EC50) by dot blot hybridization and |
+  | cellular toxicity (CC50) of compounds of the formula (V) |
+
+  |  |  |
+  | --- | --- |
+  |  | (V) |
+  | [Figure US20210070703A1-20210311-C00132](https://patentimages.storage.googleapis.com/45/33/e2/044132da25b382/US20210070703A1-20210311-C00132.png) |  |
+  |  |
+
+  |  |  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+  | Compound |  |  |  |  |  |  | EC50 | CC50 |
+  | Name | R1 | R2 | R3 | R5 | R7 | R9 | (μM) | (μM) |
+  |  | | | | | | | | |
+
+  |  |  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+  | DVR-16 | H | CH3 | H | H | Cl | H | 6 | >50 |
+  | DVR-19 | H | CF3 | H | H | H | F | 9 | >50 |
+  | DVR-21 | H | CF3 | H | Cl | H | F | 6.8 | >50 |
+  | DVR-22 | H | H | H | H | H | H | 8 | >50 |
+  |  | | | | | | | | |
+* | TABLE 6 |
+  | --- |
+  |  |
+  | Antiviral activity (EC50) by dot blot hybridization and cellular toxicity (CC50) of |
+  | compounds of the formula (VI) |
+
+  |  |  |
+  | --- | --- |
+  |  | (VI) |
+  | [Figure US20210070703A1-20210311-C00133](https://patentimages.storage.googleapis.com/ca/1c/ff/8c43b7777bfdb4/US20210070703A1-20210311-C00133.png) |  |
+  |  |
+
+  |  |  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+  |  |  |  |  |  |  |  | EC50 | CC50 |
+  | Compound | R2 | R3 | R4 | R7 | R9 | Rx | (μM) | (μM) |
+  |  | | | | | | | | |
+
+  |  |  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+  | DVR-23 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00134](https://patentimages.storage.googleapis.com/7a/6a/14/3b1c5eae7ff57a/US20210070703A1-20210311-C00134.png) | 0.39 | >50 |
+  |  |
+  | DVR-24 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00135](https://patentimages.storage.googleapis.com/95/6f/55/aea3beca244939/US20210070703A1-20210311-C00135.png) | 8 | >50 |
+  |  |
+  | DVR-25 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00136](https://patentimages.storage.googleapis.com/c7/ab/33/72abb234e667fa/US20210070703A1-20210311-C00136.png) | 10.5 | >50 |
+  |  |
+  | DVR-26 | CH3 | H | H | Cl | H | [Figure US20210070703A1-20210311-C00137](https://patentimages.storage.googleapis.com/2d/8c/76/abb5d533c90da1/US20210070703A1-20210311-C00137.png) | 3 | >50 |
+  |  |
+  | DVR-27 | H | Cl | H | H | H | [Figure US20210070703A1-20210311-C00138](https://patentimages.storage.googleapis.com/96/8a/3c/f8d09baff326f7/US20210070703A1-20210311-C00138.png) | 25 | >50 |
+  |  |
+  | DVR-34 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00139](https://patentimages.storage.googleapis.com/46/a7/51/d48c2518c822c2/US20210070703A1-20210311-C00139.png) | 4 | >50 |
+  |  |
+  | DVR-42 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00140](https://patentimages.storage.googleapis.com/c7/f8/f0/f06d68a944bfc2/US20210070703A1-20210311-C00140.png) | 17.5 | >50 |
+  |  |
+  | DVR-43 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00141](https://patentimages.storage.googleapis.com/b8/f5/30/283dd261e045cc/US20210070703A1-20210311-C00141.png) | 0.39 | >50 |
+  |  |
+  | DVR-44 | H | CH3 | H | F | H | [Figure US20210070703A1-20210311-C00142](https://patentimages.storage.googleapis.com/c4/0a/5f/750cb91ff6869d/US20210070703A1-20210311-C00142.png) | 25 | >50 |
+  |  |
+  | DVR-45 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00143](https://patentimages.storage.googleapis.com/98/b5/f5/360cd1c3354335/US20210070703A1-20210311-C00143.png) | 0.8 | >50 |
+  |  |
+  | DVR-47 | H | H | H | Br | H | [Figure US20210070703A1-20210311-C00144](https://patentimages.storage.googleapis.com/4f/24/db/63d4468a157ed6/US20210070703A1-20210311-C00144.png) | 3.7 | >50 |
+  |  |
+  | DVR-51 | H | F | H | H | Cl | [Figure US20210070703A1-20210311-C00145](https://patentimages.storage.googleapis.com/5f/e9/db/8659f389188c23/US20210070703A1-20210311-C00145.png) | 2.1 | >50 |
+  |  |
+  | DVR-52 | H | H | H | H | CH3 | [Figure US20210070703A1-20210311-C00146](https://patentimages.storage.googleapis.com/45/ac/7d/c4b2d8d92937e7/US20210070703A1-20210311-C00146.png) | 4 | >50 |
+  |  |
+  | DVR-53 | F | F | H | H | F | [Figure US20210070703A1-20210311-C00147](https://patentimages.storage.googleapis.com/49/6a/87/cac62b4d9c6111/US20210070703A1-20210311-C00147.png) | 27.1 | >50 |
+  |  |
+  | DVR-55 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00148](https://patentimages.storage.googleapis.com/d7/83/77/b1ff290497f4ad/US20210070703A1-20210311-C00148.png) | 1 | >50 |
+  |  |
+  | DVR-56 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00149](https://patentimages.storage.googleapis.com/cd/8e/16/862a12f561807d/US20210070703A1-20210311-C00149.png) | 0.39 | >50 |
+  |  |
+  | DVR-57 | H | F | H | F | H | [Figure US20210070703A1-20210311-C00150](https://patentimages.storage.googleapis.com/b8/31/cc/301c7d98185c79/US20210070703A1-20210311-C00150.png) | 21.3 | >50 |
+  |  |
+  | DVR-61 | CH3 | H | CH3 | F | H | [Figure US20210070703A1-20210311-C00151](https://patentimages.storage.googleapis.com/42/80/ae/37156c686e6cf2/US20210070703A1-20210311-C00151.png) | 4.5 | >50 |
+  |  |
+  | DVR-62 | CH3 | H | H | H | F | [Figure US20210070703A1-20210311-C00152](https://patentimages.storage.googleapis.com/23/45/13/70a2d60fade677/US20210070703A1-20210311-C00152.png) | 2.8 | >50 |
+  |  |
+  | DVR-63 | Cl | H | Cl | F | H | [Figure US20210070703A1-20210311-C00153](https://patentimages.storage.googleapis.com/2e/1b/9b/569ac22720a1bc/US20210070703A1-20210311-C00153.png) | 10.2 | >50 |
+  |  |
+  | DVR-64 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00154](https://patentimages.storage.googleapis.com/90/80/e2/655691fc462dba/US20210070703A1-20210311-C00154.png) | 3 | >50 |
+  |  |
+  | DVR-65 | Cl | F | H | F | H | [Figure US20210070703A1-20210311-C00155](https://patentimages.storage.googleapis.com/b2/ab/28/26a80c1ae79076/US20210070703A1-20210311-C00155.png) | 5 | >50 |
+  |  |
+  | DVR-66 | F | H | H | F | H | [Figure US20210070703A1-20210311-C00156](https://patentimages.storage.googleapis.com/14/53/09/c796a6670d620e/US20210070703A1-20210311-C00156.png) | 2.9 | >50 |
+  |  |
+  | DVR-68 | Cl | H | Cl | F | H | [Figure US20210070703A1-20210311-C00157](https://patentimages.storage.googleapis.com/62/25/d4/fbc8889afd4132/US20210070703A1-20210311-C00157.png) | 11.4 | >50 |
+  |  |
+  | DVR-69 | CH3 | H | H | H | F | [Figure US20210070703A1-20210311-C00158](https://patentimages.storage.googleapis.com/80/33/0a/b698e816f89c4e/US20210070703A1-20210311-C00158.png) | 3.1 | >50 |
+  |  |
+  | DVR-70 | H | H | H | Cl | H | [Figure US20210070703A1-20210311-C00159](https://patentimages.storage.googleapis.com/10/05/56/c50a87cccc7010/US20210070703A1-20210311-C00159.png) | 11 | >50 |
+  |  |
+  | DVR-73 | Cl | H | H | F | H | [Figure US20210070703A1-20210311-C00160](https://patentimages.storage.googleapis.com/11/aa/65/c008d696a63435/US20210070703A1-20210311-C00160.png) | 10.2 | >50 |
+  |  |
+  | DVR-74 | CH3 | H | CH3 | F | H | [Figure US20210070703A1-20210311-C00161](https://patentimages.storage.googleapis.com/ea/32/cc/9070a0fc0d262f/US20210070703A1-20210311-C00161.png) | 25 | — |
+  |  |
+  | DVR-75 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00162](https://patentimages.storage.googleapis.com/a6/8c/f1/a780e10df53baa/US20210070703A1-20210311-C00162.png) | 4.1 | — |
+  |  |
+  | DVR-77 | Cl | H | H | H | F | [Figure US20210070703A1-20210311-C00163](https://patentimages.storage.googleapis.com/16/bb/14/bcc7f3ff92409f/US20210070703A1-20210311-C00163.png) | 11.1 | — |
+  |  |
+  | DVR-82 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00164](https://patentimages.storage.googleapis.com/d1/1f/e6/1918bed6bc30c5/US20210070703A1-20210311-C00164.png) | 2 | >50 |
+  |  |
+  | DVR-83 | Cl | H | H | F | H | [Figure US20210070703A1-20210311-C00165](https://patentimages.storage.googleapis.com/27/8f/6e/fd5cb7c413f7bd/US20210070703A1-20210311-C00165.png) | 3 | >50 |
+  |  |
+  | DVR-87 | Cl | F | H | F | H | [Figure US20210070703A1-20210311-C00166](https://patentimages.storage.googleapis.com/d3/44/ac/4adaf50a9109f7/US20210070703A1-20210311-C00166.png) | 3.1 | >50 |
+  |  |
+  | DVR-89 | H | H | H | Cl | H | [Figure US20210070703A1-20210311-C00167](https://patentimages.storage.googleapis.com/4d/9b/2c/c21a7e5b52d951/US20210070703A1-20210311-C00167.png) | 1.2 | >50 |
+  |  |
+  | DVR-91 | H | Cl | H | F | H | [Figure US20210070703A1-20210311-C00168](https://patentimages.storage.googleapis.com/a6/b3/c1/982f3da95828a3/US20210070703A1-20210311-C00168.png) | 16.8 | >50 |
+  |  |
+  | DVR-92 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00169](https://patentimages.storage.googleapis.com/9a/09/b5/f6172764f50d28/US20210070703A1-20210311-C00169.png) | 1 | >50 |
+  |  |
+  | DVR-93 | H | Cl | H | H | F | [Figure US20210070703A1-20210311-C00170](https://patentimages.storage.googleapis.com/05/39/e8/c769e32d426e55/US20210070703A1-20210311-C00170.png) | 4.8 | >50 |
+  |  |
+  | DVR-94 | CH3 | H | H | F | H | [Figure US20210070703A1-20210311-C00171](https://patentimages.storage.googleapis.com/88/b9/de/037c62eccc2efc/US20210070703A1-20210311-C00171.png) | 40 | >50 |
+  |  |
+  | DVR-96 | CH3 | H | H | F | H | [Figure US20210070703A1-20210311-C00172](https://patentimages.storage.googleapis.com/20/38/5d/a0bfe086a7e820/US20210070703A1-20210311-C00172.png) | 14 | >50 |
+  |  |
+  | DVR-98 | H | Cl | H | H | H | [Figure US20210070703A1-20210311-C00173](https://patentimages.storage.googleapis.com/ca/0b/67/febfc36e875373/US20210070703A1-20210311-C00173.png) | 45 | >50 |
+  |  |
+  | DVR-100 | H | Cl | H | H | H | [Figure US20210070703A1-20210311-C00174](https://patentimages.storage.googleapis.com/be/ea/a3/167a9ee7c072d5/US20210070703A1-20210311-C00174.png) | 20 | >50 |
+  |  |
+  | DVR-101 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00175](https://patentimages.storage.googleapis.com/be/e4/08/f1b81172b01db7/US20210070703A1-20210311-C00175.png) | 32 | >50 |
+  |  |
+  | DVR-102 | H | H | H | H | H | [Figure US20210070703A1-20210311-C00176](https://patentimages.storage.googleapis.com/1f/59/00/7dc9546793fa34/US20210070703A1-20210311-C00176.png) | 15 | >50 |
+  |  |
+  | DVR-103 | F | F | H | H | F | [Figure US20210070703A1-20210311-C00177](https://patentimages.storage.googleapis.com/8c/7f/fe/3962f7beb16e1e/US20210070703A1-20210311-C00177.png) | 5 | >50 |
+  |  |
+  | DVR-104 | F | F | H | F | H | [Figure US20210070703A1-20210311-C00178](https://patentimages.storage.googleapis.com/33/a0/bf/c5adb2fd501f83/US20210070703A1-20210311-C00178.png) | 0.6 | >50 |
+  |  |
+  | DVR-107 | H | H | H | H | CH3 | [Figure US20210070703A1-20210311-C00179](https://patentimages.storage.googleapis.com/3a/3d/a0/a19ab3c2e8eb54/US20210070703A1-20210311-C00179.png) | 4 | >50 |
+  |  |
+  | DVR-108 | H | F | H | H | Cl | [Figure US20210070703A1-20210311-C00180](https://patentimages.storage.googleapis.com/c9/42/3a/5488527390b474/US20210070703A1-20210311-C00180.png) | 2.1 | >50 |
+  |  |
+  | DVR-115 | F | H | H | H | Cl | [Figure US20210070703A1-20210311-C00181](https://patentimages.storage.googleapis.com/48/98/77/b2126deaddb252/US20210070703A1-20210311-C00181.png) | 25 | >50 |
+  |  |
+  | DVR-117 | H | H | H | H | Cl | [Figure US20210070703A1-20210311-C00182](https://patentimages.storage.googleapis.com/14/1c/9e/5946eea8c25979/US20210070703A1-20210311-C00182.png) | 4.5 | >50 |
+  |  | | | | | | | | |
+* | TABLE 7 |
+  | --- |
+  |  |
+  | Antiviral activity (EC50) by dot blot hybridization and cellular |
+  | toxicity (CC50) of compounds of the formula (II) |
+
+  |  |  |
+  | --- | --- |
+  |  | (II) |
+  | [Figure US20210070703A1-20210311-C00183](https://patentimages.storage.googleapis.com/1d/1e/51/f725cb04e2ef22/US20210070703A1-20210311-C00183.png) |  |
+  |  |
+
+  |  |  |  |  |
+  | --- | --- | --- | --- |
+  |  |  | EC50 | CC50 |
+  | Compound | Rx | (μM) | (μM) |
+  |  | | | |
+
+  |  |  |  |  |
+  | --- | --- | --- | --- |
+  | DVR-23 | [Figure US20210070703A1-20210311-C00184](https://patentimages.storage.googleapis.com/41/8d/e0/64dafe98fd1d38/US20210070703A1-20210311-C00184.png) | 0.39 | >50 |
+  |  |
+  | DVR-25 | [Figure US20210070703A1-20210311-C00185](https://patentimages.storage.googleapis.com/96/ee/32/0493fee5264c9d/US20210070703A1-20210311-C00185.png) | 10.5 | >50 |
+  |  |
+  | DVR-34 | [Figure US20210070703A1-20210311-C00186](https://patentimages.storage.googleapis.com/80/48/b4/46a882766bf65e/US20210070703A1-20210311-C00186.png) | 4 | >50 |
+  |  |
+  | DVR-42 | [Figure US20210070703A1-20210311-C00187](https://patentimages.storage.googleapis.com/70/b1/46/4b098a79b39581/US20210070703A1-20210311-C00187.png) | 17.5 | >50 |
+  |  |
+  | DVR-43 | [Figure US20210070703A1-20210311-C00188](https://patentimages.storage.googleapis.com/b5/f2/da/87c1a00b0774d8/US20210070703A1-20210311-C00188.png) | 0.39 | >50 |
+  |  |
+  | DVR-104 | [Figure US20210070703A1-20210311-C00189](https://patentimages.storage.googleapis.com/2d/d3/24/0c2c00ddf4b2e2/US20210070703A1-20210311-C00189.png) | 0.6 | >50 |
+  |  |
+  | DVR-45 | [Figure US20210070703A1-20210311-C00190](https://patentimages.storage.googleapis.com/20/93/60/bf3acbd7b07945/US20210070703A1-20210311-C00190.png) | 0.8 | >50 |
+  |  |
+  | DVR-56 | [Figure US20210070703A1-20210311-C00191](https://patentimages.storage.googleapis.com/7b/43/9e/cdf815ceedee9c/US20210070703A1-20210311-C00191.png) | 0.39 | >50 |
+  |  |
+  | DVR-82 | [Figure US20210070703A1-20210311-C00192](https://patentimages.storage.googleapis.com/bd/13/48/4381fa83ee6546/US20210070703A1-20210311-C00192.png) | 2 | >50 |
+  |  |
+  | DVR-92 | [Figure US20210070703A1-20210311-C00193](https://patentimages.storage.googleapis.com/66/16/81/c6b586bf44443e/US20210070703A1-20210311-C00193.png) | 1 | >50 |
+  |  | | | |
+* | TABLE 8 |
+  | --- |
+  |  |
+  | Antiviral activity (EC50) by dot blot |
+  | hybridization and cellular toxicity (CC50) |
+  | of compounds of the formula (III) |
+
+  |  |  |
+  | --- | --- |
+  |  | (III) |
+  | [Figure US20210070703A1-20210311-C00194](https://patentimages.storage.googleapis.com/35/4b/2a/1e929333d42a6a/US20210070703A1-20210311-C00194.png) |  |
+  |  |
+
+  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- |
+  | Com- |  |  | EC50 | CC50 |
+  | pound | R10 | Ry | (μM) | (μM) |
+  |  | | | | |
+
+  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- |
+  | DVR-01 | Cl | [Figure US20210070703A1-20210311-C00195](https://patentimages.storage.googleapis.com/a9/fb/e0/d961d2cc15beb9/US20210070703A1-20210311-C00195.png) | 4 | >50 |
+  |  |
+  | DVR-02 | Cl | [Figure US20210070703A1-20210311-C00196](https://patentimages.storage.googleapis.com/ab/83/f5/a2331f894ccb70/US20210070703A1-20210311-C00196.png) | 7 | >50 |
+  |  |
+  | DVR-08 | CH3 | [Figure US20210070703A1-20210311-C00197](https://patentimages.storage.googleapis.com/11/7e/5c/40b70101562598/US20210070703A1-20210311-C00197.png) | 44 | >50 |
+  |  |
+  | DVR-09 | CH3 | [Figure US20210070703A1-20210311-C00198](https://patentimages.storage.googleapis.com/f7/84/5d/085cd427063daf/US20210070703A1-20210311-C00198.png) | 33 | >50 |
+  |  |
+  | DVR-10 | H | [Figure US20210070703A1-20210311-C00199](https://patentimages.storage.googleapis.com/de/70/58/59ae10586eceaa/US20210070703A1-20210311-C00199.png) | 49 | >50 |
+  |  |
+  | DVR-11 | Br | [Figure US20210070703A1-20210311-C00200](https://patentimages.storage.googleapis.com/ca/e7/f1/8198c47c5021f8/US20210070703A1-20210311-C00200.png) | 13.2 | >50 |
+  |  | | | | |
+* | TABLE 9 |
+  | --- |
+  |  |
+  | Antiviral activity (EC50) by dot blot hybridization and cellular toxicity |
+  | (CC50) of compounds of the formula (IV) |
+
+  |  |  |
+  | --- | --- |
+  |  | (IV) |
+  | [Figure US20210070703A1-20210311-C00201](https://patentimages.storage.googleapis.com/6f/85/13/d5d7067ed1ad6f/US20210070703A1-20210311-C00201.png) |  |
+  |  |
+
+  |  |  |  |
+  | --- | --- | --- |
+  |  | EC50 | CC50 |
+  | Compound | (μM) | (μM) |
+  |  | | |
+
+  |  |  |  |
+  | --- | --- | --- |
+  | [Figure US20210070703A1-20210311-C00202](https://patentimages.storage.googleapis.com/ea/a6/25/af42f0a4c2b0cc/US20210070703A1-20210311-C00202.png) | 8 | >50 |
+  |  | | |
+* | TABLE 10 |
+  | --- |
+  |  |
+  | Antiviral activity of exemplary compounds of the formula (II) in |
+  | AML12HBV10 and HepDES19 cells |
+
+  |  |  |
+  | --- | --- |
+  |  | (II) |
+  | [Figure US20210070703A1-20210311-C00203](https://patentimages.storage.googleapis.com/6f/e1/78/178a60f99393e5/US20210070703A1-20210311-C00203.png) |  |
+  |  |
+
+  |  |  |  |  |
+  | --- | --- | --- | --- |
+  |  |  | AML12HBV10 | HepDES19 |
+
+  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | Compound | Rx | EC50 | CC50 | EC50 | EC90 | CC50 |
+  |  | | | | | | |
+
+  |  |  |  |  |  |  |  |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | DVR-43 | [Figure US20210070703A1-20210311-C00204](https://patentimages.storage.googleapis.com/7d/6b/a1/7f4789ea94ef02/US20210070703A1-20210311-C00204.png) | 0.39 | >50 | 0.72 | 1.53 | 45 |
+  |  |
+  | DVR-45 | [Figure US20210070703A1-20210311-C00205](https://patentimages.storage.googleapis.com/ed/5c/1d/32fd313e2b9884/US20210070703A1-20210311-C00205.png) | 0.8 | >50 | 0.48 | 2.11 | >50 |
+  |  |
+  | DVR-92 | [Figure US20210070703A1-20210311-C00206](https://patentimages.storage.googleapis.com/2a/81/86/42bf43986a26c2/US20210070703A1-20210311-C00206.png) | 1 | >50 | 0.98 | 2.9 | >50 |
+  |  |
+  | DVR-56 | [Figure US20210070703A1-20210311-C00207](https://patentimages.storage.googleapis.com/ee/47/ad/35781ddbd67e56/US20210070703A1-20210311-C00207.png) | 0.39 | >50 | 0.42 | 1.85 | >50 |
+  |  |
+  | DVR-23 | [Figure US20210070703A1-20210311-C00208](https://patentimages.storage.googleapis.com/d5/53/3f/f7f028bbd62aee/US20210070703A1-20210311-C00208.png) | 0.39 | >50 | 0.28 | 0.86 | >50 |
+  |  |
+  | DVR-104 | [Figure US20210070703A1-20210311-C00209](https://patentimages.storage.googleapis.com/df/7d/f0/0a274a36bdf1a7/US20210070703A1-20210311-C00209.png) | 0.6 | >50 | 0.97 | 3.11 | >50 |
+  |  | | | | | | |

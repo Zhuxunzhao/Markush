@@ -1,0 +1,10 @@
+{
+  "patent_id": "US10028967",
+  "target_smiles": "CC(=O)Oc1ccccc1C(=O)O",
+  "is_protected": false,
+  "confidence": "very_low",
+  "markush_structure": null,
+  "fused_match": null,
+  "requirements": null,
+  "report": "No Markush structure found in patent. Cannot perform infringement analysis."
+}

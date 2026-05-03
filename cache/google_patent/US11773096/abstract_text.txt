@@ -1,0 +1,4 @@
+Abstract
+--------
+
+The present-disclosure relates to the discovery of novel 2-amino-dihydropteridinone compounds and analogues thereof, which are capable of inhibiting phosphatidylinositol phosphate kinases. In certain embodiments, the compounds of the present disclosure can be used to treat p53-null cancer in a subject. In other embodiments, the compounds of the present disclosure can be used to treat metabolic disorders in a subject, including but not limited to type 2 diabetes and/or obesity.

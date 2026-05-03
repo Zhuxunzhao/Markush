@@ -1,0 +1,26 @@
+Abstract
+--------
+
+The invention provides compounds of formula I,
+
+[![Figure US10016420-20180710-C00001](https://patentimages.storage.googleapis.com/f2/1c/3e/c1d3dcff278669/US10016420-20180710-C00001.png)](https://patentimages.storage.googleapis.com/f2/1c/3e/c1d3dcff278669/US10016420-20180710-C00001.png)
+
+wherein:
+
+* R1 represents a cyclic group selected from phenyl, heteroaryl1, heterocyclyl1 and C3-6 cycloalkyl;
+  + wherein each cyclic group is optionally substituted with from 1 to 3 substituents selected from halo, C1-6 alkyl optionally substituted with 1-3 halogen atoms, phenyl, C1-6 alkoxy optionally substituted with 1-3 halogen atoms, cyano, heteroaryl1a and heterocyclyl1a;
+  + and wherein each cyclic group is optionally fused to a benzene ring or a 5- or 6-membered heteroaromatic or heterocyclic ring each containing from 1 to 3 heteroatoms (selected from N, O and S); and when the group is substituted the substitution may occur anywhere on the optionally fused ring system as a whole;
+  + and wherein heterocyclyl1 and heterocyclyl1a may additionally be substituted with ═O;
+* X represents a bond or C1-6 alkylene (which may be straight or branched);
+* R2 represents H or C1-6 alkyl;
+* R3 represents H or C1-6 alkyl;
+* Y represents a bond or C1-6 alkylene (which may be straight or branched, and optionally substituted with OH or CF3);
+* R4 represents a cyclic group selected from phenyl, heteroaryl4, heterocyclyl4 and C3-6 cycloalkyl;
+  + wherein each cyclic group is optionally substituted with from 1 to 3 substituents selected from halo, C1-6 alkyl optionally substituted with 1-3 halogen atoms, phenyl, C1-6 alkyl substituted with phenyl, C1-6 alkoxy optionally substituted with 1-3 halogen atoms, cyano, heteroaryl4a and heterocyclyl4a;
+  + and wherein each cyclic group is optionally fused to benzene ring or a 5- or 6-membered heteroaromatic or heterocyclic ring each containing from 1 to 3 heteroatoms (selected from N, O and S); and when the group is substituted the substitution may occur anywhere on the optionally fused ring system as a whole;
+  + and wherein heterocyclyl4 and heterocyclyl4a may additionally be substituted with ═O;
+* heteroaryl1, heteroaryl1a, heteroaryl4 and heteroaryl4a independently represent a 5- or 6-membered heteroaryl group containing from 1 to 3 heteroatoms (selected from N, O and S); and
+* heterocyclyl1, heterocyclyl1a, heterocyclyl4 and heterocyclyl4a independently represent a 5- or 6-membered heterocyclyl group containing from 1 to 3 heteroatoms (selected from N, O and S);
+  + and pharmaceutically acceptable salts and solvates thereof.
+
+The compounds are useful as pharmaceuticals, particularly in the treatment of fibrotic diseases, cancer and pain.

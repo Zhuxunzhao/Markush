@@ -1,0 +1,4 @@
+Abstract
+--------
+
+Disclosed are nitrated psilocybin compounds of formula (I), wherein at least one of R2, R4, R5, R6, or R7, is a nitro group, and wherein each non-nitrated R2, R5, R6, or R7, is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, wherein R4 when it is not nitrated is a hydrogen atom, an alkyl, O-alkyl or O-aryl group, a hydroxy group, or a phosphate group, and wherein R3a, and R3b, are a hydrogen atom, an alkyl group, an aryl group, or an acyl group, pharmaceutical formulations containing the same. The nitrated psilocybin compounds of formula (I) may be chemically synthesized or biochemically synthesized in host cells. The nitrated compounds of formula (I) may be used for modulating 5-HT2A receptor, and for treating a psychiatric disorder in a subject.

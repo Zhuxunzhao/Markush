@@ -1,0 +1,46 @@
+Claims (4)
+----------
+
+The invention claimed is:
+
+1. A compound of general formula I-A, or a pharmaceutically acceptable acid addition salt, a racemic mixture or its corresponding enantiomer and/or optical isomers thereof,
+
+[![Figure US12006316-20240611-C00064](https://patentimages.storage.googleapis.com/e3/a3/ac/6a40e7e7d47c76/US12006316-20240611-C00064.png)](https://patentimages.storage.googleapis.com/e3/a3/ac/6a40e7e7d47c76/US12006316-20240611-C00064.png)
+
+ 
+
+wherein
+
+R1 is pyrazole, thiazole, pyridine, or pyrimidine each of which is optionally substituted by one or two substituents independently selected from (1) fluorine; (2) methyl, ethyl or propyl, each of which is optionally substituted by fluorine or methoxy; (3) cyano; (4) amino optionally substituted by methyl or fluoro-ethyl; (5) —C(O)NHR1A where R1A is methyl, ethyl, or propyl, each of which is optionally substituted by fluorine or methoxy; (6) methoxy, ethoxy or propoxy, each of which is optionally substituted by fluorine or methoxy; or (7) morpholine, piperazine or piperidine, each of which is optionally substituted by fluorine or fluoromethyl;
+
+M is C—R3, and Q is CH; or M is CH, and Q is CR3;
+
+R3 is (1) H; (2) fluorine; (3) methyl, ethyl or propyl, each of which is optionally substituted by fluorine, hydroxy or methoxy; (4) methoxy, ethoxy or propoxy, each of which is optionally substituted by fluorine, hydroxyl or methoxy; (4) di-methyl-amino; or (5) —NHR3A where R3A is methyl, ethyl or propyl, each of which is optionally substituted by fluorine, hydroxy or methoxy; and
+
+wherein
+
+any hydrogen of formula I-A is H, 2H or 3H;
+
+any carbon of formula I-A is C, 14C or 11C; and
+
+any fluorine of formula I-A is F or 18F;
+
+provided that the compound of formula I is not a compound of general formula Ro I
+
+[![Figure US12006316-20240611-C00065](https://patentimages.storage.googleapis.com/26/d8/88/39cd5adb8291a2/US12006316-20240611-C00065.png)](https://patentimages.storage.googleapis.com/26/d8/88/39cd5adb8291a2/US12006316-20240611-C00065.png)
+
+ 
+
+wherein
+
+R is hydrogen or tritium;
+
+F is fluoro or 18fluoro;
+
+or a pharmaceutically acceptable acid addition salt thereof.
+
+2. A pharmaceutical composition comprising a compound according to claim 1 and a pharmaceutically acceptable excipient.
+
+3. A method of diagnosing or monitoring tau aggregates in the brain of a subject, the method comprising administering a radiolabeled compound containing an isotope according to claim 1 to the subject.
+
+4. A method of treating a subject with a neurodegenerative disease in which tau aggregates in the brain are implicated, the method comprising administering to the subject an effective amount of compound according to claim 1.

@@ -1,0 +1,6 @@
+Abstract
+--------
+
+The present invention provides, in part, novel small molecule inhibitors of PHD, having a structure according to Formula (I), and sub-formulas thereof: or a pharmaceutically acceptable salt thereof. The compounds provided herein can be useful for treatment of diseases including heart (e.g. ischemic heart disease, congestive heart failure, and valvular heart disease), lung (e.g., lung inflammation, pneumonia, acute lung injury, pulmonary hypertension, pulmonary fibrosis, and chronic obstructive pulmonary disease), respiratory (e.g., respiratory infection, acute respiratory distress syndrome), liver (e.g. acute liver failure and liver fibrosis and cirrhosis), and kidney (e.g. acute kidney injury and chronic kidney disease) disease, inflammatory bowel disease (IBD), ischemic reperfusion injury (e.g., stroke), and retinopathy of prematurity (ROP).
+
+[![Figure US20230295110A1-20230921-C00001](https://patentimages.storage.googleapis.com/ca/df/36/33e4a716ee8133/US20230295110A1-20230921-C00001.png)](https://patentimages.storage.googleapis.com/ca/df/36/33e4a716ee8133/US20230295110A1-20230921-C00001.png)

@@ -1,0 +1,272 @@
+Claims (74)
+-----------
+
+**1**. A compound of Formula I, or a pharmaceutically acceptable salt thereof,
+
+[![Figure US20230131535A1-20230427-C00238](https://patentimages.storage.googleapis.com/35/c4/ba/b136a23ae4c315/US20230131535A1-20230427-C00238.png)](https://patentimages.storage.googleapis.com/35/c4/ba/b136a23ae4c315/US20230131535A1-20230427-C00238.png)
+
+wherein
+
+A is (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)R9, (CR6R7)n3NRaSO2R9, (CR6R7)n3NRa(C═O)(CR6R7)n3ORb, (CR6R7)n3CONRaR9, (CR6R7)n3SO2NRaR9, (CR6R7)n3(C═O)NRa(C═O)R9, (CR6R7)n3(C═O)NRaSO2R9,
+
+[![Figure US20230131535A1-20230427-C00239](https://patentimages.storage.googleapis.com/14/e0/0d/f60fe0c63e7203/US20230131535A1-20230427-C00239.png)](https://patentimages.storage.googleapis.com/14/e0/0d/f60fe0c63e7203/US20230131535A1-20230427-C00239.png)
+
+ 
+
+or a heteroaryl containing N and optionally substituted by 1-5 R5;
+
+Z is ORa, NRaRb, or NRb(C═O)Ra;
+
+each occurrence of X1, X2, and X3 is independently H, halogen, CN, alkyl, halogenated alkyl, cycloalkyl, or halogenated cycloalkyl;
+
+or alternatively X2 and X3 and the carbon atoms they are connected to taken together form an optionally substituted 5- or 6-membered aryl;
+
+R1 and R2 are each independently H, alkyl, heteroalkyl, cycloalkyl, heterocycloalkyl, (CR6R7)n3ORa, (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)Rb, or (CR6R7)n3CONRaRb;
+
+each occurrence of R3 is independently H, halogen, or alkyl;
+
+each occurrence of R4 is independently CN, (CR6R7)n3ORa, (CR6R7)n3COORa, (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)Rb, (CR6R7)n3(C═O)NRaRb, (CR6R7)n3NRa(C═O)NRaRb, (CR6R7)n3SO2NRaRb, or an optionally substituted heterocycle containing 1-3 heteroatoms each selected from the group consisting of N, O, and S;
+
+each occurrence of R5 is independently H, halogen, alkyl, cycloalkyl, optionally substituted saturated heterocycle, optionally substituted aryl, optionally substituted heteroaryl, CN, CF3, OCF3, oxo, ORa, (CR6R7)n3ORa, (C═O)Rb, (C═O)ORb, SO2Ra, (C═O)(CR6R7)n3ORb, (C═O)(CR6R7)n3NRaRb, (CR6R7)n3NRaRb, (CR6R7)n3NRaSO2Rb, (CR6R7)n3NRa(C═O)Rb, (CR6R7)n3NRa(C═O)NRaRb, or (CR6R7)n3(C═O)NRaRb;
+
+or two R5 groups taken together with the carbon or nitrogen atoms that they are connected to form a 3-7 membered optionally substituted saturated or aromatic carbocycle or heterocycle;
+
+each occurrence of R6 and R7 are independently H, alkyl, cycloalkyl, optionally substituted aryl, or optionally substituted heteroaryl;
+
+each occurrence of Ra and Rb are independently H, alkyl, alkenyl, cycloalkyl, optionally substituted saturated heterocycle, optionally substituted aryl, or optionally substituted heteroaryl; or
+
+alternatively Ra and Rb together with the nitrogen atom that they are connected to form an optionally substituted heterocycle comprising the nitrogen atom and 0-3 additional heteroatoms each selected from the group consisting of N, O, and S;
+
+the alkyl, cycloalkyl, spiroalkyl, bicycloalkyl, heterocycle, aryl, and heteroaryl in R1, R2, R3, R4, R5, R6, R7, R9, Ra, and Rb, where applicable, are optionally substituted by 1-4 substituents each independently selected from the group consisting of alkyl, cycloalkyl, halogenated cycloalkyl, halogenated alkyl, halogen, CN, OR8, —(CH2)0-2OR8, N(R8)2, (C═O)R8, (C═O)N(R8)2, and oxo where valence permits;
+
+each occurrence of R8 is independently H, alkyl, or optionally substituted heterocycle; or alternatively the two R8 groups together with the nitrogen atom that they are connected to form an optionally substituted heterocycle comprising the nitrogen atom and 0-3 additional heteroatoms each selected from the group consisting of N, O, and S;
+
+each occurrence of R9 is independently H, alkyl, cycloalkyl, —(CH2)1-2OR8, or optionally substituted heterocycle comprising 1-3 heteroatoms each selected from the group consisting of N, O, and S, wherein the heterocycle optionally substituted by 1-3 substituents each independently selected from the group consisting of alkyl, cycloalkyl, halogenated cycloalkyl, halogenated alkyl, halogen, OR8, —(CH2)0-2OR8, —(C═O)(CH2)0-2OR8, N(R8)2, (C═O)(CH2)0-2N(R8)2, and oxo where valence permits;
+
+n1 is an integer from 1-3 where valence permits;
+
+n2 is an integer from 0-3 where valence permits; and
+
+each occurrence of n3 is independently an integer from 0-4.
+
+**2**. The compound of claim 1, wherein A is
+
+[![Figure US20230131535A1-20230427-C00240](https://patentimages.storage.googleapis.com/eb/7f/75/4311463ce3ccb0/US20230131535A1-20230427-C00240.png)](https://patentimages.storage.googleapis.com/eb/7f/75/4311463ce3ccb0/US20230131535A1-20230427-C00240.png)
+
+**3**. The compound of claim 1, wherein A is a heteroaryl containing N and optionally substituted by 1-5 R5.
+
+**4**. The compound of claim 3, wherein A has the structure selected from the group consisting of
+
+[![Figure US20230131535A1-20230427-C00241](https://patentimages.storage.googleapis.com/69/cf/ae/6af22b49a90a5a/US20230131535A1-20230427-C00241.png)](https://patentimages.storage.googleapis.com/69/cf/ae/6af22b49a90a5a/US20230131535A1-20230427-C00241.png)
+
+wherein n5 is an integer from 0-3 where valance permits.
+
+**5**. The compound of claim 3, wherein A has the structure selected from the group consisting of
+
+[![Figure US20230131535A1-20230427-C00242](https://patentimages.storage.googleapis.com/4c/38/7f/8a21a1fa9d5ab6/US20230131535A1-20230427-C00242.png)](https://patentimages.storage.googleapis.com/4c/38/7f/8a21a1fa9d5ab6/US20230131535A1-20230427-C00242.png)
+
+wherein n5 is an integer from 0-3 where valance permits.
+
+**6**. The compound of claim 3, wherein A has the structure selected from the group consisting of
+
+[![Figure US20230131535A1-20230427-C00243](https://patentimages.storage.googleapis.com/8c/a8/d7/0f1b96d1b1412d/US20230131535A1-20230427-C00243.png)](https://patentimages.storage.googleapis.com/8c/a8/d7/0f1b96d1b1412d/US20230131535A1-20230427-C00243.png)
+
+wherein n5 is an integer from 0-3 where valance permits.
+
+**7**. The compound of claim 1, wherein A is (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)R9, (CR6R7)n3NRa(C═O)(CR6R7)n3ORb, (CR6R7)n3NRaSO2R9, (CR6R7)n3CONRaR9, (CR6R7)n3SO2NRaR9, (CR6R7)n3(C═O)NRa(C═O)R9, or (CR6R7)n3(C═O)NRaSO2R9.
+
+**8**. The compound of claim 7, wherein A is (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)R9, (CR6R7)n3NRaSO2R9, (CR6R7)n3CONRaR9, (CR6R7)n3SO2NRaR9, (CR6R7)n3(C═O)NRa(C═O)R9, or (CR6R7)n3(C═O)NRaSO2R9.
+
+**9**. The compound of claim 7, wherein A is (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)R9, (CR6R7)n3NRaSO2R9, (CR6R7)n3CONRaR9, (CR6R7)n3SO2NRaR9, or (CR6R7)n3(C═O)NRa(C═O)R9.
+
+**10**. The compound of claim 7, wherein A is —(CH2)0-2NRaC═O(CH2)1-2ORb, —(CH2)0-2NRa(C═O)R9, or —(CH2)0-2(C═O)NRaR9.
+
+**11**. The compound of claim 7, wherein R9 is —CH2OH, —CH2CH2OH,
+
+[![Figure US20230131535A1-20230427-C00244](https://patentimages.storage.googleapis.com/5a/50/66/36aa03f25118ab/US20230131535A1-20230427-C00244.png)](https://patentimages.storage.googleapis.com/5a/50/66/36aa03f25118ab/US20230131535A1-20230427-C00244.png)
+
+**12**. The compound of claim 1, wherein the compound has a structure of Formula Ia,
+
+[![Figure US20230131535A1-20230427-C00245](https://patentimages.storage.googleapis.com/f8/f1/a1/fffc5088a08230/US20230131535A1-20230427-C00245.png)](https://patentimages.storage.googleapis.com/f8/f1/a1/fffc5088a08230/US20230131535A1-20230427-C00245.png)
+
+wherein
+
+each occurrence of R1 is independently H, NH2, OH, alkyl, heteroalkyl, cycloalkyl, or heterocycloalkyl;
+
+each occurrence of W is independently null, CH2, C═O, or CH2C═O; and
+
+R10 and R11 are each independently H, alkyl, —(CH2)0-2OR8, (C═O)R9, SO2R9, aryl, heteroaryl, heterocycle; or alternatively R10 and R11 together with the nitrogen atom that they are connected to form an optionally substituted heterocycle comprising the nitrogen atom and 0-3 additional heteroatoms each selected from the group consisting of N, O, and S.
+
+**13**. The compound of claim 12, wherein R10 and R11 are each independently selected from the group consisting of —CH2OH, —CH2CH2OH,
+
+[![Figure US20230131535A1-20230427-C00246](https://patentimages.storage.googleapis.com/04/66/c1/2e549db63de205/US20230131535A1-20230427-C00246.png)](https://patentimages.storage.googleapis.com/04/66/c1/2e549db63de205/US20230131535A1-20230427-C00246.png)
+
+**14**. The compound of claim 1, wherein R1 and R2 are each independently H or alkyl.
+
+**15**. The compound of claim 1, wherein R1 and R2 are each independently H, alkyl, ORa, or NRaRb.
+
+**16**. The compound of claim 1, wherein R1 and R2 are each independently H, (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)Rb, or (CR6R7)n3CONRaRb.
+
+**17**. The compound of claim 1, wherein R1 and R2 are each independently H, Me, OH, CH2OH, NH2, CH2NH2, CONH2, CONHMe2, CONMe2, NH(CO)Me, or NMe(CO)Me.
+
+**18**. The compound of claim 1, wherein R1 and R2 are each independently selected from the group consisting of H, Me, OH,
+
+[![Figure US20230131535A1-20230427-C00247](https://patentimages.storage.googleapis.com/33/49/41/799237bb616beb/US20230131535A1-20230427-C00247.png)](https://patentimages.storage.googleapis.com/33/49/41/799237bb616beb/US20230131535A1-20230427-C00247.png)
+
+**19**. The compound of claim 1, wherein at least one occurrence of R4 is independently CN, (CR6R7)n3NRaRb, (CR6R7)n3NRa(C═O)Rb, or (CR6R7)n3(C═O)NRaRb.
+
+**20**. The compound of claim 19, wherein at least one occurrence of R4 is CN, NH2, CH2NH2, CH2CH2NH2, CONH2, CONHMe2, CONMe2, NH(CO)Me, NMe(CO)Me, CH2CONH2, CH2CONHMe2, CH2CONMe2, CH2NH(CO)Me, or CH2NMe(CO)Me.
+
+**21**. The compound of claim 19, wherein at least one occurrence of R4 is CH2NH2,
+
+[![Figure US20230131535A1-20230427-C00248](https://patentimages.storage.googleapis.com/3d/6d/b0/e28281954ef668/US20230131535A1-20230427-C00248.png)](https://patentimages.storage.googleapis.com/3d/6d/b0/e28281954ef668/US20230131535A1-20230427-C00248.png)
+
+**22**. The compound of claim 1, wherein at least one occurrence of R4 is an optionally substituted heterocycle containing 1-3 heteroatoms each selected from the group consisting of N, O, and S.
+
+**23**. The compound of claim 22, wherein at least one occurrence of R4 is a heterocycle selected from the group consisting of
+
+[![Figure US20230131535A1-20230427-C00249](https://patentimages.storage.googleapis.com/ba/81/16/9667d0934889bf/US20230131535A1-20230427-C00249.png)](https://patentimages.storage.googleapis.com/ba/81/16/9667d0934889bf/US20230131535A1-20230427-C00249.png)
+
+wherein the heterocycle is optionally substituted by alkyl, OH, oxo, or (C═O)C1-4alkyl where valence permits.
+
+**24**. The compound of claim 1, wherein at least one occurrence of R5 is H, halogen, alkyl, cycloalkyl, optionally substituted saturated heterocycle, optionally substituted aryl, optionally substituted heteroaryl, CN, CF3, OCF3, ORa, (CR6R7)n3ORa, (C═O)Rb, (C═O)ORb, or SO2Ra.
+
+**25**. The compound of claim 1, wherein at least one occurrence of R5 is (C═O)(CR6R7)n3ORb, (C═O)(CR6R7)n3NRaRb, (CR6R7)n3NRaRb, (CR6R7)n3NRaSO2Rb, (CR6R7)n3NRa(C═O)Rb, (CR6R7)n3NRa(C═O)NRaRb, or (CR6R7)n3(C═O)NRaRb.
+
+**26**. The compound of claim 1, wherein at least one occurrence of R5 is H, halogen, alkyl, OH, NH2, CN, CF3, OCF3, CONH2, CONHMe2, or CONMe2.
+
+**27**. The compound of claim 1, wherein at least one occurrence of R5 is an optionally substituted heterocycle containing 1-3 heteroatoms each selected from the group consisting of N, O, and S.
+
+**28**. The compound of claim 27, wherein at least one occurrence of R5 is a heterocycle selected from the group consisting of
+
+[![Figure US20230131535A1-20230427-C00250](https://patentimages.storage.googleapis.com/96/01/a2/8a98b584b224d6/US20230131535A1-20230427-C00250.png)](https://patentimages.storage.googleapis.com/96/01/a2/8a98b584b224d6/US20230131535A1-20230427-C00250.png)
+
+wherein the heterocycle is optionally substituted by alkyl, OH, oxo, or (C═O)C1-4alkyl where valence permits.
+
+**29**. The compound of claim 1, wherein two R5 groups taken together with the carbon atom that they are connected to form a 3-7 membered optionally substituted carbocycle or heterocycle.
+
+**30**. The compound of claim 1, wherein each occurrence of R6 and R7 are independently H or alkyl.
+
+**31**. The compound of claim 1, wherein Z is ORa or NRaRb.
+
+**32**. The compound of claim 1, wherein Z is ORa.
+
+**33**. The compound of claim 31, wherein Z is OH, OMe, NH2, NHMe, or NMe2.
+
+**34**. The compound of claim 33, wherein Z is OH.
+
+**35**. The compound of claim 1, wherein X1 is H or halogen.
+
+**36**. The compound of claim 1, wherein X1 is fluorinated alkyl, alkyl, or cycloalkyl.
+
+**37**. The compound of claim 1, wherein X1 is H, Cl, Br, Me, or CF3.
+
+**38**. The compound of claim 37, wherein X1 is H or Cl.
+
+**39**. The compound of claim 1, wherein X2 is H or halogen.
+
+**40**. The compound of claim 1, wherein X2 is fluorinated alkyl, alkyl, or cycloalkyl.
+
+**41**. The compound of claim 1, wherein X2 is H, Cl, Br, Me, or CF3.
+
+**42**. The compound of claim 41, wherein X2 is H or Cl.
+
+**43**. The compound of claim 1, wherein X3 is H or halogen.
+
+**44**. The compound of claim 1, wherein X3 is fluorinated alkyl, alkyl, or cycloalkyl.
+
+**45**. The compound of claim 1, wherein X3 is H, Cl, Br, Me, or CF3.
+
+**46**. The compound of claim 1, wherein X3 is H or Cl.
+
+**47**. The compound of claim 1, wherein the structural moiety
+
+[![Figure US20230131535A1-20230427-C00251](https://patentimages.storage.googleapis.com/88/c2/7a/0d85350558bd97/US20230131535A1-20230427-C00251.png)](https://patentimages.storage.googleapis.com/88/c2/7a/0d85350558bd97/US20230131535A1-20230427-C00251.png)
+
+has the structure of
+
+[![Figure US20230131535A1-20230427-C00252](https://patentimages.storage.googleapis.com/f5/22/a4/0705c526aada10/US20230131535A1-20230427-C00252.png)](https://patentimages.storage.googleapis.com/f5/22/a4/0705c526aada10/US20230131535A1-20230427-C00252.png)
+
+each of which is substituted by R3.
+
+**48**. The compound of claim 1, wherein the structural moiety
+
+[![Figure US20230131535A1-20230427-C00253](https://patentimages.storage.googleapis.com/47/60/58/c19066ea81beb4/US20230131535A1-20230427-C00253.png)](https://patentimages.storage.googleapis.com/47/60/58/c19066ea81beb4/US20230131535A1-20230427-C00253.png)
+
+has the structure of
+
+[![Figure US20230131535A1-20230427-C00254](https://patentimages.storage.googleapis.com/5f/8f/2f/acde867745ac09/US20230131535A1-20230427-C00254.png)](https://patentimages.storage.googleapis.com/5f/8f/2f/acde867745ac09/US20230131535A1-20230427-C00254.png)
+
+**49**. The compound of claim 1, wherein the compound has a structure of Formula II,
+
+[![Figure US20230131535A1-20230427-C00255](https://patentimages.storage.googleapis.com/9e/bf/bd/5868fe9e5d28af/US20230131535A1-20230427-C00255.png)](https://patentimages.storage.googleapis.com/9e/bf/bd/5868fe9e5d28af/US20230131535A1-20230427-C00255.png)
+
+wherein
+
+each occurrence of A is independently
+
+[![Figure US20230131535A1-20230427-C00256](https://patentimages.storage.googleapis.com/e5/c9/e7/c9788932dd2911/US20230131535A1-20230427-C00256.png)](https://patentimages.storage.googleapis.com/e5/c9/e7/c9788932dd2911/US20230131535A1-20230427-C00256.png)
+
+ 
+
+or a heteroaryl containing N and optionally substituted by 1-5 R5;
+
+each occurrence of R3′ is independently H, halogen, or alkyl; and
+
+n6 is independently an integer from 0-6.
+
+**50**. The compound of claim 1, wherein R3 is H or alkyl.
+
+**51**. The compound of claim 1, wherein R3 is halogen.
+
+**52**. The compound of claim 1, wherein n1 is 1, 2, or 3.
+
+**53**. The compound of claim 1, wherein n2 is 0, 1, 2, or 3.
+
+**54**. The compound of claim 1, wherein each occurrence of n3 is independently 0, 1, or 2.
+
+**55**. The compound of claim 1, wherein n5 is 0, 1, or 2.
+
+**56**. The compound of claim 1, wherein at least one occurrence of Ra or Rb is independently H, alkyl, cycloalkyl, saturated heterocycle, aryl, or heteroaryl.
+
+**57**. The compound of claim 56, wherein at least one occurrence of Ra or Rb is independently H, Me, Et, Pr, or a heterocycle selected from the group consisting of
+
+[![Figure US20230131535A1-20230427-C00257](https://patentimages.storage.googleapis.com/ff/6f/33/ea1aa0defd13f6/US20230131535A1-20230427-C00257.png)](https://patentimages.storage.googleapis.com/ff/6f/33/ea1aa0defd13f6/US20230131535A1-20230427-C00257.png)
+
+[![Figure US20230131535A1-20230427-C00258](https://patentimages.storage.googleapis.com/a7/b0/46/8240031550b2b2/US20230131535A1-20230427-C00258.png)](https://patentimages.storage.googleapis.com/a7/b0/46/8240031550b2b2/US20230131535A1-20230427-C00258.png)
+
+wherein the heterocycle is optionally substituted by alkyl, OH, oxo, or (C═O)C1-4alkyl where valence permits.
+
+**58**. The compound of claim 1, wherein Ra and Rb together with the nitrogen atom that they are connected to form an optionally substituted heterocycle comprising the nitrogen atom and 0-3 additional heteroatoms each selected from the group consisting of N, O, and S.
+
+**59**. The compound of claim 1, wherein the compound is selected from the group consisting of compounds 1-75 as shown in Table 6.
+
+**60**. The compound of claim 1, wherein the compound is selected from the group consisting of compounds 76-98 as shown in Table 7.
+
+**61**. A pharmaceutical composition comprising at least one compound according to claim 1 or a pharmaceutically acceptable salt thereof and a pharmaceutically acceptable carrier or diluent.
+
+**62**. A method of treating a condition in a mammalian species in need thereof, comprising administering to the mammalian species a therapeutically effective amount of at least one compound according to claim 1 or a pharmaceutically acceptable salt thereof, wherein the condition is selected from the group consisting of cancer, an immunological disorder, a central nervous system (CNS) disorder, an inflammatory disorder, a gastroenterological disorder, a metabolic disorder, a cardiovascular disorder, and a kidney disease.
+
+**63**. The method of claim 62, wherein the immunological disorder is transplant rejection or an autoimmune disease.
+
+**64**. The method of claim 63, wherein the autoimmune disease is rheumatoid arthritis, multiple sclerosis, systemic lupus erythematosus, or Type I diabetes mellitus.
+
+**65**. The method of claim 62, wherein the central nervous system (CNS) disorder is Alzheimer's disease.
+
+**66**. The method of claim 62, wherein the inflammatory disorder is an inflammatory skin condition, arthritis, psoriasis, spondylitis, parodontitis, or an inflammatory neuropathy.
+
+**67**. The method of claim 62, wherein the gastroenterological disorder is an inflammatory bowel disease.
+
+**68**. The method of claim 62, wherein the metabolic disorder is obesity or Type II diabetes mellitus.
+
+**69**. The method of claim 62, wherein the cardiovascular disorder is an ischemic stroke.
+
+**70**. The method of claim 62, wherein the kidney disease is chronic kidney disease, nephritis, or chronic renal failure.
+
+**71**. The method of claim 62, wherein the condition is selected from the group consisting of cancer, transplant rejection, rheumatoid arthritis, multiple sclerosis, systemic lupus erythematosus, Type I diabetes mellitus, Alzheimer's disease, inflammatory skin condition, inflammatory neuropathy, psoriasis, spondylitis, parodontitis, Crohn's disease, ulcerative colitis, obesity, Type II diabetes mellitus, ischemic stroke, chronic kidney disease, nephritis, chronic renal failure, and a combination thereof.
+
+**72**. The method of claim 62, wherein the mammalian species is human.
+
+**73**. A method of blocking Kv1.3 potassium channel in a mammalian species in need thereof, comprising administering to the mammalian species a therapeutically effective amount of at least one compound according to claim 1 or a pharmaceutically acceptable salt thereof.
+
+**74**. The method of claim 73, wherein the mammalian species is human.

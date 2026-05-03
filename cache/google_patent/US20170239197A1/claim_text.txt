@@ -1,0 +1,272 @@
+Claims (19)
+-----------
+
+**1**-**28**. (canceled)
+
+**29**. A method of increasing neuroplasticity in a subject in need thereof, said method comprising administering to said subject a compound having formula (I)
+
+[![Figure US20170239197A1-20170824-C00106](https://patentimages.storage.googleapis.com/b4/5c/e6/2522ff0060bdb1/US20170239197A1-20170824-C00106.png)](https://patentimages.storage.googleapis.com/b4/5c/e6/2522ff0060bdb1/US20170239197A1-20170824-C00106.png)
+
+wherein,
+
+R1 and R3 represent hydrogen atoms;
+
+R2 is a group A-OR8, wherein R8 is selected from the group consisting of H; glycosyl; acetyl; valproyl and lipoyl;
+
+A is a biradical selected from the group consisting of C1-C6 alkylene and C2-C6 alkenylene R4 is selected from the group consisting of:
+
+H;
+
+a C5-C7 cycloalkyl, optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl, C1-C8 alkoxy, —CN, —NO2, —COOH, and —NH2;
+
+a C6-C10 aryl, optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl, C1-C8 alkoxy, —CN, —NO2, —COOH, and —NH2; and
+
+a 5- or 6-membered monocyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; said heteroaryl being optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl, C1-C8 alkoxy, —CN, —NO2, —COOH, and —NH2;
+
+wherein:
+
+a) R5 is selected from the group consisting of H and an 8-, 9- or 10-membered bicyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; said heteroaryl being optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8, alkyl, C1-C8, alkoxy, —CN, —NO2, —COOH, and —NH2;
+
+R6 is selected from the group consisting of H; C1-C3 alkyl and C1-C8, acyl; and
+
+R7 is selected from the group consisting of H and C1-C3 alkyl; or
+
+b) R5 and R6 taken together form a group selected from the group consisting of —O—CH2—CH2— and —CH(R11)—CH2—CH2—, wherein R11 is a phenyl group optionally substituted by at least one substituent selected from the group consisting of halogen; —OH and —NH2;
+
+and
+
+R7 is H; or
+
+c) R5 is H; and
+
+R6 and R7 taken together form a group —(CH2)m—CO—;
+
+n is an integer selected from 0, 1 and 2;
+
+m is an integer selected from 2, 3 and 4;
+
+with the proviso that when R4 and R5 are both H, then R6 and R7 taken together form a group —(CH2)m—CO—; or
+
+a pharmaceutically acceptable salt or stereoisomer thereof.
+
+**30**. The method of claim 29, wherein the subject in need thereof is affected by at least one disorder selected from the group consisting of fragile X syndrome, Down syndrome, Angelman syndrome, Rett syndrome, autistic disorders, Asperger syndrome, bipolar disorder, schizophrenia, cerebral dementias, post traumatic stress disorders, Pick's disease, sleep disorders, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, frontotemporal dementia, Friedrich's ataxia, epilepsy, stroke, depression, neuropathic pain or fibromyalgia, brain injury, Creutzfeldt-Jakob disease, frontotemporal lobar degeneration, Lewy body disease, multiple sclerosis, multiple system atrophy, spinal and bulbar muscular atrophy, spinal cord injuries, spinocerebellar ataxias, progressive supranuclear palsy, and tuberous sclerosis.
+
+**31**. The method of claim 29, wherein the subject in need thereof is affected by at least one disorder selected from the group consisting of fragile X syndrome, Down syndrome, Angelman syndrome, Rett syndrome, autistic disorders, Asperger syndrome, bipolar disorder, schizophrenia, cerebral dementias, post traumatic stress disorders, Pick's disease, sleep disorders, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, frontotemporal dementia, Friedrich's ataxia, epilepsy, stroke, depression, and neuropathic pain or fibromyalgia.
+
+**32**. The method of claim 29, wherein the subject in need thereof is affected by fragile X syndrome.
+
+**33**. The method of claim 29, wherein in the compound of formula (I) or the pharmaceutically acceptable salt or stereoisomer thereof,
+
+A is a biradical selected from the group consisting of C1-C6 alkylene; and
+
+a) R5 is selected from the group consisting of H and an 8-, 9- or 10-membered bicyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; said heteroaryl being optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8, alkyl;
+
+R6 is selected from the group consisting of H; C1-C3 alkyl and C1-C8, acyl; and
+
+R7 is selected from the group consisting of H and C1-C3 alkyl; or
+
+b) R5 and R6 taken together form a group selected from the group consisting of —O—CH2—CH2— and —CH(R11)—CH2—CH2—; and
+
+R7 is H; or
+
+c) R5 is H; and
+
+R6 and R7 taken together form a group —(CH2)m—CO—.
+
+**34**. The method of claim 33, wherein in the compound of formula (I) or the pharmaceutically acceptable salt or stereoisomer thereof,
+
+R4 is selected from the group consisting of:
+
+H;
+
+a C6-C10 aryl, optionally substituted by at least one group selected from the group consisting of halogen, —OH, and C1-C8 alkyl; and
+
+a 5- or 6-membered monocyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; said heteroaryl being optionally substituted by at least one group selected from the group consisting of halogen, —OH, and C1-C8 alkyl;
+
+a) R5 is selected from the group consisting of H and an 8-, 9- or 10-membered bicyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; said heteroaryl being optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl;
+
+R6 is selected from the group consisting of H and C1-C3 alkyl; and
+
+R7 is selected from the group consisting of H and C1-C3 alkyl; or
+
+b) R5 and R6 taken together form a group selected from the group consisting of —O—CH2—CH2— and —CH(R11)—CH2—CH2—; and
+
+R7 is H; or
+
+c) R5 is H; and
+
+R6 and R7 taken together form a group —(CH2)m—CO—;
+
+R8 is selected from the group consisting of H; acetyl; valproyl and lipoyl;
+
+R11 is a phenyl group, optionally substituted by at least one substituent selected from the group consisting of halogen and —OH; and
+
+m is an integer selected from the group consisting of 3 and 4.
+
+**35**. The method of claim 34, wherein in the compound of formula (I) or the pharmaceutically acceptable salt or stereoisomer thereof,
+
+R1 and R3 represent hydrogen atoms;
+
+R2 is a group A-OR8, wherein A represents a C1-C6 alkylene biradical;
+
+R4 is selected from the group consisting of H; a C6-C10 aryl; and a 5- or 6-membered monocyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; and:
+
+a) R5 is H; R6 is selected from the group consisting of H and C1-C3 alkyl; and R7 is selected from the group consisting of H and methyl; or
+
+b) R5 and R6 taken together form a group selected from the group consisting of —O—CH2—CH2— and —CH(R11)—CH2—CH2—; and R7 is H; or
+
+c) R5 is H; and R6 and R7 taken together form a group —(CH2)m—CO—;
+
+R8 is H; and
+
+R11 is a phenyl group optionally substituted by at least one halogen atom.
+
+**36**. The method of claim 35, wherein in the compound of formula (I) or the pharmaceutically acceptable salt or stereoisomer thereof,
+
+R2 is a group A-OR8; wherein A represents an ethylene biradical and R8 represents a hydrogen atom;
+
+R4 represents a phenyl group;
+
+R5 and R6 represent hydrogen atoms;
+
+R7 represents a methyl group; and
+
+n has a value of 1.
+
+**37**. The method of claim 29, wherein the compound of formula (I) is selected from the group consisting of:
+
+a) 1-[2-[4-(2-Hydroxyethyl)phenoxy]ethyl]pyrrolidin-2-one;
+
+b) 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol hydrochloride;
+
+c) (R)-2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol hydrochloride;
+
+d) (S)-2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol hydrochloride;
+
+e) 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol L-ascorbic acid salt;
+
+f) 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol ferulic acid salt;
+
+g) 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol caffeic acid salt;
+
+h) 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol valproic acid salt;
+
+i) 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol (R)-lipoic acid salt;
+
+j) 4-[3-(Methylamino)-1-phenylpropoxy]phenethyl acetate hydrochloride;
+
+k) N-[3-[4-(2-Hydroxyethyl)phenoxy]-3-phenylpropyl]-N-methyl-2-propylpentanamide;
+
+l) 2-[4-(3-Amino-1-phenylpropoxy)phenyl]ethanol hydrochloride;
+
+m) (R)-2-[4-[3-(Methylamino)-1-(thiophen-2-yl)propoxy]phenyl]ethanol;
+
+n) 4-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]butan-1-ol hydrochloride;
+
+o) (E)-tert-Butyl [3-[4-(3-hydroxyprop-1-enyl)phenoxy]-3-phenylpropyl](methyl) carbamate;
+
+p) 3-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]propan-1-ol hydrochloride;
+
+q) [4-[3-(Methylamino)-1-phenylpropoxy]phenyl]methanol hydrochloride;
+
+r) 2-[4-(Morpholin-2-ylmethoxy)phenyl]ethanol hydrochloride;
+
+s) [5-[3-(Methylamino)-1-phenylpropoxy]-1,3-phenylene]dimethanol hydrochloride;
+
+t) 2,2′-[5-[3-(Methylamino)-1-phenylpropoxy]-1,3-phenylene]diethanol;
+
+u) 3,3′-[5-[3-(Methylamino)-1-phenylpropoxy]-1,3-phenylene]dipropan-1-ol;
+
+v) 4,4′-[5-[3-(Methylamino)-1-phenylpropoxy]-1,3-phenylene]dibutan-1-ol;
+
+w) (2R,3S,4S,5R,6R)-2-(Hydroxymethyl)-6-[4-[3-(methylamino)-1-phenylpropoxy]phenethoxy]tetrahydro-2H-pyran-3,4,5-triol;
+
+x) 2-[4-(3-Dimethylamino-1-phenylpropoxy)phenyl]ethanol;
+
+y) 4-[4-(3-Methylamino-1-phenylpropoxy)phenyl]but-2-en-1-ol;
+
+z) 6-[4-(3-Methylamino-1-phenylpropoxy)phenyl]hexan-1-ol;
+
+aa) 6-[4-(3-Methylamino-1-phenylpropoxy)phenyl]hex-5-en-1-ol;
+
+bb) (S)-2-[4-(3-Methylamino-1-thiophen-2-ylpropoxy)phenyl]ethanol;
+
+cc) 2-[4-(Morpholin-2-yl(phenyl)methoxy)phenyl]ethanol;
+
+dd) 2-[4-[[(3S,4R)-4-(4-Fluorophenyl)piperidin-3-yl]methoxy]phenyl]ethanol;
+
+ee) 2-[2-Dimethylamino-1-[4-(2-hydroxyethyl)phenoxy]ethyl]cyclohexanol;
+
+ff) 1-[2-Dimethylamino-1-[4-(2-hydroxyethyl)phenoxy]-ethyl]cyclohexanol;
+
+gg) 2-[4-[2-(4-Fluoroindol-1-yl)-4-methylaminobutoxy]phenyl]ethanol;
+
+hh) 2-Propylpentanoic acid 2-[4-(3-methylamino-1-phenylpropoxy)phenyl] ethyl ester,
+
+ii) 5(R)-[1,2]Dithiolan-3-ylpentanoic acid 2-[4-(3-methylamino-1-phenylpropoxy)phenyl]ethyl ester, salts thereof; and
+
+stereoisomers thereof.
+
+**38**. The method of claim 37, wherein the compound of formula (I) is 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol, a salt thereof, or a stereoisomer thereof.
+
+**39**. The method of claim 37, wherein the compound of formula (I) is 2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol hydrochloride or a stereoisomer thereof.
+
+**40**. The method of claim 37, wherein the compound of formula (I) is (R)-2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol hydrochloride.
+
+**41**. The method of claim 37, wherein the compound of formula (I) is (S)-2-[4-[3-(Methylamino)-1-phenylpropoxy]phenyl]ethanol hydrochloride.
+
+**42**. A method of treating a subject suffering from a neurological disorder, said method comprising administering to said subject a compound having formula (I)
+
+[![Figure US20170239197A1-20170824-C00107](https://patentimages.storage.googleapis.com/ae/26/3f/faca9fa06f17bb/US20170239197A1-20170824-C00107.png)](https://patentimages.storage.googleapis.com/ae/26/3f/faca9fa06f17bb/US20170239197A1-20170824-C00107.png)
+
+wherein,
+
+R1 and R3 represent hydrogen atoms;
+
+R2 is a group A-OR8, wherein R8 is selected from the group consisting of H; glycosyl; acetyl; valproyl and lipoyl;
+
+A is a biradical selected from the group consisting of C1-C6 alkylene and C2-C6 alkenylene R4 is selected from the group consisting of:
+
+H;
+
+a C5-C7 cycloalkyl, optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl, C1-C8 alkoxy, —CN, —NO2, —COOH, and —NH2;
+
+a C6-C10 aryl, optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl, C1-C8 alkoxy, —CN, —NO2, —COOH, and —NH2; and
+
+a 5- or 6-membered monocyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; said heteroaryl being optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl, C1-C8 alkoxy, —CN, —NO2, —COOH, and —NH2;
+
+wherein:
+
+d) R5 is selected from the group consisting of H and an 8-, 9- or 10-membered bicyclic heteroaryl containing 1 or 2 heteroatoms, said heteroatoms being independently selected from the group consisting of N, O and S; said heteroaryl being optionally substituted by at least one group selected from the group consisting of halogen, —OH, C1-C8 alkyl, C1-C8 alkoxy, —CN, —NO2, —COOH, and —NH2;
+
+R6 is selected from the group consisting of H; C1-C3 alkyl and C1-C8 acyl; and
+
+R7 is selected from the group consisting of H and C1-C3 alkyl; or
+
+e) R5 and R6 taken together form a group selected from the group consisting of —O—CH2—CH2— and —CH(R11)—CH2—CH2—, wherein R11 is a phenyl group optionally substituted by at least one substituent selected from the group consisting of halogen; —OH and —NH2;
+
+and
+
+R7 is H; or
+
+f) R5 is H; and
+
+R6 and R7 taken together form a group —(CH2)m—CO—;
+
+n is an integer selected from 0, 1 and 2;
+
+m is an integer selected from 2, 3 and 4;
+
+with the proviso that when R4 and R5 are both H, then R6 and R7 taken together form a group —(CH2)m—CO—; or
+
+a pharmaceutically acceptable salt or stereoisomer thereof
+
+said neurological disorder being at least one condition selected from the group consisting of impaired learning ability; impaired memory or memory recognition; depression; and fragile X syndrome.
+
+**43**. The method of claim 42, wherein said neurological disorder is impaired learning ability.
+
+**44**. The method of claim 42, wherein said neurological disorder is impaired memory or memory recognition.
+
+**45**. The method of claim 42, wherein said neurological disorder is depression.
+
+**46**. The method of claim 42, wherein said neurological disorder is fragile X syndrome.

@@ -1,0 +1,50 @@
+Claims (16)
+-----------
+
+1. A compound of the formula
+
+[![Figure US08039496-20111018-C00060](https://patentimages.storage.googleapis.com/fd/77/c4/cfff2628338d82/US08039496-20111018-C00060.png)](https://patentimages.storage.googleapis.com/fd/77/c4/cfff2628338d82/US08039496-20111018-C00060.png)
+
+or a pharmaceutically acceptable salt thereof;
+
+wherein Y is an organic acid functional group, or an amide or ester thereof comprising up to 12 carbon atoms; or Y is hydroxymethyl or an ether thereof comprising up to 12 carbon atoms; or Y is a tetrazolyl functional group;
+
+B is C═O, CH2, CHOH, CHCl, CHF, CHBr, or CHCN;
+
+G is OH or H; and
+
+D is substituted phenyl.
+
+2. The compound of claim 1 wherein Y is CO2R2, CON(R2)2, CON(OR2)R2, CON(CH2CH2OH)2, CONH(CH2CH2OH), CH2OH, P(O)(OH)2, CONHSO2R2, SO2N(R2)2, SO2NHR2,
+
+[![Figure US08039496-20111018-C00061](https://patentimages.storage.googleapis.com/9f/b6/98/cf0036e5994df2/US08039496-20111018-C00061.png)](https://patentimages.storage.googleapis.com/9f/b6/98/cf0036e5994df2/US08039496-20111018-C00061.png)
+
+wherein R2 is independently H, C1-C6 alkyl, unsubstituted phenyl, or unsubstituted biphenyl.
+
+3. The compound of claim 1 wherein B is C═O.
+
+4. The compound of claim 1 wherein B is CH2.
+
+5. The compound of claim 1 wherein B is CHOH.
+
+6. The compound of claim 1 wherein B is CHCl.
+
+7. The compound of claim 1 wherein B is CHF.
+
+8. The compound of claim 1 wherein B is CHBr.
+
+9. The compound of claim 1 wherein B is CHCN.
+
+10. The compound according to claim 1 wherein G is OH.
+
+11. The compound according to claim 1 wherein G is OH.
+
+12. The compound of claim 1 wherein D has a chloro substituent.
+
+13. The compound of claim 12 wherein D has two chloro substituents.
+
+14. The compound of claim 12 wherein D has a hydroxymethyl substituent.
+
+15. The compound of claim 1 wherein a substituent consists of up to 4 carbon atoms, up to 2 oxygen atoms, up to 1 chlorine atoms, and up to 10 hydrogen atoms.
+
+16. The compound of claim 15 wherein each substituent is independently methyl, ethyl, propyl, isopropyl, fluoro, chloro, bromo, hydroxymethyl, or hydroxyethyl.

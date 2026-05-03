@@ -1,0 +1,6 @@
+Abstract
+--------
+
+Suggested is a cosmetic composition, comprising compounds of formula (I) wherein R and R′ independently of one another denote hydrogen, hydroxyl, a linear or branched OC1-C4-alkyl group, or optionally R and R′ form together a methylenedioxy group resulting in a 3,4-methylendioxyphenyl residue and R″ denotes a linear or branched C1-C9 alkyl group or A, wherein A denotes formula (II) with X, Y and Z being independently of one another hydrogen, hydroxyl, an linear or branched C1-C4-alkyl group, or a linear or branched OC1-C4-alkyl group.
+
+[![Figure US20150174033A1-20150625-C00001](https://patentimages.storage.googleapis.com/48/a9/4f/3431c48be6eace/US20150174033A1-20150625-C00001.png)](https://patentimages.storage.googleapis.com/48/a9/4f/3431c48be6eace/US20150174033A1-20150625-C00001.png)

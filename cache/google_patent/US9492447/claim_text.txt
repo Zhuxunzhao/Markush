@@ -1,0 +1,348 @@
+Claims (20)
+-----------
+
+The invention claimed is:
+
+1. A composition comprising a compound selected from compounds of Formula Ia and pharmaceutically acceptable salts, solvates, hydrates, and N-oxides thereof:
+
+[![Figure US09492447-20161115-C00062](https://patentimages.storage.googleapis.com/4a/a2/96/046e6af0562691/US09492447-20161115-C00062.png)](https://patentimages.storage.googleapis.com/4a/a2/96/046e6af0562691/US09492447-20161115-C00062.png)
+
+ 
+
+wherein:
+
+R1, R2, R3, R4, R5, and R6 are each independently selected from: H and C1-C6 alkyl;
+
+X is NR7 and Y is CC(O)N(R8)R9; or
+
+X is CC(O)N(R8)R9 and Y is NR7;
+
+R7 is —R10—R11—R12—R13; wherein:
+
+R10 is absent;
+
+R11 is absent;
+
+R12 is absent; and
+
+R13 is selected from: C1-C6 alkyl, aryl, C3-C7 cycloalkyl, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl, aryl, and heteroaryl are each optionally substituted with one or two substituents selected from: C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylsulfonyl, amino, C3-C7 cycloalkyl, cyano, C2-C8 dialkylamino, C1-C6 haloalkyl, halogen, and hydroxyl;
+
+R8 is —R14—R15—R16—R17; wherein:
+
+R14 is selected from: C1-C6 alkylene, C3-C7 cycloalkenylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said C1-C6 alkylene and heterocyclylene are each optionally substituted with one or more substituents selected from: C1-C6 alkoxycarbonyl, C1-C6 alkyl, C3-C7 cycloalkyl, aryl, carboxy, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl and aryl are optionally substituted with one substituent selected from: C1-C6 alkoxy, aryl, halogen, heteroaryl, and hydroxyl; or R14 is absent;
+
+R15 is selected from: —C(O)NH—, —C(O)—, —C(O)O—, C1-C6 alkylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said heterocyclylene is optionally substituted with C1-C6 alkyl; or R15 is absent;
+
+R16 is C1-C6 alkylene; or R16 is absent; and
+
+R17 is selected from: H, C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylcarboxamide, C2-C6 alkynyl, ureyl, amino, aryl, arylamino, arylcarbonyl, aryloxy, carbo-C1-C6-alkoxy, carboxamide, carboxy, cyano, C3-C7 cycloalkyl, C5-C11 bicycloalkyl, C3-C7 cycloalkylamino, C2-C8 dialkylamino, C2-C8 dialkylsulfonamide, C1-C6 haloalkyl, heteroaryl, heteroaryloxy, heterobicyclyl, heterocyclyl, hydroxyl, and phosphonooxy; wherein said C1-C6 alkylamino, amino, aryl, arylamino, aryloxy, C5-C11 bicycloalkyl, C3-C7 cycloalkyl, C3-C7 cycloalkylamino, heteroaryl, heterobicyclyl, heterocyclyl, and ureyl are each optionally substituted with one or more substituents selected from: C1-C6 alkoxy, C1-C6 alkoxycarbonyl, C1-C6 alkyl, C1-C6 alkylsulfonyl, amino, aryl, carboxy, cyano, C3-C7 cycloalkyl, C2-C8 dialkylamino, C1-C6 haloalkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heterocyclyl, and hydroxyl; and
+
+R9 is selected from: H, C1-C6 alkyl, and C3-C7 cycloalkyl; or
+
+R8 and R9 together with the nitrogen atom to which they are both bonded form a group selected from: heterocyclyl and heterobicyclyl, each optionally substituted with one or more substituents selected from: Carbo-C1-C6-alkoxy, C1-C6 alkoxy, C1-C6 alkyl, aryl, carbo-C1-C6-alkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heteroaryloxy, heterocyclyl, and hydroxyl; wherein said aryl, C1-C6 alkyl, and heteroaryl are optionally substituted with one substituent selected from: C3-C7 cycloalkyl, C1-C6 alkoxy, halogen, and hydroxyl,
+
+and one or more known pharmaceutical agents selected from: analgesic agents and antidiabetic agents.
+
+2. The composition according to claim 1, further comprising a pharmaceutically acceptable carrier.
+
+3. The composition according to claim 1, wherein the compound is selected from compounds of Formula Ie and pharmaceutically acceptable salts, solvates, hydrates, and N-oxides thereof:
+
+[![Figure US09492447-20161115-C00063](https://patentimages.storage.googleapis.com/1e/e2/ce/af5b59caa7288f/US09492447-20161115-C00063.png)](https://patentimages.storage.googleapis.com/1e/e2/ce/af5b59caa7288f/US09492447-20161115-C00063.png)
+
+ 
+
+wherein:
+
+R7 is —R10—R11—R12—R13; wherein:
+
+R10 is absent;
+
+R11 is absent;
+
+R12 is absent; and
+
+R13 is selected from: C1-C6 alkyl, aryl, C3-C7 cycloalkyl, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl, aryl, and heteroaryl are each optionally substituted with one or two substituents selected from: C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylsulfonyl, amino, C3-C7 cycloalkyl, cyano, C2-C8 dialkylamino, C1-C6 haloalkyl, halogen, and hydroxyl;
+
+R8 is —R14—R15—R16—R17; wherein:
+
+R14 is selected from: C1-C6 alkylene, C3-C7 cycloalkenylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said C1-C6 alkylene and heterocyclylene are each optionally substituted with one or more substituents selected from: C1-C6 alkoxycarbonyl, C1-C6 alkyl, C3-C7 cycloalkyl, aryl, carboxy, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl and aryl are optionally substituted with one substituent selected from: C1-C6 alkoxy, aryl, halogen, heteroaryl, and hydroxyl; or R14 is absent;
+
+R15 is selected from: —C(O)NH—, —C(O)—, —C(O)O—, C1-C6 alkylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said heterocyclylene is optionally substituted with C1-C6 alkyl; or R15 is absent;
+
+R16 is C1-C6 alkylene; or R16 is absent; and
+
+R17 is selected from: H, C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylcarboxamide, C2-C6 alkynyl, ureyl, amino, aryl, arylamino, arylcarbonyl, aryloxy, carbo-C1-C6-alkoxy, carboxamide, carboxy, cyano, C3-C7 cycloalkyl, C5-C11 bicycloalkyl, C3-C7 cycloalkylamino, C2-C8 dialkylamino, C2-C8 dialkylsulfonamide, C1-C6 haloalkyl, heteroaryl, heteroaryloxy, heterobicyclyl, heterocyclyl, hydroxyl, and phosphonooxy; wherein said C1-C6 alkylamino, amino, aryl, arylamino, aryloxy, C5-C11 bicycloalkyl, C3-C7 cycloalkyl, C3-C7 cycloalkylamino, heteroaryl, heterobicyclyl, heterocyclyl, and ureyl are each optionally substituted with one or more substituents selected from: C1-C6 alkoxy, C1-C6 alkoxycarbonyl, C1-C6 alkyl, C1-C6 alkylsulfonyl, amino, aryl, carboxy, cyano, C3-C7 cycloalkyl, C2-C8 dialkylamino, C1-C6 haloalkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heterocyclyl, and hydroxyl; and
+
+R9 is selected from: H, C1-C6 alkyl, and C3-C7 cycloalkyl; or
+
+R8 and R9 together with the nitrogen atom to which they are both bonded form a group selected from: heterocyclyl and heterobicyclyl, each optionally substituted with one or more substituents selected from: Carbo-C1-C6-alkoxy, C1-C6 alkoxy, C1-C6 alkyl, aryl, carbo-C1-C6-alkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heteroaryloxy, heterocyclyl, and hydroxyl; wherein said aryl, C1-C6 alkyl, and heteroaryl are optionally substituted with one substituent selected from: C3-C7 cycloalkyl, C1-C6 alkoxy, halogen, and hydroxyl.
+
+4. The composition according to claim 1, wherein the compound is selected from the following compounds and pharmaceutically acceptable salts, solvates, and hydrates thereof:
+
+Compound 151: (1aR,5aR)-2-(5-Chloro-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-hydroxy-1,1-dimethyl-ethyl)-amide;
+
+Compound 174: (1aR,5aR)-2-(2,4-Dichloro-phenyl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-hydroxymethyl-cyclopropyl)-amide;
+
+Compound 264: (1aR,5aR)-2-(5-Cyano-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-hydroxy-1,1-dimethyl-ethyl)-amide;
+
+Compound 309: (1aR,5aR)-2-(5-Fluoro-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-hydroxy-1,1-dimethyl-ethyl)-amide;
+
+Compound 493: (1aR,5aR)-2-(2,4-Difluoro-phenyl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-hydroxy-1,1-dimethyl-ethyl)-amide;
+
+Compound 515: 1-(2,4-Difluoro-phenyl)-3b,4,4a,5-tetrahydro-1H-cyclopropa[3,4]cyclopenta[1,2-c]pyrazole-3-carboxylic acid (2-hydroxy-1,1-dimethyl-ethyl)-amide;
+
+Compound 593: (1aR,5aR)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid tert-butylamide;
+
+Compound 625: (1aR,5aR)-2-(4-Chloro-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (cyano-dimethyl-methyl)-amide;
+
+Compound 642: (1aR,5aR)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide;
+
+Compound 644: (1aR,5aR)-2-(4-Cyano-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-hydroxy-1,1-dimethyl-ethyl)-amide;
+
+Compound 646: Phosphoric acid mono-(2-{[(1aR,5aR)-2-(4-cyano-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carbonyl]-amino}-2-methyl-propyl) ester;
+
+Compound 667: (1aR,5aR)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid [2,2-dimethyl-1-((S)-methylcarbamoyl)-propyl]-amide;
+
+Compound 683: Phosphoric acid mono-{(S)-3,3-dimethyl-2-[((1aR,5aR)-2-pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carbonyl)-amino]-butyl} ester;
+
+Compound 684: (1aR,5aR)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-2-hydroxy-1-tetrahydro-pyran-4-yl-ethyl)-amide;
+
+Compound 690: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2-methyl-propyl)-amide;
+
+Compound 696: (1aS,5aS)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide;
+
+Compound 698: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-hydroxymethyl-cyclobutyl)-amide;
+
+Compound 699: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide;
+
+Compound 700: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-pyridin-2-yl-cyclobutyl)-amide;
+
+Compound 703: Phosphoric acid mono-((S)-3,3-dimethyl-2-{[(1aR,5aR)-2-(4-oxy-pyrazin-2-yl)-1a,2, 5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carbonyl]-amino}-butyl) ester;
+
+Compound 704: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-2,2-dimethyl-1-methylcarbamoyl-propyl)-amide;
+
+Compound 722: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-methylcarbamoyl-phenyl-methyl)-amide;
+
+Compound 746: (S)-3,3-Dimethyl-2-{[(1aR,5aR)-2-(4-oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carbonyl]-amino}-butyric acid methyl ester;
+
+Compound 764: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-trifluoromethyl-cyclopropyl)-amide;
+
+Compound 765: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-trifluoromethyl-cyclobutyl)-amide;
+
+Compound 766: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((R)-2,2-dimethyl-1-pyridin-2-yl-propyl)-amide;
+
+Compound 767: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-2,2-dimethyl-1-pyridin-2-yl-propyl)-amide;
+
+Compound 820: (1aR,5aR)-2-(4-Cyano-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-hydroxy-1-hydroxymethyl-1-methyl-ethyl)-amide;
+
+Compound 821: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-methyl-cyclobutyl)-amide;
+
+Compound 828: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((R)-1,2-dimethyl-propyl)-amide;
+
+Compound 841: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid [(S)-2-hydroxy-1-(tetrahydro-pyran-4-yl)-ethyl]-amide;
+
+Compound 844: (1aR,5aR)-Pentanedioic acid mono-((S)-3-methyl-2-{[(1aR,5aR)-2-(4-oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carbonyl]-amino}-butyl) ester;
+
+Compound 848: (1aS,5aS)-(S)-2-Amino-3-methyl-butyric acid (S)-3,3-dimethyl-2-{[2-(4-oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carbonyl]-amino}-butyl ester;
+
+Compound 889: (1aS,5aS)-2-(4-Chloro-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-fluoro-1-fluoromethyl-1-hydroxymethyl-ethyl)-amide;
+
+Compound 891: (1aS,5aS)-2-(4-Cyano-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-3,3,3-trifluoro-1-hydroxymethyl-propyl)-amide;
+
+Compound 896: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2-methyl-propyl)-amide;
+
+Compound 897: (1aS,5aS)-2-(4-Chloro-pyridin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-fluoro-1,1-dimethyl-ethyl)-amide;
+
+Compound 902: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid N′-tert-butyl-hydrazide;
+
+Compound 904: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-fluoro-1,1-dimethyl-ethyl)-amide;
+
+Compound 912: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((R)-1,2-dimethyl-propyl)-amide;
+
+Compound 913: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-2-hydroxy-1-phenyl-ethyl)-amide;
+
+Compound 918: (1aR,5aR)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-fluoromethyl-2,2-dimethyl-propyl)-amide;
+
+Compound 919: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2,2,2-trifluoro-1,1-dimethyl-ethyl)-amide;
+
+Compound 920: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((1S,2S)-2-hydroxy-indan-1-yl)-amide;
+
+Compound 921: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((1S,2R)-2-hydroxy-indan-1-yl)-amide;
+
+Compound 924: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-fluoromethyl-cyclobutyl)-amide;
+
+Compound 926: (1aS,5aS)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-trifluoromethyl-cyclobutyl)-amide;
+
+Compound 927: (1aS,5aS)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2,2,2-trifluoro-1,1-dimethyl-ethyl)-amide;
+
+Compound 930: (1aS,5aS)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (1-trifluoromethyl-cyclopropyl)-amide; and
+
+Compound 931: (1aR,5aR)-2-(4-Fluoro-pyridin-2-yl)-1a,2, 5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid (2-hydroxy-1,1-dimethyl-ethyl)-amide.
+
+5. The composition according to claim 1, wherein the compound is selected from the following compound and pharmaceutically acceptable salts, solvates, and hydrates thereof:
+
+Compound 696: (1aS,5aS)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide.
+
+6. The composition according to claim 1, wherein the compound is selected from the following compound and pharmaceutically acceptable salts, solvates, and hydrates thereof:
+
+Compound 699: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide.
+
+7. The composition according to claim 1, wherein the compound is an anhydrous crystalline form of:
+
+Compound 699: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide.
+
+8. The composition according to claim 1, wherein the analgesic agent is chosen from:
+
+non-opioid drugs, opioid drugs, and co-analgesic medications.
+
+9. The composition according to claim 8, wherein the non-opioid drug is chosen from:
+
+non steroidal anti-inflammatory agents, choline magnesium trisalicylate, sulfasalazine, olsalazin, phenacetin, tenoxicam, phenylbutazone, oxyphenthartazone, tapentadol, celecoxib, etoricoxib, lumiracoxib, rofecoxib, parecoxib, and ziconotide.
+
+10. The composition according to claim 9, wherein the non steroidal anti-inflammatory agent is chosen from:
+
+acemetacin, acetaminophen, aminoprofen, aspirin, benoxaprofen, bucloxic acid, carprofen, choline magnesium salicylate, choline salicylate, clidanac, diclofenac, diflunisal, diflurisal, etodolac, fenoprofen, fenoprofen calcium, fentiazac, flosulide, flubufen, flufenamic acid, flufenisal, flurbiprofen, fluprofen, ibuprofen, indoprofen, indomethacin, isoxicam, ketoprofen, ketorolac tromethamine, lornoxicam, magnesium salicylate, meclofenamic acid, meclofenamate sodium, mefenamic acid, meloxicam, muroprofen, nabumetone, naproxen, nepafenac, niflumic acid, nimesulide, oxaprozin, oxpinac, piroprofen, piroxicam, pramoprofen, ramifenazone, salsalate, salicylsalicylic acid, sodium salicylate, sudoxicam, sulindac, suprofen, tiaprofenic acid, tiopinac, tolfenamic acid, tolmetin, trioxaprofen, zidometacin, and zomepirac.
+
+11. The composition according to claim 8, wherein the opioid drug is chosen from:
+
+alfentanil, allylprodine, alphaprodine, anileridine, apomorphine, benzylmorphine, bezitramide, buprenorphine, butorphanol, clonitazene, codeine, desomorphine, dextromoramide, dextropropoxyphene, dezocine, diampromide, diamorphone, dihydrocodeine, dihydrocodeinone enol acetate, dihydromorphine, dilaudid, dimenoxadol, dimepheptanol, dimethylthiambutene, dioxaphetyl butyrate, dipipanone, eptazocine, ethoheptazine, ethylmethylthiambutene, ethylmorphine, etonitazene, fentanyl, heroin, hydrocodeine, hydrocodone, hydromorphone, hydroxypethidine, isomethadone, ketobemidone, levallorphan, levorphanol, levophenacylmorphan, lofentanil, meperidine, meptazinol, metazocine, methadone, metopon, 6-monoacetylmorphine, morphine, morphine-6-glucuronide, myrophine, nalbuphine, narceine, nicomorphine, norlevorphanol, normethadone, nalorphine, normorphine, norpipanone, noscapine, opium, oxycodone, oxymorphone, papavereturn, papverine, pentazocine, pethidine, phenadoxone, phenomorphan, phenazocine, phenoperidine, piminodine, piritramide, proheptazine, promedol, properidine, propiram, propoxyphene, sufentanil, tilidine, and tramadol.
+
+12. The composition according to claim 1, wherein the analgesic agent comprises an NSAID and an opioid drug.
+
+13. The composition according to claim 1, wherein the analgesic agent is chosen from:
+
+vicodin, percocet, norco, lorcet, darvocet, and percodan.
+
+14. A method for preparing a composition comprising the step of admixing a compound selected from compounds of Formula Ia and pharmaceutically acceptable salts, solvates, hydrates, and N-oxides thereof:
+
+[![Figure US09492447-20161115-C00064](https://patentimages.storage.googleapis.com/97/a9/99/e11805734e4096/US09492447-20161115-C00064.png)](https://patentimages.storage.googleapis.com/97/a9/99/e11805734e4096/US09492447-20161115-C00064.png)
+
+ 
+
+wherein:
+
+R1, R2, R3, R4, R5, and R6 are each independently selected from: H and C1-C6 alkyl;
+
+X is NR7 and Y is CC(O)N(R8)R9; or
+
+X is CC(O)N(R8)R9 and Y is NR7;
+
+R7 is —R10—R11—R12—R13; wherein:
+
+R10 is absent;
+
+R11 is absent;
+
+R12 is absent; and
+
+R13 is selected from: C1-C6 alkyl, aryl, C3-C7 cycloalkyl, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl, aryl, and heteroaryl are each optionally substituted with one or two substituents selected from: C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylsulfonyl, amino, C3-C7 cycloalkyl, cyano, C2-C8 dialkylamino, C1-C6 haloalkyl, halogen, and hydroxyl;
+
+R8 is —R14—R15—R16—R17; wherein:
+
+R14 is selected from: C1-C6 alkylene, C3-C7 cycloalkenylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said C1-C6 alkylene and heterocyclylene are each optionally substituted with one or more substituents selected from: C1-C6 alkoxycarbonyl, C1-C6 alkyl, C3-C7 cycloalkyl, aryl, carboxy, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl and aryl are optionally substituted with one substituent selected from: C1-C6 alkoxy, aryl, halogen, heteroaryl, and hydroxyl; or R14 is absent;
+
+R15 is selected from: —C(O)NH—, —C(O)—, —C(O)O—, C1-C6 alkylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said heterocyclylene is optionally substituted with C1-C6 alkyl; or R15 is absent;
+
+R16 is C1-C6 alkylene; or R16 is absent; and
+
+R17 is selected from: H, C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylcarboxamide, C2-C6 alkynyl, ureyl, amino, aryl, arylamino, arylcarbonyl, aryloxy, carbo-C1-C6-alkoxy, carboxamide, carboxy, cyano, C3-C7 cycloalkyl, C5-C11 bicycloalkyl, C3-C7 cycloalkylamino, C2-C8 dialkylamino, C2-C8 dialkylsulfonamide, C1-C6 haloalkyl, heteroaryl, heteroaryloxy, heterobicyclyl, heterocyclyl, hydroxyl, and phosphonooxy; wherein said C1-C6 alkylamino, amino, aryl, arylamino, aryloxy, C5-C11 bicycloalkyl, C3-C7 cycloalkyl, C3-C7 cycloalkylamino, heteroaryl, heterobicyclyl, heterocyclyl, and ureyl are each optionally substituted with one or more substituents selected from: C1-C6 alkoxy, C1-C6 alkoxycarbonyl, C1-C6 alkyl, C1-C6 alkylsulfonyl, amino, aryl, carboxy, cyano, C3-C7 cycloalkyl, C2-C8 dialkylamino, C1-C6 haloalkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heterocyclyl, and hydroxyl; and
+
+R9 is selected from: H, C1-C6 alkyl, and C3-C7 cycloalkyl; or
+
+R8 and R9 together with the nitrogen atom to which they are both bonded form a group selected from: heterocyclyl and heterobicyclyl, each optionally substituted with one or more substituents selected from: Carbo-C1-C6-alkoxy, C1-C6 alkoxy, C1-C6 alkyl, aryl, carbo-C1-C6-alkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heteroaryloxy, heterocyclyl, and hydroxyl; wherein said aryl, C1-C6 alkyl, and heteroaryl are optionally substituted with one substituent selected from: C3-C7 cycloalkyl, C1-C6 alkoxy, halogen, and hydroxyl,
+
+and one or more known pharmaceutical agents selected from: analgesic agents and antidiabetic agents.
+
+15. A pharmaceutical product selected from: a pharmaceutical composition, a formulation, a dosage form, a combined preparation, a twin pack, and a kit; comprising a compound selected from compounds of Formula Ia and pharmaceutically acceptable salts, solvates, hydrates, and N-oxides thereof:
+
+[![Figure US09492447-20161115-C00065](https://patentimages.storage.googleapis.com/07/29/63/a3081f36faed4a/US09492447-20161115-C00065.png)](https://patentimages.storage.googleapis.com/07/29/63/a3081f36faed4a/US09492447-20161115-C00065.png)
+
+ 
+
+wherein:
+
+R1, R2, R3, R4, R5, and R6 are each independently selected from: H and C1-C6 alkyl;
+
+X is NR7 and Y is CC(O)N(R8)R9; or
+
+X is CC(O)N(R8)R9 and Y is NR7;
+
+R7 is —R10—R11—R12—R13; wherein:
+
+R10 is absent;
+
+R11 is absent;
+
+R12 is is absent; and
+
+R13 is selected from: C1-C6 alkyl, aryl, C3-C7 cycloalkyl, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl, aryl, and heteroaryl are each optionally substituted with one or two substituents selected from: C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylsulfonyl, amino, C3-C7 cycloalkyl, cyano, C2-C8 dialkylamino, C1-C6 haloalkyl, halogen, and hydroxyl;
+
+R8 is —R14—R15—R16—R17; wherein:
+
+R14 is selected from: C1-C6 alkylene, C3-C7 cycloalkenylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said C1-C6 alkylene and heterocyclylene are each optionally substituted with one or more substituents selected from: C1-C6 alkoxycarbonyl, C1-C6 alkyl, C3-C7 cycloalkyl, aryl, carboxy, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl and aryl are optionally substituted with one substituent selected from: C1-C6 alkoxy, aryl, halogen, heteroaryl, and hydroxyl; or R14 is absent;
+
+R15 is selected from: —C(O)NH—, —C(O)—, —C(O)O—, C1-C6 alkylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said heterocyclylene is optionally substituted with C1-C6 alkyl; or R15 is absent;
+
+R16 is C1-C6 alkylene; or R16 is absent; and
+
+R17 is selected from: H, C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylcarboxamide, C2-C6 alkynyl, ureyl, amino, aryl, arylamino, arylcarbonyl, aryloxy, carbo-C1-C6-alkoxy, carboxamide, carboxy, cyano, C3-C7 cycloalkyl, C5-C11 bicycloalkyl, C3-C7 cycloalkylamino, C2-C8 dialkylamino, C2-C8 dialkylsulfonamide, C1-C6 haloalkyl, heteroaryl, heteroaryloxy, heterobicyclyl, heterocyclyl, hydroxyl, and phosphonooxy; wherein said C1-C6 alkylamino, amino, aryl, arylamino, aryloxy, C5-C11 bicycloalkyl, C3-C7 cycloalkyl, C3-C7 cycloalkylamino, heteroaryl, heterobicyclyl, heterocyclyl, and ureyl are each optionally substituted with one or more substituents selected from: C1-C6 alkoxy, C1-C6 alkoxycarbonyl, C1-C6 alkyl, C1-C6 alkylsulfonyl, amino, aryl, carboxy, cyano, C3-C7 cycloalkyl, C2-C8 dialkylamino, C1-C6 haloalkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heterocyclyl, and hydroxyl; and
+
+R9 is selected from: H, C1-C6 alkyl, and C3-C7 cycloalkyl; or
+
+R8 and R9 together with the nitrogen atom to which they are both bonded form a group selected from: heterocyclyl and heterobicyclyl, each optionally substituted with one or more substituents selected from: Carbo-C1-C6-alkoxy, C1-C6 alkoxy, C1-C6 alkyl, aryl, carbo-C1-C6-alkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heteroaryloxy, heterocyclyl, and hydroxyl; wherein said aryl, C1-C6 alkyl, and heteroaryl are optionally substituted with one substituent selected from: C3-C7 cycloalkyl, C1-C6 alkoxy, halogen, and hydroxyl,
+
+and one or more known pharmaceutical agents selected from: analgesic agents and antidiabetic agents.
+
+16. A method for the treatment of pain in an individual in need thereof, comprising administering to said individual, a therapeutically effective amount of a compound selected from compounds of Formula Ia and pharmaceutically acceptable salts, solvates, hydrates, and N-oxides thereof:
+
+[![Figure US09492447-20161115-C00066](https://patentimages.storage.googleapis.com/ad/3f/a4/db53b6318c5abc/US09492447-20161115-C00066.png)](https://patentimages.storage.googleapis.com/ad/3f/a4/db53b6318c5abc/US09492447-20161115-C00066.png)
+
+ 
+
+wherein:
+
+R1, R2, R3, R4, R5, and R6 are each independently selected from: H and C1-C6 alkyl;
+
+X is NR7 and Y is CC(O)N(R8)R9; or
+
+X is CC(O)N(R8)R9 and Y is NR7;
+
+R7 is —R10—R11—R12—R13; wherein:
+
+R10 is absent;
+
+R11 is absent;
+
+R12 is absent; and
+
+R13 is selected from: C1-C6 alkyl, aryl, C3-C7 cycloalkyl, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl, aryl, and heteroaryl are each optionally substituted with one or two substituents selected from: C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylsulfonyl, amino, C3-C7 cycloalkyl, cyano, C2-C8 dialkylamino, C1-C6 haloalkyl, halogen, and hydroxyl;
+
+R8 is —R14—R15—R16—R17; wherein:
+
+R14 is selected from: C1-C6 alkylene, C3-C7 cycloalkenylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said C1-C6 alkylene and heterocyclylene are each optionally substituted with one or more substituents selected from: C1-C6 alkoxycarbonyl, C1-C6 alkyl, C3-C7 cycloalkyl, aryl, carboxy, heteroaryl, heterocyclyl, and hydroxyl; wherein said C1-C6 alkyl and aryl are optionally substituted with one substituent selected from: C1-C6 alkoxy, aryl, halogen, heteroaryl, and hydroxyl; or R14 is absent;
+
+R15 is selected from: —C(O)NH—, —C(O)—, —C(O)O—, C1-C6 alkylene, C3-C7 cycloalkylene, heteroarylene, and heterocyclylene; wherein said heterocyclylene is optionally substituted with C1-C6 alkyl; or R15 is absent;
+
+R16 is C1-C6 alkylene; or R16 is absent; and
+
+R17 is selected from: H, C1-C6 alkoxy, C1-C6 alkyl, C1-C6 alkylamino, C1-C6 alkylcarboxamide, C2-C6 alkynyl, ureyl, amino, aryl, arylamino, arylcarbonyl, aryloxy, carbo-C1-C6-alkoxy, carboxamide, carboxy, cyano, C3-C7 cycloalkyl, C5-C11 bicycloalkyl, C3-C7 cycloalkylamino, C2-C8 dialkylamino, C2-C8 dialkylsulfonamide, C1-C6 haloalkyl, heteroaryl, heteroaryloxy, heterobicyclyl, heterocyclyl, hydroxyl, and phosphonooxy; wherein said C1-C6 alkylamino, amino, aryl, arylamino, aryloxy, C5-C11 bicycloalkyl, C3-C7 cycloalkyl, C3-C7 cycloalkylamino, heteroaryl, heterobicyclyl, heterocyclyl, and ureyl are each optionally substituted with one or more substituents selected from: C1-C6 alkoxy, C1-C6 alkoxycarbonyl, C1-C6 alkyl, C1-C6 alkylsulfonyl, amino, aryl, carboxy, cyano, C3-C7 cycloalkyl, C2-C8 dialkylamino, C1-C6 haloalkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heterocyclyl, and hydroxyl; and
+
+R9 is selected from: H, C1-C6 alkyl, and C3-C7 cycloalkyl; or
+
+R8 and R9 together with the nitrogen atom to which they are both bonded form a group selected from: heterocyclyl and heterobicyclyl, each optionally substituted with one or more substituents selected from: Carbo-C1-C6-alkoxy, C1-C6 alkoxy, C1-C6 alkyl, aryl, carbo-C1-C6-alkoxy, C1-C6 haloalkyl, halogen, heteroaryl, heteroaryloxy, heterocyclyl, and hydroxyl; wherein said aryl, C1-C6 alkyl, and heteroaryl are optionally substituted with one substituent selected from: C3-C7 cycloalkyl, C1-C6 alkoxy, halogen, and hydroxyl,
+
+and one or more known pharmaceutical agents selected from: analgesic agents, antidiabetic agents, osteoarthritis agents, and anticancer agents.
+
+17. The method according to claim 16, wherein the pain is chosen from: bone and joint pain, pain associated with osteoarthritis, hyperalgesia, allodynia, inflammatory pain, inflammatory hyperalgesia, neuropathic pain, neuropathic hyperalgesia, acute nociception, muscle pain, dental pain, migraine and other headache pain, pain that occurs as an adverse effect of therapeutics in an individual, and pain associated with a disorder selected from: cancer, multiple sclerosis, allergic reactions, nephritic syndrome, scleroderma, thyroiditis, diabetic neuropathy, fibromyalgia, HIV related-neuropathy, sciatica, and autoimmune conditions.
+
+18. The method according to claim 16, wherein the compound is selected from the following compound and pharmaceutically acceptable salts, solvates, and hydrates thereof:
+
+Compound 696: (1aS,5aS)-2-Pyrazin-2-yl-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide.
+
+19. The method according to claim 16, wherein the compound is selected from the following compound and pharmaceutically acceptable salts, solvates, and hydrates thereof:
+
+Compound 699: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide.
+
+20. The method according to claim 16, wherein the compound is an anhydrous crystalline form of:
+
+Compound 699: (1aS,5aS)-2-(4-Oxy-pyrazin-2-yl)-1a,2,5,5a-tetrahydro-1H-2,3-diaza-cyclopropa[a]pentalene-4-carboxylic acid ((S)-1-hydroxymethyl-2,2-dimethyl-propyl)-amide.

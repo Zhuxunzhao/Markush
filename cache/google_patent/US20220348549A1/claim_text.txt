@@ -1,0 +1,272 @@
+Claims (20)
+-----------
+
+**1**. A compound of the formula (I),
+
+[![Figure US20220348549A1-20221103-C00139](https://patentimages.storage.googleapis.com/15/40/7b/bf57f5f89c31be/US20220348549A1-20221103-C00139.png)](https://patentimages.storage.googleapis.com/15/40/7b/bf57f5f89c31be/US20220348549A1-20221103-C00139.png)
+
+ 
+
+wherein
+
+A is CH or N;
+
+R1 is H, (C1-6alkyl)2aminoC1-6alkyl, C1-6alkoxy, C1-6alkoxyC1-6alkyl, C1-6alkoxycarbonyl, C1-6alkyl, C1-6alkyl-C(O)O—C1-6alkyl-, carbamoyl, carboxy, haloC1-6alkyl, haloC1-6alkylaminocarbonyl, hydroxy, hydroxyC1-6alkyl, hydroxyC1-6alkylaminocarbonyl, morpholinylC1-6alkyl or morpholinylcarbonyl;
+
+R2 is H or halogen;
+
+R3 is H, halogen or haloC1-6alkyl;
+
+R4 is H or halogen;
+
+R5 is H, (C1-6alkoxycarbonyl)phenylC1-6alkoxy, (C1-6alkoxycarbonyl)piperidinyl, (C1-6alkoxycarbonylC1-6alkoxy)C1-6alkoxy, (C1-6alkyl)2amino, (carboxyC1-6alkoxy)C1-6alkoxy, (carboxyC3-7cycloalkoxy)C1-6alkoxy, (hydroxyC1-6alkyl)2amino, C1-6alkoxy, carboxyphenylC1-6alkoxy, carboxypiperidinyl, halogen, hydroxy, hydroxyC1-6alkoxy, morpholinyl or pyrrolidinyl;
+
+R6 is H, halogen, hydroxyC1-6alkyl or haloC1-6alkyl;
+
+with the proviso that R5 and R6 are not H simultaneously;
+
+or pharmaceutically acceptable salt, or enantiomer, or diastereomer thereof.
+
+**2**. A compound according to claim 1, wherein
+
+A is CH or N;
+
+R1 is H, acetoxymethyl, carbamoyl, carboxy, chloroethylaminocarbonyl, dimethylaminomethyl, ethoxycarbonyl, hydroxy, hydroxyethylaminocarbonyl, hydroxymethyl, methoxy, methoxycarbonyl, methoxymethyl, methyl, morpholinylcarbonyl, morpholinylmethyl or trifluoromethyl;
+
+R2 is H or chloro;
+
+R3 is H, bromo or trifluoromethyl;
+
+R4 is H or chloro;
+
+R5 is H, (carboxycyclobutoxy)ethoxy, (carboxymethoxy)ethoxy, (hydroxyethyl)2amino, (methoxycarbonyl)phenylmethoxy, (methoxycarbonyl)piperidinyl, (methoxyoxoethoxy)ethoxy, bromo, carboxyphenylmethoxy, carboxypiperidinyl, chloro, dimethylamino, ethoxy, hydroxy, hydroxyethoxy, methoxy, morpholinyl, pyrrolidinyl;
+
+R6 is H, bromo, hydroxymethyl or trifluoromethyl;
+
+with the proviso that R5 and R6 are not H simultaneously;
+
+or pharmaceutically acceptable salt, or enantiomer, or diastereomer thereof.
+
+**3**. A compound according to claim 1 or 2, wherein R1 is H, carbamoyl, carboxy, hydroxy, hydroxyC1-6alkylaminocarbonyl, hydroxyC1-6alkyl, C1-6alkyl or morpholinylcarbonyl.
+
+**4**. A compound according to claim 3, wherein R1 is H, carbamoyl, carboxy, hydroxy, hydroxyethylaminocarbonyl, hydroxymethyl, methyl or morpholinylcarbonyl.
+
+**5**. A compound according to claim 4, wherein R2 is H.
+
+**6**. A compound according to claim 5, wherein R5 is H, (C1-6alkoxycarbonyl)piperidinyl, (C1-6alkoxycarbonylC1-6alkoxy)C1-6alkoxy, (C1-6alkyl)2amino, (carboxyC1-6alkoxy)C1-6alkoxy, (carboxyC3-7cycloalkoxy)C1-6alkoxy, (hydroxyC1-6alkyl)2amino, C1-6alkoxy, carboxyphenylC1-6alkoxy, halogen, hydroxyC1-6alkoxy or morpholinyl.
+
+**7**. A compound according to claim 6, wherein R5 is H, (carboxycyclobutoxy)ethoxy, (carboxymethoxy)ethoxy, (hydroxyethyl)2amino, (methoxycarbonyl)piperidinyl, (methoxyoxoethoxy)ethoxy, bromo, carboxyphenylmethoxy chloro, dimethylamino, hydroxyethoxy, methoxy or morpholinyl.
+
+**8**. A compound according to claim 1 or 2, selected from
+
+2-(4-Bromophenyl)-8-chloroquinazoline;
+
+2-(3-Bromophenyl)-8-chloroquinazoline;
+
+7-Bromo-4-methyl-2-[3-(trifluoromethyl)phenyl]quinazoline;
+
+2-(3-Bromophenyl)-6-chloro-4-methyl-7-(trifluoromethyl)quinazoline;
+
+4-(8-Chloroquinazolin-2-yl)phenol;
+
+Methyl 3-((4-(8-chloroquinazolin-2-yl)phenoxy)methyl)benzoate;
+
+3-((4-(8-Chloroquinazolin-2-yl)phenoxy)methyl)benzoic acid;
+
+3-((4-(8-Chloro-4-methylquinazolin-2-yl)phenoxy)methyl)benzoic acid;
+
+2-[4-(8-Chloro-4-methyl-quinazolin-2-yl)phenoxy]ethanol;
+
+Methyl 2-[2-[4-(8-chloro-4-methyl-quinazolin-2-yl)phenoxy]ethoxy]acetate;
+
+2-[2-[4-(8-Chloro-4-methyl-quinazolin-2-yl)phenoxy]ethoxy]acetic acid;
+
+cis-3-[2-[4-(8-Chloro-4-methyl-quinazolin-2-yl)phenoxy]ethoxy]cyclobutanecarboxylic acid;
+
+8-Chloro-2-(4-chlorophenyl)-4-methylquinazoline;
+
+2-(2-(4-(4-Methyl-7-(trifluoromethyl)quinazolin-2-yl)phenoxy)ethoxy)acetic acid;
+
+3-(2-(4-(4-Methyl-7-(trifluoromethyl)quinazolin-2-yl)phenoxy)ethoxy) cyclobutanecarboxylic acid;
+
+2-(3-Bromophenyl)-4-(methoxymethyl)-7-(trifluoromethyl)quinazoline;
+
+1-(2-(3-Bromophenyl)-7-(trifluoromethyl)quinazolin-4-yl)-N,N-dimethylmethanamine;
+
+4-((2-(3-Bromophenyl)-7-(trifluoromethyl)quinazolin-4-yl)methyl)morpholine;
+
+2-(2-(3-Bromobenzamido)-4-(trifluoromethyl)phenyl)-2-oxoethyl acetate;
+
+(2-(3-Bromophenyl)-7-(trifluoromethyl)quinazolin-4-yl)methanol;
+
+(8-Chloro-2-(4-chlorophenyl)quinazolin-4-yl)methanol;
+
+(3-(4-Methyl-7-(trifluoromethyl)quinazolin-2-yl)phenyl)methanol;
+
+8-Chloro-2-(6-chloropyridin-3-yl)-4-methylquinazoline;
+
+8-Chloro-2-(6-chloropyridin-3-yl)quinazoline;
+
+5-(8-Chloroquinazolin-2-yl)pyridin-2-ol;
+
+5-(8-Chloroquinazolin-2-yl)-N,N-dimethylpyridin-2-amine;
+
+4-(5-(8-Chloroquinazolin-2-yl)pyridin-2-yl)morpholine;
+
+2,2′-((5-(8-Chloroquinazolin-2-yl)pyridin-2-yl)azanediyl)diethanol;
+
+Methyl 1-(5-(8-chloroquinazolin-2-yl)pyridin-2-yl)piperidine-4-carboxylate;
+
+1-(5-(8-chloroquinazolin-2-yl)pyridin-2-yl)piperidine-4-carboxylic acid;
+
+2-(3-Bromo-phenyl)-7-trifluoromethyl-quinazoline-4-carboxylic acid;
+
+Methyl 2-(3-bromophenyl)-7-(trifluoromethyl)quinazoline-4-carboxylate;
+
+8-Chloro-2-(4-methoxyphenyl)quinazoline-4-carboxylic acid;
+
+8-chloro-2-(4-methoxyphenyl)quinazoline-4-carboxamide;
+
+8-Chloro-N-(2-hydroxyethyl)-2-(4-methoxyphenyl)quinazoline-4-carboxamide;
+
+8-Chloro-2-(4-methoxyphenyl)quinazoline;
+
+2-(4-Bromophenyl)-8-chloroquinazoline-4-carboxylic acid;
+
+ethyl 2-(4-bromophenyl)-8-chloro-quinazoline-4-carboxylate;
+
+2-(4-Bromophenyl)-8-chloro-N-(2-chloroethyl)quinazoline-4-carboxamide;
+
+2-(4-Bromophenyl)-8-chloro-4-methyl-quinazoline;
+
+2-[4-(8-Chloroquinazolin-2-yl)phenoxy]ethanol;
+
+cis-3-[2-[4-(8-Chloroquinazolin-2-yl)phenoxy]ethoxy]cyclobutanecarboxylic acid;
+
+2-(4-Bromophenyl)-7-(trifluoromethyl)quinazoline-4-carboxylic acid;
+
+[2-(4-Bromophenyl)-7-(trifluoromethyl)quinazolin-4-yl]-morpholino-methanone;
+
+8-Chloro-2-(6-chloro-3-pyridyl)quinazoline-4-carboxylic acid;
+
+8-chloro-2-(6-chloro-3-pyridyl)quinazoline-4-carboxamide;
+
+8-Chloro-2-(6-methoxy-3-pyridyl)quinazoline-4-carboxylic acid;
+
+8-Chloro-2-(6-ethoxy-3-pyridyl)quinazoline-4-carboxylic acid;
+
+8-Chloro-2-(6-pyrrolidin-1-yl-3-pyridyl)quinazoline-4-carboxylic acid;
+
+cis-2-[6-[2-(3-Carboxycyclobutoxy)ethoxy]-3-pyridyl]-8-chloro-quinazoline-4-carboxylic acid;
+
+2-[2-[[5-(8-Chloroquinazolin-2-yl)-2-pyridyl]oxy]ethoxy]acetic acid;
+
+8-Chloro-2-(6-chloro-3-pyridyl)-N-(2-hydroxyethyl)quinazoline-4-carboxamide;
+
+[8-Chloro-2-(6-chloro-3-pyridyl)quinazolin-4-yl]-morpholino-methanone;
+
+cis-3-[2-[[5-(8-Chloro-4-hydroxy-quinazolin-2-yl)-2-pyridyl]oxy]ethoxy]cyclobutanecarboxylic acid;
+
+3-(2-(4-(8-Chloro-4-methoxyquinazolin-2-yl)phenoxy)ethoxy)cyclobutanecarboxylic acid; and
+
+3-[2-[4-[8-chloro-4-(trifluoromethyl)quinazolin-2-yl]phenoxy]ethoxy]cyclobutanecarboxylic acid;
+
+or pharmaceutically acceptable salt, or enantiomer, or diastereomer thereof.
+
+**9**. A process for the preparation of a compound according to any one of claims 1 to 8 comprising any one of the following steps:
+
+(a) intramolecular cyclization of compounds of formula (VII),
+
+[![Figure US20220348549A1-20221103-C00140](https://patentimages.storage.googleapis.com/13/b1/2a/8c11cfdfc79fa1/US20220348549A1-20221103-C00140.png)](https://patentimages.storage.googleapis.com/13/b1/2a/8c11cfdfc79fa1/US20220348549A1-20221103-C00140.png)
+
+ 
+
+in the presence of an ammonium salt;
+
+(b) cyclization of compounds of formula (V),
+
+[![Figure US20220348549A1-20221103-C00141](https://patentimages.storage.googleapis.com/5d/c7/89/5d1412c7c52906/US20220348549A1-20221103-C00141.png)](https://patentimages.storage.googleapis.com/5d/c7/89/5d1412c7c52906/US20220348549A1-20221103-C00141.png)
+
+and arylamidine (VIII),
+
+[![Figure US20220348549A1-20221103-C00142](https://patentimages.storage.googleapis.com/bf/08/62/0f9969161d4eac/US20220348549A1-20221103-C00142.png)](https://patentimages.storage.googleapis.com/bf/08/62/0f9969161d4eac/US20220348549A1-20221103-C00142.png)
+
+ 
+
+(c) substitution of compounds of formula (II),
+
+[![Figure US20220348549A1-20221103-C00143](https://patentimages.storage.googleapis.com/90/2c/cb/c0c528b6c36b7c/US20220348549A1-20221103-C00143.png)](https://patentimages.storage.googleapis.com/90/2c/cb/c0c528b6c36b7c/US20220348549A1-20221103-C00143.png)
+
+with HO-G1 in the presence of a base, when R5 is X;
+
+(d) substitution of compounds of formula (II),
+
+[![Figure US20220348549A1-20221103-C00144](https://patentimages.storage.googleapis.com/ba/9b/d2/5fd0ae4f39b152/US20220348549A1-20221103-C00144.png)](https://patentimages.storage.googleapis.com/ba/9b/d2/5fd0ae4f39b152/US20220348549A1-20221103-C00144.png)
+
+with amine (XXIII), when R5 is X;
+
+(e) substitution of compounds of formula (II),
+
+[![Figure US20220348549A1-20221103-C00145](https://patentimages.storage.googleapis.com/0c/81/10/835337dc66dd6b/US20220348549A1-20221103-C00145.png)](https://patentimages.storage.googleapis.com/0c/81/10/835337dc66dd6b/US20220348549A1-20221103-C00145.png)
+
+with Q-G1 in the presence of a base, when R5 is OH;
+
+(f) intramolecular cyclization of compounds of formula (XI),
+
+[![Figure US20220348549A1-20221103-C00146](https://patentimages.storage.googleapis.com/93/c2/08/334c50bc4c5406/US20220348549A1-20221103-C00146.png)](https://patentimages.storage.googleapis.com/93/c2/08/334c50bc4c5406/US20220348549A1-20221103-C00146.png)
+
+in the presence of an ammonium salt;
+
+(g) ring rearrangement reaction of compounds of formula (XII),
+
+[![Figure US20220348549A1-20221103-C00147](https://patentimages.storage.googleapis.com/06/04/16/08734b2fd5110e/US20220348549A1-20221103-C00147.png)](https://patentimages.storage.googleapis.com/06/04/16/08734b2fd5110e/US20220348549A1-20221103-C00147.png)
+
+in the presence of an ammonium salt;
+
+(h) coupling reaction of compounds of formula (XIII),
+
+[![Figure US20220348549A1-20221103-C00148](https://patentimages.storage.googleapis.com/da/5f/4c/f15df3e1747451/US20220348549A1-20221103-C00148.png)](https://patentimages.storage.googleapis.com/da/5f/4c/f15df3e1747451/US20220348549A1-20221103-C00148.png)
+
+with amines (XXIV) in the presence of coupling reagents;
+
+(i) decarboxylation of a compounds of formula (XIII),
+
+[![Figure US20220348549A1-20221103-C00149](https://patentimages.storage.googleapis.com/e8/0a/25/e060af10860988/US20220348549A1-20221103-C00149.png)](https://patentimages.storage.googleapis.com/e8/0a/25/e060af10860988/US20220348549A1-20221103-C00149.png)
+
+in the presence of decarboxylation reagents;
+
+(j) Suzuki crossing coupling reaction of intermediate (XVI),
+
+[![Figure US20220348549A1-20221103-C00150](https://patentimages.storage.googleapis.com/1b/11/10/04e55097e6f266/US20220348549A1-20221103-C00150.png)](https://patentimages.storage.googleapis.com/1b/11/10/04e55097e6f266/US20220348549A1-20221103-C00150.png)
+
+with aryl boric acid (XVII) or borate ester (XVIII) in the presence of a catalyst;
+
+(k) substitution reaction of compounds of formula (XXI),
+
+[![Figure US20220348549A1-20221103-C00151](https://patentimages.storage.googleapis.com/d4/75/c0/ffd11cc2efddf2/US20220348549A1-20221103-C00151.png)](https://patentimages.storage.googleapis.com/d4/75/c0/ffd11cc2efddf2/US20220348549A1-20221103-C00151.png)
+
+with amines or hydrolysis of compounds of formula (XXI) with a base;
+
+wherein R1, R2, R3, R4, R5, R6 and A are defined as any one of claims 1 to 7.
+
+**10**. A compound according to any one of claims 1 to 8 for use as therapeutically active substance.
+
+**11**. A pharmaceutical composition comprising a compound in accordance with any one of claims 1 to 8 and a therapeutically inert carrier.
+
+**12**. The use of a compound according to any one of claims 1 to 8 for the treatment or prophylaxis of HBV infection.
+
+**13**. The use of a compound according to any one of claims 1 to 8 for the preparation of a medicament for the treatment or prophylaxis of HBV infection.
+
+**14**. The use of a compound according to any one of claims 1 to 8 for the inhibition of HBV cccDNA.
+
+**15**. The use of a compound according to any one of claims 1 to 8 for the inhibition of HBeAg.
+
+**16**. The use of a compound according to any one of claims 1 to 8 for the inhibition of HBsAg.
+
+**17**. The use of a compound according to any one of claims 1 to 8 for the inhibition of HBV DNA.
+
+**18**. A compound according to any one of claims 1 to 8 for the treatment or prophylaxis of HBV infection.
+
+**19**. A compound according to any one of claims 1 to 8, when manufactured according to a process of claim 9.
+
+**20**. A method for the treatment or prophylaxis of HBV infection, which method comprises administering an effective amount of a compound as defined in any one of claims 1 to 8.

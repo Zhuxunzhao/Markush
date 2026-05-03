@@ -1,0 +1,168 @@
+Claims (36)
+-----------
+
+What is claimed is:
+
+1. A compound having a formula of
+
+[![Figure US09849119-20171226-C00223](https://patentimages.storage.googleapis.com/8b/31/74/53a74d6df53715/US09849119-20171226-C00223.png)](https://patentimages.storage.googleapis.com/8b/31/74/53a74d6df53715/US09849119-20171226-C00223.png)
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+R21 and R22 are independently H or CH3;
+
+D1 is an optionally substituted aryl;
+
+B3 is H or optionally substituted alkyl; and
+
+B5 is an optionally substituted thiophenyl,
+
+wherein a hydrogen is replaced with a deuterium.
+
+2. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein D1 is an optionally substituted phenyl or an optionally substituted pyridyl.
+
+3. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein D1 is pyridyl.
+
+4. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein D1 is 2-pyridyl.
+
+5. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein B5 is an optionally substituted thiophenyl selected from the group consisting of
+
+[![Figure US09849119-20171226-C00224](https://patentimages.storage.googleapis.com/4f/b9/c2/c75bd2c523116f/US09849119-20171226-C00224.png)](https://patentimages.storage.googleapis.com/4f/b9/c2/c75bd2c523116f/US09849119-20171226-C00224.png)
+
+and
+
+[![Figure US09849119-20171226-C00225](https://patentimages.storage.googleapis.com/61/34/ae/aa2c5be1c5ef57/US09849119-20171226-C00225.png)](https://patentimages.storage.googleapis.com/61/34/ae/aa2c5be1c5ef57/US09849119-20171226-C00225.png)
+
+6. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein B5 is
+
+[![Figure US09849119-20171226-C00226](https://patentimages.storage.googleapis.com/e7/cc/1a/3fd27f0b9a537f/US09849119-20171226-C00226.png)](https://patentimages.storage.googleapis.com/e7/cc/1a/3fd27f0b9a537f/US09849119-20171226-C00226.png)
+
+or
+
+[![Figure US09849119-20171226-C00227](https://patentimages.storage.googleapis.com/5b/b5/a0/6db6c53fe31930/US09849119-20171226-C00227.png)](https://patentimages.storage.googleapis.com/5b/b5/a0/6db6c53fe31930/US09849119-20171226-C00227.png)
+
+ 
+
+wherein R23, R24, and R30 are each independently H, OH, cycle, aryl, branched or unbranched alkyl alcohol, halo, branched or unbranched alkyl, amide, cyano, alkoxy, haloalkyl, aklylsulfonyl, nitrite, alkylsulfanyl; or R23 and R24 together form an aryl or cycle that is attached to one or more of the atoms of B5.
+
+7. The compound of claim 6, or a pharmaceutically acceptable salt thereof, wherein R23, R24, and R30 are each independently H, NH2, OH, Cl, Br, F, I, OMe, CN, CH3, phenyl, C3-C6 carbocycle, methanesulfonyl, CF3,
+
+[![Figure US09849119-20171226-C00228](https://patentimages.storage.googleapis.com/83/d7/72/5b785cf36c1daa/US09849119-20171226-C00228.png)](https://patentimages.storage.googleapis.com/83/d7/72/5b785cf36c1daa/US09849119-20171226-C00228.png)
+
+or
+
+[![Figure US09849119-20171226-C00229](https://patentimages.storage.googleapis.com/ab/51/00/34079da272e851/US09849119-20171226-C00229.png)](https://patentimages.storage.googleapis.com/ab/51/00/34079da272e851/US09849119-20171226-C00229.png)
+
+ 
+
+wherein R29 is H or an optionally substituted branched or unbranched alkyl.
+
+8. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein B5 is
+
+[![Figure US09849119-20171226-C00230](https://patentimages.storage.googleapis.com/8b/c0/5b/b20a1ac4a90c36/US09849119-20171226-C00230.png)](https://patentimages.storage.googleapis.com/8b/c0/5b/b20a1ac4a90c36/US09849119-20171226-C00230.png)
+
+ 
+
+wherein R23 and R24 are each independently H, OH, cycle, aryl, branched or unbranched alkyl alcohol, halo, branched or unbranched alkyl, amide, cyano, alkoxy, haloalkyl, aklylsulfonyl, nitrite, alkylsulfanyl; or R23 and R24 together form an aryl or cycle that is attached to one or more of the atoms of B5.
+
+9. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein B5 is
+
+[![Figure US09849119-20171226-C00231](https://patentimages.storage.googleapis.com/f6/88/7a/2e8c44cc14ce70/US09849119-20171226-C00231.png)](https://patentimages.storage.googleapis.com/f6/88/7a/2e8c44cc14ce70/US09849119-20171226-C00231.png)
+
+ 
+
+wherein R23 is H, OH, cycle, aryl, branched or unbranched alkyl alcohol, halo, branched or unbranched alkyl, amide, cyano, alkoxy, haloalkyl, aklylsulfonyl, nitrite, or alkylsulfanyl.
+
+10. The compound of claim 9, or a pharmaceutically acceptable salt thereof, wherein R23 is alkoxy.
+
+11. The compound of claim 10, or a pharmaceutically acceptable salt thereof, wherein R23 is methoxy.
+
+12. The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein a hydrogen of the methoxy is replaced with a deuterium.
+
+13. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein B3 is H or C1-C5 alkyl.
+
+14. The compound of claim 1 having a formula of
+
+[![Figure US09849119-20171226-C00232](https://patentimages.storage.googleapis.com/8f/ab/f7/b080e1ed477d2b/US09849119-20171226-C00232.png)](https://patentimages.storage.googleapis.com/8f/ab/f7/b080e1ed477d2b/US09849119-20171226-C00232.png)
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+D1 is an optionally substituted aryl;
+
+B3 is H or optionally substituted alkyl
+
+B5 is an optionally substituted thiophenyl,
+
+wherein a hydrogen is replaced with a deuterium.
+
+15. The compound of claim 14, or a pharmaceutically acceptable salt thereof, wherein D1 is an optionally substituted phenyl or an optionally substituted pyridyl.
+
+16. The compound of claim 14, or a pharmaceutically acceptable salt thereof, wherein D1 is pyridyl.
+
+17. The compound of claim 14, or a pharmaceutically acceptable salt thereof, wherein D1 is 2-pyridyl.
+
+18. The compound of claim 14, or a pharmaceutically acceptable salt thereof, wherein B5 is
+
+[![Figure US09849119-20171226-C00233](https://patentimages.storage.googleapis.com/32/fe/a2/215ac95b9a736b/US09849119-20171226-C00233.png)](https://patentimages.storage.googleapis.com/32/fe/a2/215ac95b9a736b/US09849119-20171226-C00233.png)
+
+ 
+
+wherein R23 and R24 are each independently H, OH, cycle, aryl, branched or unbranched alkyl alcohol, halo, branched or unbranched alkyl, amide, cyano, alkoxy, haloalkyl, aklylsulfonyl, nitrite, alkylsulfanyl; or R23 and R24 together form an aryl or cycle that is attached to one or more of the atoms of B5.
+
+19. The compound of claim 14, or a pharmaceutically acceptable salt thereof, wherein B5 is
+
+[![Figure US09849119-20171226-C00234](https://patentimages.storage.googleapis.com/70/fb/b9/3080bdc50c5bc4/US09849119-20171226-C00234.png)](https://patentimages.storage.googleapis.com/70/fb/b9/3080bdc50c5bc4/US09849119-20171226-C00234.png)
+
+ 
+
+wherein R23 is H, OH, cycle, aryl, branched or unbranched alkyl alcohol, halo, branched or unbranched alkyl, amide, cyano, alkoxy, haloalkyl, aklylsulfonyl, nitrite, or alkylsulfanyl.
+
+20. The compound of claim 19, or a pharmaceutically acceptable salt thereof, wherein R23 is alkoxy.
+
+21. The compound of claim 14, or a pharmaceutically acceptable salt thereof, wherein B3 is H or C1-C5 alkyl.
+
+22. The compound of claim 16, or a pharmaceutically acceptable salt thereof, wherein B3 is H or C1-C5 alkyl.
+
+23. The compound of claim 22, or a pharmaceutically acceptable salt thereof, wherein B5 is
+
+[![Figure US09849119-20171226-C00235](https://patentimages.storage.googleapis.com/5b/1d/a8/d810edb022e8ac/US09849119-20171226-C00235.png)](https://patentimages.storage.googleapis.com/5b/1d/a8/d810edb022e8ac/US09849119-20171226-C00235.png)
+
+ 
+
+wherein R23 is H, OH, cycle, aryl, branched or unbranched alkyl alcohol, halo, branched or unbranched alkyl, amide, cyano, alkoxy, haloalkyl, aklylsulfonyl, nitrite, or alkylsulfanyl.
+
+24. The compound of claim 23, or a pharmaceutically acceptable salt thereof, wherein R23 is alkoxy.
+
+25. The compound of claim 23, or a pharmaceutically acceptable salt thereof, wherein R23 is methoxy.
+
+26. The compound of claim 25, or a pharmaceutically acceptable salt thereof, wherein a hydrogen of the methoxy is replaced with a deuterium.
+
+27. A compound having a formula of
+
+[![Figure US09849119-20171226-C00236](https://patentimages.storage.googleapis.com/43/41/e3/46f3e58c14f75a/US09849119-20171226-C00236.png)](https://patentimages.storage.googleapis.com/43/41/e3/46f3e58c14f75a/US09849119-20171226-C00236.png)
+
+or a pharmaceutically acceptable salt thereof, wherein a hydrogen is replaced with a deuterium.
+
+28. The compound of claim 27, or a pharmaceutically acceptable salt thereof, wherein the compound has a formula of
+
+[![Figure US09849119-20171226-C00237](https://patentimages.storage.googleapis.com/6f/5d/44/45d19580f7a79b/US09849119-20171226-C00237.png)](https://patentimages.storage.googleapis.com/6f/5d/44/45d19580f7a79b/US09849119-20171226-C00237.png)
+
+or
+
+[![Figure US09849119-20171226-C00238](https://patentimages.storage.googleapis.com/9c/9a/eb/2e2a13749bd114/US09849119-20171226-C00238.png)](https://patentimages.storage.googleapis.com/9c/9a/eb/2e2a13749bd114/US09849119-20171226-C00238.png)
+
+29. A pharmaceutical composition comprising the compound of claim 1, or a pharmaceutically acceptable salt thereof, and pharmaceutically acceptable carrier.
+
+30. A pharmaceutical composition comprising the compound of claim 14, or a pharmaceutically acceptable salt thereof, and pharmaceutically acceptable carrier.
+
+31. A pharmaceutical composition comprising the compound of claim 27, or a pharmaceutically acceptable salt thereof, and pharmaceutically acceptable carrier.
+
+32. A pharmaceutical composition comprising a compound of claim 28, or a pharmaceutically acceptable salt thereof, and pharmaceutically acceptable carrier.
+
+33. A method of treating pain comprising administering to a subject the compound of claim 1, or a pharmaceutically acceptable salt thereof.
+
+34. A method of treating pain comprising administering to a subject the compound of claim 14, or a pharmaceutically acceptable salt thereof.
+
+35. A method of treating pain comprising administering to a subject the compound of claim 27, or a pharmaceutically acceptable salt thereof.
+
+36. A method of treating pain comprising administering to a subject the compound of claim 28, or a pharmaceutically acceptable salt thereof.

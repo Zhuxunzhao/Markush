@@ -1,0 +1,174 @@
+Claims (14)
+-----------
+
+We claim:
+
+1. A compound of formula (IIa):
+
+[![Figure US11168070-20211109-C00484](https://patentimages.storage.googleapis.com/bc/8d/9e/8df72c7e7b41dc/US11168070-20211109-C00484.png)](https://patentimages.storage.googleapis.com/bc/8d/9e/8df72c7e7b41dc/US11168070-20211109-C00484.png)
+
+or a pharmaceutically acceptable salt thereof, wherein:
+
+each R5 is independently selected from the group consisting of C1-6alkyl, C2-6alkenyl, C2-6alkynyl, —F, —Cl, —Br, —I, —NO2, —N(Rw)2, —CN, —C(O)—N(Rw)2, —O—C(O)-Rw, —C(O)—Rx, and —C(O)—O—Rw, wherein any C1-6alkyl, C2-6alkenyl, and C2-6alkynyl is optionally substituted with one or more oxo or halo;
+
+p is 0, 1, 2, 3, or 4;
+
+R6 is selected from:
+
+[![Figure US11168070-20211109-C00485](https://patentimages.storage.googleapis.com/41/ee/0d/b9230777542ba8/US11168070-20211109-C00485.png)](https://patentimages.storage.googleapis.com/41/ee/0d/b9230777542ba8/US11168070-20211109-C00485.png)
+
+ 
+
+[![Figure US11168070-20211109-C00486](https://patentimages.storage.googleapis.com/ef/c8/32/842d489214fbdc/US11168070-20211109-C00486.png)](https://patentimages.storage.googleapis.com/ef/c8/32/842d489214fbdc/US11168070-20211109-C00486.png)
+
+that is optionally substituted with one or more groups Rx;
+
+X is C(R7);
+
+R7 is H or C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rw is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, 3-12 membered carbocyclyl, and 3-12 membered heterocyclyl, wherein each C1-6alkyl, C2-6alkenyl, C2-6alkenyl, 3-12 membered carbocyclyl, and 3-12 membered heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkenyl, 3-12 membered carbocyclyl, 3-12 membered heterocyclyl, and C1-C6 alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Rw are taken together with the nitrogen to which they are attached to form a heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkenyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Rx is independently selected from oxo, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, 3-12 membered carbocyclyl, 3-12 membered heterocyclyl, —F, —Cl, —Br, —I, —NO2, —N(Ry)2, —CN, —C(O)—N(Ry)2, —S(O)—N(Ry)2, —S(O)2—N(Ry)2, —O-Ry, —S-Ry, —O—C(O)-Ry, —O—C(O)—O—Ry, —C(O)-Ry, —C(O)—O-Ry, —S(O)—Ry, —S(O)2—Ry, —O—C(O)—N(Ry)2, —N(Ry)—C(O)-ORy, —N(Ry)—C(O)—N(Ry)2, —N(Ry)—C(O)-Ry, —N(Ry)—S(O)-Ry, —N(Ry)—S(O)2—Ry, —N(Ry)—S(O)—N(Ry)2, and —N(Ry)—S(O)2—N(Ry)2, wherein any C1-6alkyl, C2-6alkenyl, C2-6alkynyl, 3-12 membered carbocyclyl, and 3-12 membered heterocyclyl, is optionally substituted with one or more groups independently selected from oxo, halo, —NO2, —N(Ry)2, —CN, —C(O)—N(Ry)2, —S(O)—N(Ry)2, —S(O)2—N(Ry)2, —O-Ry, —S-Ry, —O—C(O)-Ry, —C(O)—Ry, —C(O)—O-Ry, —S(O)—Ry, —S(O)2—Ry, —C(O)—N(Ry)2, —N(Ry)—C(O)-Ry, —N(Ry)—S(O)-Ry, —N(Ry)—S(O)2—Ry, 3-12 membered carbocycle, and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+each Ry is independently selected from hydrogen, C1-6alkyl, C2-6alkenyl, C2-6alkynyl, 3-12 membered carbocyclyl, and 3-12 membered heterocyclyl, wherein each C1-6alkyl, C2-6alkyl, C2-6alkynyl, C1-6alkyl, 3-12 membered carbocyclyl, and 3-12 membered heterocyclyl is optionally substituted with one or more groups independently selected from oxo, halo, amino, hydroxyl, C1-6alkyl, 3-12 membered carbocyclyl, 3-12 membered heterocyclyl, and C1-6alkyl that is optionally substituted with one or more groups independently selected from oxo and halo; or two Ry are taken together with the nitrogen to which they are attached to form a 3-12 membered heterocyclyl that is optionally substituted with one or more groups independently selected from oxo, halo and C1-3alkyl that is optionally substituted with one or more groups independently selected from oxo and halo;
+
+wherein the 3-12 membered heterocyclyl is a monocycle, bicycle, tricycle, or spiro ring system, wherein one to five ring atoms is a heteroatom independently selected from nitrogen, sulfur and oxygen; and
+
+wherein the 3-12 membered carbocyclyl is a monocycle, bicycle, or spiro ring system.
+
+2. The compound or pharmaceutically acceptable salt of claim 1, wherein the compound is a compound of formula (IIe):
+
+[![Figure US11168070-20211109-C00487](https://patentimages.storage.googleapis.com/b5/a5/5c/e053e7ccb73b8c/US11168070-20211109-C00487.png)](https://patentimages.storage.googleapis.com/b5/a5/5c/e053e7ccb73b8c/US11168070-20211109-C00487.png)
+
+3. The compound or pharmaceutically acceptable salt of claim 1, wherein R7 is H.
+
+4. The compound or pharmaceutically acceptable salt of claim 1, wherein R7 is difluoromethyl.
+
+5. The compound or pharmaceutically acceptable salt of claim 1, wherein the compound is a compound of formula (IIh):
+
+[![Figure US11168070-20211109-C00488](https://patentimages.storage.googleapis.com/3c/a8/88/ae651b53a729d8/US11168070-20211109-C00488.png)](https://patentimages.storage.googleapis.com/3c/a8/88/ae651b53a729d8/US11168070-20211109-C00488.png)
+
+6. The compound or pharmaceutically acceptable salt of claim 1, wherein p is 0.
+
+7. The compound or pharmaceutically acceptable salt of claim 1, wherein R6 is selected from the group consisting of:
+
+[![Figure US11168070-20211109-C00489](https://patentimages.storage.googleapis.com/3d/28/ef/41bf28d46649d5/US11168070-20211109-C00489.png)](https://patentimages.storage.googleapis.com/3d/28/ef/41bf28d46649d5/US11168070-20211109-C00489.png)
+
+ 
+
+[![Figure US11168070-20211109-C00490](https://patentimages.storage.googleapis.com/f7/04/cb/e15811016defee/US11168070-20211109-C00490.png)](https://patentimages.storage.googleapis.com/f7/04/cb/e15811016defee/US11168070-20211109-C00490.png)
+
+ 
+
+[![Figure US11168070-20211109-C00491](https://patentimages.storage.googleapis.com/59/38/7f/abc2fe487ff2b3/US11168070-20211109-C00491.png)](https://patentimages.storage.googleapis.com/59/38/7f/abc2fe487ff2b3/US11168070-20211109-C00491.png)
+
+ 
+
+[![Figure US11168070-20211109-C00492](https://patentimages.storage.googleapis.com/2b/80/d9/3ae454431f0bcd/US11168070-20211109-C00492.png)](https://patentimages.storage.googleapis.com/2b/80/d9/3ae454431f0bcd/US11168070-20211109-C00492.png)
+
+ 
+
+[![Figure US11168070-20211109-C00493](https://patentimages.storage.googleapis.com/38/96/e0/cac97976418dbc/US11168070-20211109-C00493.png)](https://patentimages.storage.googleapis.com/38/96/e0/cac97976418dbc/US11168070-20211109-C00493.png)
+
+ 
+
+[![Figure US11168070-20211109-C00494](https://patentimages.storage.googleapis.com/50/a0/8c/08e68a9e927d05/US11168070-20211109-C00494.png)](https://patentimages.storage.googleapis.com/50/a0/8c/08e68a9e927d05/US11168070-20211109-C00494.png)
+
+ 
+
+[![Figure US11168070-20211109-C00495](https://patentimages.storage.googleapis.com/40/08/42/6752edd6ffa77f/US11168070-20211109-C00495.png)](https://patentimages.storage.googleapis.com/40/08/42/6752edd6ffa77f/US11168070-20211109-C00495.png)
+
+ 
+
+[![Figure US11168070-20211109-C00496](https://patentimages.storage.googleapis.com/e6/d4/cf/7a5b8bc5deaf59/US11168070-20211109-C00496.png)](https://patentimages.storage.googleapis.com/e6/d4/cf/7a5b8bc5deaf59/US11168070-20211109-C00496.png)
+
+ 
+
+[![Figure US11168070-20211109-C00497](https://patentimages.storage.googleapis.com/e2/cc/17/2442d0bee7e756/US11168070-20211109-C00497.png)](https://patentimages.storage.googleapis.com/e2/cc/17/2442d0bee7e756/US11168070-20211109-C00497.png)
+
+8. A compound or pharmaceutically acceptable salt thereof selected from the group consisting of:
+
+[![Figure US11168070-20211109-C00498](https://patentimages.storage.googleapis.com/ed/35/78/eceb0d4b58df6a/US11168070-20211109-C00498.png)](https://patentimages.storage.googleapis.com/ed/35/78/eceb0d4b58df6a/US11168070-20211109-C00498.png)
+
+ 
+
+[![Figure US11168070-20211109-C00499](https://patentimages.storage.googleapis.com/c9/3f/72/36db903265429c/US11168070-20211109-C00499.png)](https://patentimages.storage.googleapis.com/c9/3f/72/36db903265429c/US11168070-20211109-C00499.png)
+
+ 
+
+[![Figure US11168070-20211109-C00500](https://patentimages.storage.googleapis.com/0b/03/9a/4631e2e36224bf/US11168070-20211109-C00500.png)](https://patentimages.storage.googleapis.com/0b/03/9a/4631e2e36224bf/US11168070-20211109-C00500.png)
+
+ 
+
+[![Figure US11168070-20211109-C00501](https://patentimages.storage.googleapis.com/c1/cf/6a/85e678751c2bd0/US11168070-20211109-C00501.png)](https://patentimages.storage.googleapis.com/c1/cf/6a/85e678751c2bd0/US11168070-20211109-C00501.png)
+
+ 
+
+[![Figure US11168070-20211109-C00502](https://patentimages.storage.googleapis.com/19/ad/93/c7948b0bc4d82a/US11168070-20211109-C00502.png)](https://patentimages.storage.googleapis.com/19/ad/93/c7948b0bc4d82a/US11168070-20211109-C00502.png)
+
+ 
+
+[![Figure US11168070-20211109-C00503](https://patentimages.storage.googleapis.com/fc/e7/81/bc9a5b12e65834/US11168070-20211109-C00503.png)](https://patentimages.storage.googleapis.com/fc/e7/81/bc9a5b12e65834/US11168070-20211109-C00503.png)
+
+ 
+
+[![Figure US11168070-20211109-C00504](https://patentimages.storage.googleapis.com/45/c7/65/fb4af28e9f115f/US11168070-20211109-C00504.png)](https://patentimages.storage.googleapis.com/45/c7/65/fb4af28e9f115f/US11168070-20211109-C00504.png)
+
+ 
+
+[![Figure US11168070-20211109-C00505](https://patentimages.storage.googleapis.com/ca/92/f2/2f0dbb6e296e7e/US11168070-20211109-C00505.png)](https://patentimages.storage.googleapis.com/ca/92/f2/2f0dbb6e296e7e/US11168070-20211109-C00505.png)
+
+ 
+
+[![Figure US11168070-20211109-C00506](https://patentimages.storage.googleapis.com/05/6f/e8/8b162e87d6a5af/US11168070-20211109-C00506.png)](https://patentimages.storage.googleapis.com/05/6f/e8/8b162e87d6a5af/US11168070-20211109-C00506.png)
+
+ 
+
+[![Figure US11168070-20211109-C00507](https://patentimages.storage.googleapis.com/f3/6f/6b/5f3a3ea1a4b863/US11168070-20211109-C00507.png)](https://patentimages.storage.googleapis.com/f3/6f/6b/5f3a3ea1a4b863/US11168070-20211109-C00507.png)
+
+ 
+
+[![Figure US11168070-20211109-C00508](https://patentimages.storage.googleapis.com/06/cf/a8/55eb7a8e909e74/US11168070-20211109-C00508.png)](https://patentimages.storage.googleapis.com/06/cf/a8/55eb7a8e909e74/US11168070-20211109-C00508.png)
+
+ 
+
+[![Figure US11168070-20211109-C00509](https://patentimages.storage.googleapis.com/47/81/f6/a2160f7c75bd33/US11168070-20211109-C00509.png)](https://patentimages.storage.googleapis.com/47/81/f6/a2160f7c75bd33/US11168070-20211109-C00509.png)
+
+ 
+
+[![Figure US11168070-20211109-C00510](https://patentimages.storage.googleapis.com/f0/e1/e4/d6814e42e4f16d/US11168070-20211109-C00510.png)](https://patentimages.storage.googleapis.com/f0/e1/e4/d6814e42e4f16d/US11168070-20211109-C00510.png)
+
+ 
+
+[![Figure US11168070-20211109-C00511](https://patentimages.storage.googleapis.com/3a/d1/3e/3165fd80d569dc/US11168070-20211109-C00511.png)](https://patentimages.storage.googleapis.com/3a/d1/3e/3165fd80d569dc/US11168070-20211109-C00511.png)
+
+ 
+
+[![Figure US11168070-20211109-C00512](https://patentimages.storage.googleapis.com/97/5c/f5/fe5f6e86666fd4/US11168070-20211109-C00512.png)](https://patentimages.storage.googleapis.com/97/5c/f5/fe5f6e86666fd4/US11168070-20211109-C00512.png)
+
+ 
+
+[![Figure US11168070-20211109-C00513](https://patentimages.storage.googleapis.com/19/46/ce/72044e48ab84be/US11168070-20211109-C00513.png)](https://patentimages.storage.googleapis.com/19/46/ce/72044e48ab84be/US11168070-20211109-C00513.png)
+
+ 
+
+[![Figure US11168070-20211109-C00514](https://patentimages.storage.googleapis.com/e0/ba/62/6da2e5d71091e2/US11168070-20211109-C00514.png)](https://patentimages.storage.googleapis.com/e0/ba/62/6da2e5d71091e2/US11168070-20211109-C00514.png)
+
+ 
+
+[![Figure US11168070-20211109-C00515](https://patentimages.storage.googleapis.com/88/c3/f0/40b1d815450502/US11168070-20211109-C00515.png)](https://patentimages.storage.googleapis.com/88/c3/f0/40b1d815450502/US11168070-20211109-C00515.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+9. A pharmaceutical composition comprising a compound as described in claim 1 or a pharmaceutically acceptable salt thereof and a pharmaceutically acceptable adjuvant, carrier, or vehicle.
+
+10. A method for treating a CBP and/or EP300-mediated disorder in an animal comprising administering a compound as described in claim 1 or a pharmaceutically acceptable salt thereof to the animal, wherein the CBP and/or EP300-mediated disorder is cancer, wherein the cancer is melanoma, NSCLC, renal cancer, ovarian cancer, colon cancer, pancreatic cancer, hepatocellular cancer, or breast cancer.
+
+11. The method of claim 10 further comprising the administration of a cytotoxic agent to the animal.
+
+12. A pharmaceutical composition comprising a compound as described in claim 8 or a pharmaceutically acceptable salt thereof and a pharmaceutically acceptable adjuvant, carrier, or vehicle.
+
+13. A method for treating a CBP and/or EP300-mediated disorder in an animal comprising administering a compound as described in claim 8 or a pharmaceutically acceptable salt thereof to the animal, wherein the CBP and/or EP300-mediated disorder is cancer, wherein the cancer is melanoma, NSCLC, renal cancer, ovarian cancer, colon cancer, pancreatic cancer, hepatocellular cancer, or breast cancer.
+
+14. The method of claim 13 further comprising the administration of a cytotoxic agent to the animal.

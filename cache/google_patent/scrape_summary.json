@@ -1,0 +1,492 @@
+[
+  {
+    "patent_id": "US10010539",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 132,
+    "errors": []
+  },
+  {
+    "patent_id": "US10016420",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 25,
+    "errors": []
+  },
+  {
+    "patent_id": "US10028967",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 9,
+    "errors": []
+  },
+  {
+    "patent_id": "US10183009",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 264,
+    "errors": []
+  },
+  {
+    "patent_id": "US10183949",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 648,
+    "errors": []
+  },
+  {
+    "patent_id": "US10196354",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 320,
+    "errors": []
+  },
+  {
+    "patent_id": "US10285986B2",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 134,
+    "errors": []
+  },
+  {
+    "patent_id": "US10526323",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 520,
+    "errors": []
+  },
+  {
+    "patent_id": "US10676478",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 24,
+    "errors": []
+  },
+  {
+    "patent_id": "US10870623",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 70,
+    "errors": []
+  },
+  {
+    "patent_id": "US10968217",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 92,
+    "errors": []
+  },
+  {
+    "patent_id": "US11168070",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 514,
+    "errors": []
+  },
+  {
+    "patent_id": "US11684629",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 212,
+    "errors": []
+  },
+  {
+    "patent_id": "US11746094",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 17,
+    "errors": []
+  },
+  {
+    "patent_id": "US11773096",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 58,
+    "errors": []
+  },
+  {
+    "patent_id": "US12006316",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 64,
+    "errors": []
+  },
+  {
+    "patent_id": "US20110076230A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 80,
+    "errors": []
+  },
+  {
+    "patent_id": "US20150174033A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 22,
+    "errors": []
+  },
+  {
+    "patent_id": "US20150190323A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 9,
+    "errors": []
+  },
+  {
+    "patent_id": "US20150224105A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 142,
+    "errors": []
+  },
+  {
+    "patent_id": "US20160095854A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 100,
+    "errors": []
+  },
+  {
+    "patent_id": "US20170128460A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 191,
+    "errors": []
+  },
+  {
+    "patent_id": "US20170182030A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 141,
+    "errors": []
+  },
+  {
+    "patent_id": "US20170239197A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 107,
+    "errors": []
+  },
+  {
+    "patent_id": "US20170252328A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 23,
+    "errors": []
+  },
+  {
+    "patent_id": "US20170266167A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 491,
+    "errors": []
+  },
+  {
+    "patent_id": "US20170304277A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 51,
+    "errors": []
+  },
+  {
+    "patent_id": "US20190008803A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 223,
+    "errors": []
+  },
+  {
+    "patent_id": "US20210070703A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 207,
+    "errors": []
+  },
+  {
+    "patent_id": "US20220348549A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 140,
+    "errors": []
+  },
+  {
+    "patent_id": "US20220396567A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 166,
+    "errors": []
+  },
+  {
+    "patent_id": "US20230108114A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 248,
+    "errors": []
+  },
+  {
+    "patent_id": "US20230131535A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 256,
+    "errors": []
+  },
+  {
+    "patent_id": "US20230293523A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 50,
+    "errors": []
+  },
+  {
+    "patent_id": "US20230295110A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 790,
+    "errors": []
+  },
+  {
+    "patent_id": "US20230303562A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 273,
+    "errors": []
+  },
+  {
+    "patent_id": "US20230399337A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 189,
+    "errors": []
+  },
+  {
+    "patent_id": "US20240002351A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 32,
+    "errors": []
+  },
+  {
+    "patent_id": "US20240109886A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 72,
+    "errors": []
+  },
+  {
+    "patent_id": "US8039496",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 61,
+    "errors": []
+  },
+  {
+    "patent_id": "US9233979",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 701,
+    "errors": []
+  },
+  {
+    "patent_id": "US9439968",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 152,
+    "errors": []
+  },
+  {
+    "patent_id": "US9492447",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 66,
+    "errors": []
+  },
+  {
+    "patent_id": "US9512105",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 18,
+    "errors": []
+  },
+  {
+    "patent_id": "US9624159",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 473,
+    "errors": []
+  },
+  {
+    "patent_id": "US9655879",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 174,
+    "errors": []
+  },
+  {
+    "patent_id": "US9707212",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 41,
+    "errors": []
+  },
+  {
+    "patent_id": "US9730936",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 281,
+    "errors": []
+  },
+  {
+    "patent_id": "US9750738",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 81,
+    "errors": []
+  },
+  {
+    "patent_id": "US9758477",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 211,
+    "errors": []
+  },
+  {
+    "patent_id": "US9763922",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 1531,
+    "errors": []
+  },
+  {
+    "patent_id": "US9849119",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 238,
+    "errors": []
+  },
+  {
+    "patent_id": "US9856219",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 75,
+    "errors": []
+  },
+  {
+    "patent_id": "US9884043",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 397,
+    "errors": []
+  },
+  {
+    "patent_id": "US9884048",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 489,
+    "errors": []
+  },
+  {
+    "patent_id": "US9895330",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 217,
+    "errors": []
+  },
+  {
+    "patent_id": "US9902701",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 136,
+    "errors": []
+  },
+  {
+    "patent_id": "US9937139",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 55,
+    "errors": []
+  },
+  {
+    "patent_id": "US9943507",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 23,
+    "errors": []
+  },
+  {
+    "patent_id": "US9980929",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 118,
+    "errors": []
+  },
+  {
+    "patent_id": "US9988397",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 178,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2009117421A2",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 707,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2020247701A2",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 75,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2020252229A2",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 128,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2022038299A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 27,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2022046606A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 51,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2022047583A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 92,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2023230609A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 246,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2024026368A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 106,
+    "errors": []
+  },
+  {
+    "patent_id": "WO2024062043A1",
+    "text_source": "google_patents",
+    "image_source": "google_patent_cdn",
+    "image_count": 121,
+    "errors": []
+  }
+]

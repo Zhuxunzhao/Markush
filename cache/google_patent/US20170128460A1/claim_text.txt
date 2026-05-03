@@ -1,0 +1,68 @@
+Claims (22)
+-----------
+
+What is claimed is:
+
+**1**. A method of treating pain comprising administering a therapeutically effective amount of a compound of formula I:
+
+[![Figure US20170128460A1-20170511-C00191](https://patentimages.storage.googleapis.com/28/29/b2/1701705096047c/US20170128460A1-20170511-C00191.png)](https://patentimages.storage.googleapis.com/28/29/b2/1701705096047c/US20170128460A1-20170511-C00191.png)
+
+ 
+
+wherein R1 is pyrazinyl optionally substituted with one or more C1-6alkyl, halogen, hydroxy, C1-4fluoroalkyl, C3-6 cycloalkyl, C1-6 alkoxy, C1-6 fluoroalkoxy, cyano or —SO2R7;
+
+wherein R2a and R2b combine with the nitrogen to which they are attached to form piperazinyl, piperidinyl, morpholinyl, pyrrolidinyl, pyrrolo, imidazo, azetidinyl, 6 to 10 membered spiro(heterocyclyl), homomorpholinyl, homopiperidinyl or homopiperazinyl each of which is optionally substituted with one or more C1-6 alkyl, C1-6 alkenyl, C3-6-cycloalkyl, C1-6 alkoxy, oxo, —NR5R6 or fluorines;
+
+wherein R3 is halogen, C1-4fluoroalkyl, cyano, cyclopropyl, C1-4alkyloxy, C1-4fluoroalkyloxy, —SO2R7, —NR5R6 or C1-6alkyl;
+
+wherein R4 is halogen, C1-6alkyl, C1-4fluoroalkyl, cyano, —SO2R8, —NR5R6, C1-6 alkoxy, C1-4 fluoroalkoxy or C3-6-cycloalkyl;
+
+wherein R5 and R6 independently of each other are hydrogen or C1-6 alkyl;
+
+wherein R7 is C1-6alkyl, C3-6cycloalkyl, C1-4fluoroalkyl; and
+
+wherein n is 0-3;
+
+or a pharmaceutically acceptable salt of said compound.
+
+**2**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted piperazinyl.
+
+**3**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted piperidinyl.
+
+**4**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted morpholinyl.
+
+**5**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted pyrrolidinyl.
+
+**6**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted pyrrolo.
+
+**7**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted imidazo.
+
+**8**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted 6 to 10 membered spiro(heterocyclyl).
+
+**9**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted homomorpholinyl.
+
+**10**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted homopiperidinyl.
+
+**11**. The method of claim 1, wherein R2a and R2b of said compound or pharmaceutically acceptable salt thereof combine with the nitrogen to which they are attached to form optionally substituted homopiperazinyl.
+
+**12**. The method of claim 1, wherein R3 of said compound or pharmaceutically acceptable salt thereof is chlorine, methyl or trifluoromethyl.
+
+**13**. The method of claim 1, wherein n of said compound or pharmaceutically acceptable salt thereof is n is 0.
+
+**14**. The method of claim 1, wherein n of said compound or pharmaceutically acceptable salt thereof is n is 1.
+
+**15**. The method of claim 1, wherein n of said compound or pharmaceutically acceptable salt thereof is n is 2.
+
+**16**. The method of claim 1, wherein R4 of said compound or pharmaceutically acceptable salt thereof is n is fluorine, chlorine, C1-3 alkyl, C1-4fluoroalkyl, cyano, C1-3 alkoxy or C1-4fluoroalkoxy.
+
+**17**. The method of claim 1 wherein said pain is acute pain.
+
+**18**. The method of claim 1 wherein said pain is chronic pain.
+
+**19**. The method of claim 1 wherein said pain is inflammatory pain.
+
+**20**. The method of claim 1 wherein said pain is neuropathic pain or post-operative pain.
+
+**21**. The method of claim 1 wherein said pain is caused by morphine tolerance, fibromyalgia, neuralgia, headache, osteoarthritis, rheumatoid arthritis, psoriatic arthritis, irritable bowel syndrome or inflammatory bowel disease.
+
+**22**. The method of claim 5 wherein said pain is neuropathic pain.

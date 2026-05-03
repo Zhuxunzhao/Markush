@@ -1,0 +1,8 @@
+Abstract
+--------
+
+The present invention is directed to pyrazole, triazole and tetrazole compounds which are antagonists of orexin receptors. Such compounds are of the general structural formula I:
+
+[![Figure US10010539-20180703-C00001](https://patentimages.storage.googleapis.com/fe/66/6b/e102435871a38a/US10010539-20180703-C00001.png)](https://patentimages.storage.googleapis.com/fe/66/6b/e102435871a38a/US10010539-20180703-C00001.png)
+
+The present invention is also directed to uses of the compounds described herein in the potential treatment or prevention of neurological and psychiatric disorders and diseases in which orexin receptors are involved. The present invention is also directed to pharmaceutical compositions comprising these compounds. The present invention is also directed to uses of these pharmaceutical compositions in the prevention or treatment of such diseases in which orexin receptors are involved.

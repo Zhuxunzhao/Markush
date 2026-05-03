@@ -1,0 +1,4 @@
+Abstract
+--------
+
+The present invention relates to a compound of formula (I) or a stereoisomer, or tautomer, for use in the prevention or treatment of a disease associated with the activation of receptor tyrosine-protein kinase (erbB4). In formula (I), wherein n, A1, A2, A3, A4, A5, R1, R2, R3, and R4 have the same meaning as that defined in the claims and the description. The present invention also relates uses of such compounds for the prevention and/or treatment of a disease associated with the activation of receptor tyrosine-protein kinase (erbB-4) such as heart failure, metabolic disorders, inflammatory disorders, fibrotic disorders, and cancer. The present invention also provides pharmaceutical compositions comprising such compounds, as well as the use of the compounds as a medicament.

@@ -1,0 +1,496 @@
+Claims (28)
+-----------
+
+The invention claimed is:
+
+1. A compound of formula (I)
+
+[![Figure US10870623-20201222-C00068](https://patentimages.storage.googleapis.com/c9/48/9d/df16011f7ecd7e/US10870623-20201222-C00068.png)](https://patentimages.storage.googleapis.com/c9/48/9d/df16011f7ecd7e/US10870623-20201222-C00068.png)
+
+ 
+
+or pharmaceutically acceptable salts thereof, wherein
+
+R2, R3, R4, R5 and R7 are each independently selected from
+
+i) H,
+
+ii) C1-6-alkyl, and
+
+iii) C3-8-cycloalkyl;
+
+X is selected from
+
+i) —O—,
+
+ii) —S—, and
+
+iii) —S(O)2—;
+
+R6 is selected from
+
+i) aryl substituted with at least one of R12, R13 and R14,
+
+ii) aryl-C1-6-alkyl substituted with at least one of R12, R13 and R14,
+
+iii) heteroaryl substituted with at least one of R12, R13 and R14, and
+
+iv) heteroaryl-C1-6-alkyl substituted with at least one of R12, R13 and R14;
+
+A is selected from
+
+i) —O—,
+
+ii) —CH2—,
+
+iii) —S(O)2NR10—, and
+
+iv) —C(O)NR10—;
+
+R8 is selected from
+
+i) H, and
+
+ii) —CH2R9;
+
+R9 is selected from
+
+i) H,
+
+ii) hydroxy,
+
+iii) amino-C1-6-alkyl substituted on the nitrogen atom by one or two substituents selected from H, C1-6-alkylcarbonyl, C1-6-alkoxycarbonyl, C1-6-alkyl, arylcarbonyl and heteroarylcarbonyl, wherein arylcarbonyl and heteroarylcarbonyl are substituted with at least one of R15, R16 and R17,
+
+iv) aminocarbonyl substituted on the nitrogen atom by one or two substituents selected from H, C1-6-alkylcarbonyl, C1-6-alkoxycarbonyl, C1-6-alkyl, arylcarbonyl and heteroarylcarbonyl, wherein arylcarbonyl and heteroarylcarbonyl are substituted with at least one of R15, R16 and R17,
+
+v) aminocarbonyl-C1-6-alkyl substituted on the nitrogen atom by one or two substituents selected from H, C1-6-alkylcarbonyl, C1-6-alkoxycarbonyl, C1-6-alkyl, arylcarbonyl and heteroarylcarbonyl, wherein arylcarbonyl and heteroarylcarbonyl are substituted with at least one of R15, R16 and R17,
+
+vi) carboxy,
+
+vii) carboxy-C1-6-alkyl,
+
+viii) C1-6-alkoxy,
+
+ix) C1-6-haloalkoxy,
+
+x) C1-6-alkoxycarbonyl,
+
+xi) C1-6-alkoxycarbonyl-C1-6-alkyl,
+
+xii) C3-8-cycloalkyl,
+
+xiii) aryl substituted with at least one of R15, R16 and R17,
+
+xiv) aryl-C1-6-alkyl substituted with at least one of R15, R16 and R17,
+
+xv) aryl-C1-6-alkoxy substituted with at least one of R15, R16 and R17,
+
+xvi) heteroaryl substituted with at least one of R15, R16 and R17,
+
+xvii) heteroaryl-C1-6-alkyl substituted with at least one of R15, R16 and R17, and
+
+xviii) heteroaryl-C1-6-alkoxy substituted with at least one of R15, R16 and R17
+
+xix) heterocycloalkyl substituted with at least one of R15, R16 and R17,
+
+xx) heterocycloalkyl-C1-6-alkyl substituted with at least one of R15, R16 and R17,
+
+xxi) heterocycloalkyl-C1-6-alkoxy substituted with at least one of R15, R16 and R17, and
+
+xxii) C1-6-alkylsilyloxy;
+
+R10 is H;
+
+R11 is selected from
+
+i) amino-C1-6-alkyl substituted on the nitrogen atom by at least one of R21 and R22,
+
+ii) C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+iii) C3-8-cycloalkyl-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+iv) C3-8-cycloalkyl(halo)-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+v) aryl substituted with at least one of R18, R19 and R20,
+
+vi) aryl-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+vii) aryl-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+viii) aryl-heterocycloalkyl substituted with at least one of R18, R19 and R20
+
+ix) aryl(halo)-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+x) aryl(halo)-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+xi) aryl(halo)-heterocycloalkyl substituted with at least one of R18, R19 and R20,
+
+xii) aryloxy-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+xiii) aryloxy-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+xiv) aryloxy-heterocycloalkyl substituted with at least one of R18, R19 and R20,
+
+xv) aryloxy(halo)-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+xvi) aryloxy(halo)-heterocycloalkyl substituted with at least one of R18, R19 and R20
+
+xvii) aryloxy(halo)-C1-6-alkyl,
+
+xviii) heterocycloalkyl substituted with at least one of R18, R19 and R20,
+
+xix) heterocycloalkyl-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+xx) heterocycloalkyl-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+xxi) heterocycloalkyl(halo)-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+i) heterocycloalkyl(halo)-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+ii) heteroaryl substituted with at least one of R18, R19 and R20,
+
+iii) heteroaryl-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+iv) heteroaryl-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+v) heteroaryl(halo)-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+vi) heteroaryl(halo)-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+vii) heteroaryloxy-C1-6-alkyl substituted with at least one of R18, R19 and R20,
+
+viii) heteroaryloxy-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+ix) heteroaryloxy(halo)-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20, and
+
+x) heteroaryloxy(halo)-C1-6-alkyl substituted with at least one of R18, R19 and R20;
+
+R12, R13, R14, R15, R16, R17, R18, R19 and R20 are each independently selected from
+
+i) H,
+
+ii) cyano,
+
+iii) halogen,
+
+iv) oxo,
+
+v) C1-6-alkyl,
+
+vi) amino substituted on the nitrogen atom by two substituents independently selected from H, C1-6-alkyl, C1-6-alkoxycarbonyl, arylcarbonyl and heteroarylcarbonyl,
+
+vii) amino-C1-6-alkyl substituted on the nitrogen atom by two substituents independently selected from H, C1-6-alkyl, C1-6-alkoxycarbonyl, arylcarbonyl and heteroaryl carbonyl,
+
+viii) C1-6-alkyl,
+
+ix) halo-C1-6-alkyl,
+
+x) C3-8-cycloalkyl,
+
+xi) C1-6-alkoxycarbonyl-C1-6-alkyl,
+
+xii) carboxy-C1-6-alkyl,
+
+xiii) C1-6-alkoxycarbonyl-C1-6alkylaminocarbonyl-C1-6alkyl,
+
+xiv) carboxy-C1-6-alkylaminocarbonyl-C1-6alkyl,
+
+xv) C1-6-alkoxy,
+
+xvi) halo-C1-6-alkoxy,
+
+xvii) C1-6-alkoxycarbonyl-C1-6-alkoxy,
+
+xviii) carboxy-C1-6-alkoxy,
+
+xix) C1-6-alkoxycarbonyl-C1-6-alkylaminocarbonyl-C1-6-alkoxy,
+
+xx) carboxy-C1-6-alkylaminocarbonyl-C1-6-alkoxy, and
+
+xxi) heterocycloalkyl;
+
+and
+
+R21 and R22 are each independently selected from
+
+i) H,
+
+ii) C1-6-alkoxycarbonyl,
+
+iii) carboxy-C1-6-alkyl,
+
+iv) arylcarbonyl, and
+
+v) heteroarylcarbonyl;
+
+with the proviso that N-[(1S)-1-[[(1S)-1-[(2S,4R)-4-benzyloxy-2-[(1-ethyl-3,3,3-trifluoro-2-oxo-propyl)carbamoyl]pyrrolidine-1-carbonyl]-2-methyl-propyl]carbamoyl]-2-methyl-propyl]pyrazine-2-carboxamide is excluded.
+
+2. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein
+
+R2 is C1-6-alkyl;
+
+R3, R4, R5 and R7 are each H;
+
+X is selected from
+
+i) —O—,
+
+ii) —S—, and
+
+iii) —S(O)2—;
+
+R6 is phenyl-C1-6-alkyl substituted with at least one of R12, R13 and R14;
+
+A is selected from
+
+i) —O—,
+
+ii) —CH2—,
+
+iii) —S(O)2NR10— and
+
+iv) —C(O)NR10—;
+
+R8 is selected from
+
+i) H, and
+
+ii) —CH2R9;
+
+R9 is selected from
+
+i) H,
+
+ii) hydroxy,
+
+iii) C1-6-alkoxy,
+
+iv) phenyl substituted with at least one of R15, R16 and R17, and
+
+v) C1-6-alkylsilyloxy;
+
+R11 is selected from
+
+i) phenyl substituted with at least one of R18, R19 and R20,
+
+ii) phenyl-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+iii) phenyl(halo)-C1-6-alkyl substituted with at least one of R18, R19 and R20, and
+
+iv) heteroaryl substituted with at least one of R18, R19 and R20, wherein heteroaryl is selected from
+
+a. pyrazinyl,
+
+b. pyridinyl, and
+
+c. thiophenyl;
+
+R12 is selected from
+
+i) H, and
+
+ii) C1-6-alkoxy,
+
+R15 is selected from
+
+i) H,
+
+ii) halogen, and
+
+iii) amino-C1-6-alkyl substituted on the nitrogen atom by one H and one C1-6-alkoxycarbonyl;
+
+R18 is selected from
+
+i) H,
+
+ii) halogen, and
+
+iii) halo-C1-6-alkyl;
+
+and
+
+R13, R14, R16, R17, R19 and R20 are each H;
+
+with the proviso that N-[(1S)-1-[[(1S)-1-[(2S,4R)-4-benzyloxy-2-[(1-ethyl-3,3,3-trifluoro-2-oxo-propyl)carbamoyl]pyrrolidine-1-carbonyl]-2-methyl-propyl]carbamoyl]-2-methyl-propyl]pyrazine-2-carboxamide is excluded.
+
+3. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R2 is C1-6-alkyl.
+
+4. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R3, R4, R5 and R7 are each H.
+
+5. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein X is selected from
+
+i) —O—, and
+
+ii) —S(O)2—.
+
+6. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein X is —O—.
+
+7. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R6 is phenyl-C1-6-alkyl substituted with at least one of R12, R13 and R14.
+
+8. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein A is selected from
+
+i) —O—, and
+
+ii) —CH2—.
+
+9. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein A is —O—.
+
+10. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R8 is H.
+
+11. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R9 is selected from
+
+i) H,
+
+ii) hydroxy,
+
+iii) C1-6-alkoxy,
+
+iv) phenyl substituted with at least one of R15, R16 and R17, and
+
+v) C1-6-alkylsilyloxy.
+
+12. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R9 is phenyl substituted with at least one of R5, R16 and R17.
+
+13. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R11 is selected from
+
+i) phenyl substituted with at least one of R18, R19 and R20,
+
+ii) phenyl-C3-8-cycloalkyl substituted with at least one of R18, R19 and R20,
+
+iii) phenyl(halo)-C1-6-alkyl substituted with at least one of R18, R19 and R20, and
+
+iv) heteroaryl substituted with at least one of R18, R19 and R20, wherein heteroaryl is selected from
+
+(a) pyrazinyl,
+
+(b) pyridinyl, and
+
+(c) thiophenyl.
+
+14. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R11 is phenyl substituted with at least one of R18, R19 and R20.
+
+15. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R12 is selected from
+
+i) H, and
+
+ii) C1-6-alkoxy.
+
+16. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R12 is H.
+
+17. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R15 is selected from
+
+i) H,
+
+ii) halogen, and
+
+iii) amino-C1-6-alkyl substituted on the nitrogen atom by one H and one C1-6-alkoxycarbonyl.
+
+18. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R15 is H.
+
+19. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R18 is selected from
+
+i) H,
+
+ii) halogen, and
+
+iii) halo-C1-6-alkyl.
+
+20. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R18 is halogen.
+
+21. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R13, R14, R16, R17, R19 and R20 are each H.
+
+22. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein
+
+R2 is C1-6-alkyl;
+
+R3, R4, R5 and R7 are each H;
+
+X is —O—;
+
+R6 is phenyl-C1-6-alkyl substituted with at least one of R12, R13 and R14;
+
+A is —O—;
+
+R8 is H;
+
+R9 is phenyl substituted with at least one of R15, R16 and R17;
+
+R11 is phenyl substituted with at least one of R18, R19 and R20;
+
+R12, R13, R14, R15, R16, R17, R19 and R20 are each H; and
+
+R18 is halogen.
+
+23. A compound according to claim 1, selected from the group consisting of:
+
+N-((S)-3-(3-chlorophenyl)-1-((2S,4R)-4-((4-methoxybenzyl)sulfonyl)-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)carbamoyl)pyrrolidin-1-yl)-1-oxopropan-2-yl)picolinamide;
+
+N-((S)-3-(3-chlorophenyl)-1-((2S,4R)-4-((4-methoxybenzyl)sulfonyl)-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)carbamoyl)pyrrolidin-1-yl)-1-oxopropan-2-yl)pyrazine-2-carboxamide;
+
+(2S,4R)-1-[(2S)-2-[[2-(3-chlorophenyl)-2,2-difluoroacetyl]amino]propanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;
+
+(2S,4R)-1-[(2S)-2-[[2,2-difluoro-2-[2-(trifluoromethyl)phenyl]acetyl]amino]propanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;
+
+(2S,4R)-1-[(2S)-2-[[2-(3-chlorophenyl)-2,2-difluoroacetyl]amino]-3-methoxypropanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;
+
+(2S,4R)-1-[(2S)-2-[[2,2-difluoro-2-[2-(trifluoromethyl)phenyl]acetyl]amino]-3-methoxypropanoyl]-4-[(4-methoxyphenyl)methylsulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;
+
+tert-butyl N-[[4-[(2S)-2-[[2-(3-chlorophenyl)-2,2-difluoroacetyl]amino]-3-[(2S,4R)-4-[(4-methoxyphenyl)methyl sulfonyl]-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]carbamoyl]pyrrolidin-1-yl]-3-oxopropyl]phenyl]methyl]carbamate;
+
+tert-butyl N-[[4-[(2S)-2-[(3-chlorobenzoyl)amino]-3-[(2S,4R)-4-[(4-methoxyphenyl)methyl sulfonyl]-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]carbamoyl]pyrrolidin-1-yl]-3-oxopropyl]phenyl]methyl]carbamate;
+
+tert-butyl N-[[4-[(2S)-2-[[2,2-difluoro-2-[2-(trifluoromethyl)phenyl]acetyl]amino]-3-[(2S,4R)-4-[(4-methoxyphenyl)methylsulfonyl]-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]carbamoyl]pyrrolidin-1-yl]-3-oxopropyl]phenyl]methyl]carbamate;
+
+tert-butyl N-[[4-[(2S)-2-[[1-(4-chlorophenyl)cyclopentanecarbonyl]amino]-3-[(2S,4R)-4-[(4-methoxyphenyl)methyl sulfonyl]-2-[[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]carbamoyl]pyrrolidin-1-yl]-3-oxopropyl]phenyl]methyl]carbamate;
+
+(2S,4R)-1-(2-(3,5-dichlorophenoxy)acetyl)-4-((4-methoxybenzyl)sulfonyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+(2S,4R)-1-(2-(3,5-dichlorophenoxy)acetyl)-4-((4-methoxybenzyl)thio)-N-((R)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+(2S,4R)-4-(benzyloxy)-1-(3-(3,4-dichlorophenyl)propanoyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+(2S,4R)-4-(benzyloxy)-1-(2-(3,5-dichlorophenoxy)acetyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+N-((S)-1-((2S,4R)-4-(benzyloxy)-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)carbamoyl)pyrrolidin-1-yl)-3-(3-chlorophenyl)-1-oxopropan-2-yl)picolinamide;
+
+N-((S)-1-((2S,4R)-4-(benzyloxy)-2-(((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)carbamoyl)pyrrolidin-1-yl)-3-(3-chlorophenyl)-1-oxopropan-2-yl)pyrazine-2-carboxamide;
+
+(2S,4R)-4-(benzyloxy)-1-((R)-2-(3,5-dichlorophenoxy)-3-phenylpropanoyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+(2S,4R)-1-[(2S)-2-[(5-chlorothiophen-2-yl)sulfonylamino]-3-methoxypropanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;
+
+(2S,4R)-1-[(2S)-2-[[2-(3-chlorophenyl)-2,2-difluoroacetyl]amino]-3-hydroxypropanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;
+
+(2S,4R)-1-[(2S)-3-[4-(aminomethyl)phenyl]-2-[[2-(3-chlorophenyl)-2,2-difluoroacetyl]amino]propanoyl]-4-[(4-methoxyphenyl)methylsulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;2,2,2-trifluoroacetic acid;
+
+(2S,4R)-1-[(2S)-3-[4-(aminomethyl)phenyl]-2-[(3-chlorobenzoyl)amino]propanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;2,2,2-trifluoroacetic acid;
+
+(2S,4R)-1-[(2S)-3-[4-(aminomethyl)phenyl]-2-[[2,2-difluoro-2-[2-(trifluoromethyl)phenyl]acetyl]amino]propanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;2,2,2-trifluoroacetic acid; and
+
+(2S,4R)-1-[(2S)-3-[4-(aminomethyl)phenyl]-2-[[1-(4-chlorophenyl)cyclopentanecarbonyl]amino]propanoyl]-4-[(4-methoxyphenyl)methyl sulfonyl]-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl]pyrrolidine-2-carboxamide;2,2,2-trifluoroacetic acid;
+
+or a pharmaceutically acceptable salt thereof.
+
+24. The compound of claim 1, selected from the group consisting of:
+
+(2S,4R)-1-(2-(3,5-dichlorophenoxy)acetyl)-4-((4-methoxybenzyl)sulfonyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+(2S,4R)-4-(benzyloxy)-1-(3-(3,4-dichlorophenyl)propanoyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+(2S,4R)-4-(benzyloxy)-1-(2-(3,5-dichlorophenoxy)acetyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide; and
+
+(2S,4R)-4-(benzyloxy)-1-((R)-2-(3,5-dichlorophenoxy)-3-phenylpropanoyl)-N-((S)-1,1,1-trifluoro-4-methyl-2-oxopentan-3-yl)pyrrolidine-2-carboxamide;
+
+or a pharmaceutically acceptable salt thereof.
+
+25. A process to prepare the compound of claim 1 comprising the reaction of a compound of formula (II) in oxidative conditions
+
+[![Figure US10870623-20201222-C00069](https://patentimages.storage.googleapis.com/0e/ea/ef/c20354785f49ac/US10870623-20201222-C00069.png)](https://patentimages.storage.googleapis.com/0e/ea/ef/c20354785f49ac/US10870623-20201222-C00069.png)
+
+26. A pharmaceutical composition comprising the compound of claim 1, or a pharmaceutically acceptable salt thereof, and a therapeutically inert carrier.
+
+27. A method for the treatment of an HtrA1-mediated condition selected from the group consisting of wet or dry age-related macular degeneration, geographic atrophy, diabetic retinopathy, retinopathy of prematurity and polypoidal choroidal vasculopathy, which method comprises administering to a mammal in need thereof an effective amount of a compound according to claim 1, or a pharmaceutically acceptable salt thereof.
+
+28. The compound of claim 1, wherein said compound is manufactured according to a process comprising the reaction of a compound of formula (II) in oxidative conditions
+
+[![Figure US10870623-20201222-C00070](https://patentimages.storage.googleapis.com/68/72/08/3748f7062a09b5/US10870623-20201222-C00070.png)](https://patentimages.storage.googleapis.com/68/72/08/3748f7062a09b5/US10870623-20201222-C00070.png)

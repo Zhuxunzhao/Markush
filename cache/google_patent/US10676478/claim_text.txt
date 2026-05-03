@@ -1,0 +1,50 @@
+Claims (11)
+-----------
+
+The invention claimed is:
+
+1. A compound of formula (I) or a pharmaceutically acceptable salt thereof,
+
+[![Figure US10676478-20200609-C00021](https://patentimages.storage.googleapis.com/9e/c4/ec/c425329a1f1623/US10676478-20200609-C00021.png)](https://patentimages.storage.googleapis.com/9e/c4/ec/c425329a1f1623/US10676478-20200609-C00021.png)
+
+ 
+
+wherein
+
+R1 and R2 together with the N atom to which they are attached form a 4-8 membered heterocycloalkyl; wherein the 4-8 membered heterocycloalkyl is optionally substituted with one or more R3; and R3 is independently at each occurrence selected from the group consisting of hydroxyl, halogen, cyano, C1-4alkyl and C1-4alkoxy.
+
+2. The compound according to claim 1 or the pharmaceutically acceptable salt thereof, wherein
+
+the 4-8 membered heterocycloalkyl contains 0, 1, 2 or 3 additional heteroatoms selected from the group consisting of N, O and S.
+
+3. The compound according to claim 2 or the pharmaceutically acceptable salt thereof, wherein
+
+the 4-8 membered heterocycloalkyl is 4 membered, 5 membered, 6 membered, 7 membered or 8 membered heterocycloalkyl.
+
+4. The compound according to claim 1 or the pharmaceutically acceptable salt thereof, wherein
+
+R3 is independently at each occurrence selected from the group consisting of hydroxyl, F, Cl, Br, CN, methyl, ethyl, propyl, methoxyl, ethoxyl and propoxy.
+
+5. The compound according to claim 1 or the pharmaceutically acceptable salt thereof, wherein
+
+the group formed by R1, R2 together with the N atom to which they are attached is selected from the group consisting of:
+
+[![Figure US10676478-20200609-C00022](https://patentimages.storage.googleapis.com/b7/41/22/4c0aed4fcc808b/US10676478-20200609-C00022.png)](https://patentimages.storage.googleapis.com/b7/41/22/4c0aed4fcc808b/US10676478-20200609-C00022.png)
+
+6. The compound according to claim 5 or the pharmaceutically acceptable salt thereof, wherein
+
+the group formed by R1, R2 together with the N atom to which they are attached is
+
+[![Figure US10676478-20200609-C00023](https://patentimages.storage.googleapis.com/11/80/63/0201bbb8a259ae/US10676478-20200609-C00023.png)](https://patentimages.storage.googleapis.com/11/80/63/0201bbb8a259ae/US10676478-20200609-C00023.png)
+
+7. The compound according to claim 1 or the pharmaceutically acceptable salt thereof, wherein the compound has the following formula:
+
+[![Figure US10676478-20200609-C00024](https://patentimages.storage.googleapis.com/74/3a/4f/098bf8881d5255/US10676478-20200609-C00024.png)](https://patentimages.storage.googleapis.com/74/3a/4f/098bf8881d5255/US10676478-20200609-C00024.png)
+
+8. A pharmaceutical composition, comprising the compound according to claim 1 and/or the pharmaceutically acceptable salt thereof in therapeutically or prophylactically effective amount, and one or more pharmaceutically acceptable carriers and/or excipients.
+
+9. A method for treating hepatitis B viral infection or hepatitis C viral infection, comprising administrating to a subject in need thereof the compound according to claim 1 or the pharmaceutically acceptable salt thereof.
+
+10. A method for treating hepatitis B viral infection or hepatitis C viral infection, comprising administrating to a subject in need thereof the compound according to claim 7 or the pharmaceutically acceptable salt thereof.
+
+11. A method for treating hepatitis B viral infection or hepatitis C viral infection, comprising administrating to a subject in need thereof the pharmaceutical composition according to claim 8.

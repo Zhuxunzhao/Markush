@@ -1,0 +1,132 @@
+Claims (16)
+-----------
+
+What is claimed is:
+
+1. A compound of the formula:
+
+[![Figure US09233979-20160112-C00695](https://patentimages.storage.googleapis.com/9f/d3/36/da346f249356f4/US09233979-20160112-C00695.png)](https://patentimages.storage.googleapis.com/9f/d3/36/da346f249356f4/US09233979-20160112-C00695.png)
+
+or a pharmaceutically acceptable salt, ester, solvate or prodrug thereof, wherein:
+
+R1 is —NR4R5;
+
+R2 is selected from the group consisting of: H, (C6-C10)aryl-(C1-C3alkyl)-heterocycloalkyl-, —(C1-C6 alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —(C1-C6 alkyl)-heterocycloalkyl-(C6-C10aryl), —(C1-C4alkyl)(C6-C10)aryl, —(C1-C4alkyl)heteroaryl, —(C3-C6cycloalkyl)-(C6-C10 aryl), -heterocycloalkyl-(C6-C10aryl), —(C1-C6alkyl)-(C3-C6 cycloalkyl), —CH(C6-C10aryl)(C3-C6cycloalkyl), —CH(C6-C10aryl)((C1-C6alkyl)N(R20)2), —CH(C6-C10aryl)(heterocycloalkyl), —(C3-C6cycloalkyl-O—(C1-C6alkyl)), —CH(C6-C10aryl)C(O)N(R21)2 wherein each R21 is independently selected, and -fused (heterocycloalkyl)(C6-C10)aryl wherein said heterocycloalkyl is a 5 to 8 membered ring (including the two atoms common with said aryl) comprising 1-3 heteroatoms selected from the group consisting of: O, S and N, and wherein the remaining atoms are carbon;
+
+and wherein said aryl, heterocycloalkyl, heteroaryl, and cycloalkyl moieties of said R2 groups are optionally substituted with 1-3 substituents independently selected from the group consisting of: CN, halo, —O—(C1-C6alkyl), —OH, —CF3, —(C1-C6alkyl), —O(halo substituted(C1-C6alkyl)), —N(R20)2, aryl and heteroaryl;
+
+and wherein said alkyl moieties of said R2 groups are optionally substituted with 1-3 substituents independently selected from the group consisting of: CN, halo, —O—(C1-C6alkyl), —OH and —CF3, —O(halo substituted(C1-C6alkyl)) and —S(C1-C6alkyl);
+
+R4 and R5 are each independently selected from the group consisting of: H, —(C1-C6alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —C(O)R8, —S(O)2R9, —(C1-C6alkyl) substituted with 1-3 substituents independently selected from the group consisting of: halo, —OH and —S(O)2(C1-C6alkyl), —(C3-C6 cycloalkyl), —(C3-C6 cycloalkyl) substituted with 1-3 substituents independently selected from the group consisting of: halo, —(C1-C6alkyl), —NH2, —NH(C1-C6alkyl), —N(C1-C6alkyl)2 wherein each alkyl is independently selected, —(C3-C6 cycloalkenyl), —(C3-C6 oxocycloalkenyl), —(C6-C10aryl), —(C6-C10aryl) substituted with 1-3 substituents independently selected from the group consisting of: —CN, —O(C1-C6alkyl) and halo, —(C1-C6alkyl)(C6-C10aryl), —(C1-) C6alkyl)C(O)N(R20)2 wherein each R20 is independently selected, heteroaryl, heteroaryl substituted with 1-3 substituents independently selected from the group consisting of: —CN, halo and —(C1-C6alkyl), —(C1-C6alkyl)(heteroaryl), —(C1-C6alkyl)(heteroaryl) substituted with 1-3 substitutents independently selected from the group consisting of: —(C1-C6alkyl), —(C1-C6alkyl)(C3-C6cycloalkyl), —(C1-C6alkyl)(C3-C6cycloalkyl) substituted with 1-3 substituents independently selected from the group consisting of: —O—(C1-C6alkyl), -(hydroxyC1-C6alkyl), —(C2-C6alkenyl), —(C1-C6alkyl)heterocycloalkyl,—C(O)(substituted C1-C6alkyl)NHC(O)O(C1-C6alkyl) wherein said substituted alkyl is substituted with a heterocycloalkyl, —C(O)(C1-C6alkyl)NHC(O)O(C1-C6alkyl), heterocycloalkyl, heterocycloalkyl substituted with 1-3 substituents independently selected from the group consisting of: —(C1-C6alkyl) and halo, —(C1-C6alkyl)heterocycloalkenyl, —(C1-C6alkyl)heterocycloalkenyl substituted with 1-3 substituents independently selected from the group consisting of: —(C1-C6alkyl); or
+
+R4 and R5 taken together with the nitrogen to which they are bonded to form a 4-6 membered heterocycloalkyl ring, said ring optionally comprising 1 or 2 additional heteroatoms independently selected from the group consisting of: O, S and N, and said heterocycloalkyl ring optionally comprising a 1-2 carbon bridge, and said ring is optionally substituted with 1-3 substituents independently selected from the group consisting of: —O(C1-C6alkyl) and —(C1-C6 alkyl), —OH, —SCH3, halo, —CF3, CN, —(C1-C6alkyl)-O—(C1-C6alkyl), —(C1-C6alkyl)-OH and —C(O)OH; or
+
+R4 and R5 taken together with the nitrogen to which they are bonded to form a spiro ring comprising two independently selected 4-6 membered heterocycloalkyl rings, wherein one of said rings comprises the nitrogen of the —NR4R5 group, and wherein the other ring of the spiro ring comprises one heteroatom selected from the group consisting of: O, N and S, and wherein each heterocycloalkyl ring optionally comprises 1 or 2 additional heteroatoms independently selected from the group consisting of: O, S and N, and wherein said spiro ring is optionally substituted with 1-3 substituents independently selected from the group consisting of: —OH, —(C1-C6 alkyl)-O—(C1-C6 alkyl), —(C1-C6alkyl)-OH, —O(C1-C6alkyl) and —(C1-C6 alkyl); or
+
+R4 and R5 taken together with the nitrogen to which they are bonded to form a fused bicyclic heterocycloalkyl ring, said ring optionally comprising 1 to 3 additional heteroatoms independently selected from the group consisting of: O, S and N, and said ring optionally comprising a —O— bridge between two ring carbons (i.e., an epoxy bridge), and said ring is optionally substituted with 1-3 substituents independently selected from the group consisting of: halogen, —O(C1-C6alkyl) and —(C1-C6 alkyl); or
+
+R4 and R5 taken together with the nitrogen to which they are bonded to form a fused bicyclic ring wherein one ring is a heterocycloalkyl ring, and one ring is a heteroaryl ring, said heterocycloalkyl ring optionally comprising 1 to 3 additional heteroatoms independently selected from the group consisting of: O, S and N, and said bicyclic ring is optionally substituted with 1-3 substituents independently selected from the group consisting of: halogen, —O(C1-C6alkyl) and —(C1-C6 alkyl); or
+
+R4 and R11 taken together form a 5-8 membered heterocycloalkyl ring, said ring optionally comprising 1 or 2 additional heteroatoms independently selected from the group consisting of: O, S, N, and —(C═O)—, and said ring is optionally substituted with 1-3 substituents independently selected from R14 group;
+
+R8 and R9 are each independently selected from the group consisting of: —OR12, —NHR12, —NR12R13, —(C1-C6alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —(C3-C6)cycloalkyl, —(C1-C6alkyl)-(C3-C6)cycloalkyl, heterocycloalkyl, aryl, heteroaryl, —(C1-C6alkyl)(C6-C10aryl), and —(C1-C6alkyl)(C3-C10cycloalkyl), fused bicyclic heterocycloalkyl ring, and wherein said heterocycloalkyl is a 4-6 membered ring comprising 1-3 heteroatoms selected from the group consisting of: O, S and N and the remaining ring atoms are carbon, and wherein said aryl is a C6 to C10 aromatic ring, and wherein said heteroaryl is a 5 to 10 membered ring comprising 1-3 heteroatoms selected from the group consisting of: O, S and N and the remaining ring atoms are carbon, and wherein said R8 heterocycloalkyl is optionally substituted with 1-3 substituents independently selected from the group consisting of: halo, —OH, and —(C1-C6alkyl), and wherein said R8 —(C1-C6alkyl) is optionally substituted with 1-3 substituents independently selected from the group consisting of: halo, —NH(C1-C6alkyl) and —N(C1-C6alkyl)2 wherein each alkyl is independently selected, and wherein said R8 heteroaryl is optionally substituted with 1-3 substituents independently selected from the group consisting of: —(C1-C6alkyl), and wherein said R8 aryl is optionally substituted with 1-3 substituents independently selected from the group consisting of: halo; and
+
+R10 is independently selected from the group consisting of: H, halo, CN, OH, NH2, —CF3, —O—(C1-C6alkyl), —(C1 to C6alkyl), —(C3-C6 cycloalkyl), hydroxy substituted —(C1-C6alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —(C1-C6alkyl)-N(C1-C6alkyl)2 wherein each alkyl is independently selected, and —(C1-C6alkyl)-heterocycloalkyl;
+
+R11 is independently selected from the group consisting of: H, halo, CN, OH, NH2, aryl, heteroaryl, heterocycloalkyl, —NHR12, —NR12R13, —NHC(O)R8, —CF3, —O—(C1-C6alkyl), —(C1 to C6alkyl), —(C3-C6 cycloalkyl), hydroxy substituted —(C1-C6alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —(C1-C6alkyl)-N(C1-C6alkyl)2 wherein each alkyl is independently selected, —(C1-C6alkyl)-heterocycloalkyl;
+
+each R12 is independently selected from the group consisting of: (C1-C6alkyl), (C3-C6cycloalkyl), ((C3-C6cycloalkyl)(C1-C6alkyl)-), (C3-C6cycloalkenyl), heterocycloalkyl, (heterocycloalkyl(C1-C6alkyl))-, (C6-C10)aryl, (aryl(C1-C6alkyl))-, heteroaryl, (heteroaryl(C1-C6alkyl))-, wherein each of said alkyl, cycloalkyl, cycloalkylalkyl, cycloalkenyl, heterocycloalkyl, heterocycloalkylalkyl, aryl, arylalkyl, heteroaryl, and heteroarylalkyl R12 groups is optionally substituted with 1 to 3 independently selected R14 groups;
+
+each R13 is independently selected from the group consisting of: (C1-C6alkyl), (C3-C6cycloalkyl), ((C3-C6cycloalkyl)(C1-C6alkyl)-), (C3-C6cycloalkenyl), heterocycloalkyl, (heterocycloalkyl(C1-C6alkyl))-, (C6-C10)aryl, (aryl(C1-C6 alkyl))-, heteroaryl, (heteroaryl(C1-C6alkyl))-, wherein each of said alkyl, cycloalkyl, cycloalkylalkyl, cycloalkenyl, heterocycloalkyl, heterocycloalkylalkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl R13 groups is optionally substituted with 1 to 3 independently selected R14 groups, or
+
+R12 and R13 taken together with the nitrogen to which they are bonded to form a 4-8 membered heterocycloalkyl ring, said ring optionally comprising 1 or 2 additional heteroatoms independently selected from the group consisting of: O, S and N, and said ring is optionally substituted with 1-3 substituents independently selected from R14 group;
+
+each R14 group is independently selected from the group consisting of halo, —CF3, —CN, OH, —OR15, (C1-C6alkyl), (C3-C6cycloalkyl), (C3-C6cycloalkenyl), heterocycloalkyl, (C6-C10)aryl, heteroaryl and —C(O)(C1-C6alkyl);
+
+each R15 is independently selected from the group consisting of: (C1-C6alkyl), (C3-C6cycloalkyl), ((C3-C6cycloalkyl)(C1-C6alkyl)-), (C3-C6cycloalkenyl), heterocycloalkyl, (heterocycloalkyl(C1-C6alkyl))-, (C6-C10)aryl, (aryl(C1-C6 alkyl))-, heteroaryl, (heteroaryl(C1-C6alkyl))- and —C(O)(C1-C6alkyl);
+
+R20 is independently selected from the group consisting of H and (C1-C6alkyl); and
+
+R21 is —(C1-C6alkyl).
+
+2. The compound of claim 1 wherein:
+
+R2 is selected from the group consisting of: H, (C6-C10)aryl-(C1-C3alkyl)-heterocycloalkyl-, —(C1-C6alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —(C1-C6 alkyl)-heterocycloalkyl-(C6-C10aryl), —(C1-C4alkyl)(C6-C10)aryl, —(C1-C3 alkyl)heteroaryl, —(C3-C6cycloalkyl)-(C6-C10aryl), -heterocycloalkyl(C6-C10aryl); and wherein said aryl, heterocycloalkyl, heteroaryl, and cycloalkyl moieties of said R2 groups are optionally substituted with 1-3 substituents independently selected from the group consisting of: halo, —O(C1-C6alkyl), —OH, —CF3, and —(C1-C6alkyl); and wherein said alkyl moieties of said R2 groups are optionally substituted with 1-3 substituents independently selected from the group consisting of: halo (e.g., F, Br, and Cl), —O—(C1-C6alkyl), —OH and —CF3;
+
+R4 and R5 are each independently selected from the group consisting of: H, —(C1-C6alkyl), (C1-C6alkyl)-O—(C1-C6alkyl), —C(O)R8, —S(O)2R9; or
+
+R4 and R5 taken together with the nitrogen to which they are bonded to form a 4-6 membered heterocycloalkyl ring, said ring optionally comprising 1 or 2 additional heteroatoms independently selected from the group consisting of: O, S and N, and said ring is optionally substituted with 1-3 substituents independently selected from the group consisting of: —O(C1-C6alkyl) and —(C1-C6 alkyl);
+
+R8 and R9 are each independently selected from the group consisting of: (C1-C6alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —(C3-C6)cycloalkyl, (C1-C6alkyl)-(C3-C6)cycloalkyl, heterocycloalkyl, aryl, and heteroaryl, and wherein said heterocycloalkyl is a 4-6 membered ring comprising 1-3 heteroatoms selected from the group consisting of: O, S and N and the remaining ring atoms are carbon, and wherein said aryl is a C6 to C10 aromatic ring, and wherein said heteroaryl is a 5 to 10 membered ring comprising 1-3 heteroatoms selected from the group consisting of: O, S and N and the remaining ring atoms are carbon; and
+
+R10 and R11 are each independently selected from the group consisting of: H, halo, —(C1 to C6alkyl), —(C3-C6 cycloalkyl), hydroxy substituted —(C1-C6alkyl), —(C1-C6alkyl)-O—(C1-C6alkyl), —(C1-C6alkyl)-N(C1-C6alkyl)2 wherein each alkyl is independently selected, and —(C1-C6alkyl)-heterocycloalkyl.
+
+3. The compound of claim 1 wherein R1 is selected from the group consisting of: A1 to A18.
+
+4. The compound of claim 1 wherein R1 is selected from the group consisting of: —NH2, —NHCH3, —NHCH2CH3, —NHCH(CH3)2, —NHC(O)CH3, —NHC(O)NHCH2CH3,
+
+—NHC(O)cyclopropyl, —NHC(O)OCH3, —NHC(O)OCH2CHF, —NHC(O)CH(CH(CH3)2)NHC(O)OCH3, —NH-teterahydrofuran, —NHC(D2)CD3 (wherein D represents deuterium), —NHC(O)CD3, —NHCH2cyclobutyl, —NH(CH2cyclobutyl)2, —NHCH2cyclopropyl, —NH(CH2cyclopropyl)2, —NHC(O)CH(CH3)2, —NHCH2phenyl, —NHCH(CH3)CH2C(CH3)2OH, —NHCH(CH3)CH2S(O)2CH3, —NHCH(CH3)CH2Cl, —NHC(O)CHCF3, —NHC(O)cyclobutyl, —NHC(O)CH2phenyl, —NHC(O)CH2cyclohexyl, —NHC(O)cyclohexyl, —NHC(O)cyclopentyl, —NHC(O)CH2N(CH3)2, —NHC(O)CH2CH(CH3)2, —NHC(O)CH2cyclopentyl, —NHC(O)C(CH3)3, —NHC(O)OC(CH3)3, —NHC(O)NHCH(CH3)2, —NHC(O)OCH2CH(CH3)2, —NHC(O)OCH3, —NHC(O)O(CH2)2OCH3, —NHC(O)Ophenyl, —NHC(O)OCH(CH3)2, —NHC(O)OCH2C(CH3)3, —NHC(O)OCH2phenyl, —NHC(O)OCH2CH3, —NHC(O)cyclopropyl, —NHC(O)CH2OCH3, —NHtetrahydropyran, —NHcyclopropyl, —NHCH2CF3, —NHcyclobutyl, —NHCH2C(O)N(CH3)2, —NH(CH2)2C(O)N(CH3)2, —N(CH3)C(O)CH3, —N(CH2CH3)C(O)CH3, —NHC(CH3)3, —NHCH(CH3)CHF2, —NHC(CH3)2CH2OCH3, —NH(CH2)2OCH3, —NHphenyl, —NHcyanopyridyl, —NHfluoropyridyl, —NHcyanophenyl, —NHcyclopentyl, —NHcyclohexyl, and A19 to A132.
+
+5. The compound of claim 1 wherein R2 is selected from the group consisting of: —(C1-C2alkyl)phenyl, —CH(phenyl)(C1-C2alkyl-O—C1-C2alkyl), —(C1-C2alkyl)pyridyl,
+
+-heterocycloalkyl-phenyl, and —(C1-C3alkyl)-O—C1-C2alkyl, and wherein said phenyl, pyridyl and heterocycloalkyl groups are optionally substituted with 1-3 substitutents independently selected from the group consisting of: —C1-C2alkyl, F, Cl, and wherein said heterocycloalkyl group is a 5-6 membered ring comprising 1 heteroatom selected from the group consisting of: N, O and S.
+
+6. The compound of claim 1 wherein R2 is selected from the group consisting of: —CH(CH3)phenyl, —CH(phenyl)(CH2—O—CH3), —CH(CH3)pyridyl, -pyrrolidinyl-phenyl, —(CH2)2—O—CH3, —CH(CH3)CH2OCH3, —N-methylpyrrolidinyl-phenyl, —CH(CH3)(p-F-phenyl), —CH(p-F-phenyl)(CH2—O—CH3).
+
+7. The compound of claim 1 wherein R4 and/or R5 is selected from the group consisting of: —(C1-C6alkyl), —C(O)R8 wherein R8 is —(C1-C6alkyl), —C(O)R8 wherein R8 is —OR12 wherein R12 is a —(C1-C6alkyl), —C(O)R8 wherein R8 is heterocycloalkyl, —C(O)R8 wherein R8 is a substituted -heterocycloalkyl.
+
+8. The compound of claim 1 wherein: R4 and R5, taken together with the nitrogen to which they are bonded to, form a 4 to 6 membered heterocycloalkyl ring.
+
+9. The compound of claim 1 wherein R4 and R5, taken together with the nitrogen to which they are bonded to, form a fused bicyclic ring wherein one ring is a heterocycloalkyl ring, and one ring is a heteroaryl ring.
+
+10. The compound of claim 1 wherein R2 is selected from the group consisting of: B1-B90.
+
+11. The compound of claim 1 wherein R2 is selected from the group consisting of: B100-B175.
+
+12. The compound of claim 1 wherein R10 is selected from the group consisting of: H, Cl, F and —CF3, and R11 is selected from the group consisting of: H, Cl, —CH3, —OCH3, —CH2OH, and —CH2OCH3.
+
+13. The compound of claim 1 wherein R10 is selected from the group consisting of: H, F, Br, Cl, methyl and ethyl; and R11 is selected from the group consisting of: H, F, Br, Cl, methyl and ethyl.
+
+14. The compound of claim 1 wherein R10 is selected from the group consisting of: H, F and methyl, and R11 is H.
+
+15. The compound of claim 1 wherein said compound is selected from the group consisting of
+
+[![Figure US09233979-20160112-C00696](https://patentimages.storage.googleapis.com/1c/7c/c5/3d7558da16c26f/US09233979-20160112-C00696.png)](https://patentimages.storage.googleapis.com/1c/7c/c5/3d7558da16c26f/US09233979-20160112-C00696.png)
+
+ 
+
+[![Figure US09233979-20160112-C00697](https://patentimages.storage.googleapis.com/10/1e/de/e4d65ae008067e/US09233979-20160112-C00697.png)](https://patentimages.storage.googleapis.com/10/1e/de/e4d65ae008067e/US09233979-20160112-C00697.png)
+
+ 
+
+[![Figure US09233979-20160112-C00698](https://patentimages.storage.googleapis.com/8c/50/cc/317c35defac0b3/US09233979-20160112-C00698.png)](https://patentimages.storage.googleapis.com/8c/50/cc/317c35defac0b3/US09233979-20160112-C00698.png)
+
+ 
+
+[![Figure US09233979-20160112-C00699](https://patentimages.storage.googleapis.com/24/e1/fe/45203409883dee/US09233979-20160112-C00699.png)](https://patentimages.storage.googleapis.com/24/e1/fe/45203409883dee/US09233979-20160112-C00699.png)
+
+ 
+
+[![Figure US09233979-20160112-C00700](https://patentimages.storage.googleapis.com/79/47/19/e17c46ad227efd/US09233979-20160112-C00700.png)](https://patentimages.storage.googleapis.com/79/47/19/e17c46ad227efd/US09233979-20160112-C00700.png)
+
+ 
+
+[![Figure US09233979-20160112-C00701](https://patentimages.storage.googleapis.com/f2/46/ef/99bbb2126b059f/US09233979-20160112-C00701.png)](https://patentimages.storage.googleapis.com/f2/46/ef/99bbb2126b059f/US09233979-20160112-C00701.png)
+
+ 
+
+[![Figure US09233979-20160112-C00702](https://patentimages.storage.googleapis.com/d4/f1/05/78a293f023b0ac/US09233979-20160112-C00702.png)](https://patentimages.storage.googleapis.com/d4/f1/05/78a293f023b0ac/US09233979-20160112-C00702.png)
+
+ 
+
+[![Figure US09233979-20160112-C00703](https://patentimages.storage.googleapis.com/65/10/38/1e24b696a041a2/US09233979-20160112-C00703.png)](https://patentimages.storage.googleapis.com/65/10/38/1e24b696a041a2/US09233979-20160112-C00703.png)
+
+ 
+
+[![Figure US09233979-20160112-C00704](https://patentimages.storage.googleapis.com/11/42/7f/187fffcaff94dd/US09233979-20160112-C00704.png)](https://patentimages.storage.googleapis.com/11/42/7f/187fffcaff94dd/US09233979-20160112-C00704.png)
+
+ 
+
+[![Figure US09233979-20160112-C00705](https://patentimages.storage.googleapis.com/ac/53/c0/aa813bb0f0ee12/US09233979-20160112-C00705.png)](https://patentimages.storage.googleapis.com/ac/53/c0/aa813bb0f0ee12/US09233979-20160112-C00705.png)
+
+16. A pharmaceutical composition comprising a compound of claim 1 and a pharmaceutically acceptable carrier.

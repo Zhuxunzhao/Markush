@@ -1,0 +1,254 @@
+Claims (14)
+-----------
+
+The invention claimed is:
+
+1. A compound of formula (I)
+
+[![Figure US09902701-20180227-C00134](https://patentimages.storage.googleapis.com/93/33/d3/a302af9a7a4066/US09902701-20180227-C00134.png)](https://patentimages.storage.googleapis.com/93/33/d3/a302af9a7a4066/US09902701-20180227-C00134.png)
+
+wherein
+
+R1 is phenyl; or phenyl substituted once or twice by C1-6alkyl, halogen, trifluoromethyl, or cyano;
+
+R2 is C1-6alkyl;
+
+R3 is phenyl; or phenyl substituted once or twice by C1-6alkyl, halogen, trifluoromethyl, cyano, C1-6alkoxy, trifluoromethoxy, —C(O)—C1-6alkoxy, or —C(O)—NR4R5, wherein one of R4 and R5 is hydrogen or C1-6alkyl, and the other one is C1-6alkyl or C3-7cycloalkyl;
+
+a is a single bond; and
+
+X is CH2 or NH;
+
+or a pharmaceutically acceptable salt thereof.
+
+2. A compound of formula (I) according to claim 1, wherein
+
+R1 is phenyl; or phenyl substituted once or twice by methyl, fluoro, chloro, bromo, trifluoromethyl, or cyano;
+
+R2 is methyl; and
+
+R3 is phenyl; or phenyl substituted once or twice by methyl, fluoro, chloro, trifluoromethyl, cyano, methoxy, trifluoromethoxy, methoxycarbonyl, or —C(O)—NR4R5, wherein one of R4 and R5 is hydrogen, methyl, or isopropyl, and the other one is isopropyl, pentyl, or cyclohexyl;
+
+or a pharmaceutically acceptable salt thereof.
+
+3. A compound of formula (I) according to claim 1, or a pharmaceutically acceptable salt thereof, wherein R1 is phenyl substituted once or twice by halogen, or trifluoromethyl.
+
+4. A compound of formula (I) according to claim 1, or a pharmaceutically acceptable salt thereof, wherein R1 is phenyl substituted once or twice by fluoro, chloro, or trifluoromethyl.
+
+5. A compound of formula (I) according to claim 1, or a pharmaceutically acceptable salt thereof, wherein R3 is phenyl; or phenyl substituted once or twice by halogen or trifluoromethyl.
+
+6. A compound of formula (I) according to claim 1, or a pharmaceutically acceptable salt thereof, wherein R3 is phenyl; or phenyl substituted once or twice by fluoro, chloro, or trifluoromethyl.
+
+7. A compound of formula (I) according to claim 1, or a pharmaceutically acceptable salt thereof, wherein X is CH2.
+
+8. A compound according to claim 1, or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is phenyl substituted once or twice by halogen or trifluoromethyl;
+
+R2 is C1-6alkyl;
+
+R3 is phenyl; or phenyl substituted once or twice by halogen or trifluoromethyl; and
+
+X is CH2;
+
+or a pharmaceutically acceptable salt thereof.
+
+9. A compound according to claim 1, or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is phenyl substituted once or twice by fluoro, chloro, or trifluoromethyl;
+
+R2 is methyl;
+
+R3 is phenyl; or phenyl substituted once or twice by fluoro, chloro, or trifluoromethyl; and
+
+X is CH2;
+
+or a pharmaceutically acceptable salt thereof.
+
+10. A compound of formula (I) according to claim 1, selected from the group consisting of
+
+N-(4-Chlorophenyl)-2-[3-(4-chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-[4-fluoro-3-(trifluoromethyl)phenyl]-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-[3-fluoro-4-(trifluoromethyl)phenyl]-N-methyl-acetamide;
+
+N-(4-Chloro-3-fluoro-phenyl)-2-[3-(4-chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-methoxyphenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(4-fluorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-(p-tolyl)acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3,4-dichlorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(4-cyanophenyl)-N-methyl-acetamide;
+
+Methyl 4-[[2-[3-(4-chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]acetyl]-methyl-amino]benzoate;
+
+4-[[2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]acetyl]-methyl-amino]-N,N-diisopropyl-benzamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(2,4-difluorophenyl)-N-methyl-acetamide;
+
+4-[[2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]acetyl]-methyl-amino]-N-methyl-N-pentyl-benzamide;
+
+4-[[2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]acetyl]-methyl-amino]-N-cyclohexyl-benzamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethoxy)phenyl]acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-fluorophenyl)-N-methyl-acetamide;
+
+N-(3-Chlorophenyl)-2-[3-(4-chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(4-methoxyphenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-(m-tolyl)acetamide;
+
+2-[3-(4-Chloro-3-fluoro-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(4-fluorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-3-fluoro-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-fluorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-3-fluoro-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-chlorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-3-fluoro-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(4-Chloro-2-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(4-chlorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-2-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-chlorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-2-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-fluorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-2-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(2,4-Difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(2, 4-Difluorophenyl)-6-oxo-4, 5-dihydropyridazin-1-yl]-N-methyl-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(2,4-Difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-[4-fluoro-3-(trifluoromethyl)phenyl]-N-methyl-acetamide;
+
+N-(4-Chlorophenyl)-2-[3-(2,4-difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+2-[3-(2,4-Difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-fluorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Fluoro-3-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(4-Fluoro-3-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(4-Fluoro-3-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-[4-fluoro-3-(trifluoromethyl)phenyl]-N-methyl-acetamide;
+
+2-[3-(4-Fluoro-3-methyl-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-[3-fluoro-4-(trifluoromethyl)phenyl]-N-methyl-acetamide;
+
+N-(3-Chlorophenyl)-N-methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]acetamide;
+
+N-Methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+N-Methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+N-(3-Fluorophenyl)-N-methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]acetamide;
+
+N-(4-Fluorophenyl)-N-methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]acetamide;
+
+N-(4-Chlorophenyl)-N-methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]acetamide;
+
+2-[3-(3,4-Dichlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+N-(4-Chlorophenyl)-2-[3-(3,4-dichlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+2-[3-(4-Fluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-phenyl-acetamide;
+
+N-(4-Chlorophenyl)-2-[3-(4-fluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+2-[3-(4-Bromophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-phenyl-acetamide;
+
+2-[3-(4-Bromophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(4-chlorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Bromophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(3, 4-Difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(3,4-Difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+N-(4-Chlorophenyl)-2-[3-(2,4-dichlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+N-(4-Chlorophenyl)-2-[3-(4-cyanophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide;
+
+N-(4-Chlorophenyl)-N-methyl-2-[6-oxo-3-(p-tolyl)-4,5-dihydropyridazin-1-yl]acetamide;
+
+N-(4-Chlorophenyl)-2-[3-(3-chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide; and
+
+2-[6-(4-Chlorophenyl)-3-oxo-4,5-dihydro-1,2,4-triazin-2-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+or a pharmaceutically acceptable salt thereof.
+
+11. A compound of formula (I) according to claim 1, selected from the group consisting of
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-[3-fluoro-4-(trifluoromethyl)phenyl]-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3,4-dichlorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(4-Chloro-3-fluoro-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-fluorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-3-fluoro-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-(3-chlorophenyl)-N-methyl-acetamide;
+
+2-[3-(4-Chloro-3-fluoro-phenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+2-[3-(2,4-Difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+N-(3-Chlorophenyl)-N-methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]acetamide;
+
+N-Methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+N-(3-Fluorophenyl)-N-methyl-2-[6-oxo-3-[4-(trifluoromethyl)phenyl]-4,5-dihydropyridazin-1-yl]acetamide;
+
+2-[3-(3,4-Dichlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[4-(trifluoromethyl)phenyl]acetamide;
+
+N-(4-Chlorophenyl)-2-[3-(3,4-dichlorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-acetamide; and
+
+2-[3-(3,4-Difluorophenyl)-6-oxo-4,5-dihydropyridazin-1-yl]-N-methyl-N-[3-(trifluoromethyl)phenyl]acetamide;
+
+or a pharmaceutically acceptable salt thereof.
+
+12. A process for the preparation of a compound of formula (I) according to claim 1, or a pharmaceutically acceptable salt thereof, comprising one of the following steps:
+
+(a) the reaction of a compound of formula (A)
+
+[![Figure US09902701-20180227-C00135](https://patentimages.storage.googleapis.com/84/25/02/02b9844cfc3155/US09902701-20180227-C00135.png)](https://patentimages.storage.googleapis.com/84/25/02/02b9844cfc3155/US09902701-20180227-C00135.png)
+
+ 
+
+in the presence of a dehydrating reagent and a trialkylamine;
+
+(b) the reaction of a compound of formula (B)
+
+[![Figure US09902701-20180227-C00136](https://patentimages.storage.googleapis.com/92/1d/c8/efb181ec162ccb/US09902701-20180227-C00136.png)](https://patentimages.storage.googleapis.com/92/1d/c8/efb181ec162ccb/US09902701-20180227-C00136.png)
+
+ 
+
+with R1B(OH)2 in the presence of a transition state metal catalyst, wherein Y is halogen;
+
+(c) the reaction of a compound of formula (C)
+
+[![Figure US09902701-20180227-C00137](https://patentimages.storage.googleapis.com/da/53/2e/a8703ca92bdd3a/US09902701-20180227-C00137.png)](https://patentimages.storage.googleapis.com/da/53/2e/a8703ca92bdd3a/US09902701-20180227-C00137.png)
+
+ 
+
+with an oxidizing reagent; or
+
+(d) the reaction of a compound of formula (D)
+
+[![Figure US09902701-20180227-C00138](https://patentimages.storage.googleapis.com/6f/58/f0/4ab723d8a01e2f/US09902701-20180227-C00138.png)](https://patentimages.storage.googleapis.com/6f/58/f0/4ab723d8a01e2f/US09902701-20180227-C00138.png)
+
+ 
+
+in the presence of a base in an inert solvent; wherein L is halogen.
+
+13. A pharmaceutical composition comprising a compound according to claim 1, or a pharmaceutically acceptable salt thereof, and a therapeutically inert carrier.
+
+14. A method for the treatment of HBV infection, which method comprises administering an effective amount of a compound according to claim 1, or a pharmaceutically acceptable salt thereof.

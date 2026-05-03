@@ -1,0 +1,73 @@
+Claims
+------
+
+We Claim: 1. A compound of the formula: , or a pharmaceutically acceptable salt thereof, wherein: R1 is a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms selected from oxygen, nitrogen and sulfur; G is CH, CRx or N; Rx is C1-C3 alkyl, halogen or cyano; X is CH2, NH, N(C1-C3 alkyl) or O; Y is C(Rp)2 or NH; Z is bond, CH2 or -CH2CH2-; R2a is -(C1-C3 alkyl)R3; R2b is hydrogen, halogen, C1-C3 alkyl or -(C1-C3 alkyl)R3; Rp is independently hydrogen, halogen or NH2; R3 is a phenyl ring or a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms selected from oxygen, nitrogen and sulfur, wherein the phenyl ring or 5- to 6-membered heteroaryl ring are optionally substituted with 1 to 2 Rq; Rq is halogen, cyano or -CF3.
+
+2. The compound according to claim 1, wherein R2b is hydrogen.
+
+3. The compound according to claim 1 or 2, wherein R1 is selected from and .
+
+4. The compound according to any one of claims 1-3, wherein G is N.
+
+5. The compound according to any one of claims 1-4, wherein X is CH2, Y is CH2, and Z is CH2.
+
+6. The compound according to any one of claims 1-5, wherein R2a is -CH2-R3.
+
+7. The compound according to any one of claims 1-6, wherein R3 is selected from , , , , , , , , , , , , , , and .
+
+8. The compound according to any one of claims 1-7, wherein R3 is selected from and .
+
+9. The compound according to any one of claims 1-8, which is:
+
+[![Figure imgf000185_0001](https://patentimages.storage.googleapis.com/ac/34/76/3a55d44acfc87b/imgf000185_0001.png)](https://patentimages.storage.googleapis.com/ac/34/76/3a55d44acfc87b/imgf000185_0001.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+10. The compound according to claim 9, which is: , or a pharmaceutically acceptable salt thereof.
+
+11. The compound according to any one of claims 1-8, which is: , or a pharmaceutically acceptable salt thereof.
+
+12. The compound according to claim 11, which is: , or a pharmaceutically acceptable salt thereof.
+
+13. A compound of Formula I:
+
+[![Figure imgf000186_0001](https://patentimages.storage.googleapis.com/e1/f7/b5/6549648de6532f/imgf000186_0001.png)](https://patentimages.storage.googleapis.com/e1/f7/b5/6549648de6532f/imgf000186_0001.png)
+
+I or a pharmaceutically acceptable salt thereof, wherein: Ring A is selected from
+
+[![Figure imgf000186_0002](https://patentimages.storage.googleapis.com/58/93/21/cac13cd1359a1a/imgf000186_0002.png)](https://patentimages.storage.googleapis.com/58/93/21/cac13cd1359a1a/imgf000186_0002.png)
+
+[![Figure imgf000187_0001](https://patentimages.storage.googleapis.com/d0/bc/9b/1e2a97db0d8be7/imgf000187_0001.png)](https://patentimages.storage.googleapis.com/d0/bc/9b/1e2a97db0d8be7/imgf000187_0001.png)
+
+R1 is selected from from each Rx is independently
+
+[![Figure imgf000187_0002](https://patentimages.storage.googleapis.com/c7/e5/6f/f331a6364f5d90/imgf000187_0002.png)](https://patentimages.storage.googleapis.com/c7/e5/6f/f331a6364f5d90/imgf000187_0002.png)
+
+selected from halogen, cyano, OR, SR, N(R)2, or an optionally substituted group selected from C1-4 aliphatic, a 3- to 7-membered saturated or partially unsaturated carbocyclic ring, a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-3 heteroatoms independently selected from oxygen, nitrogen, and sulfur, phenyl, and a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from oxygen, nitrogen, and sulfur; Ring B is a saturated 5- to 7-membered heterocyclic ring having the structure
+
+[![Figure imgf000187_0003](https://patentimages.storage.googleapis.com/9c/1d/05/05c4fb623feafb/imgf000187_0003.png)](https://patentimages.storage.googleapis.com/9c/1d/05/05c4fb623feafb/imgf000187_0003.png)
+
+and optionally comprising one additional group selected from –NH-, -O-, and –NR2-; each R is independently hydrogen or an optionally substituted group selected from C1-6 aliphatic, a 3- to 7-membered saturated or partially unsaturated heterocyclic ring having 1-3 heteroatoms independently selected from oxygen, nitrogen, and sulfur, phenyl, and a 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from oxygen, nitrogen, and sulfur; or:
+two R groups, together with the nitrogen atom to which they are attached, form an optionally substituted 3- to 7-membered monocyclic heterocyclic ring having 0-2 additional heteroatoms independently selected from oxygen, nitrogen, and sulfur; each R2 is independently halogen, N(R)2, OR or –(C1-3 aliphatic)R3; R3 is optionally substituted phenyl or optionally substituted 5- to 6-membered heteroaryl ring having 1-3 heteroatoms independently selected from oxygen, nitrogen and sulfur; m is 0, 1, or 2; and n is 0, 1, or 2.
+
+14. A pharmaceutical composition comprising a compound or a pharmaceutically acceptable salt thereof according to any one of claims 1-13 with one or more pharmaceutically acceptable carriers, diluents, or excipients.
+
+15. A method comprising a step of: administering a compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof to a patient who (i) has a condition characterized by axonal degeneration or (ii) is at risk of developing a condition characterized by axonal degeneration.
+
+16. A method of treating or preventing axonal degeneration comprising administering to a patient in need thereof a compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof.
+
+17. A method of inhibiting SARM1 comprising contacting a biological sample with a compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof.
+
+18. A method of treating amyotrophic lateral sclerosis in a patient, comprising administering to a patient in need of such treatment and effective amount of a compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof.
+
+19. A method of treating multiple sclerosis in a patient, comprising administering to a patient in need of such treatment and effective amount of a compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof.
+
+20. A method of treating progressive supranuclear palsy in a patient, comprising administering to a patient in need of such treatment and effective amount of a compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof.
+
+21. A compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof, for use in therapy.
+
+22. A compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof, for use in the treatment of amyotrophic lateral sclerosis.
+
+23. A compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof, for use in the treatment of multiple sclerosis.
+
+24. A compound according to any one of claims 1-13, or a pharmaceutically acceptable salt thereof, for use in the treatment of progressive supranuclear palsy.

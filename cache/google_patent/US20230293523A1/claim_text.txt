@@ -1,0 +1,160 @@
+Claims (20)
+-----------
+
+We claim:
+
+**1**. A compound having a formula (I)
+
+[![Figure US20230293523A1-20230921-C00037](https://patentimages.storage.googleapis.com/27/63/53/9f8254956a030d/US20230293523A1-20230921-C00037.png)](https://patentimages.storage.googleapis.com/27/63/53/9f8254956a030d/US20230293523A1-20230921-C00037.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R3 is an acyl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, cycloalkyl, heterocyloalkyl, cycloalkenyl, heterocycloakenyl, heterocyclyl, or an optionally substituted aryl, arylalkyl, or arylalkenyl.
+
+**2**. The compound according to claim 1, wherein R1 is ethyl.
+
+**3**. The compound according to claim 1, wherein R2 is methyl.
+
+**4**. The compound according to claim 1, wherein said compound has a formula (II)
+
+[![Figure US20230293523A1-20230921-C00038](https://patentimages.storage.googleapis.com/e6/da/02/ebd4f37da21ff6/US20230293523A1-20230921-C00038.png)](https://patentimages.storage.googleapis.com/e6/da/02/ebd4f37da21ff6/US20230293523A1-20230921-C00038.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R4 is an alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, cycloalkyl, heterocyloalkyl, cycloalkenyl, heterocycloakenyl, heterocyclyl, or an optionally substituted aryl, arylalkyl, or arylalkenyl.
+
+**5**. The compound according to claim 4, wherein said compound has a formula (III)
+
+[![Figure US20230293523A1-20230921-C00039](https://patentimages.storage.googleapis.com/77/11/8b/0be0a5415bec26/US20230293523A1-20230921-C00039.png)](https://patentimages.storage.googleapis.com/77/11/8b/0be0a5415bec26/US20230293523A1-20230921-C00039.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R5 represents five substituents, each independently selected from the group consisting of hydrogen, deuterium, halo, azido, cyano, nitro, hydroxy, amino, thio, carboxy, ester, amide, and derivatives thereof, and acyl, sulfoxyl, sulfonyl, phosphate, phosphoryl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, heterocyclyl, cycloalkyl, cycloalkenyl, cycloheteroalkyl, cycloheteroalkenyl, aryl, heteroaryl, arylalkyl, arylalkenyl, and arylalkynyl, each of which is optionally substituted; or any two adjacent substituents are taken together with the attached carbons form an optionally substituted cyclic or heterocyclic moiety.
+
+**6**. The compound according to claim 5, wherein at least one of the five substituents of R5 is not hydrogen.
+
+**7**. The compound according to claim 4, wherein said compound has a formula (IV)
+
+[![Figure US20230293523A1-20230921-C00040](https://patentimages.storage.googleapis.com/dc/bd/f5/46c4e6c4d6f6c5/US20230293523A1-20230921-C00040.png)](https://patentimages.storage.googleapis.com/dc/bd/f5/46c4e6c4d6f6c5/US20230293523A1-20230921-C00040.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R5 represents five substituents, each independently selected from the group consisting of hydrogen, deuterium, halo, azido, cyano, nitro, hydroxy, amino, thio, carboxy, ester, amide, and derivatives thereof, and acyl, sulfoxyl, sulfonyl, phosphate, phosphoryl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, heterocyclyl, cycloalkyl, cycloalkenyl, cycloheteroalkyl, cycloheteroalkenyl, aryl, heteroaryl, arylalkyl, arylalkenyl, and arylalkynyl, each of which is optionally substituted; or any two adjacent substituents are taken together with the attached carbons form an optionally substituted cyclic or heterocyclic moiety.
+
+**8**. The compound according to claim 7, wherein at least one of the five substituents of R5 is a halo, a C1-C12 alkyl or optionally substituted C1-C12 alkyl.
+
+**9**. The compound according to claim 1, wherein said compound has a formula (V)
+
+[![Figure US20230293523A1-20230921-C00041](https://patentimages.storage.googleapis.com/38/86/80/fcd159fe4badca/US20230293523A1-20230921-C00041.png)](https://patentimages.storage.googleapis.com/38/86/80/fcd159fe4badca/US20230293523A1-20230921-C00041.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R5 represents five substituents, each independently selected from the group consisting of hydrogen, deuterium, halo, azido, cyano, nitro, hydroxy, amino, thio, carboxy, ester, amide, and derivatives thereof, and acyl, sulfoxyl, sulfonyl, phosphate, phosphoryl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, heterocyclyl, cycloalkyl, cycloalkenyl, cycloheteroalkyl, cycloheteroalkenyl, aryl, heteroaryl, arylalkyl, arylalkenyl, and arylalkynyl, each of which is optionally substituted; or any two adjacent substituents are taken together with the attached carbons form an optionally substituted cyclic or heterocyclic moiety.
+
+**10**. The compound according to claim 1, wherein the compound is selected from the group consisting of
+
+[![Figure US20230293523A1-20230921-C00042](https://patentimages.storage.googleapis.com/c0/e0/eb/6c580842ef6927/US20230293523A1-20230921-C00042.png)](https://patentimages.storage.googleapis.com/c0/e0/eb/6c580842ef6927/US20230293523A1-20230921-C00042.png)
+
+ 
+
+[![Figure US20230293523A1-20230921-C00043](https://patentimages.storage.googleapis.com/a4/95/b2/1875ef965caf0c/US20230293523A1-20230921-C00043.png)](https://patentimages.storage.googleapis.com/a4/95/b2/1875ef965caf0c/US20230293523A1-20230921-C00043.png)
+
+**11**. A pharmaceutical composition comprising one or more compounds of claim 1, or a pharmaceutically acceptable salt thereof, together with one or more diluents, excipients or carriers.
+
+**12**. A pharmaceutical composition comprising one or more compounds of claim 1, or a pharmaceutically acceptable salt thereof, in combination with one or more other compounds by the same or different mode of action, together with one or more diluents, excipients or carriers.
+
+**13**. A method for treatment of pain, opioid dependence, alcohol use disorder, or autism comprising the step of administering to a mammal in need of relief from pain or opioid dependence thereof a therapeutically effective amount of one or more compounds of formula (I)
+
+[![Figure US20230293523A1-20230921-C00044](https://patentimages.storage.googleapis.com/ca/5b/25/6fc0788d1562af/US20230293523A1-20230921-C00044.png)](https://patentimages.storage.googleapis.com/ca/5b/25/6fc0788d1562af/US20230293523A1-20230921-C00044.png)
+
+ 
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R3 is an acyl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, cycloalkyl, heterocyloalkyl, cycloalkenyl, heterocycloakenyl, heterocyclyl, or an optionally substituted aryl, arylalkyl, or arylalkenyl;
+
+**14**. The method according to claim 13, wherein R1 is ethyl and R2 is methyl.
+
+**15**. The method according to claim 13, wherein said compound has a formula (II)
+
+[![Figure US20230293523A1-20230921-C00045](https://patentimages.storage.googleapis.com/ad/ab/ee/baf41388332216/US20230293523A1-20230921-C00045.png)](https://patentimages.storage.googleapis.com/ad/ab/ee/baf41388332216/US20230293523A1-20230921-C00045.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R4 is an alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, cycloalkyl, heterocyloalkyl, cycloalkenyl, heterocycloakenyl, heterocyclyl, or an optionally substituted aryl, arylalkyl, or arylalkenyl.
+
+**16**. The method according to claim 15, wherein said compound has a formula (III)
+
+[![Figure US20230293523A1-20230921-C00046](https://patentimages.storage.googleapis.com/c6/8b/24/304dbc2e2d4b6b/US20230293523A1-20230921-C00046.png)](https://patentimages.storage.googleapis.com/c6/8b/24/304dbc2e2d4b6b/US20230293523A1-20230921-C00046.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R5 represents five substituents, each independently selected from the group consisting of hydrogen, deuterium, halo, azido, cyano, nitro, hydroxy, amino, thio, carboxy, ester, amide, and derivatives thereof, and acyl, sulfoxyl, sulfonyl, phosphate, phosphoryl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, heterocyclyl, cycloalkyl, cycloalkenyl, cycloheteroalkyl, cycloheteroalkenyl, aryl, heteroaryl, arylalkyl, arylalkenyl, and arylalkynyl, each of which is optionally substituted; or any two adjacent substituents are taken together with the attached carbons form an optionally substituted cyclic or heterocyclic moiety.
+
+**17**. The method according to claim 15, wherein said compound has a formula (IV)
+
+[![Figure US20230293523A1-20230921-C00047](https://patentimages.storage.googleapis.com/9f/ee/d3/a816292bbe58ef/US20230293523A1-20230921-C00047.png)](https://patentimages.storage.googleapis.com/9f/ee/d3/a816292bbe58ef/US20230293523A1-20230921-C00047.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R5 represents five substituents, each independently selected from the group consisting of hydrogen, deuterium, halo, azido, cyano, nitro, hydroxy, amino, thio, carboxy, ester, amide, and derivatives thereof, and acyl, sulfoxyl, sulfonyl, phosphate, phosphoryl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, heterocyclyl, cycloalkyl, cycloalkenyl, cycloheteroalkyl, cycloheteroalkenyl, aryl, heteroaryl, arylalkyl, arylalkenyl, and arylalkynyl, each of which is optionally substituted; or any two adjacent substituents are taken together with the attached carbons form an optionally substituted cyclic or heterocyclic moiety.
+
+**18**. The method according to claim 13, wherein said compound has a formula (V)
+
+[![Figure US20230293523A1-20230921-C00048](https://patentimages.storage.googleapis.com/95/48/c8/3da47d18ce2d65/US20230293523A1-20230921-C00048.png)](https://patentimages.storage.googleapis.com/95/48/c8/3da47d18ce2d65/US20230293523A1-20230921-C00048.png)
+
+wherein
+
+R1 is a C1-C12 alkyl;
+
+R2 is a C1-C12 alkyl; and
+
+R5 represents five substituents, each independently selected from the group consisting of hydrogen, deuterium, halo, azido, cyano, nitro, hydroxy, amino, thio, carboxy, ester, amide, and derivatives thereof, and acyl, sulfoxyl, sulfonyl, phosphate, phosphoryl, alkyl, alkenyl, alkynyl, heteroalkyl, heteroalkenyl, heteroalkynyl, heterocyclyl, cycloalkyl, cycloalkenyl, cycloheteroalkyl, cycloheteroalkenyl, aryl, heteroaryl, arylalkyl, arylalkenyl, and arylalkynyl, each of which is optionally substituted; or any two adjacent substituents are taken together with the attached carbons form an optionally substituted cyclic or heterocyclic moiety.
+
+**19**. The method according to claim 13, wherein the compound is selected from the group consisting of
+
+[![Figure US20230293523A1-20230921-C00049](https://patentimages.storage.googleapis.com/bd/b2/ed/2b782286ca7a2d/US20230293523A1-20230921-C00049.png)](https://patentimages.storage.googleapis.com/bd/b2/ed/2b782286ca7a2d/US20230293523A1-20230921-C00049.png)
+
+ 
+
+[![Figure US20230293523A1-20230921-C00050](https://patentimages.storage.googleapis.com/eb/4e/66/8c7102a6eb2cca/US20230293523A1-20230921-C00050.png)](https://patentimages.storage.googleapis.com/eb/4e/66/8c7102a6eb2cca/US20230293523A1-20230921-C00050.png)
+
+**20**. The method of claim 13, wherein treating pain or opioid dependence further comprises administering the compound of formula I in combination with an opioid drug, wherein the compound of Formula I enhances μ-opioid receptor inhibition of adenylyl cyclase 1.

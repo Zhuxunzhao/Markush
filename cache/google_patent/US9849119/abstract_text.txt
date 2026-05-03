@@ -1,0 +1,4 @@
+Abstract
+--------
+
+This application describes compounds that can act as opioid receptor ligands, which compounds can be used in the treatment of, for example, pain and pain related disorders.

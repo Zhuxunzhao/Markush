@@ -1,0 +1,4 @@
+Abstract
+--------
+
+This application described compounds that can act as opioid receptor ligands, and compositions comprising the compounds and cytochrome P450 inhibitors, which can be used in the treatment of, for example, pain and pain related disorders.

@@ -1,0 +1,62 @@
+Claims (21)
+-----------
+
+**1**-**19**. (canceled)
+
+**20**. A compound of the formula:
+
+[![Figure US20170252328A1-20170907-C00021](https://patentimages.storage.googleapis.com/66/e7/45/8eb44604ea8e38/US20170252328A1-20170907-C00021.png)](https://patentimages.storage.googleapis.com/66/e7/45/8eb44604ea8e38/US20170252328A1-20170907-C00021.png)
+
+or a pharmaceutically acceptable salt thereof; wherein:
+
+R1 and R2 are independently hydrogen, halogen, (C1-C4)hydrocarbyl, (C1-C4)alkoxy, trifluoromethyl, trifluoromethoxy, cyano, or nitro;
+
+R3 is (C1-C10)hydrocarbyl, (C1-C6)oxaalkyl, or heterocyclylalkyl;
+
+R4 is hydrogen, methyl, halomethyl, dihalomethyl, or trihalomethyl; and
+
+A is a 5- or 6-membered aromatic heterocycle.
+
+**21**. The compound according to claim 20, wherein A is pyrrolidine, furan, thiophene, or pyridine.
+
+**22**. The compound according to claim 21, wherein A is pyridine.
+
+**23**. The compound according to claim 20, wherein R1 is hydrogen or methyl; and R2 is hydrogen, methyl, methoxy, chloro, or fluoro.
+
+**24**. The compound according to claim 23, wherein R1 is hydrogen; and R2 is methyl.
+
+**25**. The compound according to claim 23, wherein R1 is hydrogen; and R2 is hydrogen.
+
+**26**. The compound according to claim 20, wherein Ring A is a 6-membered aromatic heterocycle; and R1 is meta relative to the point of attachment of Ring A to the thieno[3,2-c]pyridine, wherein R1 is halogen, (C1-C4)hydrocarbyl, (C1-C4)alkoxy, trifluoromethyl, trifluoromethoxy, cyano, or nitro.
+
+**27**. The compound according to claim 26, wherein R1 is halogen.
+
+**28**. The compound according to claim 27, wherein R2 is hydrogen, methyl, methoxy, chloro, or fluoro.
+
+**29**. The compound according to claim 26, wherein R1 is methyl.
+
+**30**. The compound according to claim 27, wherein R2 is hydrogen, methyl, methoxy, chloro, or fluoro.
+
+**31**. The compound according to claim 20, wherein R3 is (C1-C10)alkyl.
+
+**32**. The compound according to claim 31, wherein R3 is (C3-C6)alkyl.
+
+**33**. The compound according to claim 20, wherein R3 is (C3-C6)alkyl, (C3-C6)alkenyl, (C3-C6)cycloalkyl, (C1-C6)oxaalkyl, furanyl(C1-C4)alkyl, thienyl(C1-C4)alkyl, pyrrolyl(C1-C4)alkyl, pyrrolidinyl(C1-C4)alkyl, or tetrahydrofuranyl(C1-C4)alkyl.
+
+**34**. The compound according to claim 20, wherein R3 is methoxyethyl, methoxypropyl, ethoxypropyl, isopropyl, cyclopropyl, allyl or furanylmethyl.
+
+**35**. The compound according to claim 20, wherein R3 is of the formula:
+
+[![Figure US20170252328A1-20170907-C00022](https://patentimages.storage.googleapis.com/09/05/33/2cc4b13c3b5e96/US20170252328A1-20170907-C00022.png)](https://patentimages.storage.googleapis.com/09/05/33/2cc4b13c3b5e96/US20170252328A1-20170907-C00022.png)
+
+**36**. The compound according to claim 20, wherein R4 is hydrogen.
+
+**37**. The compound according claim 20, of the formula:
+
+[![Figure US20170252328A1-20170907-C00023](https://patentimages.storage.googleapis.com/20/2b/e2/49a699026bf9bd/US20170252328A1-20170907-C00023.png)](https://patentimages.storage.googleapis.com/20/2b/e2/49a699026bf9bd/US20170252328A1-20170907-C00023.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+**38**. A pharmaceutical composition comprising a compound of claim 20, or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable carrier.
+
+**39**. A pharmaceutical composition comprising a compound of claim 37, or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable carrier.

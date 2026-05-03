@@ -1,0 +1,679 @@
+Claims (83)
+-----------
+
+**1**. A method of treating a neurodegenerative disease in a patient comprising administering to the patient a therapeutically effective amount of a compound of formula I:
+
+[![Figure US20150224105A1-20150813-C00120](https://patentimages.storage.googleapis.com/db/c4/28/6f0054dfc79250/US20150224105A1-20150813-C00120.png)](https://patentimages.storage.googleapis.com/db/c4/28/6f0054dfc79250/US20150224105A1-20150813-C00120.png)
+
+wherein
+
+R1 is H, Cl, F, or Br;
+
+R2 is C1-6 alkyl or substituted C1-6alkyl;
+
+R3 is H; or R2 and R3, together with the N atom to which they are attached, form a heterocycloC3-6 alkyl;
+
+R4 is H, Cl, F, or Br;
+
+R5 is H, Cl, F, or Br;
+
+R6 is F, Cl, Br, —N3, —OC1-6alkyl; —OC1-6alkyleneNR7R8, wherein R7 and R8 are each independently H or C1-6alkyl; and
+
+R9 is pyridinyl, pyrimidyl, pyrazinyl, imidazolyl, pyrrolyl, pyrazolyl, quinolinyl, isoquinolinyl, thienyl, or furyl, each of which may be optionally substituted with one or more of F, Cl, Br, or C1-6alkyl;
+
+or a stereochemical isomer thereof;
+
+or a pharmaceutically acceptable salt thereof.
+
+**2**. The method of claim 1, wherein R1 is Cl.
+
+**3**. The method of claim 1, wherein R2 is C1-6 alkyl.
+
+**4**. The method of claim 3, wherein R2 is methyl, ethyl, propyl, or isopropyl.
+
+**5**. The method of claim 1, wherein R2 is substituted C1-6alkyl.
+
+**6**. The method of claim 5, wherein R2 is —CH(CH3)CF3
+
+**7**. The method of claim 5, wherein R2 is —CH2CF3.
+
+**8**. The method of claim 1, wherein R3 is H.
+
+**9**. The method of claim 1, wherein R4 is F.
+
+**10**. The method of claim 1, wherein R5 is F.
+
+**11**. The method of claim 1, wherein R4 and R5 are each F.
+
+**12**. The method of claim 1, wherein R6 is F.
+
+**13**. The method of claim 1, wherein R6 is —OtBu.
+
+**14**. The method of claim 1, wherein R6 is —OC1-6alkyleneNR7R8 and R7 and R8 are each C1-6alkyl.
+
+**15**. The method of claim 14, wherein R6 is —O—CH2CH2CH2—N(CH3)2.
+
+**16**. The method of claim 1, wherein R6 is —OC1-6alkyleneNR7R8; R7 is H; and R8 is C1-6alkyl.
+
+**17**. The method of claim 16, wherein R6 is —O—CH2CH2CH2—NH(CH3).
+
+**18**. The method of claim 1, wherein R9 is 2-pyridinyl, 2-pyrimidyl, 2-pyrazinyl, or 1-pyrazolyl.
+
+**19**. The method of claim 1, wherein the compound of formula I is
+
+[![Figure US20150224105A1-20150813-C00121](https://patentimages.storage.googleapis.com/3c/19/12/ab45c769aa796e/US20150224105A1-20150813-C00121.png)](https://patentimages.storage.googleapis.com/3c/19/12/ab45c769aa796e/US20150224105A1-20150813-C00121.png)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+X
+R1 
+R2 
+R3 
+R4 
+R5 
+R6 
+
+ 
+
+N
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+F
+
+N
+Cl
+—CH(CH3)CF3 (R)
+H
+F
+F
+F
+
+N
+Cl
+—CH(CH3)CF3 (S,R)
+H
+F
+F
+F
+
+N
+Cl
+H
+H
+F
+F
+F
+
+CH
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+F
+
+CH
+Cl
+—CH(CH3)CF3 (R)
+H
+F
+F
+F
+
+CH
+Cl
+—CH(CH3)CF3 (S,R)
+H
+F
+F
+F
+
+CH
+Cl
+H
+H
+F
+F
+F
+
+N
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+N
+Cl
+—CH(CH3)CF3 (R)
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+N
+Cl
+—CH(CH3)CF3 (S,R)
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+CH
+Cl
+H
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+CH
+Cl
+H
+H
+F
+F
+—OtBu
+
+CH
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+CH
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+—OCH2CH2CH2NH(CH3)
+
+**20**. The method of claim 1, wherein the compound of formula I is
+
+[![Figure US20150224105A1-20150813-C00122](https://patentimages.storage.googleapis.com/18/f4/af/615f77d820d8d0/US20150224105A1-20150813-C00122.png)](https://patentimages.storage.googleapis.com/18/f4/af/615f77d820d8d0/US20150224105A1-20150813-C00122.png)
+
+**21**. A method of treating a neurodegenerative disease in a patient comprising administering to the patient a therapeutically effective amount of a compound of formula II:
+
+[![Figure US20150224105A1-20150813-C00123](https://patentimages.storage.googleapis.com/57/91/e7/ea6d2648604c7b/US20150224105A1-20150813-C00123.png)](https://patentimages.storage.googleapis.com/57/91/e7/ea6d2648604c7b/US20150224105A1-20150813-C00123.png)
+
+wherein
+
+R1 is H, Cl, F, or Br;
+
+R2 is C1-6alkyl or substituted C1-6alkyl;
+
+R3 is H; or R2 and R3, together with the N atom to which they are attached, form a heterocycloC3-6alkyl;
+
+R4 is H, Cl, F, or Br;
+
+R5 is H, Cl, F, or Br;
+
+R6 is F, Cl, Br, —N3, —OC1-6alkyl; —OC1-6alkyleneOH; —OC1-6alkylene-halo; —OC1-6alkyleneNR7R8, —OC1-6substituted-alkyleneNR7R8; or —OC3-6cycloalkyleneNR7R8, wherein R7 and R8 are each independently H, C1-6alkyl, substituted C1-6alkyl; —C(O)C1-6alkyl; or aryl; or R7 and R8 together form a heterocyclic ring;
+
+or a stereochemical isomer thereof;
+
+or a pharmaceutically acceptable salt thereof.
+
+**22**. The method of claim 21, wherein R1 is Cl.
+
+**23**. The method of claim 21, wherein R2 is C1-6alkyl.
+
+**24**. The method of claim 23, wherein R2 is methyl, ethyl, propyl, or isopropyl.
+
+**25**. The method of claim 21, wherein R2 is substituted C1-6alkyl.
+
+**26**. The method of claim 25, wherein R2 is —CH(CH3)(CF3).
+
+**27**. The method of claim 25, wherein R2 is —CH2(CF3).
+
+**28**. The method of claim 21, wherein R3 is H.
+
+**29**. The method of claim 21, wherein R4 is F.
+
+**30**. The method of claim 21, wherein R5 is F.
+
+**31**. The method of claim 21, wherein R3, R4, and R5 are each F.
+
+**32**. The method of claim 21, wherein R6 is F.
+
+**33**. The method of claim 21, wherein R6 is —OC1-6alkyleneNR7R8.
+
+**34**. The method of claim 33, wherein R6 is —O—CH2CH2CH2—N(CH3)2 or —O—CH2CH2CH2—NH(CH3).
+
+**35**. The method of claim 21, wherein R6 is OC1-6cycloalkyleneNR7R8.
+
+**36**. The method of claim 35, wherein R6 is
+
+[![Figure US20150224105A1-20150813-C00124](https://patentimages.storage.googleapis.com/c0/ca/54/a3d8a1c07c9c55/US20150224105A1-20150813-C00124.png)](https://patentimages.storage.googleapis.com/c0/ca/54/a3d8a1c07c9c55/US20150224105A1-20150813-C00124.png)
+
+**37**. The method of claim 21, wherein R6 is —OC1-6alkyl.
+
+**38**. The method of claim 21, wherein R6 is —OC1-6alkyleneOH.
+
+**39**. The method of claim 21, wherein R6 is —OC1-6alkylene-halo.
+
+**40**. The method of claim 21, wherein R6 is —OC1-6substituted-alkyleneNR7R8.
+
+**41**. The method of claim 21, wherein R7 is H.
+
+**42**. The method of claim 41, wherein R8 is C1-6alkyl.
+
+**43**. The method of claim 41, wherein R8 is substituted C1-6alkyl.
+
+**44**. The method of claim 43, wherein the alkyl is substituted with CF3.
+
+**45**. The method of claim 41, wherein R8 is —C(O)C1-6alkyl.
+
+**46**. The method of claim 41, wherein R8 is aryl.
+
+**47**. The method of claim 21, wherein the compound of formula II is
+
+[![Figure US20150224105A1-20150813-C00125](https://patentimages.storage.googleapis.com/eb/7f/21/29c304c2f9f7a3/US20150224105A1-20150813-C00125.png)](https://patentimages.storage.googleapis.com/eb/7f/21/29c304c2f9f7a3/US20150224105A1-20150813-C00125.png)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+R1 
+R2 
+R3 
+R4 
+R5 
+R6 
+
+ 
+
+Cl
+H
+H
+F
+F
+F
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+F
+
+Cl
+—CH(CH3)CF3 (R)
+H
+F
+F
+F
+
+Cl
+—CH(CH3)CF3 (S,R)
+H
+F
+F
+F
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+—OCH2CH2CH2NHCH3 
+
+Cl
+—CH(CH3)CF3 (R)
+H
+F
+F
+—OCH2CH2CH2NHCH3 
+
+Cl
+—CH(CH3)CF3 (S,R)
+H
+F
+F
+—OCH2CH2CH2NHCH3 
+
+Cl
+H
+H
+F
+F
+—OCH2CH2CH2NHCH3 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+Cl
+—CH(CH3)CF3 (R)
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+Cl
+—CH(CH3)CF3 (S,R)
+H
+F
+F
+—OCH2CH2CH2N(CH3)2 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00126](https://patentimages.storage.googleapis.com/a8/45/d2/7a51f84dc78814/US20150224105A1-20150813-C00126.png)](https://patentimages.storage.googleapis.com/a8/45/d2/7a51f84dc78814/US20150224105A1-20150813-C00126.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (R)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00127](https://patentimages.storage.googleapis.com/35/fb/fd/8a4ce9760b8d59/US20150224105A1-20150813-C00127.png)](https://patentimages.storage.googleapis.com/35/fb/fd/8a4ce9760b8d59/US20150224105A1-20150813-C00127.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S,R)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00128](https://patentimages.storage.googleapis.com/6d/69/a8/5052429504b43c/US20150224105A1-20150813-C00128.png)](https://patentimages.storage.googleapis.com/6d/69/a8/5052429504b43c/US20150224105A1-20150813-C00128.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00129](https://patentimages.storage.googleapis.com/75/95/a0/8ff671a1565425/US20150224105A1-20150813-C00129.png)](https://patentimages.storage.googleapis.com/75/95/a0/8ff671a1565425/US20150224105A1-20150813-C00129.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00130](https://patentimages.storage.googleapis.com/46/4e/5e/d5cf418d32b7aa/US20150224105A1-20150813-C00130.png)](https://patentimages.storage.googleapis.com/46/4e/5e/d5cf418d32b7aa/US20150224105A1-20150813-C00130.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00131](https://patentimages.storage.googleapis.com/0e/63/eb/512d6601f37f18/US20150224105A1-20150813-C00131.png)](https://patentimages.storage.googleapis.com/0e/63/eb/512d6601f37f18/US20150224105A1-20150813-C00131.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00132](https://patentimages.storage.googleapis.com/25/fa/1f/3419f978fcaa0f/US20150224105A1-20150813-C00132.png)](https://patentimages.storage.googleapis.com/25/fa/1f/3419f978fcaa0f/US20150224105A1-20150813-C00132.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00133](https://patentimages.storage.googleapis.com/fd/27/78/45f0b4013240e3/US20150224105A1-20150813-C00133.png)](https://patentimages.storage.googleapis.com/fd/27/78/45f0b4013240e3/US20150224105A1-20150813-C00133.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00134](https://patentimages.storage.googleapis.com/70/c7/fb/a987f218c334ea/US20150224105A1-20150813-C00134.png)](https://patentimages.storage.googleapis.com/70/c7/fb/a987f218c334ea/US20150224105A1-20150813-C00134.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00135](https://patentimages.storage.googleapis.com/d8/5a/8e/469523955f97a3/US20150224105A1-20150813-C00135.png)](https://patentimages.storage.googleapis.com/d8/5a/8e/469523955f97a3/US20150224105A1-20150813-C00135.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00136](https://patentimages.storage.googleapis.com/ef/a7/6f/ca0ab47fd1c546/US20150224105A1-20150813-C00136.png)](https://patentimages.storage.googleapis.com/ef/a7/6f/ca0ab47fd1c546/US20150224105A1-20150813-C00136.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00137](https://patentimages.storage.googleapis.com/95/38/e7/bbb8485f7ba247/US20150224105A1-20150813-C00137.png)](https://patentimages.storage.googleapis.com/95/38/e7/bbb8485f7ba247/US20150224105A1-20150813-C00137.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00138](https://patentimages.storage.googleapis.com/50/53/e3/0971e2c9069016/US20150224105A1-20150813-C00138.png)](https://patentimages.storage.googleapis.com/50/53/e3/0971e2c9069016/US20150224105A1-20150813-C00138.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00139](https://patentimages.storage.googleapis.com/d9/a8/40/08cbc0a129e37c/US20150224105A1-20150813-C00139.png)](https://patentimages.storage.googleapis.com/d9/a8/40/08cbc0a129e37c/US20150224105A1-20150813-C00139.png)
+
+ 
+
+ 
+
+Cl
+—CH(CH3)CF3 (S)
+H
+F
+F
+
+[![Figure US20150224105A1-20150813-C00140](https://patentimages.storage.googleapis.com/85/4d/b1/ceffb90c9ecb30/US20150224105A1-20150813-C00140.png)](https://patentimages.storage.googleapis.com/85/4d/b1/ceffb90c9ecb30/US20150224105A1-20150813-C00140.png)
+
+**48**. A method of treating a neurodegenerative disease in a patient comprising administering to the patient a therapeutically effective amount of a compound of formula III:
+
+[![Figure US20150224105A1-20150813-C00141](https://patentimages.storage.googleapis.com/a3/69/4a/e3c0b7916777f7/US20150224105A1-20150813-C00141.png)](https://patentimages.storage.googleapis.com/a3/69/4a/e3c0b7916777f7/US20150224105A1-20150813-C00141.png)
+
+wherein
+
+X is CH or N;
+
+R1 is C1-6alkyl or substituted C1-6alkyl;
+
+R2 is F, Cl, or Br;
+
+R3 is F, Cl, or Br;
+
+R4 is F, Cl, or Br; and
+
+R5 is F, Cl, or Br;
+
+or a stereochemical isomer thereof;
+
+or a pharmaceutically acceptable salt thereof.
+
+**49**. The method of claim 48, wherein X is CH.
+
+**50**. The method of claim 48, wherein X in N.
+
+**51**. The method of claim 48, wherein R1 is C1-6alkyl.
+
+**52**. The method of claim 51, wherein R1 is methyl, ethyl, propyl, or isopropyl.
+
+**53**. The method of claim 48, wherein R1 is substituted C1-6alkyl.
+
+**54**. The method of claim 53, wherein R1 is —CH(CH3)CF3.
+
+**55**. The method of claim 53, wherein R1 is —CH2CF3.
+
+**56**. The method of claim 48, wherein R2 is Cl.
+
+**57**. The method of claim 48, wherein at least one of R3, R4, and R5 is F.
+
+**58**. The method of claim 48, wherein each of R3, R4, and R5 is F.
+
+**59**. The method of claim 48, wherein the compound of formula III is
+
+[![Figure US20150224105A1-20150813-C00142](https://patentimages.storage.googleapis.com/79/4d/e5/76f0560950ac18/US20150224105A1-20150813-C00142.png)](https://patentimages.storage.googleapis.com/79/4d/e5/76f0560950ac18/US20150224105A1-20150813-C00142.png)
+
+**60**. A method of treating a neurodegenerative disease in a patient comprising administering to the patient a therapeutically effective amount of a compound of formula IV:
+
+[![Figure US20150224105A1-20150813-C00143](https://patentimages.storage.googleapis.com/11/24/37/5d2dacc5f7d7a6/US20150224105A1-20150813-C00143.png)](https://patentimages.storage.googleapis.com/11/24/37/5d2dacc5f7d7a6/US20150224105A1-20150813-C00143.png)
+
+wherein
+
+R1 is C1-6alkyl;
+
+R2 is F, Cl, or Br;
+
+R3 is phenyl, pyridinyl, pyrimidyl, pyrazinyl, imidazolyl, pyrrolyl, pyrazolyl, quinolunyl, isoquinolinyl, thienyl, or furyl, each of which may be optionally substituted with one or more of F, Cl, or Br;
+
+R4 is F, Cl, or Br;
+
+R5 is F, Cl, or Br; and
+
+R6 is F, Cl, or Br;
+
+or a stereochemical isomer thereof;
+
+or a pharmaceutically acceptable salt thereof.
+
+**61**. The method of claim 60, wherein R1 is methyl.
+
+**62**. The method of claim 60, wherein R2 is Cl.
+
+**63**. The method of claim 60, wherein R3 is phenyl optionally substituted with Cl.
+
+**64**. The method of claim 60, wherein R3 is thienyl optionally substituted with Cl.
+
+**65**. The method of claim 60, wherein at least one of R4, R5, and R6 is F.
+
+**66**. The method of claim 60, wherein each of R4, R5, and R6 is F.
+
+**67**. The method of claim 60 wherein the compound of formula IV is
+
+[![Figure US20150224105A1-20150813-C00144](https://patentimages.storage.googleapis.com/dc/35/45/6202400283720a/US20150224105A1-20150813-C00144.png)](https://patentimages.storage.googleapis.com/dc/35/45/6202400283720a/US20150224105A1-20150813-C00144.png)
+
+**68**. The method of claim 1, wherein the neurodegenerative disease is characterized by a tauopathy or compromised microtubule function in the brain of the patient.
+
+**69**. The method of claim 1, wherein the neurodegenerative disease is Alzheimer's disease, frontotemporal lobar degeneration, Pick's disease, progressive supranuclear palsy (PSP), corticobasal degeneration, Parkinson's disease (PD), PD with dementia, Lewy body disease with dementia, or amyotrophic lateral sclerosis.
+
+**70**. The method of claim 1, wherein the neurodegenerative disease is traumatic brain injury, in particular, repetitive traumatic brain injury and chronic traumatic encephalopathy, or post traumatic stress disorder.
+
+**71**. The method of claim 1, wherein the neurodegenerative disease is schizophrenia.
+
+**72**. The method of claim 21, wherein the neurodegenerative disease is characterized by a tauopathy or compromised microtubule function in the brain of the patient.
+
+**73**. The method of claim 21, wherein the neurodegenerative disease is Alzheimer's disease, frontotemporal lobar degeneration, Pick's disease, progressive supranuclear palsy (PSP), corticobasal degeneration, Parkinson's disease (PD), PD with dementia, Lewy body disease with dementia, or amyotrophic lateral sclerosis.
+
+**74**. The method of claim 21, wherein the neurodegenerative disease is traumatic brain injury, in particular, repetitive traumatic brain injury and chronic traumatic encephalopathy, or post traumatic stress disorder.
+
+**75**. The method of claim 21, wherein the neurodegenerative disease is schizophrenia.
+
+**76**. The method of claim 48, wherein the neurodegenerative disease is characterized by a tauopathy or compromised microtubule function in the brain of the patient.
+
+**77**. The method of claim 48, wherein the neurodegenerative disease is Alzheimer's disease, frontotemporal lobar degeneration, Pick's disease, progressive supranuclear palsy (PSP), corticobasal degeneration, Parkinson's disease (PD), PD with dementia, Lewy body disease with dementia, or amyotrophic lateral sclerosis.
+
+**78**. The method of claim 48, wherein the neurodegenerative disease is traumatic brain injury, in particular, repetitive traumatic brain injury and chronic traumatic encephalopathy, or post traumatic stress disorder.
+
+**79**. The method of claim 48, wherein the neurodegenerative disease is schizophrenia.
+
+**80**. The method of claim 60, wherein the neurodegenerative disease is characterized by a tauopathy or compromised microtubule function in the brain of the patient.
+
+**81**. The method of claim 60, wherein the neurodegenerative disease is Alzheimer's disease, frontotemporal lobar degeneration, Pick's disease, progressive supranuclear palsy (PSP), corticobasal degeneration, Parkinson's disease (PD), PD with dementia, Lewy body disease with dementia, or amyotrophic lateral sclerosis.
+
+**82**. The method of claim 60, wherein the neurodegenerative disease is traumatic brain injury, in particular, repetitive traumatic brain injury and chronic traumatic encephalopathy, or post traumatic stress disorder.
+
+**83**. The method of claim 60, wherein the neurodegenerative disease is schizophrenia.

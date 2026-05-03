@@ -1,0 +1,298 @@
+Claims (6)
+----------
+
+What is claimed is:
+
+1. A compound of formula I
+
+[![Figure US09988397-20180605-C00170](https://patentimages.storage.googleapis.com/81/4c/69/3f13467bcf40cd/US09988397-20180605-C00170.png)](https://patentimages.storage.googleapis.com/81/4c/69/3f13467bcf40cd/US09988397-20180605-C00170.png)
+
+or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is
+
+1) —C1-4alkyl, unsubstituted or substituted with R1′, wherein R1′ is independently selected from halogen and OC1-4 alkyl,
+
+2) 6-membered unsaturated heterocycle having 1 N atom, wherein the heterocycle is unsubstituted or substituted on any ring atom with C1-4 alkyl,
+
+3) 6-membered unsaturated carbocycle unsubstituted or substituted on any ring atom with C1-4 alkyl, or,
+
+4) —C(O)C1-4 alkyl;
+
+R2is
+
+hydrogen or halogen;
+
+—X—Z is
+
+1) —C1-4 alkylene-Z, wherein the alkylene is unsubstituted or substituted with OH, ═CH2, —C1-4 alkyl, —C1-4 alkylene OH, or —OC1-4 alkyl,
+
+2)
+
+[![Figure US09988397-20180605-C00171](https://patentimages.storage.googleapis.com/c9/7a/46/a24af240bbc02e/US09988397-20180605-C00171.png)](https://patentimages.storage.googleapis.com/c9/7a/46/a24af240bbc02e/US09988397-20180605-C00171.png)
+
+ 
+
+3) —C1-4 alkenylene-Z,
+
+4) —NR3C1-4 alkylene-Z,
+
+5) —OC1-4 alkylene-Z,
+
+6) —CH2NR3C1-4 alkylene-Z,
+
+7) —CH2C(O)C1-4 alkylene-Z, or
+
+8) —CH2OC1-4 alkylene-Z;
+
+Z—Y is
+
+O—Y, C1-4 alkylene-Y, NR3—Y or
+
+[![Figure US09988397-20180605-C00172](https://patentimages.storage.googleapis.com/1a/e9/04/2ff50583129241/US09988397-20180605-C00172.png)](https://patentimages.storage.googleapis.com/1a/e9/04/2ff50583129241/US09988397-20180605-C00172.png)
+
+ 
+
+NH—Y is
+
+NH—CH(C6H3R4R5)C1-4 alkylene-, where C1-4 alkylene is unsubstituted or independently mono- or di-substituted with R6;
+
+R3 is independently
+
+hydrogen or C1-4 alkyl;
+
+R4 is
+
+hydrogen or halogen;
+
+R5 is
+
+hydrogen or —OC1-4 alkyl; and
+
+R6 is
+
+OH or C1-4 alkyl wherein alkyl is unsubstituted or substituted with OH.
+
+2. A compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is
+
+1) —C1-4 alkyl, unsubstituted or substituted with R1′, wherein R1′ is independently selected from F and OC1-4 alkyl, or
+
+2) 6-membered unsaturated heterocycle having 1 N atom, wherein the heterocycle is unsubstituted or substituted on any ring atom with C1-4 alkyl,
+
+R2 is
+
+hydrogen;
+
+—X—Z is
+
+1) —C1-4 alkylene-Z, wherein the alkylene is unsubstituted or substituted with OH, ═CH2, —CH3, —CH2OH, or —OC1-4 alkyl,
+
+2)
+
+[![Figure US09988397-20180605-C00173](https://patentimages.storage.googleapis.com/e1/e6/66/461bd124991063/US09988397-20180605-C00173.png)](https://patentimages.storage.googleapis.com/e1/e6/66/461bd124991063/US09988397-20180605-C00173.png)
+
+ 
+
+3) —C1-4 alkenylene-Z,
+
+4) —NR3C1-4 alkylene-Z,
+
+5) —OC1-4 alkylene-Z,
+
+6) —CH2NR3C1-4 alkylene-Z,
+
+7) —CH2C(O)C1-4 alkylene-Z, or
+
+8) —CH2OC1-4 alkylene-Z;
+
+Z—Y is
+
+O—Y, C1-4 alkylene-Y, NR3—Y or
+
+[![Figure US09988397-20180605-C00174](https://patentimages.storage.googleapis.com/5e/1f/8a/4c1389089d8d1f/US09988397-20180605-C00174.png)](https://patentimages.storage.googleapis.com/5e/1f/8a/4c1389089d8d1f/US09988397-20180605-C00174.png)
+
+ 
+
+NH—Y is
+
+NH—CH(C6H3R4R5)C1-4 alkylene-, where C1-4 alkylene is unsubstituted or independently mono- or di-substituted with R6;
+
+R3 is independently
+
+hydrogen or C1-4 alkyl;
+
+R4 is
+
+hydrogen or F;
+
+R5 is
+
+hydrogen or —OC1-4 alkyl; and
+
+R6 is
+
+OH or C1-4 alkyl wherein alkyl is unsubstituted or substituted with OH.
+
+3. A compound of claim 2, or a pharmaceutically acceptable salt thereof, wherein
+
+R1 is
+
+—CH2CH3, —CHF2, —CH3, —(CH2)3OCH3, —(CH2)2OCH3, or
+
+[![Figure US09988397-20180605-C00175](https://patentimages.storage.googleapis.com/0f/28/ff/987a5bd4b3808a/US09988397-20180605-C00175.png)](https://patentimages.storage.googleapis.com/0f/28/ff/987a5bd4b3808a/US09988397-20180605-C00175.png)
+
+ 
+
+R2 is
+
+hydrogen;
+
+[![Figure US09988397-20180605-C00176](https://patentimages.storage.googleapis.com/f3/66/07/5e305af3b27421/US09988397-20180605-C00176.png)](https://patentimages.storage.googleapis.com/f3/66/07/5e305af3b27421/US09988397-20180605-C00176.png)
+
+ 
+
+[![Figure US09988397-20180605-C00177](https://patentimages.storage.googleapis.com/66/aa/89/3c6ab5973d9302/US09988397-20180605-C00177.png)](https://patentimages.storage.googleapis.com/66/aa/89/3c6ab5973d9302/US09988397-20180605-C00177.png)
+
+ 
+
+Z is
+
+O, CH2, N(CH3),
+
+[![Figure US09988397-20180605-C00178](https://patentimages.storage.googleapis.com/84/07/c8/bba31a5a9e65ef/US09988397-20180605-C00178.png)](https://patentimages.storage.googleapis.com/84/07/c8/bba31a5a9e65ef/US09988397-20180605-C00178.png)
+
+ 
+
+and
+
+NH—Y— is
+
+NH—CH(C6H5)CH2—, NH—CH(C6H5)CH(OH), NH—CH(C6H5)C(OH)(CH3)—,
+
+NH—CH(C6H5)C(CH3)2—, NH—CH(C6H5)CH(CH(OH)(CH3)), or
+
+NH—CH(C6H3(F)(OCH3))CH2—.
+
+4. A compound of claim 3, or a pharmaceutically acceptable salt thereof, selected from the group consisting of
+
+(9S,13S)-1-ethyl-13-hydroxy-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13R)-1-ethyl-13-hydroxy-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9R,10R)-1-ethyl-10-(hydroxymethyl)-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,10S)-1-ethyl-10-(hydroxymethyl)-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-10,10-dimethyl-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9R)-1-ethyl-10,10-dimethyl-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-13-hydroxy-13-methyl-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,12aS,13aR)-1-ethyl-9-phenyl-1,6,9,10,12,12a,13,13a-octahydro-5,14-(azeno)cyclopropa[1]pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,12aR,13aS)-1-ethyl-9-phenyl-1,6,9,10,12,12a,13,13a-octahydro-5,14-(azeno)cyclopropa[1]pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-(difluoromethyl)-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13Z)-1-(difluoromethyl)-9-phenyl-1,6,9,10-tetrahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-methyl-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6,12]oxatriazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+1,14-dimethyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[4,3-f][1,3,9]triazacyclotetradecin-7(8H)-one,
+
+(9S,10S)-10-hydroxy-1-methyl-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+(9S,10R)-10-hydroxy-1-methyl-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+1-ethyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[4,3-f][1,3,9]triazacyclotetradecin-7(8H)-one,
+
+(9S,10S)-1-ethyl-10-hydroxy-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+(9S,10R)-1-ethyl-10-hydroxy-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+(9S)-1,11-dimethyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[3,4-k][1,3,6]triazacyclotetradecin-7(8H)-one,
+
+(9S,10R)-1-ethyl-10-hydroxy-10-methyl-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+13-hydroxy-1-methyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[4,3-f][1,3]diazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6,12]oxatriazacyclotetradecin-7(8H)-one,
+
+(9S,10S)-1-ethyl-10-hydroxy-10-methyl-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+1-methyl-9-phenyl-1,6,9,10,11,12-hexahydro-5,15-(azeno)pyrazolo[4,3-k][1,6,8]oxadiazacyclotetradecin-7(8H,14H)-one,
+
+1-ethyl-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+1,13-dimethyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[3,4-k][1,3,8]triazacyclotetradecin-7(8H)-one,
+
+(9S)-1-methyl-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9R)-1-methyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[4,3-f][1,3,9]triazacyclotetradecin-7(8H)-one,
+
+(9S)-1-methyl-9-phenyl-1,6,9,10,12,13-hexahydro-5,15-(azeno)pyrazolo[4,3-i][1,12,4,6]dioxadiazacyclotetradecin-7(8H)-one,
+
+1-(3-methoxypropyl)-9-phenyl-1,6,9,10-tetrahydro-5,16-(azeno)-14,11-(metheno)pyrazolo[4,3-l][1,2,3,7,9]pentaazacyclopentadecin-7(8H,15H)-one,
+
+(9R)-1-methyl-9-phenyl-1,6,8,9,10,11,12,13-octahydro-7H-5,15-(azeno)pyrazolo[3,4-c][1,7,9]oxadiazacyclotetradecin-7-one,
+
+1-methyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[4,3-f][1,3]diazacyclotetradecin-7(8H)-one,
+
+1-(2-methoxyethyl)-9-phenyl-1,6,9,10-tetrahydro-5,16-(azeno)-14,11-(metheno)pyrazolo[4,3-l][1,2,3,7,9]pentaazacyclopentadecin-7(8H,15H)-one,
+
+1-(2-methylpyri din-4-yl)-9-phenyl-1,6,9,10-tetrahydro-5,16-(azeno)-14,11-(metheno)pyrazolo[4,3-l][1,2,3,7,9]pentaazacyclopentadecin-7(8H,15H)-one,
+
+1-(2-methylpyri din-4-yl)-9-phenyl-1,6,9,10-tetrahydro-5,16-(azeno)-14,11-(metheno)pyrazolo[4,3-l][1,2,3,7,9]pentaazacyclopentadecin-7(8H,15H)-one,
+
+1,18-dimethyl-9-phenyl-1,6,9,10-tetrahydro-5,16-(azeno)-14,11-(metheno)pyrazolo[4,3-l][1,2,3,7,9]pentaazacyclopentadecin-7(8H,15H)-one,
+
+1-methyl-9-phenyl-1,6,9,10,11,12,13,14-octahydro-5,15-(azeno)pyrazolo[3,4-k][1,3, 8]triazacyclotetradecin-7(8H)-one,
+
+(9R)-1-methyl-9-phenyl-1,6,9,10-tetrahydro-5,16-(azeno)-14,11-(metheno)pyrazolo[4,3-l][1,2,3,7,9]pentaazacyclopentadecin-7(8H,15H)-one,
+
+1-methyl-9-phenyl-1,6,9,10-tetrahydro-5,16-(azeno)-14,11-(metheno)pyrazolo[4,3-l][1,2,3,7,9]pentaazacyclopentadecin-7(8H,15H)-one,
+
+(9S, 13Z)-1-Ethyl-10,10-dimethyl-9-phenyl-1,6,9,10-tetrahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9R, 13Z)-1-Ethyl-10,10-dimethyl-9-phenyl-1,6,9,10-tetrahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-9-phenyl-1,6,9,10-tetrahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecine-7,13(8H,14H)-dione,
+
+(9R,13R)-1-Ethyl-13-methoxy-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,10S)-1-ethyl-10-[(1R)-1-hydroxyethyl]-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacycl otetradecin-7(8H)-one,
+
+(9S,10S)-1-ethyl-10-[(1S)-1-hydroxyethyl]-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9R,10R)-1-ethyl-10-[(1R)-1-hydroxyethyl]-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9R,10R)-1-ethyl-10-[(1S)-1-hydroxyethyl]-9-phenyl-1, 6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13R)-9-(3-chlorophenyl)-1-ethyl-13-hydroxy-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13S)-9-(3-chlorophenyl)-1-ethyl-13-hydroxy-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13S)-1-ethyl-9-(3-fluorophenyl)-13-hydroxy-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13R)-1-ethyl-9-(3-fluorophenyl)-13-hydroxy-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13S)-1-ethyl-9-(3-fluoro-4-methoxyphenyl)-13-hydroxy-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S,13R)-1-ethyl-9-(3-fluoro-4-methoxyphenyl)-13-hydroxy-1,6,9, 10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-13-(hydroxymethyl)-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-13-methylidene-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one,
+
+(9S)-1-ethyl-13-(hydroxymethyl)-9-phenyl-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one, and
+
+(9S,13R)-1-ethyl-9-(3-fluorophenyl)-13-hydroxy-1,6,9,10,13,14-hexahydro-12H-5,15-(azeno)pyrazolo[4,3-i][1,4,6]oxadiazacyclotetradecin-7(8H)-one.
+
+5. A composition comprising a compound of claim 1 and a pharmaceutically acceptable carrier.
+
+6. A method for treating non-small cell lung cancer, pancreatic cancer, colorectal cancer, kidney cancer, hepatocellular carcinoma, and melanoma comprising administering to a patient in need there of a composition of claim 5.

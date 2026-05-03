@@ -1,0 +1,246 @@
+Claims (14)
+-----------
+
+The invention claimed is:
+
+1. A compound of formula I,
+
+[![Figure US10968217-20210406-C00090](https://patentimages.storage.googleapis.com/7f/a5/67/926250faa673f6/US10968217-20210406-C00090.png)](https://patentimages.storage.googleapis.com/7f/a5/67/926250faa673f6/US10968217-20210406-C00090.png)
+
+ 
+
+wherein:
+
+R1 is C1-6alkoxy, C1-6alkyl, C3-7cycloalkyl, haloC1-6alkoxy, haloC1-6alkyl or hydrogen;
+
+R2 is benzothiophenyl, imidazolyl, indazolyl, indolyl, isoxazolyl, oxazolyl, phenyl, pyridinyl, pyrimidinyl, thiazolyl or thiophenyl, wherein said benzothiophenyl, imidazolyl, indazolyl, indolyl, isoxazolyl, oxazolyl, phenyl, pyridinyl, thiazolyl or thiophenyl is unsubstituted or substituted by one, two or three substituents independently selected from C1-6alkoxy, C1-6alkoxyC1-6alkoxy, C1-6alkyl, C3-7cycloalkyl, cyano, haloC1-6alkoxy, haloC1-6alkyl, halogen, hydroxy, hydroxyC1-6alkoxy, hydroxyC1-6alkyl, nitro and phenyC1-6alkyl; and
+
+Z is CH or N;
+
+or a pharmaceutically acceptable salt, or an enantiomer thereof.
+
+2. A compound according to claim 1, wherein
+
+R1 is hydrogen or C1-6alkyl;
+
+R2 is benzothiophenyl, imidazolyl, indazolyl, indolyl, isoxazolyl, oxazolyl, phenyl, pyridinyl, thiazolyl or thiophenyl, wherein said benzothiophenyl, imidazolyl, indazolyl, indolyl, isoxazolyl, oxazolyl, phenyl, pyridinyl, thiazolyl or thiophenyl is unsubstituted or substituted by one, two or three substituents independently selected from C1-6alkoxy, C1-6alkoxyC1-6alkoxy, C1-6alkyl, cyano, haloC1-6alkyl, halogen, hydroxy, nitro and phenyC1-6alkyl;
+
+or apharmaceutically acceptable salt, or an enantiomer thereof.
+
+3. A compound according to claim 1, wherein:
+
+R1 is hydrogen, methyl or ethyl; and
+
+R2 is benzothiophenyl, imidazolyl, indazolyl, indolyl, isoxazolyl, oxazolyl, phenyl, pyridinyl, thiazolyl or thiophenyl, wherein said benzothiophenyl, imidazolyl, indazolyl, indolyl, isoxazolyl, oxazolyl, phenyl, pyridinyl, thiazolyl or thiophenyl is unsubstituted or substituted by one, two or three substituents independently selected from ethoxy, methoxy, methoxyethoxy, methoxypropoxy, methyl, cyano, trifluoromethyl, bromo, chloro, fluoro, hydroxy, nitro and phenylmethyl;
+
+or a pharmaceutically acceptable salt, or an enantiomer thereof.
+
+4. A compound according to claim 1, or a pharmaceutically acceptable salt, or an enantiomer thereof, wherein R1 is C1-6alkyl.
+
+5. A compound according to claim 1, or a pharmaceutically acceptable salts or an enantiomer thereof, wherein R1 is methyl.
+
+6. A compound according to any claim 1, or a pharmaceutically acceptable salt, or an enantiomer thereof, wherein R2 is indazolyl, phenyl, thiazolyl or thiophenyl, said indazolyl, phenyl, thiazolyl or thiophenyl is unsubstituted, or substituted by one or two substituents independently selected from C1-6alkoxy, C1-6alkoxyC1-6alkoxy, C1-6alkyl, halogen and phenylC1-6alkyl.
+
+7. A compound according to claim 1, or a pharmaceutically acceptable salt, or an enantiomer thereof, wherein R2 is indazolyl, phenyl, thiazolyl or thiophenyl, said indazolyl, phenyl, thiazolyl or thiophenyl is unsubstituted, or substituted by one or two substituents independently selected from methoxy, methoxypropoxy, methyl, chloro, fluoro and phenylmethyl.
+
+8. A compound according to claim 1, wherein
+
+R1 is C1-6alkyl or hydrogen; and
+
+R2 is indazolyl, C1-6alkoxyindazolyl, haloindazolyl, (phenylC1-6alkyl)indazolyl, (C1-6alkoxyC1-6alkoxy)halophenyl, C1-6alkoxy(C1-6alkoxyC1-6alkoxy)phenyl, thiazolyl, C1-6alkylthiazolyl, diC1-6alkylthiazolyl, C1-6alkoxythiophenyl or C1-6alkylthiophenyl;
+
+or a pharmaceutically acceptable salt, or an enantiomer thereof.
+
+9. A compound according to claim 1, wherein:
+
+R1 is methyl or hydrogen; and
+
+R2 is indazolyl, methoxyindazolyl, fluoroindazolyl, (phenylmethyl)indazolyl, (methoxypropoxy)chlorophenyl, methoxy(methoxypropoxy)phenyl, thiazolyl, methylthiazolyl, dimethylthiazolyl, methoxythiophenyl or methylthiophenyl;
+
+or a pharmaceutically acceptable salt, or an enantiomer thereof.
+
+10. A compound according to claim 1, selected from:
+
+[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-[4-(trifluoromethyl)phenyl]methanone;
+
+4-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidine-6-carbonyl]benzonitrile;
+
+(4-nitrophenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+phenyl-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-chlorophenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-[3-(trifluoromethyl)phenyl]methanone;
+
+(3-fluoro-4-methoxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-fluorophenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-fluoro-3-methoxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3,4-difluorophenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-fluoro-3-hydroxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3-fluoro-4-hydroxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-ethoxy-3-fluoro-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[3-fluoro-4-(2-methoxyethoxy)phenyl]-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[3-fluoro-4-(3-methoxypropoxy)phenyl]-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(3,4,5-trimethoxyphenyl)methanone;
+
+(3,5-diethoxyphenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3-chloro-5-methoxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3,5-dimethoxyphenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-fluoro-3-methyl-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3-chloro-4-methoxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3,4-dimethoxyphenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3-chloro-4-hydroxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[3-chloro-4-(3-methoxypropoxy)phenyl]-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-hydroxy-3-methoxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[3-methoxy-4-(3-methoxypropoxy)phenyl]-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(5-methyl-2-pyridyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3-fluoro-4-methyl-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(5-methoxy-2-pyridyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3,5-difluoro-4-methoxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(6-methyl-3-pyridyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-methyl-2-thienyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(5-methylisoxazol-3-yl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3,4-dimethoxyphenyl)-[(5S)-5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3,4-dimethoxyphenyl)-[(5S)-5-ethyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(6-methoxy-3-pyridyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3,5-difluorophenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(3-fluoro-5-methoxy-phenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4-methoxyphenyl)-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[3-chloro-4-(3-methoxypropoxy)phenyl]-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(4-methyl-2-thienyl)methanone;
+
+(5-chloro-2-thienyl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(5-methyl-2-thienyl)methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(3-thienyl)methanone;
+
+(4-methyloxazol-5-yl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+1H-indol-6-yl-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+1H-indazol-5-yl-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+benzothiophen-2-yl-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(2-thienyl)methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(3-methyl-2-thienyl)methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-thiazol-2-yl-methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(2-methylthiazol-5-yl)methanone;
+
+(5-bromo-2-thienyl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-thiazol-5-yl-methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(5-methylthiazol-2-yl)methanone;
+
+1H-imidazol-2-yl-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(1-methylimidazol-2-yl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(5-methoxy-2-thienyl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-[4-(trifluoromethyl)thiazol-2-yl]methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-oxazol-2-yl-methanone;
+
+(4,5-dimethylthiazol-2-yl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(1-methylindazol-3-yl)-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+1H-indazol-3-yl-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+(5-fluoro-1H-indazol-3-yl)-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+(1-benzylindazol-3-yl)-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone; and
+
+(5-methoxy-1H-indazol-3-yl)-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+or a pharmaceutically acceptable salt, or an enantiomer thereof.
+
+11. A compound according to claim 1, selected from
+
+[3-methoxy-4-(3-methoxypropoxy)phenyl]-[2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+[3-chloro-4-(3-methoxypropoxy)phenyl]-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(4-methyl-2-thienyl)methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(5-methyl-2-thienyl)methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-thiazol-2-yl-methanone;
+
+[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]-(5-methylthiazol-2-yl)methanone;
+
+(5-methoxy-2-thienyl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+(4,5-dimethylthiazol-2-yl)-[5-methyl-2-(2-pyridyl)-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl]methanone;
+
+1H-indazol-3-yl-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+(5-fluoro-1H-indazol-3-yl)-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+(1-benzylindazol-3-yl)-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone; and
+
+(5-methoxy-1H-indazol-3-yl)-(5-methyl-2-pyrimidin-2-yl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)methanone;
+
+or a pharmaceutically acceptable salt, or an enantiomer thereof.
+
+12. A process for the preparation of a compound according to claim 1, the process comprising:
+
+coupling of a compound of formula (A)
+
+[![Figure US10968217-20210406-C00091](https://patentimages.storage.googleapis.com/7f/c4/71/3b124c8bb4cb77/US10968217-20210406-C00091.png)](https://patentimages.storage.googleapis.com/7f/c4/71/3b124c8bb4cb77/US10968217-20210406-C00091.png)
+
+ 
+
+with a compound of formula (B)
+
+[![Figure US10968217-20210406-C00092](https://patentimages.storage.googleapis.com/ca/bb/a3/bc9207e34b9f32/US10968217-20210406-C00092.png)](https://patentimages.storage.googleapis.com/ca/bb/a3/bc9207e34b9f32/US10968217-20210406-C00092.png)
+
+ 
+
+in the presence of a coupling reagent and a base;
+
+wherein, R1, R2 and Z are defined as in claim 1.
+
+13. A pharmaceutical composition comprising a compound in accordance with claim 1 and a therapeutically inert carrier.
+
+14. A method for the treatment of HBV infection, which method comprises administering to a subject in need thereof an effective amount of a compound as defined in claim 1.

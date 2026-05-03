@@ -1,0 +1,6 @@
+Abstract
+--------
+
+The invention relates to small photosensitizers, their process of preparation and uses of the compounds in optical imaging and photodynamic therapy. The invention provides a compound of formula (I), a derivative or a salt thereof Wherein R1 is selected from the group consisting of amines, anilines, phenols, thiophenols, selenols and aryl groups; R2 and R3 independently are H or halogen; R4 is selected from the group consisting of H, nitro and cyano: and R5 and R6 independently are either absent or oxygen or methyl.
+
+[![Figure US11746094-20230905-C00001](https://patentimages.storage.googleapis.com/ab/ae/8e/027df3c1595e1f/US11746094-20230905-C00001.png)](https://patentimages.storage.googleapis.com/ab/ae/8e/027df3c1595e1f/US11746094-20230905-C00001.png)
