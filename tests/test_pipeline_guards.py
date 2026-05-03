@@ -1,0 +1,448 @@
+from __future__ import annotations
+
+import base64
+import json
+import sys
+import tempfile
+import unittest
+from pathlib import Path
+from unittest.mock import Mock, patch
+
+from PIL import Image
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from agents.base import BaseAgent
+from agents.requirements_examiner import RequirementsExaminerAgent
+from pipelines.infringement import InfringementPipeline
+from pipelines.patentability import PatentabilityPipeline
+from schemas.types import Confidence, FusedMatchResult, MarkushStructure, MatchMethod, MatchResult, PatentDocument, PatentImage
+from scripts.run_infringement_dataset import _resolve_first_image_markush_structure
+from tools.markush_caption import inline_markush_to_rdkit_caption
+from tools.markush_grapher import MarkushGrapherTool
+from tools.llm_client import DEFAULT_OUTPUT_LANGUAGE_INSTRUCTION, LLMClient
+from tools.rdkit_matcher import RDKitMatcherTool
+
+
+class DummyAgent(BaseAgent):
+    @property
+    def system_prompt(self) -> str:
+        return "system"
+
+    def build_user_prompt(self, **kwargs) -> str:
+        return kwargs["message"]
+
+    def parse_response(self, response: dict) -> dict:
+        return response
+
+
+class BaseAgentTests(unittest.TestCase):
+    def test_run_passes_agent_max_tokens_to_llm(self) -> None:
+        llm = Mock()
+        llm.chat.return_value = {"ok": True}
+        agent = DummyAgent(llm=llm, max_tokens=1234)
+
+        result = agent.run(message="hello")
+
+        self.assertEqual(result, {"ok": True})
+        llm.chat.assert_called_once()
+        self.assertEqual(llm.chat.call_args.kwargs["max_tokens"], 1234)
+
+
+class LLMClientTests(unittest.TestCase):
+    def test_applies_chinese_output_instruction_to_system_prompt(self) -> None:
+        client = LLMClient.__new__(LLMClient)
+        client.output_language_instruction = DEFAULT_OUTPUT_LANGUAGE_INSTRUCTION.strip()
+
+        prompt = client._apply_output_language_instruction("system")
+
+        self.assertIn("Simplified Chinese", prompt)
+        self.assertIn("valid JSON", prompt)
+
+    def test_output_language_instruction_is_idempotent(self) -> None:
+        client = LLMClient.__new__(LLMClient)
+        client.output_language_instruction = DEFAULT_OUTPUT_LANGUAGE_INSTRUCTION.strip()
+
+        prompt = client._apply_output_language_instruction("system")
+        prompt = client._apply_output_language_instruction(prompt)
+
+        self.assertEqual(prompt.count("Output language requirements:"), 1)
+
+
+class RequirementsExaminerTests(unittest.TestCase):
+    def test_parse_response_reads_confidence(self) -> None:
+        agent = RequirementsExaminerAgent(llm=Mock())
+
+        parsed = agent.parse_response(
+            {
+                "is_protected": True,
+                "confidence": "high",
+                "reasoning": "ok",
+                "r_group_analysis": {"R1": {"covered": True}},
+            }
+        )
+
+        self.assertTrue(parsed.is_protected)
+        self.assertEqual(parsed.confidence, Confidence.HIGH)
+
+    def test_parse_response_falls_back_on_invalid_confidence(self) -> None:
+        agent = RequirementsExaminerAgent(llm=Mock())
+
+        parsed = agent.parse_response(
+            {"is_protected": False, "confidence": "nonsense", "reasoning": "bad"}
+        )
+
+        self.assertEqual(parsed.confidence, Confidence.VERY_LOW)
+
+
+class MarkushCaptionTests(unittest.TestCase):
+    def test_inline_caption_converts_to_rdkit_caption(self) -> None:
+        caption = inline_markush_to_rdkit_caption("<r>R1</r>C")
+
+        self.assertEqual(caption, "*C<sep><a>0:R1</a>")
+
+    def test_rdkit_matcher_uses_inline_caption_normalization(self) -> None:
+        result = RDKitMatcherTool().match("<r>R1</r>C", "CC")
+
+        self.assertTrue(result.is_match)
+        self.assertEqual(result.r_group_map, {"R1": "C"})
+
+
+class InfringementPipelineTests(unittest.TestCase):
+    def test_is_usable_markush_requires_markush_signal(self) -> None:
+        pipeline = InfringementPipeline.__new__(InfringementPipeline)
+        pipeline.min_markush_score = 0.5
+
+        self.assertTrue(
+            pipeline._is_usable_markush(
+                MarkushStructure(
+                    cxsmiles="",
+                    substituent_table={},
+                    caption="core<sep><a>0:R[1]</a>",
+                    is_markush=False,
+                    score=0.8,
+                )
+            )
+        )
+        self.assertFalse(
+            pipeline._is_usable_markush(
+                MarkushStructure(
+                    cxsmiles="",
+                    substituent_table={},
+                    caption="plain caption",
+                    is_markush=False,
+                    score=1.0,
+                )
+            )
+        )
+
+    def test_final_confidence_comes_from_requirements_examiner(self) -> None:
+        config = {
+            "pipelines": {"infringement": {"use_markush_grapher": False, "use_rdkit": False}},
+            "tools": {"markush_grapher": {}},
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "dummy", "api_key_env": "OPENAI_API_KEY"},
+        }
+
+        with patch("pipelines.infringement.PatentScraperTool") as scraper_cls, patch(
+            "pipelines.infringement.LLMClient"
+        ) as llm_cls:
+            scraper_cls.return_value.fetch.return_value = PatentDocument(
+                patent_id="US123",
+                claims_text="claim text",
+            )
+            llm_cls.return_value = Mock()
+
+            pipeline = InfringementPipeline(config)
+            pipeline.claim_analyzer.run = Mock(
+                return_value=type("ClaimAnalysisStub", (), {"primary_markush_caption": ""})()
+            )
+            pipeline.subs_matcher.run = Mock(
+                return_value=type(
+                    "FusedMatchStub",
+                    (),
+                    {"r_group_matching": {"R1": "Cl"}, "rdkit_result": None},
+                )()
+            )
+            pipeline.req_examiner.run = Mock(
+                return_value=type(
+                    "ReqStub",
+                    (),
+                    {
+                        "is_protected": True,
+                        "confidence": Confidence.LOW,
+                        "reasoning": "req confidence",
+                        "r_group_analysis": {"R1": {"covered": True}},
+                    },
+                )()
+            )
+            pipeline.reporter.run = Mock(
+                return_value={"confidence": "high", "detailed_analysis": "report text"}
+            )
+
+            result = pipeline.run("US123", "CC", markush_caption="core<sep><a>0:R[1]</a>")
+
+        self.assertEqual(result.confidence, Confidence.LOW)
+        self.assertEqual(result.report, "report text")
+
+    def test_empty_unverified_mapping_short_circuits_requirements_examiner(self) -> None:
+        config = {
+            "pipelines": {"infringement": {"use_markush_grapher": False, "use_rdkit": True}},
+            "tools": {"markush_grapher": {}},
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "dummy", "api_key_env": "OPENAI_API_KEY"},
+        }
+
+        with patch("pipelines.infringement.PatentScraperTool") as scraper_cls, patch(
+            "pipelines.infringement.LLMClient"
+        ) as llm_cls:
+            scraper_cls.return_value.fetch.return_value = PatentDocument(
+                patent_id="US123",
+                claims_text="claim text",
+            )
+            llm_cls.return_value = Mock()
+
+            pipeline = InfringementPipeline(config)
+            pipeline.claim_analyzer.run = Mock(
+                return_value=type("ClaimAnalysisStub", (), {"primary_markush_caption": ""})()
+            )
+            pipeline.rdkit.match = Mock(
+                return_value=MatchResult(
+                    is_match=False,
+                    r_group_map=None,
+                    method=MatchMethod.RDKIT,
+                    reasoning="no match",
+                )
+            )
+            pipeline.subs_matcher.run = Mock(
+                return_value=FusedMatchResult(r_group_matching={}, reasoning="no verified map")
+            )
+            pipeline.req_examiner.run = Mock()
+            pipeline.reporter.run = Mock()
+
+            result = pipeline.run("US123", "CC", markush_caption="<r>R1</r>N")
+
+        self.assertFalse(result.is_protected)
+        self.assertEqual(result.confidence, Confidence.VERY_LOW)
+        pipeline.req_examiner.run.assert_not_called()
+        pipeline.reporter.run.assert_not_called()
+
+
+class InfringementDatasetRunnerTests(unittest.TestCase):
+    def test_first_image_empty_caption_retries_after_clearing_cache(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            image_path = Path(tmpdir) / "image.png"
+            image_path.write_bytes(b"not-used")
+
+            scraper = Mock()
+            scraper.fetch.return_value = PatentDocument(
+                patent_id="US123",
+                images=[PatentImage(path=str(image_path))],
+            )
+            grapher = Mock()
+            grapher.predict.side_effect = [
+                MarkushStructure(cxsmiles="", substituent_table={}, caption=""),
+                MarkushStructure(
+                    cxsmiles="C*",
+                    substituent_table={},
+                    caption="<r>R1</r>C",
+                    source_image_path=str(image_path),
+                ),
+            ]
+
+            structure, error = _resolve_first_image_markush_structure(
+                "US123",
+                scraper,
+                grapher,
+                caption_empty_retries=3,
+            )
+
+        self.assertIsNone(error)
+        self.assertEqual(structure.caption, "<r>R1</r>C")
+        grapher.clear_cache.assert_called_once_with(str(image_path))
+
+
+class PatentabilityPipelineTests(unittest.TestCase):
+    def test_merge_prior_art_candidates_filters_invalid_and_dedupes(self) -> None:
+        pipeline = PatentabilityPipeline.__new__(PatentabilityPipeline)
+        pipeline.max_prior_arts = 10
+
+        merged, notes = pipeline._merge_prior_art_candidates(
+            suggested_ids=["us 123", "fake-id", "WO2020252229A2"],
+            known_prior_art_ids=["US123", "  us123 "],
+        )
+
+        self.assertEqual(
+            merged,
+            [("US123", "user-supplied"), ("WO2020252229A2", "LLM-suggested")],
+        )
+        self.assertEqual(len(notes), 1)
+        self.assertIn("fake-id", notes[0])
+
+    def test_run_only_uses_verified_prior_arts(self) -> None:
+        config = {
+            "pipelines": {"patentability": {"max_prior_arts": 10}},
+            "tools": {"markush_grapher": {"mode": "remote", "endpoint": "http://unused.test"}},
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "dummy", "api_key_env": "OPENAI_API_KEY"},
+        }
+
+        with patch("pipelines.patentability.PatentScraperTool") as scraper_cls, patch(
+            "pipelines.patentability.MarkushGrapherTool"
+        ) as grapher_cls, patch("pipelines.patentability.LLMClient") as llm_cls:
+            scraper = scraper_cls.return_value
+            scraper.fetch.side_effect = [
+                PatentDocument(patent_id="US123", images=[]),
+                RuntimeError("not found"),
+            ]
+            grapher_cls.return_value.predict.return_value = MarkushStructure(
+                cxsmiles="C*",
+                substituent_table={},
+            )
+            llm_cls.return_value = Mock()
+
+            pipeline = PatentabilityPipeline(config)
+            pipeline.prior_art_searcher.run = Mock(
+                return_value={"patent_ids": ["US123", "US404404404"], "reasoning": ""}
+            )
+            pipeline.novelty_analyzer.run = Mock(
+                return_value={"novelty_score": 0.2, "risk_points": [], "suggestions": []}
+            )
+            pipeline.reporter.run = Mock(return_value={"detailed_analysis": "done"})
+
+            result = pipeline.run(proposed_cxsmiles="C*")
+
+        self.assertEqual([pa.patent_id for pa in result.prior_arts], ["US123"])
+        self.assertTrue(any("US404404404" in note for note in result.risk_points))
+
+
+class MarkushGrapherRemoteTests(unittest.TestCase):
+    def test_remote_batch_preserves_order_and_skips_missing_files(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            image_path = Path(tmpdir) / "image.png"
+            Image.new("RGB", (4, 4), color="white").save(image_path)
+            missing_path = Path(tmpdir) / "missing.png"
+
+            tool = MarkushGrapherTool(
+                {
+                    "tools": {
+                        "markush_grapher": {
+                            "mode": "remote",
+                            "endpoint": "http://example.test/predict",
+                        }
+                    }
+                }
+            )
+
+            response = Mock()
+            response.json.return_value = {
+                "data": {
+                    "smi": ["C*"],
+                    "caption": ["C*<sep><a>0:R[1]</a>"],
+                    "score": [0.9],
+                    "markush": [True],
+                }
+            }
+            response.raise_for_status.return_value = None
+
+            with patch("tools.markush_grapher.requests.post", return_value=response) as post_mock:
+                results = tool.predict_batch([str(image_path), str(missing_path)])
+
+        self.assertEqual(len(results), 2)
+        self.assertTrue(results[0].is_markush)
+        self.assertEqual(results[1].caption, "")
+        post_mock.assert_called_once()
+
+    def test_remote_batch_rejects_length_mismatch(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            image_path = Path(tmpdir) / "image.png"
+            Image.new("RGB", (4, 4), color="white").save(image_path)
+
+            tool = MarkushGrapherTool(
+                {
+                    "tools": {
+                        "markush_grapher": {
+                            "mode": "remote",
+                            "endpoint": "http://example.test/predict",
+                        }
+                    }
+                }
+            )
+
+            response = Mock()
+            response.json.return_value = {
+                "data": {
+                    "smi": ["C*", "N*"],
+                    "caption": ["c1", "c2"],
+                    "score": [0.9, 0.8],
+                    "markush": [True, False],
+                }
+            }
+            response.raise_for_status.return_value = None
+
+            with patch("tools.markush_grapher.requests.post", return_value=response):
+                with self.assertRaisesRegex(RuntimeError, "length mismatch"):
+                    tool.predict_batch([str(image_path)])
+
+
+class MarkushGrapherLocalTests(unittest.TestCase):
+    def test_local_batch_retries_on_cpu_after_cuda_oom(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            image_path = Path(tmpdir) / "image.png"
+            model_dir = Path(tmpdir) / "model"
+            ocr_dir = Path(tmpdir) / "ocr"
+            Image.new("RGB", (4, 4), color="white").save(image_path)
+            model_dir.mkdir()
+            ocr_dir.mkdir()
+
+            tool = MarkushGrapherTool(
+                {
+                    "tools": {
+                        "markush_grapher": {
+                            "mode": "local",
+                            "python_bin": sys.executable,
+                            "model_dir": str(model_dir),
+                            "ocr_model_dir": str(ocr_dir),
+                        }
+                    }
+                }
+            )
+
+            oom_proc = Mock(
+                returncode=1,
+                stdout="",
+                stderr="RuntimeError: CUDA error: out of memory",
+            )
+            ok_proc = Mock(
+                returncode=0,
+                stdout=json.dumps(
+                    [
+                        {
+                            "path": str(image_path),
+                            "caption": "C*<sep><a>0:R[1]</a>",
+                            "smi": "C*",
+                            "is_markush": True,
+                            "score": 0.9,
+                        }
+                    ]
+                ),
+                stderr="",
+            )
+
+            with patch(
+                "tools.markush_grapher.subprocess.run",
+                side_effect=[oom_proc, ok_proc],
+            ) as run_mock:
+                results = tool.predict_batch([str(image_path)])
+
+        self.assertEqual(len(results), 1)
+        self.assertTrue(results[0].is_markush)
+        self.assertEqual(run_mock.call_count, 2)
+        self.assertNotIn("CUDA_VISIBLE_DEVICES", run_mock.call_args_list[0].kwargs["env"])
+        self.assertEqual(run_mock.call_args_list[1].kwargs["env"]["CUDA_VISIBLE_DEVICES"], "")
+
+
+if __name__ == "__main__":
+    unittest.main()

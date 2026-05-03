@@ -1,0 +1,56 @@
+# Multi-Agent for Markush — 全局配置
+
+# LLM 配置
+llm:
+  provider: openai          # openai / anthropic / google
+  model: qwen-max           # 阿里云百炼模型
+  api_key_env: OPENAI_API_KEY  # 从环境变量读取
+  base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  max_tokens: 4096
+  temperature: 0.1
+  # 统一约束所有 LLM 输出：解释、报告、建议等自然语言内容用中文；
+  # JSON key、枚举值、专利号、SMILES/CXSMILES 等机器字段保持原样。
+  output_language_instruction: |
+    Output language requirements:
+    - All human-readable natural-language values in your response must be Simplified Chinese.
+    - Keep JSON object keys, enum values, patent IDs, SMILES/CXSMILES, chemical formulas, and code-like identifiers exactly as requested by the schema or input.
+    - For JSON outputs, only translate the string/list/dict values that are explanations, reports, summaries, reasoning, risks, suggestions, or other prose.
+    - When JSON is requested, return valid JSON only.
+
+# Tool endpoints
+tools:
+  # MarkushGrapher: 图片 → CXSMILES
+  markush_grapher:
+    mode: remote             # local / remote
+    endpoint: "http://127.0.0.1:9100/predict"  # remote 模式下的 HTTP endpoint
+    request_timeout: 1800
+    root_dir: "third_party/MarkushGrapher"
+    python_bin: "third_party/MarkushGrapher/.venvs/markushgrapher/bin/python"
+    model_dir: "third_party/MarkushGrapher/models/markushgrapher-2"
+    ocr_model_dir: "third_party/MarkushGrapher/models/chemicalocr"
+    cache_dir: "cache/markush_grapher"
+    num_beams: 1
+
+  # ChemicalOCR: 图片 → text + bbox
+  chemical_ocr:
+    mode: remote
+    endpoint: ""
+    model_dir: "third_party/MarkushGrapher/models/chemicalocr"
+
+
+# 专利爬取
+patent:
+  cache_root: cache/google_patent
+  extract_method: google_patent   # google_patent / pdf
+
+# 管线配置
+pipelines:
+  infringement:
+    use_rdkit: true
+    use_markush_grapher: true
+    min_markush_score: 0.5
+    markush_empty_retry_max: 3
+
+  patentability:
+    max_prior_arts: 10
+    novelty_threshold: 0.5

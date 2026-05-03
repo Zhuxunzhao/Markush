@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Murkush Multi-Agent Intelligence</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="bg-fx"></div>
+
+    <div class="app-shell">
+      <header class="hero glass-panel">
+        <div class="hero-copy">
+          <div class="badge">✨ NEURAL MULTI-AGENT WORKBENCH</div>
+          <h1>Markush 专利智能编排台</h1>
+          <p class="hero-text">
+            搭载全新一代的 Multi-Agent 集成网络，将专利抓取、结构协同识别、动态权利解析与智能化评估汇聚于统一神经中枢。让每个 Agent 的推理过程与协作链路全息可见。
+          </p>
+          <div class="hero-metrics">
+            <div class="metric glass-card">
+              <span class="metric-value">协同作业</span>
+              <span class="metric-label">Agent Swarm</span>
+            </div>
+            <div class="metric glass-card">
+              <span class="metric-value" id="active-agents-count">8+</span>
+              <span class="metric-label">Neural Nodes</span>
+            </div>
+            <div class="metric glass-card">
+              <span class="metric-value text-teal">Live</span>
+              <span class="metric-label">Quantum Telemetry</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="hero-network" aria-hidden="true">
+          <!-- Dynamic Agent Topology Visualization -->
+          <div class="network-center">
+            <div class="core-pulse"></div>
+            <div class="core-node">Multi-Agent Core</div>
+          </div>
+          <!-- Orbiting Nodes -->
+          <div class="orbit orbit-1">
+            <div class="agent-node node-scraper">Scraping</div>
+            <div class="agent-node node-grapher">Vision</div>
+          </div>
+          <div class="orbit orbit-2">
+            <div class="agent-node node-claims">NLP</div>
+            <div class="agent-node node-rdkit">RDKit</div>
+            <div class="agent-node node-matcher">Fusion</div>
+          </div>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <section class="control-panel glass-panel">
+          <div class="panel-head">
+            <div>
+              <p class="section-kicker"><span class="pulse-dot"></span> Mission Control</p>
+              <h2>启动智能推演</h2>
+            </div>
+            <div class="mode-switch" role="tablist" aria-label="分析模式">
+              <button class="mode-button is-active" data-mode="infringement" type="button">侵权分析网络</button>
+              <button class="mode-button" data-mode="patentability" type="button">可专利网络</button>
+            </div>
+          </div>
+
+          <div class="form-container">
+            <form id="infringement-form" class="analysis-form">
+              <div class="input-group">
+                <label>
+                  <span>🎯 Patent ID (目标专利号)</span>
+                  <input name="patent_id" value="WO2020252229A2" placeholder="WO2020252229A2" />
+                </label>
+                <label>
+                  <span>🧬 Target SMILES (目标分子)</span>
+                  <textarea name="smiles" rows="2" placeholder="输入目标分子的 SMILES">CCc1cncc(NCc2cccnc2)n1</textarea>
+                </label>
+                <label>
+                  <span>🌌 Markush Caption（辅助参数/可选）</span>
+                  <textarea name="caption" rows="2" placeholder="直接提供 caption，可跳过图片识别"></textarea>
+                </label>
+              </div>
+              <div class="form-actions">
+                <button class="cyber-button" type="submit">
+                  <span class="btn-text">INITIALIZE AGENTS</span>
+                  <span class="btn-bg"></span>
+                </button>
+              </div>
+            </form>
+
+            <form id="patentability-form" class="analysis-form is-hidden">
+              <div class="input-group">
+                <label>
+                  <span>🧪 Proposed CXSMILES (拟申请结构)</span>
+                  <textarea name="cxsmiles" rows="2" placeholder="输入拟申请的 CXSMILES">*C1CC(*)CC1<sep><a>0:R[1]</a><a>3:R[2]</a></textarea>
+                </label>
+                <label>
+                  <span>🔬 技术领域 (Tech Domain)</span>
+                  <input name="domain" value="kinase inhibitors" placeholder="例如 kinase inhibitors" />
+                </label>
+                <label>
+                  <span>📚 已知先有技术 (Prior Arts)</span>
+                  <input name="prior_arts" placeholder="US12345678, WO2024000001 (可选)" />
+                </label>
+              </div>
+              <div class="form-actions">
+                <button class="cyber-button" type="submit">
+                  <span class="btn-text">INITIALIZE AGENTS</span>
+                  <span class="btn-bg"></span>
+                </button>
+              </div>
+            </form>
+          </div>
+        </section>
+
+        <section class="status-band glass-panel">
+          <div class="status-card">
+            <span class="status-label">SYS_MODE</span>
+            <strong id="job-mode" class="text-neon">STANDBY</strong>
+          </div>
+          <div class="status-card">
+            <span class="status-label">STATUS</span>
+            <strong id="job-status" class="text-neon">IDLE</strong>
+          </div>
+          <div class="status-card">
+            <span class="status-label">JOB_ID</span>
+            <strong id="job-id" class="text-dim">---</strong>
+          </div>
+          <div class="status-card">
+            <span class="status-label">EVENTS</span>
+            <strong id="job-events" class="text-cyan">0</strong>
+          </div>
+        </section>
+
+        <section class="grid layout-grid">
+          <div class="agent-board glass-panel">
+            <div class="panel-head">
+              <div>
+                <p class="section-kicker">Multi-Agent Swarm</p>
+                <h2>协同处理链路</h2>
+              </div>
+            </div>
+            <div id="agent-grid" class="agent-grid">
+              <!-- Dynamically populated by JS -->
+            </div>
+          </div>
+
+          <div class="telemetry-stack">
+            <div class="telemetry-panel glass-panel">
+              <div class="panel-head">
+                <div>
+                  <p class="section-kicker">Live Telemetry</p>
+                  <h2>Agent 神经日志流</h2>
+                </div>
+              </div>
+              <div id="event-log" class="event-log code-font">
+                <div class="log-empty">&gt; _ awaiting agent initialization...</div>
+              </div>
+            </div>
+
+            <div class="telemetry-panel glass-panel">
+              <div class="panel-head">
+                <div>
+                  <p class="section-kicker">Intelligence Output</p>
+                  <h2>最终决策与结论</h2>
+                </div>
+              </div>
+              <div id="result-panel" class="result-panel">
+                <div class="result-empty">神经协同计算收敛后此处输出综合结果。</div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,368 @@
+"""专利侵权分析管线
+
+输入: target_smiles + patent_id
+输出: InfringementResult
+
+流程:
+1. PatentScraper → 获取专利文本 + 图片
+2. MarkushGrapher → 图片识别为 CXSMILES (可选)
+3. ClaimAnalyzer → 分析权利要求
+4. RDKitMatcher → 子结构匹配
+5. SubsMatcher → 融合验证
+6. RequirementsExaminer → 判断 is_protected
+7. ReportGenerator → 生成报告
+"""
+
+from __future__ import annotations
+from typing import Any, Optional
+import json
+import dataclasses
+
+from schemas.types import (
+    InfringementResult,
+    MatchResult,
+    FusedMatchResult,
+    RequirementsResult,
+    Confidence,
+    MarkushStructure,
+    MatchMethod,
+    PatentDocument,
+)
+from tools.patent_scraper import PatentScraperTool
+from tools.markush_grapher import MarkushGrapherTool
+from tools.markush_caption import normalize_markush_caption
+from tools.rdkit_matcher import RDKitMatcherTool
+from tools.llm_client import LLMClient
+from tools.logger import log
+from agents.claim_analyzer import ClaimAnalyzerAgent, ClaimAnalysis
+from agents.subs_matcher import SubsMatcherAgent
+from agents.requirements_examiner import RequirementsExaminerAgent
+from agents.report_generator import ReportGeneratorAgent
+
+
+def _dump(obj) -> str:
+    """Pretty-print a dataclass or dict for verbose logging."""
+    if dataclasses.is_dataclass(obj) and not isinstance(obj, type):
+        return json.dumps(dataclasses.asdict(obj), ensure_ascii=False, indent=2, default=str)
+    if isinstance(obj, dict):
+        return json.dumps(obj, ensure_ascii=False, indent=2, default=str)
+    return str(obj)
+
+
+class InfringementPipeline:
+    def __init__(self, config: dict):
+        self.config = config
+        pipe_cfg = config["pipelines"]["infringement"]
+        self.min_markush_score = pipe_cfg.get("min_markush_score", 0.5)
+        self.markush_empty_retry_max = int(pipe_cfg.get("markush_empty_retry_max", 3))
+
+        # Tools
+        self.scraper = PatentScraperTool(config)
+        self.markush_grapher = MarkushGrapherTool(config) if pipe_cfg["use_markush_grapher"] else None
+        self.rdkit = RDKitMatcherTool() if pipe_cfg["use_rdkit"] else None
+
+        # Agents
+        llm = LLMClient(config)
+        self.claim_analyzer = ClaimAnalyzerAgent(llm)
+        self.subs_matcher = SubsMatcherAgent(llm)
+        self.req_examiner = RequirementsExaminerAgent(llm)
+        self.reporter = ReportGeneratorAgent(llm)
+
+    def _is_usable_markush(self, structure: MarkushStructure) -> bool:
+        if not structure.caption:
+            return False
+        if normalize_markush_caption(structure.caption):
+            return True
+        if structure.is_markush:
+            return True
+        return "<sep>" in structure.caption and structure.score >= self.min_markush_score
+
+    def _no_verified_match_result(
+        self,
+        patent_id: str,
+        target_smiles: str,
+        markush: Optional[MarkushStructure],
+        fused: FusedMatchResult,
+        reason: str,
+        llm_outputs: Optional[dict] = None,
+    ) -> InfringementResult:
+        requirements = RequirementsResult(
+            is_protected=False,
+            confidence=Confidence.VERY_LOW,
+            reasoning=reason,
+            r_group_analysis={},
+        )
+        return InfringementResult(
+            patent_id=patent_id,
+            target_smiles=target_smiles,
+            is_protected=False,
+            confidence=Confidence.VERY_LOW,
+            markush_structure=markush,
+            fused_match=fused,
+            requirements=requirements,
+            llm_outputs=llm_outputs or {},
+            report=reason,
+        )
+
+    def _predict_first_image_markush(
+        self,
+        patent: PatentDocument,
+    ) -> Optional[MarkushStructure]:
+        if not self.markush_grapher or not patent.images:
+            return None
+
+        first_image = patent.images[0]
+        if not first_image.path:
+            log.warning("  First patent image has no local path")
+            return None
+
+        max_attempts = max(1, self.markush_empty_retry_max)
+        last_structure: Optional[MarkushStructure] = None
+        for attempt in range(1, max_attempts + 1):
+            if attempt > 1:
+                self.markush_grapher.clear_cache(first_image.path)
+                log.info(
+                    f"  Retrying first-image Markush recognition after empty caption "
+                    f"({attempt}/{max_attempts})"
+                )
+
+            structure = self.markush_grapher.predict(first_image.path)
+            last_structure = structure
+            if structure.caption:
+                first_image.structure = structure
+                if self._is_usable_markush(structure):
+                    return structure
+                log.info(
+                    "  First image produced a non-empty but unusable caption "
+                    f"(score={structure.score:.2f}, image={first_image.path})"
+                )
+                return structure
+
+        log.warning(
+            f"  First image produced empty caption after {max_attempts} attempt(s)"
+        )
+        return last_structure
+
+    def run(
+        self,
+        patent_id: str,
+        target_smiles: str,
+        markush_caption: Optional[str] = None,
+        markush_structure: Optional[MarkushStructure] = None,
+    ) -> InfringementResult:
+        """执行完整的侵权分析管线
+
+        Args:
+            patent_id: 专利号
+            target_smiles: 目标分子 SMILES
+            markush_caption: 可选，直接提供 Markush caption 跳过图片识别
+
+        Returns:
+            InfringementResult
+        """
+        log.set_total_steps(7)
+        llm_outputs: dict[str, Any] = {}
+
+        # Step 1: 获取专利
+        log.step(f"Fetching patent {patent_id}")
+        try:
+            patent = self.scraper.fetch(patent_id)
+        except Exception as e:
+            log.error(f"Failed to fetch patent: {e}")
+            return InfringementResult(
+                patent_id=patent_id,
+                target_smiles=target_smiles,
+                is_protected=False,
+                confidence=Confidence.VERY_LOW,
+                llm_outputs=llm_outputs,
+                report=f"Error: Failed to fetch patent {patent_id}: {e}",
+            )
+
+        log.info(f"  >> claims_text length: {len(patent.claims_text)} chars")
+        log.info(f"  >> images found: {len(patent.images)}")
+        log.info(f"  >> claims_text (first 800 chars):\n{patent.claims_text[:800]}")
+
+        # Step 2: 识别 Markush 结构（如果未直接提供）
+        markush: Optional[MarkushStructure] = None
+        if markush_structure:
+            log.step("Using provided Markush structure")
+            markush = markush_structure
+            markush_caption = markush_structure.caption
+        elif markush_caption:
+            log.step("Using provided Markush caption")
+            markush = MarkushStructure(
+                cxsmiles="", caption=markush_caption, substituent_table={}
+            )
+        elif self.markush_grapher and patent.images:
+            log.step("Recognizing Markush structure from first image")
+            try:
+                markush = self._predict_first_image_markush(patent)
+                if markush and markush.caption:
+                    markush_caption = markush.caption
+            except Exception as e:
+                log.warning(f"  Markush recognition failed: {e}")
+        else:
+            log.step("Skipping Markush recognition (not configured or no images)")
+
+        log.info(f"  >> markush_caption: {markush_caption}")
+
+        if not markush_caption:
+            log.warning("No Markush structure found — cannot perform infringement analysis")
+            return InfringementResult(
+                patent_id=patent_id,
+                target_smiles=target_smiles,
+                is_protected=False,
+                confidence=Confidence.VERY_LOW,
+                llm_outputs=llm_outputs,
+                report="No Markush structure found in patent. Cannot perform infringement analysis.",
+            )
+
+        # Step 3: 分析权利要求
+        log.step("Analyzing patent claims")
+        claim_analysis: Optional[ClaimAnalysis] = None
+        try:
+            claim_analysis = self.claim_analyzer.run(
+                claims_text=patent.claims_text,
+                markush_captions=[markush_caption],
+            )
+            llm_outputs["claim_analysis"] = self.claim_analyzer.last_llm_response
+            # Prefer the broadest claim caption if the analyzer identified one
+            if claim_analysis.primary_markush_caption:
+                markush_caption = claim_analysis.primary_markush_caption
+                log.info(f"  Using primary Markush caption from claim analysis")
+            log.info(f"  >> ClaimAnalysis:\n{_dump(claim_analysis)}")
+        except Exception as e:
+            llm_outputs["claim_analysis"] = {"error": str(e)}
+            log.warning(f"  Claim analysis failed: {e}, continuing with original caption")
+
+        normalized_markush_caption = normalize_markush_caption(markush_caption)
+        if normalized_markush_caption and normalized_markush_caption != markush_caption:
+            log.info(f"  >> normalized_markush_caption: {normalized_markush_caption}")
+
+        # Step 4: 子结构匹配
+        log.step("Running substructure matching")
+        rdkit_result: Optional[MatchResult] = None
+
+        if self.rdkit:
+            try:
+                rdkit_result = self.rdkit.match(markush_caption, target_smiles)
+                log.info(f"  RDKit: match={rdkit_result.is_match}")
+                log.info(f"  >> RDKit MatchResult:\n{_dump(rdkit_result)}")
+            except Exception as e:
+                log.warning(f"  RDKit matcher raised an error: {e}")
+                rdkit_result = MatchResult(
+                    is_match=None,
+                    r_group_map=None,
+                    method=MatchMethod.RDKIT,
+                    reasoning=f"Error: {e}",
+                )
+
+        # Step 5: 融合验证
+        log.step("Fusing and verifying matches")
+        try:
+            fused: FusedMatchResult = self.subs_matcher.run(
+                markush_caption=normalized_markush_caption or markush_caption,
+                target_smiles=target_smiles,
+                rdkit_result=rdkit_result,
+            )
+            llm_outputs["match_fusion"] = self.subs_matcher.last_llm_response
+            fused.rdkit_result = rdkit_result
+            if (
+                not fused.r_group_matching
+                and rdkit_result
+                and rdkit_result.is_match is True
+                and rdkit_result.r_group_map
+            ):
+                fused.r_group_matching = rdkit_result.r_group_map
+                log.info("  Using RDKit R-group map as fused mapping fallback")
+            log.info(f"  >> FusedMatchResult:\n{_dump(fused)}")
+        except Exception as e:
+            log.error(f"  Match fusion failed: {e}")
+            return InfringementResult(
+                patent_id=patent_id,
+                target_smiles=target_smiles,
+                is_protected=False,
+                confidence=Confidence.VERY_LOW,
+                markush_structure=markush,
+                llm_outputs=llm_outputs,
+                report=f"Error during match fusion: {e}",
+            )
+
+        if not fused.r_group_matching:
+            if not rdkit_result or rdkit_result.is_match is not True:
+                reason = (
+                    "No verified skeleton/R-group match was produced. "
+                    "Skipping claim requirement examination to avoid a high-confidence "
+                    "conclusion from an empty or invalid R-group mapping."
+                )
+                log.warning(f"  {reason}")
+                return self._no_verified_match_result(
+                    patent_id=patent_id,
+                    target_smiles=target_smiles,
+                    markush=markush,
+                    fused=fused,
+                    reason=reason,
+                    llm_outputs=llm_outputs,
+                )
+
+        # Step 6: R 基团约束检查
+        log.step("Examining requirements")
+        try:
+            req_result: RequirementsResult = self.req_examiner.run(
+                markush_caption=normalized_markush_caption or markush_caption,
+                target_smiles=target_smiles,
+                r_group_matching=fused.r_group_matching,
+                claim_text=patent.claims_text,
+            )
+            llm_outputs["requirements_examination"] = self.req_examiner.last_llm_response
+            log.info(f"  >> RequirementsResult:\n{_dump(req_result)}")
+        except Exception as e:
+            log.error(f"  Requirements examination failed: {e}")
+            return InfringementResult(
+                patent_id=patent_id,
+                target_smiles=target_smiles,
+                is_protected=False,
+                confidence=Confidence.VERY_LOW,
+                markush_structure=markush,
+                fused_match=fused,
+                llm_outputs=llm_outputs,
+                report=f"Error during requirements examination: {e}",
+            )
+
+        # Step 7: 生成报告
+        log.step("Generating report")
+        try:
+            report_data = {
+                "patent_id": patent_id,
+                "target_smiles": target_smiles,
+                "markush_caption": markush_caption,
+                "fused_match": fused.r_group_matching,
+                "is_protected": req_result.is_protected,
+                "requirements_reasoning": req_result.reasoning,
+                "r_group_analysis": req_result.r_group_analysis,
+            }
+            report = self.reporter.run(
+                report_type="infringement",
+                analysis_data=report_data,
+            )
+            llm_outputs["infringement_report"] = self.reporter.last_llm_response
+            log.info(f"  >> Report:\n{_dump(report)}")
+        except Exception as e:
+            llm_outputs["infringement_report"] = {"error": str(e)}
+            log.warning(f"  Report generation failed: {e}, using fallback")
+            report = {
+                "confidence": "moderate",
+                "detailed_analysis": f"Analysis completed but report generation failed: {e}",
+            }
+
+        return InfringementResult(
+            patent_id=patent_id,
+            target_smiles=target_smiles,
+            is_protected=req_result.is_protected,
+            confidence=req_result.confidence,
+            markush_structure=markush,
+            fused_match=fused,
+            requirements=req_result,
+            llm_outputs=llm_outputs,
+            report=report.get("detailed_analysis", ""),
+        )
