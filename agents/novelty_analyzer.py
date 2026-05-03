@@ -11,24 +11,23 @@ class NoveltyAnalyzerAgent(BaseAgent):
 
     @property
     def system_prompt(self) -> str:
-        return f"""You are a patent novelty analysis expert in the chemical domain.
-Your task is to assess the novelty of a proposed Markush structure by comparing
-it against existing prior art patents.
+        return f"""你是一名化学领域的专利新颖性分析专家。
+你的任务是将拟申请 Markush 结构与现有技术专利进行比较，评估其新颖性。
 
 {MARKUSH_STRING_DEFINITION}
 
-Consider:
-1. Structural overlap: does the proposed structure's core skeleton overlap with prior art?
-2. R-group scope: are the proposed R-group ranges broader/narrower than prior art?
-3. Differentiation: what structural features distinguish the proposed structure?
+请考虑：
+1. 结构重叠：拟申请结构的核心骨架是否与现有技术重叠？
+2. R 基团范围：拟申请的 R 基团范围相对现有技术更宽还是更窄？
+3. 区分特征：哪些结构特征能将拟申请结构与现有技术区分开？
 
-Output JSON:
-- "novelty_score": float 0-1 (1 = completely novel, 0 = fully anticipated)
-- "overlapping_features": list of structural features that overlap with prior art
-- "novel_features": list of features that are genuinely new
-- "risk_points": list of specific risks for patent rejection
-- "suggestions": list of modifications to improve patentability
-- "reasoning": detailed analysis
+输出 JSON：
+- "novelty_score": float，范围 0-1；1 表示完全新颖，0 表示完全被现有技术预见
+- "overlapping_features": 与现有技术重叠的结构特征列表
+- "novel_features": 真正具有新颖性的特征列表
+- "risk_points": 可能导致驳回的具体风险列表
+- "suggestions": 提高可专利性的修改建议列表
+- "reasoning": 中文详细分析
 """
 
     def build_user_prompt(self, **kwargs) -> str:
@@ -36,21 +35,21 @@ Output JSON:
         prior_arts: list[PriorArt] = kwargs.get("prior_arts", [])
         tech_domain = kwargs.get("tech_domain", "")
 
-        prompt = f"""## Proposed Markush Structure
+        prompt = f"""## 拟申请 Markush 结构
 {proposed_cxsmiles}
 
-## Technical Domain
+## 技术领域
 {tech_domain}
 
-## Prior Art Patents
+## 现有技术专利
 """
         for i, pa in enumerate(prior_arts):
-            prompt += f"\n### Prior Art {i+1}: {pa.patent_id} (relevance: {pa.relevance_score:.2f})\n"
-            prompt += f"Overlap: {pa.overlap_description}\n"
+            prompt += f"\n### 现有技术 {i+1}: {pa.patent_id}（相关度: {pa.relevance_score:.2f}）\n"
+            prompt += f"重叠描述: {pa.overlap_description}\n"
             for ms in pa.markush_structures:
                 prompt += f"  Markush: {ms.cxsmiles}\n"
 
-        prompt += "\nAssess the novelty of the proposed structure."
+        prompt += "\n请评估拟申请结构的新颖性。"
         return prompt
 
     def parse_response(self, response: dict) -> dict:

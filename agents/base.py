@@ -18,35 +18,35 @@ logger = logging.getLogger("markush.agents")
 
 # 共享的领域知识定义（复用 patent_finder 的 llm_utils 模式）
 MARKUSH_STRING_DEFINITION = """
-A Markush string represents a chemical structure with variable groups (R-groups).
-Format: SMILES<sep>EXTENSION
-- SMILES part: molecular structure with * as R-group placeholders
-- EXTENSION part: XML-style annotations mapping atom indices to R-group labels
-  e.g. <a>0:R[1]</a><a>12:R[2]</a><r>1:R[3]</r>
-  - <a>idx:label</a> = atom substitution at atom index
-  - <r>idx:label</r> = ring substitution at ring index
-  - <c>idx:label</c> = circle substitution
-  - <dum> = connection point (dummy atom)
-  - GROUP_NAME can be abbreviation or full name (R, X, Y, Z, Ph, Me, OMe, CF3, etc.)
-  - Subscripts are appended with brackets: R[1], R[2], R[3]
+Markush 字符串表示带有可变基团（R-groups）的化学结构。
+格式：SMILES<sep>EXTENSION
+- SMILES 部分：分子骨架，其中 * 表示 R 基团占位符
+- EXTENSION 部分：XML 风格标注，用于把原子/环索引映射到 R 基团标签
+  例如：<a>0:R[1]</a><a>12:R[2]</a><r>1:R[3]</r>
+  - <a>idx:label</a> = 在原子 idx 位置发生取代
+  - <r>idx:label</r> = 在环 idx 位置发生取代
+  - <c>idx:label</c> = 圆形结构/可变连接处的取代
+  - <dum> = 连接点（dummy atom）
+  - GROUP_NAME 可以是缩写或全称，例如 R、X、Y、Z、Ph、Me、OMe、CF3 等
+  - 下标用方括号表示：R[1]、R[2]、R[3]
 """
 
 RGROUP_MAPPING_DEFINITION = """
-An R-group mapping is a dictionary where:
-- Keys are R-group labels (e.g. "R1", "R[1]", "X", "Y")
-- Values are SMILES strings representing the actual substituent
-  e.g. {"R1": "CH3", "R2": "c1ccccc1", "X": "Cl"}
+R 基团映射是一个字典：
+- 键是 R 基团标签，例如 "R1"、"R[1]"、"X"、"Y"
+- 值是表示实际取代基的 SMILES 字符串
+  例如：{"R1": "CH3", "R2": "c1ccccc1", "X": "Cl"}
 
-The R-group values are considered correct iff when we replace the R-groups
-in the Markush structure with the corresponding values, we get the query molecule.
+只有当把 Markush 结构中的 R 基团替换为对应取代基后能够得到查询分子时，
+该 R 基团映射才视为正确。
 """
 
 CONFIDENCE_SCORE_DEFINITION = """
-Scoring Criteria:
-- High Confidence (80-99.9): Clear evidence, precise Markush match, unambiguous claim requirements met.
-- Moderate Confidence (50-79): Some ambiguities in claim requirements or minor match uncertainties.
-- Low Confidence (20-49): Contradictory evidence, partial overlap, broadly interpreted claims.
-- Very Low Confidence (0-19): Little to no evidence, significant mismatches.
+置信度判定标准：
+- high（80-99.9）：证据清晰，Markush 精确匹配，权利要求要件明确满足。
+- moderate（50-79）：权利要求存在一定歧义，或匹配结果有轻微不确定性。
+- low（20-49）：证据相互矛盾、仅部分重叠，或需要较宽泛地解释权利要求。
+- very_low（0-19）：几乎没有证据，或存在显著不匹配。
 """
 
 

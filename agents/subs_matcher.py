@@ -15,28 +15,24 @@ class SubsMatcherAgent(BaseAgent):
 
     @property
     def system_prompt(self) -> str:
-        return f"""You are an expert in chemical patents and molecular representations.
-Your task is to verify the correctness of the substructure match result between
-the Markush claim and the query molecule.
+        return f"""你是一名化学专利与分子表示专家。
+你的任务是核验 Markush 权利要求与查询分子之间的子结构匹配结果是否正确。
 
 {MARKUSH_STRING_DEFINITION}
 {RGROUP_MAPPING_DEFINITION}
 
-Rules:
-- If RDKit provides a valid match, prefer it (higher reliability for skeleton matching)
-- If RDKit fails but NN succeeds, use NN result with lower confidence
-- If both provide results, cross-validate: check if R-group values are consistent
-- If both fail, the molecule likely does not match the Markush skeleton
-- The R-group values are considered correct iff when we replace the R-groups
-  in the Markush structure with the corresponding values, we get the query molecule
-- Be very cautious about potential protection scope. Misclassification may lead to
-  serious legal issues
-- In your reasoning, compare each R-group definition with the query molecule,
-  and analyze the correctness of the R-group values one by one
+规则：
+- 如果 RDKit 给出了有效匹配，优先参考 RDKit 结果，因为骨架匹配可靠性更高。
+- 如果 RDKit 失败但神经网络结果成功，可以采用神经网络结果，但置信度应降低。
+- 如果两者都给出结果，需要交叉验证 R 基团取值是否一致。
+- 如果两者都失败，该分子很可能不匹配 Markush 骨架。
+- 只有当把 Markush 结构中的 R 基团替换为对应取代基后能得到查询分子时，R 基团取值才视为正确。
+- 对潜在保护范围要非常谨慎，误判可能带来严重法律风险。
+- 推理中要逐一比较每个 R 基团定义与查询分子，并逐项分析 R 基团取值是否正确。
 
-Output JSON:
-- "r_group_matching": dict of verified R-group mappings (empty dict if no match)
-- "reasoning": detailed explanation of your verification process
+输出 JSON：
+- "r_group_matching": 经核验的 R 基团映射 dict；如果不匹配则返回空 dict
+- "reasoning": 中文详细说明你的核验过程
 - "confidence": "high" / "moderate" / "low" / "very_low"
 """
 
@@ -46,27 +42,27 @@ Output JSON:
         rdkit_result: Optional[MatchResult] = kwargs.get("rdkit_result")
         nn_result: Optional[MatchResult] = kwargs.get("nn_result")
 
-        prompt = f"""## Markush Structure
+        prompt = f"""## Markush 结构
 `{markush_caption}`
 
-## Target Molecule
+## 目标分子
 `{target_smiles}`
 
-## R-Group Mapping Extracted by Chemical Software (RDKit)
-Match: {rdkit_result.is_match if rdkit_result else 'N/A'}
+## 化学软件（RDKit）提取的 R 基团映射
+是否匹配: {rdkit_result.is_match if rdkit_result else 'N/A'}
 ```json
 {json.dumps(rdkit_result.r_group_map, indent=2) if rdkit_result and rdkit_result.r_group_map else 'N/A'}
 ```
-Note: {rdkit_result.reasoning if rdkit_result else 'N/A'}
+备注: {rdkit_result.reasoning if rdkit_result else 'N/A'}
 
-## R-Group Mapping Extracted by Neural Network Model (T5)
-Match: {nn_result.is_match if nn_result else 'N/A'}
+## 神经网络模型（T5）提取的 R 基团映射
+是否匹配: {nn_result.is_match if nn_result else 'N/A'}
 ```json
 {json.dumps(nn_result.r_group_map, indent=2) if nn_result and nn_result.r_group_map else 'N/A'}
 ```
-Note: {nn_result.reasoning if nn_result else 'N/A'}
+备注: {nn_result.reasoning if nn_result else 'N/A'}
 
-Verify and fuse these results. Provide a verified R-group mapping result explicitly."""
+请核验并融合上述结果，明确给出经核验的 R 基团映射。"""
         return prompt
 
     def parse_response(self, response: dict) -> FusedMatchResult:

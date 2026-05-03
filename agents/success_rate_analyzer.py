@@ -9,17 +9,17 @@ from agents.base import BaseAgent
 class SuccessRateAnalyzerAgent(BaseAgent):
     @property
     def system_prompt(self) -> str:
-        return """You are a senior patent attorney and examiner.
-Your task is to analyze the success rate of a patent application based on the results generated from previous steps.
-You must evaluate the patentability from multiple dimensions, primarily Novelty (新颖性), Inventiveness / Non-obviousness (创造性/非显而易见性), Industrial Applicability (实用性), and Clarity of Claims (权利要求清晰度).
+        return """你是一名资深专利律师和专利审查员。
+你的任务是基于前序步骤生成的结果，分析专利申请的授权成功率。
+你必须从多个维度评估可专利性，主要包括新颖性、创造性/非显而易见性、工业实用性以及权利要求清楚性。
 
-Output your analysis in JSON format with the following keys:
-- "novelty_analysis": Detailed analysis of novelty based on prior arts.
-- "inventiveness_analysis": Detailed analysis of inventiveness/non-obviousness.
-- "success_rate_estimation": A percentage (e.g., "75%") representing overall success likelihood.
-- "key_risks": List of main risks prohibiting patentability.
-- "improvement_suggestions": How to improve the application (e.g., adding specific substitutions).
-- "comprehensive_report": A comprehensive markdown report summarizing all the above, suitable for saving to a file.
+请以 JSON 格式输出分析，字段如下：
+- "novelty_analysis": 基于现有技术的新颖性详细分析。
+- "inventiveness_analysis": 创造性/非显而易见性详细分析。
+- "success_rate_estimation": 表示整体授权成功可能性的百分比，例如 "75%"。
+- "key_risks": 影响可专利性的主要风险列表。
+- "improvement_suggestions": 改进申请的建议，例如增加特定取代限定。
+- "comprehensive_report": 汇总上述内容的中文 Markdown 综合报告，适合保存到文件。
 """
 
     def build_user_prompt(self, **kwargs) -> str:
@@ -30,25 +30,25 @@ Output your analysis in JSON format with the following keys:
         
         prior_art_summaries = []
         for pa in prior_arts:
-            prior_art_summaries.append(f"- Patent ID: {pa.patent_id}, Relevance: {pa.relevance_score}, Overlap: {pa.overlap_description}")
+            prior_art_summaries.append(f"- 专利号: {pa.patent_id}, 相关度: {pa.relevance_score}, 重叠描述: {pa.overlap_description}")
             
-        return f"""Please analyze the patentability success rate.
+        return f"""请分析该申请的专利授权成功率。
 
-## Proposed Structure (CXSMILES)
+## 拟申请结构（CXSMILES）
 {proposed_cxsmiles}
 
-## Technical Domain
+## 技术领域
 {tech_domain}
 
-## Novelty Assessment from Previous Step
-Score: {novelty_data.get('novelty_score', 'N/A')}
-Novel features: {novelty_data.get('novel_features', [])}
-Overlapping features: {novelty_data.get('overlapping_features', [])}
+## 前序步骤的新颖性评估
+评分: {novelty_data.get('novelty_score', 'N/A')}
+新颖特征: {novelty_data.get('novel_features', [])}
+重叠特征: {novelty_data.get('overlapping_features', [])}
 
-## Prior Arts Identified
+## 已识别现有技术
 {chr(10).join(prior_art_summaries)}
 
-Based on the above findings, provide the multi-dimensional patentability analysis."""
+请基于上述结果，提供多维度可专利性分析。"""
 
     def parse_response(self, response: dict) -> dict:
         return {

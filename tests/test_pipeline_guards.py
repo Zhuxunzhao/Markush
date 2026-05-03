@@ -15,10 +15,12 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from agents.base import BaseAgent
+from agents.claim_analyzer import ClaimAnalysis
+from agents.r_group_aligner import RGroupAlignmentAgent
 from agents.requirements_examiner import RequirementsExaminerAgent
 from pipelines.infringement import InfringementPipeline
 from pipelines.patentability import PatentabilityPipeline
-from schemas.types import Confidence, FusedMatchResult, MarkushStructure, MatchMethod, MatchResult, PatentDocument, PatentImage
+from schemas.types import Confidence, FusedMatchResult, MarkushStructure, MatchMethod, MatchResult, PatentDocument, PatentImage, RGroupAlignmentResult
 from scripts.run_infringement_dataset import _resolve_first_image_markush_structure
 from tools.markush_caption import inline_markush_to_rdkit_caption
 from tools.markush_grapher import MarkushGrapherTool
@@ -58,8 +60,8 @@ class LLMClientTests(unittest.TestCase):
 
         prompt = client._apply_output_language_instruction("system")
 
-        self.assertIn("Simplified Chinese", prompt)
-        self.assertIn("valid JSON", prompt)
+        self.assertIn("简体中文", prompt)
+        self.assertIn("合法 JSON", prompt)
 
     def test_output_language_instruction_is_idempotent(self) -> None:
         client = LLMClient.__new__(LLMClient)
@@ -68,7 +70,7 @@ class LLMClientTests(unittest.TestCase):
         prompt = client._apply_output_language_instruction("system")
         prompt = client._apply_output_language_instruction(prompt)
 
-        self.assertEqual(prompt.count("Output language requirements:"), 1)
+        self.assertEqual(prompt.count("输出语言要求："), 1)
 
 
 class RequirementsExaminerTests(unittest.TestCase):
@@ -93,6 +95,34 @@ class RequirementsExaminerTests(unittest.TestCase):
         parsed = agent.parse_response(
             {"is_protected": False, "confidence": "nonsense", "reasoning": "bad"}
         )
+
+        self.assertEqual(parsed.confidence, Confidence.VERY_LOW)
+
+
+class RGroupAlignmentAgentTests(unittest.TestCase):
+    def test_parse_response_reads_confidence(self) -> None:
+        agent = RGroupAlignmentAgent(llm=Mock())
+
+        parsed = agent.parse_response(
+            {
+                "aligned_r_group_matching": {"X": "aryl", "R1": "C", "R2": "C"},
+                "label_alignment": {"R1": {"claim_label": "X"}},
+                "unresolved_labels": [],
+                "reasoning": "ok",
+                "confidence": "high",
+            }
+        )
+
+        self.assertEqual(
+            parsed.aligned_r_group_matching,
+            {"X": "aryl", "R1": "C", "R2": "C"},
+        )
+        self.assertEqual(parsed.confidence, Confidence.HIGH)
+
+    def test_parse_response_falls_back_on_invalid_confidence(self) -> None:
+        agent = RGroupAlignmentAgent(llm=Mock())
+
+        parsed = agent.parse_response({"confidence": "nonsense"})
 
         self.assertEqual(parsed.confidence, Confidence.VERY_LOW)
 
@@ -157,14 +187,21 @@ class InfringementPipelineTests(unittest.TestCase):
 
             pipeline = InfringementPipeline(config)
             pipeline.claim_analyzer.run = Mock(
-                return_value=type("ClaimAnalysisStub", (), {"primary_markush_caption": ""})()
+                return_value=ClaimAnalysis(
+                    markush_claims=[
+                        {"r_group_constraints": {"R1": "halogen"}},
+                    ]
+                )
             )
             pipeline.subs_matcher.run = Mock(
-                return_value=type(
-                    "FusedMatchStub",
-                    (),
-                    {"r_group_matching": {"R1": "Cl"}, "rdkit_result": None},
-                )()
+                return_value=FusedMatchResult(r_group_matching={"R1": "Cl"})
+            )
+            pipeline.r_group_aligner.run = Mock(
+                return_value=RGroupAlignmentResult(
+                    aligned_r_group_matching={"R1": "Cl"},
+                    label_alignment={"R1": {"claim_label": "R1"}},
+                    confidence=Confidence.HIGH,
+                )
             )
             pipeline.req_examiner.run = Mock(
                 return_value=type(
@@ -186,6 +223,153 @@ class InfringementPipelineTests(unittest.TestCase):
 
         self.assertEqual(result.confidence, Confidence.LOW)
         self.assertEqual(result.report, "report text")
+
+    def test_requirements_examiner_receives_claim_aligned_mapping(self) -> None:
+        config = {
+            "pipelines": {"infringement": {"use_markush_grapher": False, "use_rdkit": False}},
+            "tools": {"markush_grapher": {}},
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "dummy", "api_key_env": "OPENAI_API_KEY"},
+        }
+        original_map = {
+            "R1": "Nc1cc(C(=O)O)cc(C(=O)O)c1",
+            "R2": "C",
+            "R3": "C",
+        }
+        aligned_map = {
+            "X": "Nc1cc(C(=O)O)cc(C(=O)O)c1",
+            "R1": "C",
+            "R2": "C",
+        }
+        label_alignment = {
+            "R1": {"claim_label": "X"},
+            "R2": {"claim_label": "R1"},
+            "R3": {"claim_label": "R2"},
+        }
+
+        with patch("pipelines.infringement.PatentScraperTool") as scraper_cls, patch(
+            "pipelines.infringement.LLMClient"
+        ) as llm_cls:
+            scraper_cls.return_value.fetch.return_value = PatentDocument(
+                patent_id="US9655879",
+                claims_text="R1 and R2 are alkyl; X is formula II.",
+            )
+            llm_cls.return_value = Mock()
+
+            pipeline = InfringementPipeline(config)
+            pipeline.claim_analyzer.run = Mock(
+                return_value=ClaimAnalysis(
+                    markush_claims=[
+                        {
+                            "r_group_constraints": {
+                                "R1": "alkyl",
+                                "R2": "alkyl",
+                                "X": "formula II",
+                            }
+                        }
+                    ]
+                )
+            )
+            pipeline.subs_matcher.run = Mock(
+                return_value=FusedMatchResult(r_group_matching=original_map)
+            )
+            pipeline.r_group_aligner.run = Mock(
+                return_value=RGroupAlignmentResult(
+                    aligned_r_group_matching=aligned_map,
+                    label_alignment=label_alignment,
+                    confidence=Confidence.HIGH,
+                )
+            )
+            pipeline.req_examiner.run = Mock(
+                return_value=type(
+                    "ReqStub",
+                    (),
+                    {
+                        "is_protected": True,
+                        "confidence": Confidence.HIGH,
+                        "reasoning": "aligned",
+                        "r_group_analysis": {"X": {"covered": True}},
+                    },
+                )()
+            )
+            pipeline.reporter.run = Mock(
+                return_value={"confidence": "high", "detailed_analysis": "report text"}
+            )
+
+            result = pipeline.run(
+                "US9655879",
+                "CC(C)(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2F)s1)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1",
+                markush_caption="*C(=O)C(*)(*)CC1=CC=C(C(=O)OC2=CC=C(C(=N)N)C=C2F)S1<sep><a>0:R1</a><a>4:R2</a><a>5:R3</a>",
+            )
+
+        req_kwargs = pipeline.req_examiner.run.call_args.kwargs
+        self.assertTrue(result.is_protected)
+        self.assertEqual(req_kwargs["r_group_matching"], aligned_map)
+        self.assertEqual(req_kwargs["original_r_group_matching"], original_map)
+        self.assertEqual(req_kwargs["label_alignment"], label_alignment)
+        self.assertEqual(result.fused_match.claim_aligned_r_group_matching, aligned_map)
+
+    def test_alignment_failure_short_circuits_requirements_examiner(self) -> None:
+        config = {
+            "pipelines": {"infringement": {"use_markush_grapher": False, "use_rdkit": False}},
+            "tools": {"markush_grapher": {}},
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "dummy", "api_key_env": "OPENAI_API_KEY"},
+        }
+
+        with patch("pipelines.infringement.PatentScraperTool") as scraper_cls, patch(
+            "pipelines.infringement.LLMClient"
+        ) as llm_cls:
+            scraper_cls.return_value.fetch.return_value = PatentDocument(
+                patent_id="US9655879",
+                claims_text="R1 and R2 are alkyl; X is formula II.",
+            )
+            llm_cls.return_value = Mock()
+
+            pipeline = InfringementPipeline(config)
+            pipeline.claim_analyzer.run = Mock(
+                return_value=ClaimAnalysis(
+                    markush_claims=[
+                        {
+                            "r_group_constraints": {
+                                "R1": "alkyl",
+                                "R2": "alkyl",
+                                "X": "formula II",
+                            }
+                        }
+                    ]
+                )
+            )
+            pipeline.subs_matcher.run = Mock(
+                return_value=FusedMatchResult(
+                    r_group_matching={
+                        "R1": "Nc1cc(C(=O)O)cc(C(=O)O)c1",
+                        "R2": "C",
+                        "R3": "C",
+                    }
+                )
+            )
+            pipeline.r_group_aligner.run = Mock(
+                return_value=RGroupAlignmentResult(
+                    unresolved_labels=["R1", "R2", "R3"],
+                    reasoning="cannot align",
+                    confidence=Confidence.VERY_LOW,
+                )
+            )
+            pipeline.req_examiner.run = Mock()
+            pipeline.reporter.run = Mock()
+
+            result = pipeline.run(
+                "US9655879",
+                "CC",
+                markush_caption="*C(=O)C(*)(*)<sep><a>0:R1</a><a>4:R2</a><a>5:R3</a>",
+            )
+
+        self.assertFalse(result.is_protected)
+        self.assertEqual(result.confidence, Confidence.VERY_LOW)
+        self.assertIn("R-group label alignment failed", result.report)
+        pipeline.req_examiner.run.assert_not_called()
+        pipeline.reporter.run.assert_not_called()
 
     def test_empty_unverified_mapping_short_circuits_requirements_examiner(self) -> None:
         config = {

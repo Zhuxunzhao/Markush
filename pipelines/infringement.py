@@ -9,19 +9,22 @@
 3. ClaimAnalyzer → 分析权利要求
 4. RDKitMatcher → 子结构匹配
 5. SubsMatcher → 融合验证
-6. RequirementsExaminer → 判断 is_protected
-7. ReportGenerator → 生成报告
+6. RGroupAlignment → 对齐 caption-local 标签与 claim 变量
+7. RequirementsExaminer → 判断 is_protected
+8. ReportGenerator → 生成报告
 """
 
 from __future__ import annotations
 from typing import Any, Optional
 import json
 import dataclasses
+import re
 
 from schemas.types import (
     InfringementResult,
     MatchResult,
     FusedMatchResult,
+    RGroupAlignmentResult,
     RequirementsResult,
     Confidence,
     MarkushStructure,
@@ -36,6 +39,7 @@ from tools.llm_client import LLMClient
 from tools.logger import log
 from agents.claim_analyzer import ClaimAnalyzerAgent, ClaimAnalysis
 from agents.subs_matcher import SubsMatcherAgent
+from agents.r_group_aligner import RGroupAlignmentAgent
 from agents.requirements_examiner import RequirementsExaminerAgent
 from agents.report_generator import ReportGeneratorAgent
 
@@ -47,6 +51,17 @@ def _dump(obj) -> str:
     if isinstance(obj, dict):
         return json.dumps(obj, ensure_ascii=False, indent=2, default=str)
     return str(obj)
+
+
+def _canonical_claim_label(label: str) -> str:
+    label = str(label or "").strip()
+    bracketed = re.fullmatch(r"R\[(\d+)\]", label, flags=re.IGNORECASE)
+    if bracketed:
+        return f"R{bracketed.group(1)}"
+    simple = re.fullmatch(r"R(\d+)", label, flags=re.IGNORECASE)
+    if simple:
+        return f"R{simple.group(1)}"
+    return re.sub(r"\s+", " ", label).upper()
 
 
 class InfringementPipeline:
@@ -65,8 +80,61 @@ class InfringementPipeline:
         llm = LLMClient(config)
         self.claim_analyzer = ClaimAnalyzerAgent(llm)
         self.subs_matcher = SubsMatcherAgent(llm)
+        self.r_group_aligner = RGroupAlignmentAgent(llm)
         self.req_examiner = RequirementsExaminerAgent(llm)
         self.reporter = ReportGeneratorAgent(llm)
+
+    def _claim_constraint_labels(self, claim_analysis: Optional[ClaimAnalysis]) -> set[str]:
+        labels: set[str] = set()
+        if not claim_analysis:
+            return labels
+        for claim in claim_analysis.markush_claims or []:
+            if not isinstance(claim, dict):
+                continue
+            constraints = claim.get("r_group_constraints", {})
+            if isinstance(constraints, dict):
+                labels.update(_canonical_claim_label(label) for label in constraints.keys())
+        return labels
+
+    def _can_use_identity_alignment(
+        self,
+        r_group_matching: dict[str, str],
+        claim_analysis: Optional[ClaimAnalysis],
+    ) -> bool:
+        claim_labels = self._claim_constraint_labels(claim_analysis)
+        if not r_group_matching or not claim_labels:
+            return False
+        return all(_canonical_claim_label(label) in claim_labels for label in r_group_matching)
+
+    def _identity_alignment_result(
+        self,
+        r_group_matching: dict[str, str],
+    ) -> RGroupAlignmentResult:
+        return RGroupAlignmentResult(
+            aligned_r_group_matching=dict(r_group_matching),
+            label_alignment={
+                label: {
+                    "claim_label": label,
+                    "confidence": Confidence.LOW.value,
+                    "claim_definition": "",
+                    "reason": "caption label 与 claim label 同名/同编号，作为保守 identity fallback 使用。",
+                }
+                for label in r_group_matching
+            },
+            reasoning="R-group 语义对齐未产生可用结果，但原始标签均可在 claim constraints 中同名/同编号找到，因此使用保守 identity fallback。",
+            confidence=Confidence.LOW,
+        )
+
+    def _alignment_covers_source_labels(
+        self,
+        alignment_result: RGroupAlignmentResult,
+        r_group_matching: dict[str, str],
+    ) -> bool:
+        if not alignment_result.aligned_r_group_matching or alignment_result.unresolved_labels:
+            return False
+        if alignment_result.label_alignment:
+            return all(label in alignment_result.label_alignment for label in r_group_matching)
+        return len(alignment_result.aligned_r_group_matching) >= len(r_group_matching)
 
     def _is_usable_markush(self, structure: MarkushStructure) -> bool:
         if not structure.caption:
@@ -160,7 +228,7 @@ class InfringementPipeline:
         Returns:
             InfringementResult
         """
-        log.set_total_steps(7)
+        log.set_total_steps(8)
         llm_outputs: dict[str, Any] = {}
 
         # Step 1: 获取专利
@@ -305,13 +373,65 @@ class InfringementPipeline:
                     llm_outputs=llm_outputs,
                 )
 
-        # Step 6: R 基团约束检查
+        # Step 6: R 基团标签语义对齐
+        log.step("Aligning R-group labels with claim variables")
+        alignment_result: Optional[RGroupAlignmentResult] = None
+        effective_r_group_matching = fused.r_group_matching
+        try:
+            alignment_result = self.r_group_aligner.run(
+                markush_caption=normalized_markush_caption or markush_caption,
+                target_smiles=target_smiles,
+                r_group_matching=fused.r_group_matching,
+                claim_analysis=claim_analysis,
+                claim_text=patent.claims_text,
+            )
+            llm_outputs["r_group_alignment"] = self.r_group_aligner.last_llm_response
+            llm_outputs["r_group_alignment_parsed"] = dataclasses.asdict(alignment_result)
+            log.info(f"  >> RGroupAlignmentResult:\n{_dump(alignment_result)}")
+        except Exception as e:
+            llm_outputs["r_group_alignment"] = {"error": str(e)}
+            alignment_result = RGroupAlignmentResult(
+                reasoning=f"R-group label alignment failed: {e}",
+                confidence=Confidence.VERY_LOW,
+            )
+            log.warning(f"  R-group label alignment failed: {e}")
+
+        if self._alignment_covers_source_labels(alignment_result, fused.r_group_matching):
+            effective_r_group_matching = alignment_result.aligned_r_group_matching
+        elif self._can_use_identity_alignment(fused.r_group_matching, claim_analysis):
+            alignment_result = self._identity_alignment_result(fused.r_group_matching)
+            effective_r_group_matching = alignment_result.aligned_r_group_matching
+            llm_outputs["r_group_alignment_fallback"] = dataclasses.asdict(alignment_result)
+            log.warning("  Using conservative identity R-group label alignment fallback")
+        else:
+            reason = (
+                "R-group label alignment failed. The original caption-local labels "
+                "cannot be safely used as claim labels, so claim requirement examination "
+                "was skipped to avoid a high-confidence conclusion from misaligned "
+                "R-group constraints."
+            )
+            log.warning(f"  {reason}")
+            return self._no_verified_match_result(
+                patent_id=patent_id,
+                target_smiles=target_smiles,
+                markush=markush,
+                fused=fused,
+                reason=reason,
+                llm_outputs=llm_outputs,
+            )
+
+        fused.claim_aligned_r_group_matching = effective_r_group_matching
+        fused.label_alignment = alignment_result.label_alignment
+
+        # Step 7: R 基团约束检查
         log.step("Examining requirements")
         try:
             req_result: RequirementsResult = self.req_examiner.run(
                 markush_caption=normalized_markush_caption or markush_caption,
                 target_smiles=target_smiles,
-                r_group_matching=fused.r_group_matching,
+                r_group_matching=effective_r_group_matching,
+                original_r_group_matching=fused.r_group_matching,
+                label_alignment=alignment_result.label_alignment,
                 claim_text=patent.claims_text,
             )
             llm_outputs["requirements_examination"] = self.req_examiner.last_llm_response
@@ -329,7 +449,7 @@ class InfringementPipeline:
                 report=f"Error during requirements examination: {e}",
             )
 
-        # Step 7: 生成报告
+        # Step 8: 生成报告
         log.step("Generating report")
         try:
             report_data = {
@@ -337,6 +457,8 @@ class InfringementPipeline:
                 "target_smiles": target_smiles,
                 "markush_caption": markush_caption,
                 "fused_match": fused.r_group_matching,
+                "claim_aligned_r_group_matching": effective_r_group_matching,
+                "label_alignment": alignment_result.label_alignment,
                 "is_protected": req_result.is_protected,
                 "requirements_reasoning": req_result.reasoning,
                 "r_group_analysis": req_result.r_group_analysis,

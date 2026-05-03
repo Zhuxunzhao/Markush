@@ -21,39 +21,39 @@ class ClaimAnalyzerAgent(BaseAgent):
 
     @property
     def system_prompt(self) -> str:
-        return f"""You are a patent claim analysis expert specializing in chemical patents.
-Your task is to analyze patent claims and identify Markush structures and their constraints.
+        return f"""你是一名专注化学专利的权利要求分析专家。
+你的任务是分析专利权利要求，识别其中的 Markush 结构及其约束条件。
 
 {MARKUSH_STRING_DEFINITION}
 
-Key analysis steps:
-1. Identify all independent claims containing Markush structures
-2. For each Markush claim, extract:
-   - The Markush structure (if available from image recognition)
-   - R-group constraints: what values each R-group can take
-   - Additional conditions (e.g., salt forms, stereochemistry requirements)
-3. Identify the broadest independent claim as the primary claim
+关键分析步骤：
+1. 找出所有包含 Markush 结构的独立权利要求。
+2. 对每个 Markush 权利要求提取：
+   - Markush 结构（如果图像识别结果中提供了）
+   - R 基团约束：每个 R 基团可取哪些值
+   - 其他附加条件，例如盐形式、立体化学要求等
+3. 找出保护范围最宽的独立权利要求，并将其作为主权利要求。
 
-You must output a JSON object with:
-- "markush_claims": list of claim objects, each with:
+你必须输出一个 JSON object，字段如下：
+- "markush_claims": 权利要求对象列表，每个对象包含：
   - "claim_number": int
-  - "markush_caption": the Markush string if available
-  - "r_group_constraints": dict mapping R-group labels to their textual constraints
-  - "additional_conditions": list of other conditions mentioned in the claim
-- "summary": brief summary of the patent's protection scope
-- "primary_markush_caption": the Markush caption from the most relevant/broadest claim
+  - "markush_caption": 可用的 Markush 字符串；若无法确定则为空字符串
+  - "r_group_constraints": dict，将 R 基团标签映射到对应文字约束
+  - "additional_conditions": 权利要求中提到的其他条件列表
+- "summary": 对专利保护范围的简要中文总结
+- "primary_markush_caption": 最相关或保护范围最宽权利要求对应的 Markush caption
 """
 
     def build_user_prompt(self, **kwargs) -> str:
         claims_text = kwargs["claims_text"]
         markush_captions = kwargs.get("markush_captions", [])
 
-        prompt = f"## Patent Claims Text\n{self.truncate(claims_text)}\n\n"
+        prompt = f"## 专利权利要求文本\n{self.truncate(claims_text)}\n\n"
         if markush_captions:
-            prompt += "## Identified Markush Structures (from image recognition)\n"
+            prompt += "## 已识别的 Markush 结构（来自图像识别）\n"
             for i, cap in enumerate(markush_captions):
                 prompt += f"{i+1}. `{cap}`\n"
-        prompt += "\nAnalyze the claims and extract Markush structure constraints."
+        prompt += "\n请分析权利要求，并提取 Markush 结构约束。"
         return prompt
 
     def parse_response(self, response: dict) -> ClaimAnalysis:

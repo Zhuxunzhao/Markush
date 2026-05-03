@@ -34,21 +34,19 @@ DEFAULT_TEXT_SOURCE = "claim"
 DEFAULT_MAX_TEXT_CHARS = 60_000
 
 
-SYSTEM_PROMPT = """You are a careful chemical patent infringement analyst.
-You will receive cached patent text, one cached patent image, and one query
-molecule SMILES. Decide whether the query molecule appears to be covered by the
-patent scope represented in the evidence.
+SYSTEM_PROMPT = """你是一名谨慎的化学专利侵权分析专家。
+你会收到缓存的专利文本、一张缓存的专利图片，以及一个查询分子的 SMILES。
+请判断该查询分子是否看起来落入这些证据所代表的专利保护范围。
 
-Return only valid JSON with:
+只返回合法 JSON，字段如下：
 - is_infringing: boolean
-- judgment_zh: Chinese one-sentence judgment, such as "判断：落入保护范围" or "判断：未落入保护范围"
+- judgment_zh: 一句话中文结论，例如 "判断：落入保护范围" 或 "判断：未落入保护范围"
 - confidence: "high", "moderate", "low", or "very_low"
-- reasoning: concise reasoning based on the patent text, image, and SMILES
-- evidence: list of short textual/visual evidence items from the patent
+- reasoning: 基于专利文本、图片和 SMILES 的简洁中文推理
+- evidence: 来自专利文本或图片的简短中文证据列表
 
-Be conservative. If the patent evidence does not contain enough claim or
-structure information to verify coverage, set is_infringing to false with low
-confidence.
+请保持保守。如果专利证据没有足够的权利要求或结构信息来验证覆盖关系，
+请将 is_infringing 设为 false，并给出 low 或 very_low 置信度。
 """
 
 
@@ -213,25 +211,24 @@ def call_glm_text_image(
 - reasoning: 中文推理，说明权利要求文本、图片结构和 SMILES 的对应关系
 - evidence: 中文证据列表，引用关键权利要求文本或图片中的结构信息"""
     else:
-        output_instruction = """Return JSON fields:
+        output_instruction = """返回 JSON 字段：
 - is_infringing: boolean
-- judgment_zh: a concise Chinese judgment sentence
+- judgment_zh: 简洁中文判断句
 - confidence: "high", "moderate", "low", or "very_low"
-- reasoning: concise reasoning
-- evidence: evidence list"""
-    user_text = f"""Patent ID: {patent_id}
-Query molecule SMILES: `{smiles}`
+- reasoning: 简洁中文推理
+- evidence: 中文证据列表"""
+    user_text = f"""专利号: {patent_id}
+查询分子 SMILES: `{smiles}`
 
-Patent text source: {text_info["source"]} ({text_info["used_chars"]} characters used; truncated={text_info["truncated"]})
+专利文本来源: {text_info["source"]}（使用 {text_info["used_chars"]} 个字符；truncated={text_info["truncated"]}）
 
-Patent text:
+专利文本:
 ```text
 {patent_text}
 ```
 
-Use the patent text and the attached first cached patent image as evidence.
-Decide whether the query molecule is infringing / protected by the patent scope
-shown there.
+请使用专利文本和随附的第一张缓存专利图片作为证据。
+判断查询分子是否侵权/是否落入图文证据显示的专利保护范围。
 
 {output_instruction}"""
 
@@ -312,7 +309,7 @@ def process_record(
             out["result"] = {
                 "is_infringing": None,
                 "confidence": None,
-                "reasoning": "Cached patent text and first cached image were found; GLM call skipped.",
+                "reasoning": "已找到缓存的专利文本和第一张缓存图片；dry-run 跳过 GLM 调用。",
                 "evidence": [],
             }
         else:
@@ -427,7 +424,7 @@ def main() -> None:
     parser.add_argument(
         "--response-language",
         choices=["en", "zh"],
-        default="en",
+        default="zh",
         help="Language/style requested for model reasoning fields",
     )
     parser.add_argument("--dry-run", action="store_true", help="Only verify local image lookup; skip GLM")

@@ -11,27 +11,26 @@ class PriorArtSearcherAgent(BaseAgent):
 
     @property
     def system_prompt(self) -> str:
-        return f"""You are a patent prior art search expert in the chemical domain.
-Given a proposed Markush structure and technical domain description,
-identify the most relevant existing patents that could affect patentability.
+        return f"""你是一名化学领域的专利现有技术检索专家。
+给定拟申请的 Markush 结构和技术领域描述后，请识别最可能影响可专利性的相关现有专利。
 
 {MARKUSH_STRING_DEFINITION}
 
-Your search strategy should consider:
-1. Core scaffold similarity
-2. R-group position and type overlap
-3. Same therapeutic/application area
-4. Key structural motifs
+你的检索策略应考虑：
+1. 核心骨架相似性
+2. R 基团位置与类型的重叠
+3. 相同治疗领域或应用领域
+4. 关键结构片段
 
-Output JSON:
-- "search_queries": list of search queries to find related patents
-- "patent_ids": list of candidate patent IDs only when you are confident they are real and relevant; otherwise return []
-- "reasoning": explanation of your search strategy
-- "key_structural_features": list of features to focus the search on
+输出 JSON：
+- "search_queries": 用于检索相关专利的查询语句列表
+- "patent_ids": 候选专利号列表；只有在你确信专利号真实且相关时才填写，否则返回 []
+- "reasoning": 中文说明你的检索策略
+- "key_structural_features": 检索时应重点关注的结构特征列表
 
-Rules:
-- Do not invent patent IDs.
-- If you are unsure whether an ID exists, omit it and focus on search_queries / key_structural_features.
+规则：
+- 不要编造专利号。
+- 如果不确定某个专利号是否真实存在，请省略它，重点输出 search_queries 和 key_structural_features。
 """
 
     def build_user_prompt(self, **kwargs) -> str:
@@ -39,16 +38,16 @@ Rules:
         tech_domain = kwargs.get("tech_domain", "")
         additional_context = kwargs.get("additional_context", "")
 
-        prompt = f"""## Proposed Markush Structure
+        prompt = f"""## 拟申请 Markush 结构
 {proposed_cxsmiles}
 
-## Technical Domain
+## 技术领域
 {tech_domain}
 """
         if additional_context:
-            prompt += f"\n## Additional Context\n{additional_context}\n"
+            prompt += f"\n## 补充上下文\n{additional_context}\n"
 
-        prompt += "\nIdentify relevant prior art patents for this structure."
+        prompt += "\n请识别与该结构相关的现有技术专利。"
         return prompt
 
     def parse_response(self, response: dict) -> dict:

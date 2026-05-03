@@ -18,11 +18,11 @@ import yaml
 
 logger = logging.getLogger("markush.llm")
 
-DEFAULT_OUTPUT_LANGUAGE_INSTRUCTION = """Output language requirements:
-- All human-readable natural-language values in your response must be Simplified Chinese.
-- Keep JSON object keys, enum values, patent IDs, SMILES/CXSMILES, chemical formulas, and code-like identifiers exactly as requested by the schema or input.
-- For JSON outputs, only translate the string/list/dict values that are explanations, reports, summaries, reasoning, risks, suggestions, or other prose.
-- When JSON is requested, return valid JSON only.
+DEFAULT_OUTPUT_LANGUAGE_INSTRUCTION = """输出语言要求：
+- 所有面向人类阅读的自然语言内容必须使用简体中文。
+- JSON key、枚举值、专利号、SMILES/CXSMILES、化学式和代码式标识符必须严格保持 schema 或输入要求的原样。
+- 对 JSON 输出，只翻译解释、报告、摘要、推理、风险、建议等自然语言字段值；不要翻译机器字段名。
+- 当要求输出 JSON 时，只返回合法 JSON，不要输出 Markdown 代码块或额外说明。
 """
 
 

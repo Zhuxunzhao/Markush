@@ -1,5 +1,6 @@
 from .claim_analyzer import ClaimAnalyzerAgent, ClaimAnalysis
 from .subs_matcher import SubsMatcherAgent
+from .r_group_aligner import RGroupAlignmentAgent
 from .requirements_examiner import RequirementsExaminerAgent
 from .novelty_analyzer import NoveltyAnalyzerAgent
 from .prior_art_searcher import PriorArtSearcherAgent

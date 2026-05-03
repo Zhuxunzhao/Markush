@@ -77,6 +77,18 @@ class FusedMatchResult:
     rdkit_result: Optional[MatchResult] = None
     nn_result: Optional[MatchResult] = None
     reasoning: str = ""
+    claim_aligned_r_group_matching: dict[str, str] = field(default_factory=dict)
+    label_alignment: dict[str, dict] = field(default_factory=dict)
+
+
+@dataclass
+class RGroupAlignmentResult:
+    """caption-local R 标签到 claim 法律变量标签的显式对齐结果"""
+    aligned_r_group_matching: dict[str, str] = field(default_factory=dict)
+    label_alignment: dict[str, dict] = field(default_factory=dict)
+    unresolved_labels: list[str] = field(default_factory=list)
+    reasoning: str = ""
+    confidence: Confidence = Confidence.VERY_LOW
 
 
 @dataclass
