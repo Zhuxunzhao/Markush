@@ -8,10 +8,13 @@ Features:
 """
 
 from __future__ import annotations
+import base64
+import mimetypes
 import os
 import json
 import time
 import logging
+from pathlib import Path
 from typing import Any, Optional
 
 import yaml
@@ -78,7 +81,7 @@ class LLMClient:
         self,
         system_prompt: str,
         user_prompt: str,
-        response_format: Optional[type] = None,
+        response_format: Optional[Any] = None,
         max_tokens: Optional[int] = None,
         temperature: Optional[float] = None,
         max_retries: int = 3,
@@ -129,6 +132,70 @@ class LLMClient:
 
         raise RuntimeError(f"LLM call failed after {max_retries} retries: {last_error}")
 
+    def chat_with_images(
+        self,
+        system_prompt: str,
+        user_prompt: str,
+        image_paths: Optional[list[str]] = None,
+        response_format: Optional[Any] = None,
+        max_tokens: Optional[int] = None,
+        temperature: Optional[float] = None,
+        max_retries: int = 3,
+        raw_text: bool = False,
+    ) -> dict[str, Any] | str:
+        """Chat with optional local images using OpenAI-compatible content blocks.
+
+        GLM/Qwen deployments in this project use the OpenAI-compatible API, so
+        this method intentionally keeps multimodal support on that backend. If
+        no images are supplied, it falls back to the regular text-only chat path.
+        """
+        images = [path for path in (image_paths or []) if path]
+        if not images:
+            return self.chat(
+                system_prompt=system_prompt,
+                user_prompt=user_prompt,
+                response_format=response_format,
+                max_tokens=max_tokens,
+                temperature=temperature,
+                max_retries=max_retries,
+                raw_text=raw_text,
+            )
+        if self.provider != "openai":
+            raise ValueError(
+                "chat_with_images currently supports the openai provider only"
+            )
+
+        temp = temperature if temperature is not None else self.temperature
+        token_limit = max_tokens if max_tokens is not None else self.max_tokens
+        system_prompt = self._apply_output_language_instruction(system_prompt)
+        last_error: Optional[Exception] = None
+
+        for attempt in range(max_retries):
+            try:
+                text = self._chat_openai_multimodal(
+                    system_prompt,
+                    user_prompt,
+                    images,
+                    response_format,
+                    token_limit,
+                    temp,
+                )
+                if raw_text:
+                    return text
+                return self._parse_json(text)
+            except Exception as e:
+                last_error = e
+                wait = 2 ** attempt
+                logger.warning(
+                    f"LLM multimodal call failed (attempt {attempt + 1}/{max_retries}): {e}"
+                )
+                if attempt < max_retries - 1:
+                    time.sleep(wait)
+
+        raise RuntimeError(
+            f"LLM multimodal call failed after {max_retries} retries: {last_error}"
+        )
+
     def _apply_output_language_instruction(self, system_prompt: str) -> str:
         if not self.output_language_instruction:
             return system_prompt
@@ -144,7 +211,7 @@ class LLMClient:
         self,
         system_prompt: str,
         user_prompt: str,
-        response_format: Optional[type],
+        response_format: Optional[Any],
         max_tokens: int,
         temperature: float,
     ) -> str:
@@ -161,6 +228,45 @@ class LLMClient:
             kwargs["response_format"] = response_format
         response = self._client.chat.completions.create(**kwargs)
         return response.choices[0].message.content
+
+    def _chat_openai_multimodal(
+        self,
+        system_prompt: str,
+        user_prompt: str,
+        image_paths: list[str],
+        response_format: Optional[Any],
+        max_tokens: int,
+        temperature: float,
+    ) -> str:
+        content: list[dict[str, Any]] = [{"type": "text", "text": user_prompt}]
+        for image_path in image_paths:
+            content.append(
+                {
+                    "type": "image_url",
+                    "image_url": {"url": self._image_data_url(image_path)},
+                }
+            )
+
+        kwargs: dict[str, Any] = {
+            "model": self.model,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": content},
+            ],
+            "max_tokens": max_tokens,
+            "temperature": temperature,
+        }
+        if response_format is not None:
+            kwargs["response_format"] = response_format
+        response = self._client.chat.completions.create(**kwargs)
+        return response.choices[0].message.content or ""
+
+    @staticmethod
+    def _image_data_url(image_path: str) -> str:
+        path = Path(image_path)
+        mime = mimetypes.guess_type(path.name)[0] or "image/png"
+        data = base64.b64encode(path.read_bytes()).decode("ascii")
+        return f"data:{mime};base64,{data}"
 
     def _chat_anthropic(
         self,

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Wait for an existing process to finish, then run the GLM-5.1 first-image workflow.
+# Wait for an existing process to finish, then run the GLM-5.1 LLM-selected-image workflow.
 
 set -euo pipefail
 
@@ -20,6 +20,6 @@ echo "$(date -Is) waiting for PID $WAIT_PID" | tee -a "$LOG_FILE"
 while kill -0 "$WAIT_PID" 2>/dev/null; do
     sleep 180
 done
-echo "$(date -Is) PID $WAIT_PID finished; starting GLM first-image infringement run" | tee -a "$LOG_FILE"
+echo "$(date -Is) PID $WAIT_PID finished; starting GLM LLM-selected-image infringement run" | tee -a "$LOG_FILE"
 
 exec "$ROOT_DIR/run_glm_first_image_infringement.sh" "$@" >>"$LOG_FILE" 2>&1

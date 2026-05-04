@@ -9,6 +9,7 @@ from typing import Optional
 class MatchMethod(str, Enum):
     RDKIT = "rdkit"
     NN = "nn"
+    LLM = "llm"
     FUSED = "fused"
 
 
@@ -76,6 +77,7 @@ class FusedMatchResult:
     r_group_matching: dict[str, str]
     rdkit_result: Optional[MatchResult] = None
     nn_result: Optional[MatchResult] = None
+    llm_result: Optional[MatchResult] = None
     reasoning: str = ""
     claim_aligned_r_group_matching: dict[str, str] = field(default_factory=dict)
     label_alignment: dict[str, dict] = field(default_factory=dict)

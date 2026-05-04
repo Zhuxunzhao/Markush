@@ -1,5 +1,5 @@
 #!/bin/bash
-# 批量启动：直接用 cache/google_patent 中每个专利的第一张图片 + GLM-5.1 判断侵权。
+# 批量启动：LLM 先从 cache/google_patent 中按顺序选择主 Markush 图片，再用 GLM-5.1 判断侵权。
 
 set -euo pipefail
 

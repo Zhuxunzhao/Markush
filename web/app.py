@@ -89,7 +89,7 @@ JOBS = JobStore()
 PIPELINE_BLUEPRINTS = {
     "infringement": [
         {"key": "fetch", "name": "PatentScraperTool", "detail": "专利抓取与文本装载"},
-        {"key": "graph", "name": "MarkushGrapherTool", "detail": "结构识别与候选筛选"},
+        {"key": "graph", "name": "LLM Image Selector + MarkushGrapher", "detail": "主 Markush 图筛选与结构识别"},
         {"key": "claim", "name": "ClaimAnalyzerAgent", "detail": "权利要求解析"},
         {"key": "rdkit", "name": "RDKitMatcherTool", "detail": "子结构匹配"},
         {"key": "fusion", "name": "SubsMatcherAgent", "detail": "R 基团映射验证"},
@@ -99,7 +99,7 @@ PIPELINE_BLUEPRINTS = {
     "patentability": [
         {"key": "resolve", "name": "Markush Resolver", "detail": "结构标准化"},
         {"key": "search", "name": "PriorArtSearcherAgent", "detail": "先有技术检索"},
-        {"key": "verify", "name": "PatentScraper + MarkushGrapher", "detail": "候选专利验证"},
+        {"key": "verify", "name": "PatentScraper + LLM Image Selector + MarkushGrapher", "detail": "候选专利主 Markush 验证"},
         {"key": "novelty", "name": "NoveltyAnalyzerAgent", "detail": "新颖性评估"},
         {"key": "report", "name": "ReportGeneratorAgent", "detail": "申请策略报告"},
     ],

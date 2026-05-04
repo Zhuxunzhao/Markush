@@ -17,6 +17,20 @@ llm:
     - 对 JSON 输出，只翻译解释、报告、摘要、推理、风险、建议等自然语言字段值；不要翻译机器字段名。
     - 当要求输出 JSON 时，只返回合法 JSON，不要输出 Markdown 代码块或额外说明。
 
+# 可被 LLM-only 侵权工作流选择的模型配置档。
+# CLI 示例：python main.py llm-infringement ... --llm-model glm5.1
+llm_profiles:
+  qwen-max:
+    provider: openai
+    model: qwen-max
+    api_key_env: OPENAI_API_KEY
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  glm5.1:
+    provider: openai
+    model: glm-5.1
+    api_key_env: ZAI_API_KEY
+    base_url: https://open.bigmodel.cn/api/paas/v4
+
 # Tool endpoints
 tools:
   # MarkushGrapher: 图片 → CXSMILES
@@ -45,11 +59,26 @@ patent:
 
 # 管线配置
 pipelines:
+  # LLM 从专利附图顶部往下筛选“满足主权利要求的主 Markush 通式图”。
+  # 选中的图片再交给 MarkushGrapher 或 LLM-only Markush 提取器解析。
+  markush_image_selection:
+    enabled: true
+    max_images: 60
+    min_score: 0.55
+    allow_candidate_fallback: true
+
   infringement:
     use_rdkit: true
     use_markush_grapher: true
     min_markush_score: 0.5
     markush_empty_retry_max: 3
+
+  # LLM-only 侵权工作流：用 LLM 替代 MarkushGrapher 图片识别与 RDKit 子结构匹配。
+  llm_infringement:
+    llm_model: qwen-max
+    fallback_to_text_on_image_error: true
+    markush_extraction_max_tokens: 4096
+    structure_match_max_tokens: 4096
 
   patentability:
     max_prior_arts: 10

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Start the GLM-5.1 claim-text + first-image infringement dataset run in the background.
+# Start the GLM-5.1 claim-text + LLM-selected-image infringement dataset run in the background.
 
 set -euo pipefail
 
@@ -28,12 +28,11 @@ setsid bash -c 'cd "$1"; shift; exec "$@"' _ "$ROOT_DIR" "${CMD[@]}" >"$LOG_FILE
 PID="$!"
 echo "$PID" >"$PID_FILE"
 
-echo "Started GLM claim-text first-image run."
+echo "Started GLM claim-text LLM-selected-image run."
 echo "PID: $PID"
 echo "PID file: $PID_FILE"
 echo "Log file: $LOG_FILE"
 echo "Output JSON: $OUTPUT"
-echo "Output JSONL: ${OUTPUT%.*}.jsonl"
 echo
 echo "Follow log:"
 echo "  tail -f '$LOG_FILE'"

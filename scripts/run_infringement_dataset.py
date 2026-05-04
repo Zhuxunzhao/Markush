@@ -3,10 +3,11 @@
 
 Key behavior:
 - Load records from data/molpatent-240.infringement_input.json by default.
-- If record caption is missing, only the first patent image is sent to
-  MarkushGrapher. Empty captions are retried up to --caption-empty-retries.
+- If record caption is missing, an LLM scans patent images top-down to select
+  the main Markush image, then that selected image is sent to MarkushGrapher.
+  Empty captions are retried up to --caption-empty-retries.
 - Process records concurrently (--workers, default 3).
-- Persist progress after every completed record to the JSON output and a JSONL file.
+- Persist progress after every completed record to a single JSON output file.
 """
 
 from __future__ import annotations
@@ -14,7 +15,6 @@ from __future__ import annotations
 import argparse
 import dataclasses
 import json
-import os
 import sys
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -27,7 +27,9 @@ sys.path.insert(0, str(ROOT))
 
 from pipelines.infringement import InfringementPipeline
 from pipelines.patentability import PatentabilityPipeline
+from agents.markush_image_selector import MarkushImageSelection, MarkushImageSelectorAgent
 from tools.llm_client import load_config
+from tools.llm_client import LLMClient
 from tools.markush_caption import normalize_markush_caption
 from tools.markush_grapher import MarkushGrapherTool
 from tools.patent_scraper import PatentScraperTool
@@ -85,12 +87,6 @@ def _load_records(input_path: Path) -> list[dict[str, Any]]:
     raise ValueError("Input must be a JSON array, or an object containing a records array")
 
 
-def _jsonl_path_for(output_path: Path) -> Path:
-    if output_path.suffix:
-        return output_path.with_suffix(".jsonl")
-    return output_path.with_name(f"{output_path.name}.jsonl")
-
-
 def _write_json_atomic(path: Path, payload: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp_path = path.with_name(f"{path.name}.tmp")
@@ -102,55 +98,101 @@ def _write_json_atomic(path: Path, payload: dict[str, Any]) -> None:
 
 def _get_worker_tools(
     config: dict,
-) -> tuple[InfringementPipeline, PatentabilityPipeline, PatentScraperTool, MarkushGrapherTool]:
+) -> tuple[
+    InfringementPipeline,
+    PatentabilityPipeline,
+    PatentScraperTool,
+    MarkushGrapherTool,
+    MarkushImageSelectorAgent,
+]:
     tools = getattr(_WORKER_STATE, "tools", None)
     if tools is None:
+        llm = LLMClient(config)
         tools = (
             InfringementPipeline(config),
             PatentabilityPipeline(config),
             PatentScraperTool(config),
             MarkushGrapherTool(config),
+            MarkushImageSelectorAgent(llm),
         )
         _WORKER_STATE.tools = tools
     return tools
 
 
-def _resolve_first_image_markush_structure(
+def _selection_summary(selection: MarkushImageSelection) -> dict[str, Any]:
+    return {
+        "image_index": selection.image_index,
+        "image_path": selection.image_path,
+        "is_markush": selection.is_markush,
+        "is_main_markush": selection.is_main_markush,
+        "score": selection.score,
+        "image_role": selection.image_role,
+        "reasoning": selection.reasoning,
+    }
+
+
+def _resolve_main_markush_structure(
     patent_id: str,
     scraper: PatentScraperTool,
     grapher: MarkushGrapherTool,
+    selector: MarkushImageSelectorAgent,
+    target_smiles: str = "",
+    config: dict | None = None,
     *,
     caption_empty_retries: int = 3,
-) -> tuple[MarkushStructure | None, str | None]:
+) -> tuple[MarkushStructure | None, str | None, dict[str, Any]]:
     try:
         patent = scraper.fetch(patent_id)
     except Exception as e:
-        return None, f"failed to fetch patent: {e}"
+        return None, f"failed to fetch patent: {e}", {}
 
     if not patent.images:
-        return None, "no images found in patent"
+        return None, "no images found in patent", {}
 
-    first_image_path = patent.images[0].path
-    if not first_image_path or not os.path.exists(first_image_path):
-        return None, "first image path missing on disk"
+    selection_cfg = (config or {}).get("pipelines", {}).get("markush_image_selection", {})
+    try:
+        selection, evaluations = selector.select_main_markush_image(
+            patent=patent,
+            target_smiles=target_smiles,
+            purpose="infringement_dataset",
+            max_images=int(selection_cfg.get("max_images", 60)),
+            min_score=float(selection_cfg.get("min_score", 0.55)),
+            allow_candidate_fallback=bool(
+                selection_cfg.get("allow_candidate_fallback", True)
+            ),
+        )
+    except Exception as e:
+        return None, f"failed to select main Markush image with LLM: {e}", {}
+
+    selection_record = {
+        "selected": _selection_summary(selection) if selection else None,
+        "evaluations": [_selection_summary(item) for item in evaluations],
+    }
+    if selection is None or not selection.image_path:
+        return None, "no main Markush image selected by LLM", selection_record
 
     max_attempts = max(1, caption_empty_retries)
     last_structure: MarkushStructure | None = None
     for attempt in range(1, max_attempts + 1):
         if attempt > 1:
-            grapher.clear_cache(first_image_path)
+            grapher.clear_cache(selection.image_path)
         try:
-            structure = grapher.predict(first_image_path)
+            structure = grapher.predict(selection.image_path)
         except Exception as e:
-            return None, f"markushgrapher failed on first image attempt {attempt}: {e}"
+            return (
+                None,
+                f"markushgrapher failed on selected image attempt {attempt}: {e}",
+                selection_record,
+            )
 
         last_structure = structure
         if (structure.caption or "").strip():
-            return structure, None
+            return structure, None, selection_record
 
     return (
         last_structure,
-        f"first image produced empty caption after {max_attempts} attempt(s)",
+        f"selected image produced empty caption after {max_attempts} attempt(s)",
+        selection_record,
     )
 
 
@@ -170,7 +212,7 @@ def _process_record(
         "error": 0,
         "patentability_ok": 0,
         "patentability_error": 0,
-        "caption_from_first_image": 0,
+        "caption_from_selected_image": 0,
         "caption_from_dataset": 0,
     }
 
@@ -188,20 +230,24 @@ def _process_record(
             "message": f"[{idx}/{total}] {patent_id or '<missing patent_id>'}: ERROR (missing patent_id or smiles)",
         }
 
-    pipeline, patentability_pipeline, scraper, grapher = _get_worker_tools(config)
+    pipeline, patentability_pipeline, scraper, grapher, selector = _get_worker_tools(config)
 
     caption = provided_caption or None
     markush_structure = None
-    caption_source = "dataset" if caption else "first_image"
+    caption_source = "dataset" if caption else "llm_selected_image"
     markush_image_path = None
+    markush_image_selection = None
     if caption_source == "dataset":
         stats["caption_from_dataset"] = 1
 
     if caption is None:
-        markush_structure, caption_error = _resolve_first_image_markush_structure(
+        markush_structure, caption_error, markush_image_selection = _resolve_main_markush_structure(
             patent_id=patent_id,
             scraper=scraper,
             grapher=grapher,
+            selector=selector,
+            target_smiles=smiles,
+            config=config,
             caption_empty_retries=caption_empty_retries,
         )
         if markush_structure is None:
@@ -215,6 +261,7 @@ def _process_record(
                 },
                 "caption_source": caption_source,
                 "markush_image_path": markush_image_path,
+                "markush_image_selection": markush_image_selection,
                 "status": "error",
                 "error": caption_error,
             }
@@ -236,6 +283,7 @@ def _process_record(
                 },
                 "caption_source": caption_source,
                 "markush_image_path": markush_image_path,
+                "markush_image_selection": markush_image_selection,
                 "status": "error",
                 "error": caption_error,
             }
@@ -244,7 +292,7 @@ def _process_record(
                 "stats": stats,
                 "message": f"[{idx}/{total}] {patent_id}: ERROR ({caption_error})",
             }
-        stats["caption_from_first_image"] = 1
+        stats["caption_from_selected_image"] = 1
 
     try:
         result = pipeline.run(
@@ -285,6 +333,7 @@ def _process_record(
             },
             "caption_source": caption_source,
             "markush_image_path": markush_image_path,
+            "markush_image_selection": markush_image_selection,
             "normalized_markush_caption": normalize_markush_caption(caption or ""),
             "status": "ok",
             "result": _serialize_infringement_result(result),
@@ -344,7 +393,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--output",
-        default="outputs/results/molpatent-240/legacy/molpatent-240.infringement_results.first_image_retry.json",
+        default="outputs/results/molpatent-240/legacy/molpatent-240.infringement_results.llm_selected_image.json",
         help="Output JSON path",
     )
     parser.add_argument(
@@ -368,7 +417,7 @@ def main() -> None:
         "--caption-empty-retries",
         type=int,
         default=3,
-        help="Retry first-image MarkushGrapher recognition when caption is empty",
+        help="Retry selected-image MarkushGrapher recognition when caption is empty",
     )
     args = parser.parse_args()
 
@@ -392,16 +441,12 @@ def main() -> None:
         "error": 0,
         "patentability_ok": 0,
         "patentability_error": 0,
-        "caption_from_first_image": 0,
+        "caption_from_selected_image": 0,
         "caption_from_dataset": 0,
         "workers": workers,
         "caption_empty_retries": max(1, args.caption_empty_retries),
     }
-    jsonl_path = _jsonl_path_for(output_path)
-
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    jsonl_path.parent.mkdir(parents=True, exist_ok=True)
-    jsonl_path.write_text("", encoding="utf-8")
     _write_json_atomic(
         output_path,
         _build_output_payload(input_path, output_path, summary, output_records),
@@ -409,11 +454,8 @@ def main() -> None:
 
     print(f"Running {total} record(s) with workers={workers}")
     print(f"Incremental JSON: {output_path}")
-    print(f"Per-record JSONL: {jsonl_path}")
 
-    with ThreadPoolExecutor(max_workers=workers) as executor, jsonl_path.open(
-        "a", encoding="utf-8"
-    ) as jsonl_file:
+    with ThreadPoolExecutor(max_workers=workers) as executor:
         futures = {
             executor.submit(
                 _process_record,
@@ -443,7 +485,7 @@ def main() -> None:
                         "error": 1,
                         "patentability_ok": 0,
                         "patentability_error": 0,
-                        "caption_from_first_image": 0,
+                        "caption_from_selected_image": 0,
                         "caption_from_dataset": 0,
                     },
                     "message": f"[{idx}/{total}] ERROR (worker failed: {e})",
@@ -457,12 +499,9 @@ def main() -> None:
             summary["error"] += stats["error"]
             summary["patentability_ok"] += stats.get("patentability_ok", 0)
             summary["patentability_error"] += stats.get("patentability_error", 0)
-            summary["caption_from_first_image"] += stats["caption_from_first_image"]
+            summary["caption_from_selected_image"] += stats["caption_from_selected_image"]
             summary["caption_from_dataset"] += stats["caption_from_dataset"]
 
-            jsonl_file.write(json.dumps(output_record, ensure_ascii=False) + "\n")
-            jsonl_file.flush()
-            os.fsync(jsonl_file.fileno())
             _write_json_atomic(
                 output_path,
                 _build_output_payload(input_path, output_path, summary, output_records),
@@ -472,7 +511,6 @@ def main() -> None:
     print("\nDone.")
     print(json.dumps(summary, ensure_ascii=False, indent=2))
     print(f"Saved result to: {output_path}")
-    print(f"Saved per-record JSONL to: {jsonl_path}")
 
 
 if __name__ == "__main__":

@@ -23,7 +23,9 @@ class SubsMatcherAgent(BaseAgent):
 
 规则：
 - 如果 RDKit 给出了有效匹配，优先参考 RDKit 结果，因为骨架匹配可靠性更高。
+- 如果输入来自 LLM 结构匹配器，必须独立核验其骨架比较和 R 基团取值，不要盲信。
 - 如果 RDKit 失败但神经网络结果成功，可以采用神经网络结果，但置信度应降低。
+- 在 LLM-only 模式中，LLM 结构匹配器是主要候选来源；若证据不足，应返回空映射。
 - 如果两者都给出结果，需要交叉验证 R 基团取值是否一致。
 - 如果两者都失败，该分子很可能不匹配 Markush 骨架。
 - 只有当把 Markush 结构中的 R 基团替换为对应取代基后能得到查询分子时，R 基团取值才视为正确。
@@ -41,6 +43,7 @@ class SubsMatcherAgent(BaseAgent):
         target_smiles = kwargs["target_smiles"]
         rdkit_result: Optional[MatchResult] = kwargs.get("rdkit_result")
         nn_result: Optional[MatchResult] = kwargs.get("nn_result")
+        llm_match_result: Optional[MatchResult] = kwargs.get("llm_match_result")
 
         prompt = f"""## Markush 结构
 `{markush_caption}`
@@ -55,10 +58,17 @@ class SubsMatcherAgent(BaseAgent):
 ```
 备注: {rdkit_result.reasoning if rdkit_result else 'N/A'}
 
+## LLM 结构匹配器提取的 R 基团映射
+是否匹配: {llm_match_result.is_match if llm_match_result else 'N/A'}
+```json
+{json.dumps(llm_match_result.r_group_map, indent=2, ensure_ascii=False) if llm_match_result and llm_match_result.r_group_map else 'N/A'}
+```
+备注: {llm_match_result.reasoning if llm_match_result else 'N/A'}
+
 ## 神经网络模型（T5）提取的 R 基团映射
 是否匹配: {nn_result.is_match if nn_result else 'N/A'}
 ```json
-{json.dumps(nn_result.r_group_map, indent=2) if nn_result and nn_result.r_group_map else 'N/A'}
+{json.dumps(nn_result.r_group_map, indent=2, ensure_ascii=False) if nn_result and nn_result.r_group_map else 'N/A'}
 ```
 备注: {nn_result.reasoning if nn_result else 'N/A'}
 

@@ -16,12 +16,16 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from agents.base import BaseAgent
 from agents.claim_analyzer import ClaimAnalysis
+from agents.llm_markush_extractor import LLMMarkushExtractorAgent
+from agents.llm_substructure_matcher import LLMSubstructureMatcherAgent
+from agents.markush_image_selector import MarkushImageSelection, MarkushImageSelectorAgent
 from agents.r_group_aligner import RGroupAlignmentAgent
 from agents.requirements_examiner import RequirementsExaminerAgent
 from pipelines.infringement import InfringementPipeline
+from pipelines.llm_infringement import LLMInfringementPipeline
 from pipelines.patentability import PatentabilityPipeline
 from schemas.types import Confidence, FusedMatchResult, MarkushStructure, MatchMethod, MatchResult, PatentDocument, PatentImage, RGroupAlignmentResult
-from scripts.run_infringement_dataset import _resolve_first_image_markush_structure
+from scripts.run_infringement_dataset import _resolve_main_markush_structure
 from tools.markush_caption import inline_markush_to_rdkit_caption
 from tools.markush_grapher import MarkushGrapherTool
 from tools.llm_client import DEFAULT_OUTPUT_LANGUAGE_INSTRUCTION, LLMClient
@@ -125,6 +129,61 @@ class RGroupAlignmentAgentTests(unittest.TestCase):
         parsed = agent.parse_response({"confidence": "nonsense"})
 
         self.assertEqual(parsed.confidence, Confidence.VERY_LOW)
+
+
+class LLMOnlyAgentTests(unittest.TestCase):
+    def test_markush_image_selector_parse_response(self) -> None:
+        agent = MarkushImageSelectorAgent(llm=Mock())
+
+        parsed = agent.parse_response(
+            {
+                "is_markush": True,
+                "is_main_markush": True,
+                "score": 92,
+                "image_role": "main_markush_formula",
+                "reasoning": "Formula I with R groups",
+            }
+        )
+
+        self.assertTrue(parsed.is_markush)
+        self.assertTrue(parsed.is_main_markush)
+        self.assertAlmostEqual(parsed.score, 0.92)
+        self.assertEqual(parsed.image_role, "main_markush_formula")
+
+    def test_markush_extractor_parse_response_accepts_textual_caption(self) -> None:
+        agent = LLMMarkushExtractorAgent(llm=Mock())
+
+        parsed = agent.parse_response(
+            {
+                "is_markush": True,
+                "markush_caption": "Formula I: core with R1 = halogen",
+                "cxsmiles": "",
+                "substituent_table": {"R1": "halogen"},
+                "score": 87,
+            }
+        )
+
+        self.assertTrue(parsed.is_markush)
+        self.assertEqual(parsed.caption, "Formula I: core with R1 = halogen")
+        self.assertEqual(parsed.substituent_table, {"R1": "halogen"})
+        self.assertAlmostEqual(parsed.score, 0.87)
+
+    def test_llm_substructure_matcher_parse_response_returns_llm_method(self) -> None:
+        agent = LLMSubstructureMatcherAgent(llm=Mock())
+
+        parsed = agent.parse_response(
+            {
+                "is_match": True,
+                "r_group_map": {"R1": "Cl"},
+                "confidence": "moderate",
+                "reasoning": "skeleton matches",
+            }
+        )
+
+        self.assertTrue(parsed.is_match)
+        self.assertEqual(parsed.method, MatchMethod.LLM)
+        self.assertEqual(parsed.r_group_map, {"R1": "Cl"})
+        self.assertIn("moderate", parsed.reasoning)
 
 
 class MarkushCaptionTests(unittest.TestCase):
@@ -489,16 +548,133 @@ class InfringementPipelineTests(unittest.TestCase):
         pipeline.reporter.run.assert_not_called()
 
 
+class LLMInfringementPipelineTests(unittest.TestCase):
+    def test_applies_glm_profile_alias_to_llm_config(self) -> None:
+        config = {
+            "pipelines": {"llm_infringement": {"llm_model": "qwen-max"}},
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "qwen-max", "api_key_env": "OPENAI_API_KEY"},
+            "llm_profiles": {
+                "glm5.1": {
+                    "provider": "openai",
+                    "model": "glm-5.1",
+                    "api_key_env": "ZAI_API_KEY",
+                    "base_url": "https://example.test/v4",
+                }
+            },
+        }
+
+        with patch("pipelines.llm_infringement.PatentScraperTool"), patch(
+            "pipelines.llm_infringement.LLMClient"
+        ) as llm_cls:
+            llm_cls.return_value = Mock()
+
+            LLMInfringementPipeline(config, llm_model="glm5.1")
+
+        used_config = llm_cls.call_args.args[0]
+        self.assertEqual(used_config["llm"]["model"], "glm-5.1")
+        self.assertEqual(used_config["llm"]["api_key_env"], "ZAI_API_KEY")
+
+    def test_run_uses_llm_match_result_for_fusion(self) -> None:
+        config = {
+            "pipelines": {
+                "llm_infringement": {},
+                "markush_image_selection": {"enabled": True},
+            },
+            "patent": {"cache_root": "cache/google_patent"},
+            "llm": {"provider": "openai", "model": "dummy", "api_key_env": "OPENAI_API_KEY"},
+        }
+
+        with patch("pipelines.llm_infringement.PatentScraperTool") as scraper_cls, patch(
+            "pipelines.llm_infringement.LLMClient"
+        ) as llm_cls:
+            scraper_cls.return_value.fetch.return_value = PatentDocument(
+                patent_id="US123",
+                claims_text="R1 is halogen.",
+            )
+            llm_cls.return_value = Mock()
+
+            pipeline = LLMInfringementPipeline(config)
+            pipeline.claim_analyzer.run = Mock(
+                return_value=ClaimAnalysis(
+                    markush_claims=[
+                        {"r_group_constraints": {"R1": "halogen"}},
+                    ]
+                )
+            )
+            llm_match = MatchResult(
+                is_match=True,
+                r_group_map={"R1": "Cl"},
+                method=MatchMethod.LLM,
+                reasoning="matched by LLM",
+            )
+            pipeline.structure_matcher.run = Mock(return_value=llm_match)
+            pipeline.subs_matcher.run = Mock(
+                return_value=FusedMatchResult(r_group_matching={"R1": "Cl"})
+            )
+            pipeline.r_group_aligner.run = Mock(
+                return_value=RGroupAlignmentResult(
+                    aligned_r_group_matching={"R1": "Cl"},
+                    label_alignment={"R1": {"claim_label": "R1"}},
+                    confidence=Confidence.HIGH,
+                )
+            )
+            pipeline.req_examiner.run = Mock(
+                return_value=type(
+                    "ReqStub",
+                    (),
+                    {
+                        "is_protected": True,
+                        "confidence": Confidence.HIGH,
+                        "reasoning": "covered",
+                        "r_group_analysis": {"R1": {"covered": True}},
+                    },
+                )()
+            )
+            pipeline.reporter.run = Mock(
+                return_value={"confidence": "high", "detailed_analysis": "report text"}
+            )
+
+            result = pipeline.run(
+                "US123",
+                "CCl",
+                markush_caption="Formula I: core with R1",
+            )
+
+        self.assertTrue(result.is_protected)
+        self.assertEqual(result.fused_match.llm_result, llm_match)
+        self.assertEqual(
+            pipeline.subs_matcher.run.call_args.kwargs["llm_match_result"],
+            llm_match,
+        )
+
+
 class InfringementDatasetRunnerTests(unittest.TestCase):
-    def test_first_image_empty_caption_retries_after_clearing_cache(self) -> None:
+    def test_selected_image_empty_caption_retries_after_clearing_cache(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
-            image_path = Path(tmpdir) / "image.png"
-            image_path.write_bytes(b"not-used")
+            first_image_path = Path(tmpdir) / "image_1.png"
+            selected_image_path = Path(tmpdir) / "image_2.png"
+            first_image_path.write_bytes(b"not-used")
+            selected_image_path.write_bytes(b"not-used")
 
             scraper = Mock()
             scraper.fetch.return_value = PatentDocument(
                 patent_id="US123",
-                images=[PatentImage(path=str(image_path))],
+                images=[
+                    PatentImage(path=str(first_image_path)),
+                    PatentImage(path=str(selected_image_path)),
+                ],
+            )
+            selector = Mock()
+            selector.select_main_markush_image.return_value = (
+                MarkushImageSelection(
+                    image_index=2,
+                    image_path=str(selected_image_path),
+                    is_markush=True,
+                    is_main_markush=True,
+                    score=0.9,
+                ),
+                [],
             )
             grapher = Mock()
             grapher.predict.side_effect = [
@@ -507,20 +683,24 @@ class InfringementDatasetRunnerTests(unittest.TestCase):
                     cxsmiles="C*",
                     substituent_table={},
                     caption="<r>R1</r>C",
-                    source_image_path=str(image_path),
+                    source_image_path=str(selected_image_path),
                 ),
             ]
 
-            structure, error = _resolve_first_image_markush_structure(
+            structure, error, selection_record = _resolve_main_markush_structure(
                 "US123",
                 scraper,
                 grapher,
+                selector,
+                target_smiles="CC",
+                config={"pipelines": {"markush_image_selection": {"max_images": 5}}},
                 caption_empty_retries=3,
             )
 
         self.assertIsNone(error)
         self.assertEqual(structure.caption, "<r>R1</r>C")
-        grapher.clear_cache.assert_called_once_with(str(image_path))
+        self.assertEqual(selection_record["selected"]["image_index"], 2)
+        grapher.clear_cache.assert_called_once_with(str(selected_image_path))
 
 
 class PatentabilityPipelineTests(unittest.TestCase):

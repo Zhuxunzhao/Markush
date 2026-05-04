@@ -104,6 +104,36 @@ def cmd_infringement(args, config):
     _write_json(output_path, _serialize_infringement_result(result))
 
 
+def cmd_llm_infringement(args, config):
+    from pipelines.llm_infringement import LLMInfringementPipeline
+
+    pipeline = LLMInfringementPipeline(
+        config,
+        llm_model=args.llm_model,
+        llm_base_url=args.llm_base_url,
+        llm_api_key_env=args.llm_api_key_env,
+    )
+    result = pipeline.run(
+        patent_id=args.patent_id,
+        target_smiles=args.smiles,
+        markush_caption=args.caption,
+    )
+
+    _print_summary(
+        [
+            ("Patent:", result.patent_id),
+            ("Molecule:", result.target_smiles),
+            ("Protected:", result.is_protected),
+            ("Confidence:", result.confidence.value),
+            ("Workflow:", "llm-only"),
+        ],
+        report=result.report,
+    )
+
+    output_path = args.output or "result.json"
+    _write_json(output_path, _serialize_infringement_result(result))
+
+
 def cmd_patentability(args, config):
     from pipelines.patentability import PatentabilityPipeline
 
@@ -127,15 +157,8 @@ def cmd_patentability(args, config):
         report=result.report,
     )
 
-    if args.output:
-        _write_json(args.output, _serialize_patentability_result(result))
-
-    # Save the comprehensive success analysis report to a file
-    if result.success_analysis and "comprehensive_report" in result.success_analysis:
-        report_path = "success_rate_analysis.md"
-        with open(report_path, "w", encoding="utf-8") as f:
-            f.write(result.success_analysis["comprehensive_report"])
-        print(f"\nSuccess rate analysis report saved to {report_path}")
+    output_path = args.output or "result.json"
+    _write_json(output_path, _serialize_patentability_result(result))
 
 
 def main():
@@ -153,6 +176,20 @@ def main():
     p_inf.add_argument("--smiles", required=True, help="目标分子 SMILES")
     p_inf.add_argument("--caption", default=None, help="直接提供 Markush caption，跳过图片识别")
     p_inf.add_argument("--output", "-o", default=None, help="结果输出 JSON 路径")
+
+    # --- llm-only infringement ---
+    p_llm_inf = subparsers.add_parser(
+        "llm-infringement",
+        aliases=["infringement-llm"],
+        help="LLM-only 专利侵权分析（不用 MarkushGrapher/RDKit）",
+    )
+    p_llm_inf.add_argument("--patent_id", required=True, help="专利号 (e.g. US10676478)")
+    p_llm_inf.add_argument("--smiles", required=True, help="目标分子 SMILES")
+    p_llm_inf.add_argument("--caption", default=None, help="直接提供 Markush caption/描述，跳过 LLM 图片识别")
+    p_llm_inf.add_argument("--llm-model", default=None, help="覆盖 LLM 型号/配置档，例如 glm5.1 或 qwen-max")
+    p_llm_inf.add_argument("--llm-base-url", default=None, help="覆盖 LLM OpenAI-compatible base_url")
+    p_llm_inf.add_argument("--llm-api-key-env", default=None, help="覆盖读取 API key 的环境变量名")
+    p_llm_inf.add_argument("--output", "-o", default=None, help="结果输出 JSON 路径")
 
     # --- patentability ---
     p_pat = subparsers.add_parser("patentability", help="专利申请成功率分析")
@@ -175,6 +212,8 @@ def main():
 
     commands = {
         "infringement": cmd_infringement,
+        "llm-infringement": cmd_llm_infringement,
+        "infringement-llm": cmd_llm_infringement,
         "patentability": cmd_patentability,
     }
     commands[args.command](args, config)

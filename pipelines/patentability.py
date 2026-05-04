@@ -26,6 +26,7 @@ from tools.markush_grapher import MarkushGrapherTool
 from tools.rdkit_matcher import RDKitMatcherTool
 from tools.llm_client import LLMClient
 from tools.logger import log
+from agents.markush_image_selector import MarkushImageSelection, MarkushImageSelectorAgent
 from agents.prior_art_searcher import PriorArtSearcherAgent
 from agents.novelty_analyzer import NoveltyAnalyzerAgent
 from agents.report_generator import ReportGeneratorAgent
@@ -39,6 +40,13 @@ class PatentabilityPipeline:
         self.config = config
         pat_cfg = config["pipelines"]["patentability"]
         self.max_prior_arts = pat_cfg.get("max_prior_arts", 10)
+        selection_cfg = config.get("pipelines", {}).get("markush_image_selection", {})
+        self.image_selection_enabled = bool(selection_cfg.get("enabled", True))
+        self.image_selection_max_images = int(selection_cfg.get("max_images", 60))
+        self.image_selection_min_score = float(selection_cfg.get("min_score", 0.55))
+        self.image_selection_allow_fallback = bool(
+            selection_cfg.get("allow_candidate_fallback", True)
+        )
 
         # Tools
         self.scraper = PatentScraperTool(config)
@@ -47,6 +55,7 @@ class PatentabilityPipeline:
 
         # Agents
         llm = LLMClient(config)
+        self.image_selector = MarkushImageSelectorAgent(llm)
         self.prior_art_searcher = PriorArtSearcherAgent(llm)
         self.novelty_analyzer = NoveltyAnalyzerAgent(llm)
         self.reporter = ReportGeneratorAgent(llm)
@@ -148,21 +157,87 @@ class PatentabilityPipeline:
         validation_notes.extend(candidate_notes)
         return prior_art_candidates, validation_notes
 
-    def _extract_markush_structures(self, patent) -> list[MarkushStructure]:
-        markush_list: list[MarkushStructure] = []
-        for img in patent.images:
-            try:
-                structure = self.markush_grapher.predict(img.path)
-            except Exception:
-                continue
-            if structure.is_markush:
-                markush_list.append(structure)
-        return markush_list
+    @staticmethod
+    def _selection_summary(selection: MarkushImageSelection) -> dict:
+        return {
+            "image_index": selection.image_index,
+            "image_path": selection.image_path,
+            "is_markush": selection.is_markush,
+            "is_main_markush": selection.is_main_markush,
+            "score": selection.score,
+            "image_role": selection.image_role,
+            "reasoning": selection.reasoning,
+        }
+
+    def _select_main_markush_image(self, patent, proposed_cxsmiles: str = "") -> Optional[str]:
+        if not self.image_selection_enabled or not patent.images:
+            return None
+        try:
+            selection, evaluations = self.image_selector.select_main_markush_image(
+                patent=patent,
+                target_smiles=proposed_cxsmiles,
+                purpose="patentability_prior_art",
+                max_images=self.image_selection_max_images,
+                min_score=self.image_selection_min_score,
+                allow_candidate_fallback=self.image_selection_allow_fallback,
+            )
+        except Exception as e:
+            log.warning(f"  LLM Markush image selection failed for {patent.patent_id}: {e}")
+            return None
+
+        if selection is None:
+            log.warning(
+                f"  LLM did not select a qualifying main Markush image for {patent.patent_id}"
+            )
+            return None
+
+        log.info(
+            "  LLM selected prior-art main Markush image "
+            f"#{selection.image_index} score={selection.score:.2f} "
+            f"role={selection.image_role}: {selection.image_path}"
+        )
+        log.info(
+            "  >> Markush image selection:\n"
+            + json.dumps(
+                {
+                    "selected": self._selection_summary(selection),
+                    "evaluations": [self._selection_summary(item) for item in evaluations],
+                },
+                ensure_ascii=False,
+                indent=2,
+            )
+        )
+        return selection.image_path
+
+    def _extract_markush_structures(
+        self,
+        patent,
+        proposed_cxsmiles: str = "",
+    ) -> list[MarkushStructure]:
+        selected_image_path = self._select_main_markush_image(
+            patent,
+            proposed_cxsmiles=proposed_cxsmiles,
+        )
+        if not selected_image_path:
+            return []
+
+        try:
+            structure = self.markush_grapher.predict(selected_image_path)
+        except Exception as e:
+            log.warning(
+                f"  MarkushGrapher failed on selected main image for {patent.patent_id}: {e}"
+            )
+            return []
+
+        if structure.is_markush or structure.caption or structure.cxsmiles:
+            return [structure]
+        return []
 
     def _load_prior_arts(
         self,
         prior_art_candidates: list[tuple[str, str]],
         verify_prior_art: bool = True,
+        proposed_cxsmiles: str = "",
     ) -> tuple[list[PriorArt], list[str]]:
         prior_arts: list[PriorArt] = []
         validation_notes: list[str] = []
@@ -185,7 +260,14 @@ class PatentabilityPipeline:
 
             try:
                 patent = self.scraper.fetch(pid)
-                markush_list = self._extract_markush_structures(patent) if patent.images else []
+                markush_list = (
+                    self._extract_markush_structures(
+                        patent,
+                        proposed_cxsmiles=proposed_cxsmiles,
+                    )
+                    if patent.images
+                    else []
+                )
             except Exception as e:
                 log.warning(f"  Failed to verify {pid}: {e}")
                 validation_notes.append(
@@ -297,6 +379,7 @@ class PatentabilityPipeline:
         prior_arts, load_notes = self._load_prior_arts(
             prior_art_candidates,
             verify_prior_art=verify_prior_art,
+            proposed_cxsmiles=proposed_cxsmiles,
         )
         validation_notes.extend(load_notes)
 

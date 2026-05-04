@@ -164,13 +164,13 @@ def _download_single(link: str, path: str, cache_path: str) -> None:
             f.write(resp.content)
     else:
         try:
-            with open(url_404_path) as f:
+            with open(url_404_path, encoding="utf-8") as f:
                 lst = json.load(f)
         except Exception:
             lst = []
         if link not in lst:
             lst.append(link)
-        with open(url_404_path, "w") as f:
+        with open(url_404_path, "w", encoding="utf-8") as f:
             json.dump(lst, f)
 
 
@@ -180,7 +180,7 @@ def download_images_only(
     """Download images to disk without parsing them."""
     url_404_path = os.path.join(cache_path, "url_404_list.json")
     if not os.path.exists(url_404_path):
-        with open(url_404_path, "w") as f:
+        with open(url_404_path, "w", encoding="utf-8") as f:
             json.dump([], f)
 
     image_paths = [
@@ -310,7 +310,7 @@ def google_patent_scrap(cache_path: str, patent_id: str) -> dict:
 
     print(f"Cache not found — fetching {patent_id}…")
     os.makedirs(cache_path, exist_ok=True)
-    with open(os.path.join(cache_path, "url_404_list.json"), "w") as f:
+    with open(os.path.join(cache_path, "url_404_list.json"), "w", encoding="utf-8") as f:
         json.dump([], f)
 
     abstract_text, claim_text, description_text = get_fulltext_patent_scrap(patent_id)
@@ -323,7 +323,7 @@ def google_patent_scrap(cache_path: str, patent_id: str) -> dict:
     }
 
     for key, text in text_dict.items():
-        with open(os.path.join(cache_path, f"{key}_text.txt"), "w") as f:
+        with open(os.path.join(cache_path, f"{key}_text.txt"), "w", encoding="utf-8") as f:
             f.write(text)
 
     _, image_links = extract_image_urls(full_text)
@@ -341,7 +341,7 @@ def _load_from_cache(cache_path: str) -> dict:
     text_keys = ["full", "abstract", "claim", "description"]
     text_dict: dict[str, str] = {}
     for key in text_keys:
-        with open(os.path.join(cache_path, f"{key}_text.txt")) as f:
+        with open(os.path.join(cache_path, f"{key}_text.txt"), encoding="utf-8", errors="replace") as f:
             text_dict[key] = f.read()
 
     _, image_links = extract_image_urls(text_dict["full"])
@@ -349,7 +349,7 @@ def _load_from_cache(cache_path: str) -> dict:
     url_404_path = os.path.join(cache_path, "url_404_list.json")
     links_404: list[str] = []
     if os.path.exists(url_404_path):
-        with open(url_404_path) as f:
+        with open(url_404_path, encoding="utf-8") as f:
             links_404 = json.load(f)
 
     image_paths = [

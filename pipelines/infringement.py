@@ -37,6 +37,7 @@ from tools.markush_caption import normalize_markush_caption
 from tools.rdkit_matcher import RDKitMatcherTool
 from tools.llm_client import LLMClient
 from tools.logger import log
+from agents.markush_image_selector import MarkushImageSelection, MarkushImageSelectorAgent
 from agents.claim_analyzer import ClaimAnalyzerAgent, ClaimAnalysis
 from agents.subs_matcher import SubsMatcherAgent
 from agents.r_group_aligner import RGroupAlignmentAgent
@@ -70,6 +71,13 @@ class InfringementPipeline:
         pipe_cfg = config["pipelines"]["infringement"]
         self.min_markush_score = pipe_cfg.get("min_markush_score", 0.5)
         self.markush_empty_retry_max = int(pipe_cfg.get("markush_empty_retry_max", 3))
+        selection_cfg = config.get("pipelines", {}).get("markush_image_selection", {})
+        self.image_selection_enabled = bool(selection_cfg.get("enabled", True))
+        self.image_selection_max_images = int(selection_cfg.get("max_images", 60))
+        self.image_selection_min_score = float(selection_cfg.get("min_score", 0.55))
+        self.image_selection_allow_fallback = bool(
+            selection_cfg.get("allow_candidate_fallback", True)
+        )
 
         # Tools
         self.scraper = PatentScraperTool(config)
@@ -78,6 +86,7 @@ class InfringementPipeline:
 
         # Agents
         llm = LLMClient(config)
+        self.image_selector = MarkushImageSelectorAgent(llm)
         self.claim_analyzer = ClaimAnalyzerAgent(llm)
         self.subs_matcher = SubsMatcherAgent(llm)
         self.r_group_aligner = RGroupAlignmentAgent(llm)
@@ -205,42 +214,95 @@ class InfringementPipeline:
             report=reason,
         )
 
-    def _predict_first_image_markush(
+    @staticmethod
+    def _selection_summary(selection: MarkushImageSelection) -> dict[str, Any]:
+        return {
+            "image_index": selection.image_index,
+            "image_path": selection.image_path,
+            "is_markush": selection.is_markush,
+            "is_main_markush": selection.is_main_markush,
+            "score": selection.score,
+            "image_role": selection.image_role,
+            "reasoning": selection.reasoning,
+        }
+
+    def _select_main_markush_image(
         self,
         patent: PatentDocument,
-    ) -> Optional[MarkushStructure]:
-        if not self.markush_grapher or not patent.images:
+        target_smiles: str,
+        llm_outputs: dict[str, Any],
+    ) -> Optional[str]:
+        if not self.image_selection_enabled:
+            log.warning("  LLM Markush image selection is disabled")
+            return None
+        if not patent.images:
             return None
 
-        first_image = patent.images[0]
-        if not first_image.path:
-            log.warning("  First patent image has no local path")
+        try:
+            selection, evaluations = self.image_selector.select_main_markush_image(
+                patent=patent,
+                target_smiles=target_smiles,
+                purpose="infringement",
+                max_images=self.image_selection_max_images,
+                min_score=self.image_selection_min_score,
+                allow_candidate_fallback=self.image_selection_allow_fallback,
+            )
+        except Exception as e:
+            llm_outputs["markush_image_selection"] = {"error": str(e)}
+            log.warning(f"  LLM Markush image selection failed: {e}")
+            return None
+
+        llm_outputs["markush_image_selection"] = {
+            "selected": self._selection_summary(selection) if selection else None,
+            "evaluations": [self._selection_summary(item) for item in evaluations],
+        }
+
+        if selection is None:
+            log.warning("  LLM did not select a qualifying main Markush image")
+            return None
+
+        log.info(
+            "  LLM selected main Markush image "
+            f"#{selection.image_index} score={selection.score:.2f} "
+            f"role={selection.image_role}: {selection.image_path}"
+        )
+        return selection.image_path
+
+    def _predict_markush_image(
+        self,
+        patent: PatentDocument,
+        image_path: str,
+    ) -> Optional[MarkushStructure]:
+        if not self.markush_grapher or not image_path:
             return None
 
         max_attempts = max(1, self.markush_empty_retry_max)
         last_structure: Optional[MarkushStructure] = None
         for attempt in range(1, max_attempts + 1):
             if attempt > 1:
-                self.markush_grapher.clear_cache(first_image.path)
+                self.markush_grapher.clear_cache(image_path)
                 log.info(
-                    f"  Retrying first-image Markush recognition after empty caption "
+                    f"  Retrying selected-image Markush recognition after empty caption "
                     f"({attempt}/{max_attempts})"
                 )
 
-            structure = self.markush_grapher.predict(first_image.path)
+            structure = self.markush_grapher.predict(image_path)
             last_structure = structure
             if structure.caption:
-                first_image.structure = structure
+                for image in patent.images:
+                    if image.path == image_path:
+                        image.structure = structure
+                        break
                 if self._is_usable_markush(structure):
                     return structure
                 log.info(
-                    "  First image produced a non-empty but unusable caption "
-                    f"(score={structure.score:.2f}, image={first_image.path})"
+                    "  Selected image produced a non-empty but unusable caption "
+                    f"(score={structure.score:.2f}, image={image_path})"
                 )
                 return structure
 
         log.warning(
-            f"  First image produced empty caption after {max_attempts} attempt(s)"
+            f"  Selected image produced empty caption after {max_attempts} attempt(s)"
         )
         return last_structure
 
@@ -295,11 +357,17 @@ class InfringementPipeline:
                 cxsmiles="", caption=markush_caption, substituent_table={}
             )
         elif self.markush_grapher and patent.images:
-            log.step("Recognizing Markush structure from first image")
+            log.step("Selecting main Markush image with LLM and recognizing structure")
             try:
-                markush = self._predict_first_image_markush(patent)
-                if markush and markush.caption:
-                    markush_caption = markush.caption
+                selected_image_path = self._select_main_markush_image(
+                    patent=patent,
+                    target_smiles=target_smiles,
+                    llm_outputs=llm_outputs,
+                )
+                if selected_image_path:
+                    markush = self._predict_markush_image(patent, selected_image_path)
+                    if markush and markush.caption:
+                        markush_caption = markush.caption
             except Exception as e:
                 log.warning(f"  Markush recognition failed: {e}")
         else:

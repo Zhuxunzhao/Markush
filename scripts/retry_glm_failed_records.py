@@ -117,7 +117,6 @@ def _refresh_summary(
     *,
     attempted: list[int],
     replaced: list[int],
-    retry_log: Path,
 ) -> None:
     records = payload["records"]
     summary = payload.setdefault("summary", {})
@@ -130,7 +129,6 @@ def _refresh_summary(
     summary["retry_last_run_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     summary["retry_attempted_indices"] = attempted
     summary["retry_replaced_indices"] = replaced
-    summary["retry_log"] = str(retry_log)
 
 
 def _default_image_cache(summary: dict[str, Any]) -> Path:
@@ -169,17 +167,13 @@ def main() -> int:
     parser.add_argument("--request-timeout", type=float, default=900.0)
     parser.add_argument("--workers", type=int, default=1)
     parser.add_argument("--response-language", choices=["en", "zh"], default="zh")
+    parser.add_argument("--image-selection-max-images", type=int, default=None)
+    parser.add_argument("--image-selection-min-score", type=float, default=None)
     parser.add_argument("--dry-run", action="store_true", help="Verify target selection and cached files only")
     parser.add_argument(
         "--replace-errors",
         action="store_true",
         help="Replace existing error records even when retry attempts fail again",
-    )
-    parser.add_argument(
-        "--retry-log",
-        type=Path,
-        default=None,
-        help="JSONL log for retry attempts; defaults to <output>.retry.jsonl",
     )
     args = parser.parse_args()
 
@@ -203,8 +197,6 @@ def main() -> int:
         print("No matching failed records to retry.")
         return 0
 
-    retry_log = (args.retry_log or output_path.with_suffix(".retry.jsonl")).resolve()
-    retry_log.parent.mkdir(parents=True, exist_ok=True)
     image_cache = (args.image_cache.resolve() if args.image_cache else _default_image_cache(summary).resolve())
     text_source = args.text_source or str(summary.get("text_source") or DEFAULT_TEXT_SOURCE)
     max_text_chars = args.max_text_chars
@@ -212,6 +204,12 @@ def main() -> int:
         max_text_chars = int(summary.get("max_text_chars") or DEFAULT_MAX_TEXT_CHARS)
     model = args.model or str(summary.get("model") or DEFAULT_MODEL)
     base_url = args.base_url or str(summary.get("base_url") or DEFAULT_BASE_URL)
+    image_selection_max_images = args.image_selection_max_images
+    if image_selection_max_images is None:
+        image_selection_max_images = int(summary.get("image_selection_max_images") or 60)
+    image_selection_min_score = args.image_selection_min_score
+    if image_selection_min_score is None:
+        image_selection_min_score = float(summary.get("image_selection_min_score") or 0.55)
 
     api_key: str | None = None
     api_key_env: str | None = None
@@ -221,8 +219,11 @@ def main() -> int:
     target_indices = [int(record["index"]) for record in targets]
     print(f"Retrying {len(targets)} record(s): {target_indices}")
     print(f"Output JSON: {output_path}")
-    print(f"Retry log: {retry_log}")
     print(f"Model={model}; base_url={base_url}; text_source={text_source}; max_text_chars={max_text_chars}")
+    print(
+        "Image selection: "
+        f"max_images={image_selection_max_images}; min_score={image_selection_min_score}"
+    )
     print(f"Image cache: {image_cache}")
     if api_key_env:
         print(f"API key env: {api_key_env}")
@@ -247,6 +248,8 @@ def main() -> int:
             request_timeout=args.request_timeout,
             dry_run=args.dry_run,
             response_language=args.response_language,
+            image_selection_max_images=image_selection_max_images,
+            image_selection_min_score=image_selection_min_score,
         )
 
     def handle_result(result: dict[str, Any]) -> None:
@@ -258,17 +261,14 @@ def main() -> int:
             records[positions[index]] = result
             replaced.append(index)
 
-        log_record = dict(result)
-        log_record["retry"] = {
+        result["retry"] = {
             "previous_status": previous.get("status"),
             "previous_error": previous.get("error"),
             "replaced_output_record": should_replace,
         }
-        with retry_log.open("a", encoding="utf-8") as f:
-            f.write(json.dumps(log_record, ensure_ascii=False) + "\n")
 
         if not args.dry_run:
-            _refresh_summary(payload, attempted=attempted, replaced=replaced, retry_log=retry_log)
+            _refresh_summary(payload, attempted=attempted, replaced=replaced)
         if should_replace and not args.dry_run:
             _write_json_atomic(output_path, payload)
 
@@ -286,7 +286,7 @@ def main() -> int:
                 handle_result(future.result())
 
     if not args.dry_run:
-        _refresh_summary(payload, attempted=attempted, replaced=replaced, retry_log=retry_log)
+        _refresh_summary(payload, attempted=attempted, replaced=replaced)
         _write_json_atomic(output_path, payload)
     print(f"Done. Attempted={attempted}; replaced={replaced}")
     return 0
