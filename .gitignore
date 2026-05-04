@@ -1,8 +1,15 @@
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
+# --- System & environment ---
+.bashrc
+.condarc
+.profile
+.cache/
+.claude/
+.claude.json
+.codex/
+.jupyter/
+.local/
+.npm/
+.ssh/
 .venv/
 venv/
 env/
@@ -10,25 +17,55 @@ ENV/
 .conda/
 .env
 .env.*
+miniconda3/
 
+# --- AutoDL platform ---
+autodl-fs
+autodl-pub
+autodl-tmp/
+mihomo_config.yaml
+mihomo_proxy_providers/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 
+# --- IDE ---
 .idea/
 .vscode/
 AGENTS.md
 
+# --- Build ---
 dist/
 build/
 *.egg-info/
 
-third_party/MarkushGrapher/
+# --- Third-party ---
+third_party/
 runs/
+
+# --- Cache ---
+cache/markush_grapher/
+
+# --- Logs ---
 *.log
 outputs/runtime/
 outputs/.ipynb_checkpoints/
+
+# --- Web ---
 web/uploads/
+
+# --- Outputs intermediates ---
+outputs/.ipynb_checkpoints/
+outputs/*.pid
+
+# --- Test results ---
 test_result.json
 test_US10676478_result.json
 test_US10676478_single.json
