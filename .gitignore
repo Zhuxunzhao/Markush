@@ -26,6 +26,8 @@ build/
 third_party/MarkushGrapher/
 runs/
 *.log
+outputs/runtime/
+outputs/.ipynb_checkpoints/
 web/uploads/
 test_result.json
 test_US10676478_result.json

@@ -15,7 +15,7 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_INPUT = ROOT / "outputs/molpatent-240.infringement_full_with_llm_patentability.json"
+DEFAULT_INPUT = ROOT / "outputs/results/molpatent-240/legacy/molpatent-240.infringement_full_with_llm_patentability.json"
 
 
 def get_path(obj: Any, *path: str, default: Any = None) -> Any:

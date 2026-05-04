@@ -26,7 +26,7 @@ from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_INPUT = ROOT / "data/molpatent-240.infringement_input.json"
-DEFAULT_OUTPUT = ROOT / "outputs/molpatent-240.glm5_1_text_first_image_infringement.json"
+DEFAULT_OUTPUT = ROOT / "outputs/results/molpatent-240/final/molpatent-240.glm5_1_claim_text_first_image_infringement.json"
 DEFAULT_IMAGE_CACHE = ROOT / "cache/google_patent"
 DEFAULT_MODEL = "glm-5.1"
 DEFAULT_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"

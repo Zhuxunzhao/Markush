@@ -31,7 +31,7 @@ from run_glm_first_image_infringement_dataset import (
 )
 
 
-DEFAULT_OUTPUT = ROOT / "outputs/molpatent-240.glm5_1_claim_text_first_image_infringement.json"
+DEFAULT_OUTPUT = ROOT / "outputs/results/molpatent-240/final/molpatent-240.glm5_1_claim_text_first_image_infringement.json"
 DEFAULT_ERROR_CONTAINS = "Request timed out"
 
 

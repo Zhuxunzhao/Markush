@@ -4,13 +4,15 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-LOG_DIR="$ROOT_DIR/outputs"
-mkdir -p "$LOG_DIR"
+OUTPUT_DIR="$ROOT_DIR/outputs/results/molpatent-240/final"
+LOG_DIR="$ROOT_DIR/outputs/runtime/logs"
+PID_DIR="$ROOT_DIR/outputs/runtime/pid"
+mkdir -p "$OUTPUT_DIR" "$LOG_DIR" "$PID_DIR"
 
 RUN_ID="${RUN_ID:-$(date +%Y%m%d_%H%M%S)}"
-OUTPUT="${OUTPUT:-$LOG_DIR/molpatent-240.glm5_1_claim_text_first_image_infringement.json}"
+OUTPUT="${OUTPUT:-$OUTPUT_DIR/molpatent-240.glm5_1_claim_text_first_image_infringement.json}"
 LOG_FILE="${LOG_FILE:-$LOG_DIR/glm_claim_text_first_image_${RUN_ID}.nohup.log}"
-PID_FILE="${PID_FILE:-$LOG_DIR/glm_claim_text_first_image_${RUN_ID}.pid}"
+PID_FILE="${PID_FILE:-$PID_DIR/glm_claim_text_first_image_${RUN_ID}.pid}"
 REQUEST_TIMEOUT="${REQUEST_TIMEOUT:-240}"
 
 CMD=(

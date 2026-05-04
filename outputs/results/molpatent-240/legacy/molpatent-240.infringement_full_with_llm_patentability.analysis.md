@@ -1,7 +1,7 @@
 # MolPatent-240 侵权与专利性实验分析报告
 
 - 生成时间：2026-04-26 14:59:15 UTC
-- 结果文件：`/root/Muti-Agent-for-Murkush-codex-project-cleanup-20260425/outputs/molpatent-240.infringement_full_with_llm_patentability.json`
+- 结果文件：`outputs/results/molpatent-240/legacy/molpatent-240.infringement_full_with_llm_patentability.json`
 - 分析样本数：197
 
 ## 1. 执行摘要

@@ -344,7 +344,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--output",
-        default="outputs/molpatent-240.infringement_results.first_image_retry.json",
+        default="outputs/results/molpatent-240/legacy/molpatent-240.infringement_results.first_image_retry.json",
         help="Output JSON path",
     )
     parser.add_argument(

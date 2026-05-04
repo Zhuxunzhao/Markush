@@ -1,6 +1,6 @@
 # Qwen-max Claim Text + First Image 侵权实验准确率分析
 
-- 结果文件：`outputs/molpatent-240.qwen_max_claim_text_first_image_infringement_zh.json`
+- 结果文件：`outputs/results/molpatent-240/comparisons/molpatent-240.qwen_max_claim_text_first_image_infringement_zh.json`
 - 对照数据集：`data/molpatent-240.infringement_input.json`
 - 生成日期：2026-05-03
 - 评估字段：以数据集中的 `expected_is_protected` 作为真实标签，以结果中的 `result.is_infringing` 作为模型预测。

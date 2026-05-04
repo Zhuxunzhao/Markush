@@ -2,7 +2,7 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-PID_FILE="$ROOT_DIR/outputs/markushgrapher_service.pid"
+PID_FILE="$ROOT_DIR/outputs/runtime/pid/markushgrapher_service.pid"
 
 if [ ! -f "$PID_FILE" ]; then
     echo "No MarkushGrapher service pid file found."

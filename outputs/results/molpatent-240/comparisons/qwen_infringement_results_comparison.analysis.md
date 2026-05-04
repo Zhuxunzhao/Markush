@@ -8,11 +8,11 @@
 
 | 文件 | 类型 | 是否可评估 | 说明 |
 | --- | --- | --- | --- |
-| `outputs/molpatent-240.qwen_max_first_image_infringement.json` | 全量真实运行 | 是 | 只给模型第一张专利图片 |
-| `outputs/molpatent-240.qwen_max_claim_text_first_image_infringement_zh.json` | 全量真实运行 | 是 | 给模型 claim text + 第一张专利图片，中文输出 |
-| `outputs/qwen_claim_text_first_image_dry_run_workers3.json` | dry-run | 否 | 文件名带 qwen，但 summary 中 `model=glm-5.1`，且 `is_infringing=null` |
-| `outputs/smoke_us10676478_qwen_max*.json` | 单条 smoke | 否 | 全部在 match fusion 阶段因 Qwen 参数错误失败 |
-| `outputs/smoke_us10676478_caption.json` | 单条 smoke | 否 | 使用 `qwen3.5-max`，模型不存在或无权限 |
+| `outputs/results/molpatent-240/comparisons/molpatent-240.qwen_max_first_image_infringement.json` | 全量真实运行 | 是 | 只给模型第一张专利图片 |
+| `outputs/results/molpatent-240/comparisons/molpatent-240.qwen_max_claim_text_first_image_infringement_zh.json` | 全量真实运行 | 是 | 给模型 claim text + 第一张专利图片，中文输出 |
+| `outputs/runtime/dry-run/qwen_claim_text_first_image_dry_run_workers3.json` | dry-run | 否 | 文件名带 qwen，但 summary 中 `model=glm-5.1`，且 `is_infringing=null` |
+| `outputs/runtime/smoke/smoke_us10676478_qwen_max*.json` | 单条 smoke | 否 | 全部在 match fusion 阶段因 Qwen 参数错误失败 |
+| `outputs/runtime/smoke/smoke_us10676478_caption.json` | 单条 smoke | 否 | 使用 `qwen3.5-max`，模型不存在或无权限 |
 
 ## 2. 总体对比
 
