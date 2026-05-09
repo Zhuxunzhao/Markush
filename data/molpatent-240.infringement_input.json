@@ -5,14 +5,16 @@
     "required_fields": [
       "patent_id",
       "smiles",
-      "caption"
+      "caption",
+      "expected_is_protected"
     ]
   },
   "summary": {
     "total_records": 240,
-    "usable_records": 197,
-    "dropped_records": 43,
+    "usable_records": 195,
+    "dropped_records": 45,
     "drop_reasons": {
+      "missing_label": 2,
       "missing_patent_id": 43
     }
   },
@@ -104,22 +106,6 @@
       "expected_is_protected": true,
       "selection_type": 2,
       "source_index": 10
-    },
-    {
-      "patent_id": "US9763922",
-      "smiles": "CC(=O)N1CCc2c(c(N3CCc4ccccc43)nn2C)C1",
-      "caption": null,
-      "expected_is_protected": null,
-      "selection_type": 1,
-      "source_index": 11
-    },
-    {
-      "patent_id": "US9884048",
-      "smiles": "Cc1cc(-n2ncc3c(Cl)c(NC(=O)N[C@H]4CN(C)C[C@@H]4c4ccccc4)ncc32)ccn1",
-      "caption": null,
-      "expected_is_protected": null,
-      "selection_type": 2,
-      "source_index": 12
     },
     {
       "patent_id": "US9492447",

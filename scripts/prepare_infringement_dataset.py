@@ -38,12 +38,16 @@ def convert_records(raw_records: list[dict[str, Any]]) -> tuple[list[dict[str, A
             continue
 
         label = item.get("label")
+        if not isinstance(label, bool):
+            dropped["missing_label"] += 1
+            continue
+
         converted.append(
             {
                 "patent_id": _normalize_patent_id(patent_id),
                 "smiles": target_smiles.strip(),
                 "caption": None,
-                "expected_is_protected": label if isinstance(label, bool) else None,
+                "expected_is_protected": label,
                 "selection_type": item.get("selection_type"),
                 "source_index": idx,
             }
@@ -78,10 +82,15 @@ def main() -> None:
     converted, dropped = convert_records(raw_records)
 
     payload = {
-        "source_file": str(input_path),
+        "source_file": input_path.as_posix(),
         "target_format": {
             "mode": "infringement",
-            "required_fields": ["patent_id", "smiles", "caption"],
+            "required_fields": [
+                "patent_id",
+                "smiles",
+                "caption",
+                "expected_is_protected",
+            ],
         },
         "summary": {
             "total_records": len(raw_records),

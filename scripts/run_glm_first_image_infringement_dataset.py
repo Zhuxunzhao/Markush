@@ -103,10 +103,17 @@ def _existing_records(output_path: Path) -> dict[int, dict[str, Any]]:
     except Exception:
         return {}
     records = payload.get("records", []) if isinstance(payload, dict) else []
+    terminal_statuses = {"ok", "error", "dry_run_ok"}
+    retryable_errors = {"'list' object has no attribute 'setdefault'"}
     return {
         int(record["index"]): record
         for record in records
-        if isinstance(record, dict) and isinstance(record.get("index"), int)
+        if (
+            isinstance(record, dict)
+            and isinstance(record.get("index"), int)
+            and record.get("status") in terminal_statuses
+            and str(record.get("error", "")) not in retryable_errors
+        )
     }
 
 
@@ -171,22 +178,52 @@ def _image_data_url(path: Path) -> str:
     return f"data:{mime};base64,{data}"
 
 
+def _coerce_json_object(value: Any, raw_text: str) -> dict[str, Any]:
+    if isinstance(value, dict):
+        return value
+    if isinstance(value, list):
+        dict_items = [item for item in value if isinstance(item, dict)]
+        for item in dict_items:
+            if any(key in item for key in ("is_infringing", "judgment_zh", "confidence", "reasoning", "evidence")):
+                coerced = dict(item)
+                coerced.setdefault("parse_warning", "model returned a JSON array; using the first result-like object")
+                return coerced
+        if len(dict_items) == 1:
+            coerced = dict(dict_items[0])
+            coerced.setdefault("parse_warning", "model returned a JSON array; using its only object")
+            return coerced
+        return {
+            "raw_json": value,
+            "raw_text": raw_text,
+            "parse_warning": "model returned a JSON array, expected an object",
+            "is_infringing": False,
+            "confidence": "very_low",
+        }
+    return {
+        "raw_json": value,
+        "raw_text": raw_text,
+        "parse_warning": f"model returned {type(value).__name__}, expected an object",
+        "is_infringing": False,
+        "confidence": "very_low",
+    }
+
+
 def _parse_json_response(text: str) -> dict[str, Any]:
     text = text.strip()
     try:
-        return json.loads(text)
+        return _coerce_json_object(json.loads(text), text)
     except json.JSONDecodeError:
         pass
     match = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.S)
     if match:
         try:
-            return json.loads(match.group(1))
+            return _coerce_json_object(json.loads(match.group(1)), text)
         except json.JSONDecodeError:
             pass
     start, end = text.find("{"), text.rfind("}") + 1
     if start >= 0 and end > start:
         try:
-            return json.loads(text[start:end])
+            return _coerce_json_object(json.loads(text[start:end]), text)
         except json.JSONDecodeError:
             pass
     return {"raw_text": text, "is_infringing": False, "confidence": "very_low"}
@@ -224,12 +261,12 @@ def select_main_markush_image(
     max_images: int,
     min_score: float,
 ) -> tuple[Path, dict[str, Any]]:
+    """Scan cached images in order and stop only on a main Markush hit."""
     images = cached_images(patent_id, cache_root)
     client = OpenAI(api_key=api_key, base_url=base_url, timeout=request_timeout)
     max_images = max(1, int(max_images))
     min_score = max(0.0, min(1.0, float(min_score)))
     evaluations: list[dict[str, Any]] = []
-    best_candidate: dict[str, Any] | None = None
 
     for image_index, image_path in enumerate(images[:max_images], start=1):
         user_text = f"""专利号: {patent_id}
@@ -272,19 +309,18 @@ def select_main_markush_image(
             "reasoning": str(parsed.get("reasoning") or ""),
         }
         evaluations.append(item)
-        if item["is_markush"] and (
-            best_candidate is None or item["score"] > best_candidate["score"]
-        ):
-            best_candidate = item
         if item["is_main_markush"] and item["score"] >= min_score:
             return image_path, {"selected": item, "evaluations": evaluations}
+        if item["is_main_markush"]:
+            item["skip_reason"] = (
+                f"main Markush score {item['score']:.3f} is below min_score "
+                f"{min_score:.3f}"
+            )
 
-    if best_candidate is not None and best_candidate["score"] >= min_score:
-        return Path(best_candidate["image_path"]), {
-            "selected": best_candidate,
-            "evaluations": evaluations,
-        }
-    raise RuntimeError("No main Markush image selected by LLM")
+    raise RuntimeError(
+        f"No main Markush image selected by LLM after evaluating "
+        f"{len(evaluations)} image(s)"
+    )
 
 
 def _resolve_api_key(explicit_env: str | None) -> tuple[str, str]:
@@ -600,6 +636,7 @@ def main() -> None:
         "text_source": args.text_source,
         "max_text_chars": args.max_text_chars,
         "workers": max(1, args.workers),
+        "request_timeout": args.request_timeout,
         "response_language": args.response_language,
         "image_selection_max_images": args.image_selection_max_images,
         "image_selection_min_score": args.image_selection_min_score,
@@ -607,11 +644,6 @@ def main() -> None:
     }
     output_records: list[dict[str, Any] | None] = [None] * len(selected)
 
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    _write_json_atomic(
-        output_path,
-        _build_payload(input_path, output_path, summary, output_records),
-    )
     workers = max(1, args.workers)
     print(f"Running {len(selected)} record(s); model={args.model}; dry_run={args.dry_run}; workers={workers}", flush=True)
     print(f"Base URL: {args.base_url}", flush=True)
@@ -631,6 +663,12 @@ def main() -> None:
         else:
             pending.append((index, record))
 
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    _write_json_atomic(
+        output_path,
+        _build_payload(input_path, output_path, summary, output_records),
+    )
+
     def handle_result(result: dict[str, Any]) -> None:
         index = int(result["index"])
         output_records[positions[index]] = result
@@ -646,8 +684,24 @@ def main() -> None:
         print(f"[{index}/{start_index + len(selected) - 1}] {result['input'].get('patent_id')}: {result['status']} {detail}", flush=True)
         _write_json_atomic(output_path, _build_payload(input_path, output_path, summary, output_records))
 
+    def mark_running(index: int, record: dict[str, Any]) -> None:
+        output_records[positions[index]] = {
+            "index": index,
+            "input": {
+                "patent_id": str(record.get("patent_id", "")).strip(),
+                "smiles": str(record.get("smiles") or record.get("target_smiles") or "").strip(),
+            },
+            "status": "running",
+            "started_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        }
+        _write_json_atomic(output_path, _build_payload(input_path, output_path, summary, output_records))
+
     if workers == 1:
         for task in pending:
+            index, record = task
+            patent_id = str(record.get("patent_id") or "")
+            print(f"[{index}/{start_index + len(selected) - 1}] {patent_id}: START", flush=True)
+            mark_running(index, record)
             result = _run_one_task(
                 task,
                 image_cache=image_cache,

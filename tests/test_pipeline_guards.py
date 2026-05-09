@@ -6,6 +6,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 from unittest.mock import Mock, patch
 
 from PIL import Image
@@ -703,6 +704,135 @@ class InfringementDatasetRunnerTests(unittest.TestCase):
         grapher.clear_cache.assert_called_once_with(str(selected_image_path))
 
 
+class GLMFirstImageDatasetRunnerTests(unittest.TestCase):
+    @staticmethod
+    def _glm_response(payload: dict) -> SimpleNamespace:
+        return SimpleNamespace(
+            choices=[
+                SimpleNamespace(
+                    message=SimpleNamespace(content=json.dumps(payload)),
+                )
+            ]
+        )
+
+    def test_select_main_markush_image_skips_non_main_images_until_main(self) -> None:
+        from scripts.run_glm_first_image_infringement_dataset import (
+            select_main_markush_image,
+        )
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            patent_dir = Path(tmpdir) / "US123"
+            patent_dir.mkdir()
+            first_image_path = patent_dir / "image_1.png"
+            selected_image_path = patent_dir / "image_2.png"
+            first_image_path.write_bytes(b"not-used")
+            selected_image_path.write_bytes(b"not-used")
+
+            create = Mock(
+                side_effect=[
+                    self._glm_response(
+                        {
+                            "is_markush": True,
+                            "is_main_markush": False,
+                            "score": 0.95,
+                            "image_role": "example",
+                        }
+                    ),
+                    self._glm_response(
+                        {
+                            "is_markush": True,
+                            "is_main_markush": True,
+                            "score": 0.8,
+                            "image_role": "main_markush",
+                        }
+                    ),
+                ]
+            )
+            client = SimpleNamespace(
+                chat=SimpleNamespace(completions=SimpleNamespace(create=create))
+            )
+
+            with patch(
+                "scripts.run_glm_first_image_infringement_dataset.OpenAI",
+                return_value=client,
+            ):
+                image_path, selection = select_main_markush_image(
+                    patent_id="US123",
+                    smiles="CC",
+                    patent_text="claim text",
+                    cache_root=Path(tmpdir),
+                    model="glm-5.1",
+                    base_url="https://example.test/v1",
+                    api_key="test-key",
+                    temperature=0.0,
+                    request_timeout=1.0,
+                    max_images=5,
+                    min_score=0.55,
+                )
+
+        self.assertEqual(image_path, selected_image_path)
+        self.assertEqual(selection["selected"]["image_index"], 2)
+        self.assertEqual(
+            [item["image_index"] for item in selection["evaluations"]],
+            [1, 2],
+        )
+        self.assertEqual(create.call_count, 2)
+
+    def test_select_main_markush_image_does_not_fallback_to_non_main_markush(self) -> None:
+        from scripts.run_glm_first_image_infringement_dataset import (
+            select_main_markush_image,
+        )
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            patent_dir = Path(tmpdir) / "US123"
+            patent_dir.mkdir()
+            for image_index in range(1, 3):
+                (patent_dir / f"image_{image_index}.png").write_bytes(b"not-used")
+
+            create = Mock(
+                side_effect=[
+                    self._glm_response(
+                        {
+                            "is_markush": True,
+                            "is_main_markush": False,
+                            "score": 0.95,
+                        }
+                    ),
+                    self._glm_response(
+                        {
+                            "is_markush": True,
+                            "is_main_markush": False,
+                            "score": 0.9,
+                        }
+                    ),
+                ]
+            )
+            client = SimpleNamespace(
+                chat=SimpleNamespace(completions=SimpleNamespace(create=create))
+            )
+
+            with patch(
+                "scripts.run_glm_first_image_infringement_dataset.OpenAI",
+                return_value=client,
+            ):
+                with self.assertRaisesRegex(RuntimeError, "No main Markush image"):
+                    select_main_markush_image(
+                        patent_id="US123",
+                        smiles="CC",
+                        patent_text="claim text",
+                        cache_root=Path(tmpdir),
+                        model="glm-5.1",
+                        base_url="https://example.test/v1",
+                        api_key="test-key",
+                        temperature=0.0,
+                        request_timeout=1.0,
+                        max_images=5,
+                        min_score=0.55,
+                    )
+
+        self.assertEqual(create.call_count, 2)
+
+
 class PatentabilityPipelineTests(unittest.TestCase):
     def test_merge_prior_art_candidates_filters_invalid_and_dedupes(self) -> None:
         pipeline = PatentabilityPipeline.__new__(PatentabilityPipeline)
@@ -827,6 +957,29 @@ class MarkushGrapherRemoteTests(unittest.TestCase):
 
 
 class MarkushGrapherLocalTests(unittest.TestCase):
+    def test_inline_r_caption_is_treated_as_markush(self) -> None:
+        inline_result = MarkushGrapherTool._structure_from_result(
+            "image.png",
+            {
+                "caption": "<r>R1</r>C(=O)N",
+                "smi": "<r>R1</r>C(=O)N",
+                "is_markush": False,
+                "score": 1.0,
+            },
+        )
+        plain_result = MarkushGrapherTool._structure_from_result(
+            "image.png",
+            {
+                "caption": "O=C1CCCN1",
+                "smi": "O=C1CCCN1",
+                "is_markush": False,
+                "score": 1.0,
+            },
+        )
+
+        self.assertTrue(inline_result.is_markush)
+        self.assertFalse(plain_result.is_markush)
+
     def test_local_batch_retries_on_cpu_after_cuda_oom(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
             image_path = Path(tmpdir) / "image.png"
