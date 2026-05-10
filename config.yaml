@@ -6,6 +6,8 @@ llm:
   model: qwen-max           # 阿里云百炼模型
   api_key_env: OPENAI_API_KEY  # 从环境变量读取
   base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  request_timeout: 120
+  max_retries: 2
   max_tokens: 4096
   temperature: 0.1
   # 统一约束所有 LLM 输出：解释、报告、建议等自然语言内容用中文；
@@ -28,8 +30,8 @@ llm_profiles:
   glm5.1:
     provider: openai
     model: glm-5.1
-    api_key_env: ZAI_API_KEY
-    base_url: https://open.bigmodel.cn/api/paas/v4
+    api_key_env: OPENAI_API_KEY
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
 
 # Tool endpoints
 tools:
@@ -62,7 +64,7 @@ pipelines:
   # LLM 从专利附图顶部往下筛选“满足主权利要求的主 Markush 通式图”。
   # 选中的图片再交给 MarkushGrapher 或 LLM-only Markush 提取器解析。
   markush_image_selection:
-    enabled: true
+    enabled: false
     max_images: 60
     min_score: 0.55
     allow_candidate_fallback: true
@@ -77,6 +79,7 @@ pipelines:
   llm_infringement:
     llm_model: qwen-max
     fallback_to_text_on_image_error: true
+    use_image_for_markush_extraction: false
     markush_extraction_max_tokens: 4096
     structure_match_max_tokens: 4096
 

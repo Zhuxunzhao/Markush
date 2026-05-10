@@ -50,6 +50,8 @@ class LLMMarkushExtractorAgent(BaseAgent):
             else "未提供可用图片，请只基于文本提取主 Markush 结构。"
         )
         description = patent.description_text or patent.full_text
+        abstract_limit = 2000 if image_path else 8000
+        description_limit = 4000 if image_path else 20000
 
         return f"""## 专利号
 {patent.patent_id}
@@ -67,12 +69,12 @@ class LLMMarkushExtractorAgent(BaseAgent):
 
 ## 摘要
 ```
-{self.truncate(patent.abstract_text, max_chars=8000)}
+{self.truncate(patent.abstract_text, max_chars=abstract_limit)}
 ```
 
 ## 说明书片段
 ```
-{self.truncate(description, max_chars=20000)}
+{self.truncate(description, max_chars=description_limit)}
 ```
 
 请提取主 Markush 结构，并按指定 JSON schema 返回。"""

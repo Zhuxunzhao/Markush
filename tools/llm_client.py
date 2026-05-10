@@ -45,13 +45,20 @@ class LLMClient:
         self.model = llm_cfg["model"]
         self.max_tokens = llm_cfg.get("max_tokens", 96000)
         self.temperature = llm_cfg.get("temperature", 0.1)
+        self.request_timeout = llm_cfg.get("request_timeout", 120)
+        self.max_retries = int(llm_cfg.get("max_retries", 2))
         self.output_language_instruction = llm_cfg.get(
             "output_language_instruction",
             DEFAULT_OUTPUT_LANGUAGE_INSTRUCTION,
         ).strip()
-        api_key = os.environ.get(llm_cfg["api_key_env"], "")
+        api_key_env = llm_cfg.get("api_key_env", "OPENAI_API_KEY")
+        api_key = str(llm_cfg.get("api_key") or "").strip()
         if not api_key:
-            logger.warning(f"API key not found in env var: {llm_cfg['api_key_env']}")
+            api_key = os.environ.get(api_key_env, "")
+        if not api_key:
+            raise RuntimeError(
+                f"API key not found in request config or env var: {api_key_env}"
+            )
         # base_url: explicit config value, then OPENAI_API_BASE env var (DashScope compat)
         self.base_url = (
             llm_cfg.get("base_url")
@@ -63,7 +70,7 @@ class LLMClient:
     def _init_client(self, api_key: str):
         if self.provider == "openai":
             from openai import OpenAI
-            kwargs: dict = {"api_key": api_key}
+            kwargs: dict = {"api_key": api_key, "timeout": self.request_timeout}
             if self.base_url:
                 kwargs["base_url"] = self.base_url
             return OpenAI(**kwargs)
@@ -84,7 +91,7 @@ class LLMClient:
         response_format: Optional[Any] = None,
         max_tokens: Optional[int] = None,
         temperature: Optional[float] = None,
-        max_retries: int = 3,
+        max_retries: Optional[int] = None,
         raw_text: bool = False,
     ) -> dict[str, Any] | str:
         """统一聊天接口
@@ -103,6 +110,7 @@ class LLMClient:
         """
         temp = temperature if temperature is not None else self.temperature
         token_limit = max_tokens if max_tokens is not None else self.max_tokens
+        max_retries = self.max_retries if max_retries is None else max_retries
         system_prompt = self._apply_output_language_instruction(system_prompt)
         last_error: Optional[Exception] = None
 
@@ -123,14 +131,19 @@ class LLMClient:
 
             except Exception as e:
                 last_error = e
+                error_message = self._format_exception(e)
                 wait = 2 ** attempt  # 1 s, 2 s, 4 s …
+                error_message = self._format_exception(e)
                 logger.warning(
-                    f"LLM call failed (attempt {attempt + 1}/{max_retries}): {e}"
+                    f"LLM call failed (attempt {attempt + 1}/{max_retries}): {error_message}"
                 )
                 if attempt < max_retries - 1:
                     time.sleep(wait)
 
-        raise RuntimeError(f"LLM call failed after {max_retries} retries: {last_error}")
+        raise RuntimeError(
+            f"LLM call failed after {max_retries} retries: "
+            f"{self._format_exception(last_error)}"
+        )
 
     def chat_with_images(
         self,
@@ -140,7 +153,7 @@ class LLMClient:
         response_format: Optional[Any] = None,
         max_tokens: Optional[int] = None,
         temperature: Optional[float] = None,
-        max_retries: int = 3,
+        max_retries: Optional[int] = None,
         raw_text: bool = False,
     ) -> dict[str, Any] | str:
         """Chat with optional local images using OpenAI-compatible content blocks.
@@ -167,6 +180,7 @@ class LLMClient:
 
         temp = temperature if temperature is not None else self.temperature
         token_limit = max_tokens if max_tokens is not None else self.max_tokens
+        max_retries = self.max_retries if max_retries is None else max_retries
         system_prompt = self._apply_output_language_instruction(system_prompt)
         last_error: Optional[Exception] = None
 
@@ -186,14 +200,16 @@ class LLMClient:
             except Exception as e:
                 last_error = e
                 wait = 2 ** attempt
+                error_message = self._format_exception(e)
                 logger.warning(
-                    f"LLM multimodal call failed (attempt {attempt + 1}/{max_retries}): {e}"
+                    f"LLM multimodal call failed (attempt {attempt + 1}/{max_retries}): {error_message}"
                 )
                 if attempt < max_retries - 1:
                     time.sleep(wait)
 
         raise RuntimeError(
-            f"LLM multimodal call failed after {max_retries} retries: {last_error}"
+            f"LLM multimodal call failed after {max_retries} retries: "
+            f"{self._format_exception(last_error)}"
         )
 
     def _apply_output_language_instruction(self, system_prompt: str) -> str:
@@ -267,6 +283,16 @@ class LLMClient:
         mime = mimetypes.guess_type(path.name)[0] or "image/png"
         data = base64.b64encode(path.read_bytes()).decode("ascii")
         return f"data:{mime};base64,{data}"
+
+    @staticmethod
+    def _format_exception(error: Optional[BaseException]) -> str:
+        if error is None:
+            return "unknown error"
+        parts = [f"{error.__class__.__name__}: {error}"]
+        cause = getattr(error, "__cause__", None)
+        if cause is not None:
+            parts.append(f"cause={cause.__class__.__name__}: {cause}")
+        return " | ".join(parts)
 
     def _chat_anthropic(
         self,

@@ -16,7 +16,9 @@ import copy
 import dataclasses
 import json
 import re
-from typing import Any, Optional
+from datetime import datetime
+from enum import Enum
+from typing import Any, Callable, Optional
 
 from agents.claim_analyzer import ClaimAnalyzerAgent, ClaimAnalysis
 from agents.llm_markush_extractor import LLMMarkushExtractorAgent
@@ -37,6 +39,7 @@ from schemas.types import (
     RGroupAlignmentResult,
 )
 from tools.llm_client import LLMClient
+from tools.llm_config import build_llm_config
 from tools.logger import log
 from tools.patent_scraper import PatentScraperTool
 
@@ -47,6 +50,20 @@ def _dump(obj: Any) -> str:
     if isinstance(obj, dict):
         return json.dumps(obj, ensure_ascii=False, indent=2, default=str)
     return str(obj)
+
+
+def _jsonable(value: Any) -> Any:
+    if dataclasses.is_dataclass(value) and not isinstance(value, type):
+        return _jsonable(dataclasses.asdict(value))
+    if isinstance(value, dict):
+        return {str(key): _jsonable(item) for key, item in value.items()}
+    if isinstance(value, list):
+        return [_jsonable(item) for item in value]
+    if isinstance(value, tuple):
+        return [_jsonable(item) for item in value]
+    if isinstance(value, Enum):
+        return value.value
+    return value
 
 
 def _canonical_claim_label(label: str) -> str:
@@ -116,17 +133,25 @@ class LLMInfringementPipeline:
         self,
         config: dict,
         *,
+        llm_provider: Optional[str] = None,
         llm_model: Optional[str] = None,
         llm_base_url: Optional[str] = None,
+        llm_api_key: Optional[str] = None,
         llm_api_key_env: Optional[str] = None,
         generate_report: Optional[bool] = None,
+        step_output_callback: Optional[Callable[[dict[str, Any]], None]] = None,
     ):
-        self.config = _config_with_llm_overrides(
+        self.config = build_llm_config(
             config,
+            pipeline_key="llm_infringement",
+            llm_provider=llm_provider,
             llm_model=llm_model,
             llm_base_url=llm_base_url,
+            llm_api_key=llm_api_key,
             llm_api_key_env=llm_api_key_env,
         )
+        self.step_outputs: list[dict[str, Any]] = []
+        self._step_output_callback = step_output_callback
         pipe_cfg = self.config.get("pipelines", {}).get("llm_infringement", {})
         selection_cfg = self.config.get("pipelines", {}).get("markush_image_selection", {})
         self.image_selection_enabled = bool(selection_cfg.get("enabled", True))
@@ -137,6 +162,9 @@ class LLMInfringementPipeline:
         )
         self.fallback_to_text_on_image_error = bool(
             pipe_cfg.get("fallback_to_text_on_image_error", True)
+        )
+        self.use_image_for_markush_extraction = bool(
+            pipe_cfg.get("use_image_for_markush_extraction", True)
         )
         self.generate_report = (
             bool(pipe_cfg.get("generate_report", True))
@@ -160,6 +188,27 @@ class LLMInfringementPipeline:
         self.r_group_aligner = RGroupAlignmentAgent(llm)
         self.req_examiner = RequirementsExaminerAgent(llm)
         self.reporter = ReportGeneratorAgent(llm)
+
+    def _record_step_output(
+        self,
+        *,
+        step: int,
+        agent_key: str,
+        title: str,
+        summary: str,
+        data: Any,
+    ) -> None:
+        output = {
+            "step": step,
+            "agent_key": agent_key,
+            "title": title,
+            "summary": summary,
+            "data": _jsonable(data),
+            "timestamp": datetime.utcnow().isoformat() + "Z",
+        }
+        self.step_outputs.append(output)
+        if self._step_output_callback:
+            self._step_output_callback(output)
 
     def _claim_constraint_labels(self, claim_analysis: Optional[ClaimAnalysis]) -> set[str]:
         labels: set[str] = set()
@@ -315,21 +364,38 @@ class LLMInfringementPipeline:
         llm_outputs: dict[str, Any],
     ) -> Optional[MarkushStructure]:
         try:
+            extraction_image_path = image_path if self.use_image_for_markush_extraction else None
+            if image_path and not extraction_image_path:
+                log.info(
+                    "  Selected image is recorded as evidence, but Markush extraction "
+                    "is running text-only per config"
+                )
+            elif extraction_image_path:
+                log.info(f"  Passing selected image to Markush extractor: {image_path}")
+            else:
+                log.info("  Running Markush extractor without an image")
             structure = self.markush_extractor.run(
                 patent=patent,
                 target_smiles=target_smiles,
-                image_path=image_path,
+                image_path=extraction_image_path,
             )
             llm_outputs["llm_markush_extraction"] = (
                 self.markush_extractor.last_llm_response
+            )
+            log.info(
+                "  Markush extractor returned "
+                f"is_markush={structure.is_markush} "
+                f"score={getattr(structure, 'score', 0.0):.2f} "
+                f"caption_len={len(structure.caption or '')}"
             )
             return structure
         except Exception as e:
             llm_outputs["llm_markush_extraction"] = {
                 "error": str(e),
                 "image_path": image_path,
+                "use_image_for_markush_extraction": self.use_image_for_markush_extraction,
             }
-            if image_path and self.fallback_to_text_on_image_error:
+            if image_path and self.use_image_for_markush_extraction and self.fallback_to_text_on_image_error:
                 log.warning(
                     f"  LLM image Markush extraction failed: {e}; retrying text-only"
                 )
@@ -369,6 +435,13 @@ class LLMInfringementPipeline:
             patent = self.scraper.fetch(patent_id)
         except Exception as e:
             log.error(f"Failed to fetch patent: {e}")
+            self._record_step_output(
+                step=1,
+                agent_key="fetch",
+                title="专利抓取摘要",
+                summary=f"抓取专利 {patent_id} 失败。",
+                data={"patent_id": patent_id, "error": str(e)},
+            )
             return InfringementResult(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
@@ -380,6 +453,23 @@ class LLMInfringementPipeline:
         log.info(f"  >> claims_text length: {len(patent.claims_text)} chars")
         log.info(f"  >> images found: {len(patent.images)}")
         log.info(f"  >> claims_text (first 800 chars):\n{patent.claims_text[:800]}")
+        self._record_step_output(
+            step=1,
+            agent_key="fetch",
+            title="专利抓取摘要",
+            summary=(
+                f"已获取 {patent.patent_id}，权利要求 {len(patent.claims_text)} 字符，"
+                f"附图 {len(patent.images)} 张。"
+            ),
+            data={
+                "patent_id": patent.patent_id,
+                "claims_text_length": len(patent.claims_text),
+                "description_text_length": len(patent.description_text),
+                "abstract_text_length": len(patent.abstract_text),
+                "image_count": len(patent.images),
+                "claims_preview": patent.claims_text[:1200],
+            },
+        )
 
         log.step("Extracting Markush structure with LLM")
         markush: Optional[MarkushStructure] = None
@@ -409,6 +499,23 @@ class LLMInfringementPipeline:
                 markush_caption = markush.caption
 
         log.info(f"  >> markush_caption: {markush_caption}")
+        self._record_step_output(
+            step=2,
+            agent_key="markush",
+            title="Markush 结构解析",
+            summary=(
+                "已得到可用于后续匹配的 Markush 描述。"
+                if markush_caption
+                else "未能从 LLM-only 流程中得到 Markush 描述。"
+            ),
+            data={
+                "provided_caption": bool(markush_structure or markush_caption),
+                "markush_caption": markush_caption,
+                "markush_structure": markush,
+                "llm_response": llm_outputs.get("llm_markush_extraction"),
+                "image_selection": llm_outputs.get("markush_image_selection"),
+            },
+        )
         if not markush_caption:
             reason = (
                 "No Markush structure was extracted by the LLM workflow. "
@@ -442,6 +549,21 @@ class LLMInfringementPipeline:
         except Exception as e:
             llm_outputs["claim_analysis"] = {"error": str(e)}
             log.warning(f"  Claim analysis failed: {e}, continuing with LLM Markush caption")
+        self._record_step_output(
+            step=3,
+            agent_key="claim",
+            title="权利要求解析",
+            summary=(
+                f"识别到 {len(claim_analysis.markush_claims or [])} 条 Markush 相关权利要求。"
+                if claim_analysis
+                else "权利要求解析失败或未返回结构化结果。"
+            ),
+            data={
+                "claim_analysis": claim_analysis,
+                "llm_response": llm_outputs.get("claim_analysis"),
+                "effective_markush_caption": markush_caption,
+            },
+        )
 
         log.step("Running LLM substructure matching")
         llm_match_result: Optional[MatchResult] = None
@@ -460,6 +582,20 @@ class LLMInfringementPipeline:
         except Exception as e:
             llm_outputs["llm_structure_matching"] = {"error": str(e)}
             log.warning(f"  LLM substructure matching failed: {e}")
+        self._record_step_output(
+            step=4,
+            agent_key="llm_match",
+            title="LLM 结构匹配",
+            summary=(
+                f"LLM 判断骨架匹配结果为 {llm_match_result.is_match}。"
+                if llm_match_result
+                else "LLM 结构匹配未返回可用结果。"
+            ),
+            data={
+                "match_result": llm_match_result,
+                "llm_response": llm_outputs.get("llm_structure_matching"),
+            },
+        )
 
         log.step("Fusing and verifying matches")
         try:
@@ -481,6 +617,17 @@ class LLMInfringementPipeline:
             log.info(f"  >> FusedMatchResult:\n{_dump(fused)}")
         except Exception as e:
             log.error(f"  Match fusion failed: {e}")
+            self._record_step_output(
+                step=5,
+                agent_key="fusion",
+                title="匹配融合",
+                summary="LLM 匹配融合失败。",
+                data={
+                    "error": str(e),
+                    "llm_match_result": llm_match_result,
+                    "llm_response": llm_outputs.get("match_fusion"),
+                },
+            )
             return InfringementResult(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
@@ -490,6 +637,20 @@ class LLMInfringementPipeline:
                 llm_outputs=llm_outputs,
                 report=f"Error during match fusion: {e}",
             )
+        self._record_step_output(
+            step=5,
+            agent_key="fusion",
+            title="匹配融合",
+            summary=(
+                f"得到 {len(fused.r_group_matching or {})} 个 R-group 映射。"
+                if fused.r_group_matching
+                else "未得到可验证的 R-group 映射。"
+            ),
+            data={
+                "fused_match": fused,
+                "llm_response": llm_outputs.get("match_fusion"),
+            },
+        )
 
         if not fused.r_group_matching:
             reason = (
@@ -547,6 +708,18 @@ class LLMInfringementPipeline:
                 "was skipped."
             )
             log.warning(f"  {reason}")
+            self._record_step_output(
+                step=6,
+                agent_key="alignment",
+                title="R-group 对齐",
+                summary="R-group 标签无法安全对齐到权利要求变量。",
+                data={
+                    "alignment_result": alignment_result,
+                    "original_r_group_matching": fused.r_group_matching,
+                    "reason": reason,
+                    "llm_response": llm_outputs.get("r_group_alignment"),
+                },
+            )
             return self._no_verified_match_result(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
@@ -556,6 +729,19 @@ class LLMInfringementPipeline:
                 llm_outputs=llm_outputs,
             )
 
+        self._record_step_output(
+            step=6,
+            agent_key="alignment",
+            title="R-group 对齐",
+            summary=f"已对齐 {len(effective_r_group_matching or {})} 个 R-group 标签。",
+            data={
+                "alignment_result": alignment_result,
+                "original_r_group_matching": fused.r_group_matching,
+                "effective_r_group_matching": effective_r_group_matching,
+                "llm_response": llm_outputs.get("r_group_alignment"),
+                "fallback": llm_outputs.get("r_group_alignment_fallback"),
+            },
+        )
         fused.claim_aligned_r_group_matching = effective_r_group_matching
         fused.label_alignment = alignment_result.label_alignment
 
@@ -575,6 +761,17 @@ class LLMInfringementPipeline:
             log.info(f"  >> RequirementsResult:\n{_dump(req_result)}")
         except Exception as e:
             log.error(f"  Requirements examination failed: {e}")
+            self._record_step_output(
+                step=7,
+                agent_key="requirements",
+                title="保护范围判断",
+                summary="权利要求要件检查失败。",
+                data={
+                    "error": str(e),
+                    "r_group_matching": effective_r_group_matching,
+                    "llm_response": llm_outputs.get("requirements_examination"),
+                },
+            )
             return InfringementResult(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
@@ -585,6 +782,20 @@ class LLMInfringementPipeline:
                 llm_outputs=llm_outputs,
                 report=f"Error during requirements examination: {e}",
             )
+        self._record_step_output(
+            step=7,
+            agent_key="requirements",
+            title="保护范围判断",
+            summary=(
+                "目标分子被判断落入保护范围。"
+                if req_result.is_protected
+                else "目标分子被判断未落入保护范围。"
+            ),
+            data={
+                "requirements": req_result,
+                "llm_response": llm_outputs.get("requirements_examination"),
+            },
+        )
 
         if self.generate_report:
             log.step("Generating report")
@@ -620,6 +831,16 @@ class LLMInfringementPipeline:
                 "confidence": req_result.confidence.value,
                 "detailed_analysis": req_result.reasoning,
             }
+        self._record_step_output(
+            step=8,
+            agent_key="report",
+            title="最终报告",
+            summary="侵权分析报告已生成。",
+            data={
+                "report": report,
+                "llm_response": llm_outputs.get("infringement_report"),
+            },
+        )
 
         return InfringementResult(
             patent_id=patent_id,

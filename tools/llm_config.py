@@ -1,0 +1,71 @@
+"""Helpers for request-scoped LLM configuration."""
+
+from __future__ import annotations
+
+import copy
+from typing import Optional
+
+
+def _model_candidates(model_or_profile: str) -> list[str]:
+    raw = str(model_or_profile or "").strip()
+    lowered = raw.lower().replace("_", "-")
+    candidates = [raw, lowered]
+    if lowered in {"glm5.1", "glm5-1", "glm-5.1"}:
+        candidates.extend(["glm5.1", "glm-5.1"])
+    if lowered in {"qwen-max", "qwenmax"}:
+        candidates.extend(["qwen-max", "qwen_max"])
+    return list(dict.fromkeys(candidate for candidate in candidates if candidate))
+
+
+def _canonical_model_name(model_or_profile: str) -> str:
+    lowered = str(model_or_profile or "").strip().lower().replace("_", "-")
+    if lowered in {"glm5.1", "glm5-1", "glm-5.1"}:
+        return "glm-5.1"
+    if lowered in {"qwenmax", "qwen-max"}:
+        return "qwen-max"
+    return str(model_or_profile).strip()
+
+
+def build_llm_config(
+    config: dict,
+    *,
+    pipeline_key: Optional[str] = None,
+    llm_provider: Optional[str] = None,
+    llm_model: Optional[str] = None,
+    llm_base_url: Optional[str] = None,
+    llm_api_key: Optional[str] = None,
+    llm_api_key_env: Optional[str] = None,
+) -> dict:
+    """Return a deep-copied config with temporary LLM overrides applied.
+
+    ``llm_api_key`` is intended for request-scoped Web usage. Callers should not
+    persist the returned config or expose it through job snapshots.
+    """
+
+    resolved = copy.deepcopy(config)
+    pipe_cfg = resolved.get("pipelines", {}).get(pipeline_key or "", {})
+    model_or_profile = llm_model or pipe_cfg.get("llm_model")
+    llm_cfg = resolved.setdefault("llm", {})
+
+    if model_or_profile:
+        profiles = resolved.get("llm_profiles", {})
+        profile = None
+        for candidate in _model_candidates(model_or_profile):
+            if candidate in profiles:
+                profile = profiles[candidate]
+                break
+        if profile:
+            llm_cfg.update(profile)
+        else:
+            llm_cfg["model"] = _canonical_model_name(model_or_profile)
+
+    if llm_provider:
+        llm_cfg["provider"] = llm_provider
+    if llm_base_url:
+        llm_cfg["base_url"] = llm_base_url
+    if llm_api_key_env:
+        llm_cfg["api_key_env"] = llm_api_key_env
+    if llm_api_key:
+        llm_cfg["api_key"] = llm_api_key
+
+    return resolved

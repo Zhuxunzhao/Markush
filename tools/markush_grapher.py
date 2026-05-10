@@ -22,6 +22,7 @@ from PIL import Image
 from schemas.types import MarkushStructure, OCRCell
 
 logger = logging.getLogger("markush.tools.markush_grapher")
+_INLINE_RGROUP_RE = re.compile(r"<r>.*?</r>", re.IGNORECASE)
 
 # Paths resolved once at import time
 _TOOLS_DIR = Path(__file__).resolve().parent
@@ -190,7 +191,7 @@ class MarkushGrapherTool:
                     caption=r.get("caption", ""),
                     source_image_path=path,
                     score=float(r.get("score", 0.0)),
-                    is_markush=bool(r.get("is_markush", False)),
+                    is_markush=_result_is_markush(r),
                 )
             )
         return structures
@@ -345,12 +346,14 @@ class MarkushGrapherTool:
             )
 
         for pos, (idx, path, _) in enumerate(prepared):
+            caption = data["caption"][pos]
             result = {
                 "path": os.path.abspath(path),
                 "smi": data["smi"][pos],
-                "caption": data["caption"][pos],
+                "caption": caption,
                 "score": float(data["score"][pos]),
-                "is_markush": bool(data["markush"][pos]),
+                "is_markush": bool(data["markush"][pos])
+                or _caption_has_markush_signal(caption),
             }
             self._write_cache(path, result)
             structures[idx] = self._structure_from_result(path, result)
@@ -364,7 +367,7 @@ class MarkushGrapherTool:
             caption=result.get("caption", ""),
             source_image_path=path,
             score=float(result.get("score", 0.0)),
-            is_markush=bool(result.get("is_markush", False)),
+            is_markush=_result_is_markush(result),
         )
 
 
@@ -381,3 +384,17 @@ def _empty_structure(image_path: str) -> MarkushStructure:
         score=0.0,
         is_markush=False,
     )
+
+
+def _caption_has_markush_signal(caption: str) -> bool:
+    caption = (caption or "").strip()
+    return bool(caption) and (
+        "<sep>" in caption or _INLINE_RGROUP_RE.search(caption) is not None
+    )
+
+
+def _result_is_markush(result: dict) -> bool:
+    if bool(result.get("is_markush", False)):
+        return True
+    caption = str(result.get("caption") or result.get("smi") or "")
+    return _caption_has_markush_signal(caption)

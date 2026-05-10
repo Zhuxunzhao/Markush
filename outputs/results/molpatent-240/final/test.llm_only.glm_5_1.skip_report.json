@@ -1,0 +1,27 @@
+{
+  "input": "C:\\Users\\de'l'l\\Markush\\data\\molpatent-240.infringement_input.json",
+  "output": "C:\\Users\\de'l'l\\Markush\\outputs\\results\\molpatent-240\\final\\test.llm_only.glm_5_1.skip_report.json",
+  "summary": {
+    "workflow": "llm-only-infringement",
+    "input_total": 1,
+    "completed": 0,
+    "ok": 0,
+    "error": 0,
+    "workers": 1,
+    "llm_model": "glm-5.1",
+    "llm_base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "llm_api_key_env": "OPENAI_API_KEY",
+    "generate_report": false,
+    "started_at": "2026-05-04T17:11:33.778741+00:00",
+    "preflight": {
+      "status": "ok",
+      "model": "glm-5.1",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "api_key_env": "OPENAI_API_KEY",
+      "response": {
+        "ok": true
+      }
+    }
+  },
+  "records": []
+}

@@ -32,6 +32,9 @@ DEFAULT_MODEL = "glm-5.1"
 DEFAULT_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 DEFAULT_TEXT_SOURCE = "claim"
 DEFAULT_MAX_TEXT_CHARS = 60_000
+REASONING_EFFORT_CHOICES = ("none", "minimal", "low", "medium", "high", "xhigh")
+VERBOSITY_CHOICES = ("low", "medium", "high")
+TOKEN_LIMIT_PARAM_CHOICES = ("max_tokens", "max_completion_tokens")
 
 
 SYSTEM_PROMPT = """你是一名谨慎的化学专利侵权分析专家。
@@ -229,6 +232,37 @@ def _parse_json_response(text: str) -> dict[str, Any]:
     return {"raw_text": text, "is_infringing": False, "confidence": "very_low"}
 
 
+def _response_debug(response: Any) -> dict[str, Any]:
+    debug: dict[str, Any] = {}
+    try:
+        choice = response.choices[0]
+        debug["finish_reason"] = getattr(choice, "finish_reason", None)
+    except Exception:
+        pass
+    usage = getattr(response, "usage", None)
+    if usage is not None:
+        if hasattr(usage, "model_dump"):
+            debug["usage"] = usage.model_dump()
+        elif isinstance(usage, dict):
+            debug["usage"] = usage
+        else:
+            debug["usage"] = str(usage)
+    return debug
+
+
+def _response_content_or_raise(response: Any, stage: str) -> str:
+    content = response.choices[0].message.content or ""
+    if content.strip():
+        return content
+    debug = _response_debug(response)
+    detail = json.dumps(debug, ensure_ascii=False) if debug else "no response metadata"
+    raise RuntimeError(
+        f"{stage} returned empty content; this is not a valid judgment. "
+        f"Try increasing --max-tokens/--image-selection-max-tokens or lowering "
+        f"--reasoning-effort. response_debug={detail}"
+    )
+
+
 def _coerce_bool(value: Any) -> bool:
     if isinstance(value, bool):
         return value
@@ -247,6 +281,31 @@ def _coerce_score(value: Any) -> float:
     return max(0.0, min(1.0, score))
 
 
+def _apply_chat_tuning(
+    kwargs: dict[str, Any],
+    *,
+    max_tokens: int,
+    token_limit_param: str,
+    temperature: float | None,
+    reasoning_effort: str | None,
+    verbosity: str | None,
+) -> dict[str, Any]:
+    extra_body: dict[str, Any] = {}
+    if temperature is not None:
+        kwargs["temperature"] = temperature
+    if token_limit_param == "max_completion_tokens":
+        extra_body["max_completion_tokens"] = max_tokens
+    else:
+        kwargs["max_tokens"] = max_tokens
+    if reasoning_effort:
+        extra_body["reasoning_effort"] = reasoning_effort
+    if verbosity:
+        extra_body["verbosity"] = verbosity
+    if extra_body:
+        kwargs["extra_body"] = extra_body
+    return kwargs
+
+
 def select_main_markush_image(
     *,
     patent_id: str,
@@ -260,12 +319,18 @@ def select_main_markush_image(
     request_timeout: float,
     max_images: int,
     min_score: float,
+    image_selection_max_tokens: int,
+    token_limit_param: str,
+    omit_temperature: bool,
+    reasoning_effort: str | None,
+    verbosity: str | None,
 ) -> tuple[Path, dict[str, Any]]:
     """Scan cached images in order and stop only on a main Markush hit."""
     images = cached_images(patent_id, cache_root)
     client = OpenAI(api_key=api_key, base_url=base_url, timeout=request_timeout)
     max_images = max(1, int(max_images))
     min_score = max(0.0, min(1.0, float(min_score)))
+    image_selection_max_tokens = max(1, int(image_selection_max_tokens))
     evaluations: list[dict[str, Any]] = []
 
     for image_index, image_path in enumerate(images[:max_images], start=1):
@@ -282,23 +347,31 @@ def select_main_markush_image(
 
 请判断当前图片是否是满足主权利要求的主 Markush 通式结构。"""
 
-        response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": IMAGE_SELECTION_SYSTEM_PROMPT},
-                {
-                    "role": "user",
-                    "content": [
-                        {"type": "text", "text": user_text},
-                        {"type": "image_url", "image_url": {"url": _image_data_url(image_path)}},
-                    ],
-                },
-            ],
-            temperature=temperature,
-            max_tokens=512,
-            response_format={"type": "json_object"},
+        request_kwargs = _apply_chat_tuning(
+            {
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": IMAGE_SELECTION_SYSTEM_PROMPT},
+                    {
+                        "role": "user",
+                        "content": [
+                            {"type": "text", "text": user_text},
+                            {"type": "image_url", "image_url": {"url": _image_data_url(image_path)}},
+                        ],
+                    },
+                ],
+                "response_format": {"type": "json_object"},
+            },
+            max_tokens=image_selection_max_tokens,
+            token_limit_param=token_limit_param,
+            temperature=None if omit_temperature else temperature,
+            reasoning_effort=reasoning_effort,
+            verbosity=verbosity,
         )
-        parsed = _parse_json_response(response.choices[0].message.content or "")
+        response = client.chat.completions.create(**request_kwargs)
+        parsed = _parse_json_response(
+            _response_content_or_raise(response, "image selection")
+        )
         item = {
             "image_index": image_index,
             "image_path": str(image_path),
@@ -342,9 +415,13 @@ def call_glm_text_image(
     base_url: str,
     api_key: str,
     max_tokens: int,
+    token_limit_param: str,
     temperature: float,
     request_timeout: float,
     response_language: str,
+    omit_temperature: bool,
+    reasoning_effort: str | None,
+    verbosity: str | None,
 ) -> dict[str, Any]:
     client = OpenAI(api_key=api_key, base_url=base_url, timeout=request_timeout)
     if response_language == "zh":
@@ -376,23 +453,29 @@ def call_glm_text_image(
 
 {output_instruction}"""
 
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text", "text": user_text},
-                    {"type": "image_url", "image_url": {"url": _image_data_url(image_path)}},
-                ],
-            },
-        ],
-        temperature=temperature,
+    request_kwargs = _apply_chat_tuning(
+        {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "text", "text": user_text},
+                        {"type": "image_url", "image_url": {"url": _image_data_url(image_path)}},
+                    ],
+                },
+            ],
+            "response_format": {"type": "json_object"},
+        },
         max_tokens=max_tokens,
-        response_format={"type": "json_object"},
+        token_limit_param=token_limit_param,
+        temperature=None if omit_temperature else temperature,
+        reasoning_effort=reasoning_effort,
+        verbosity=verbosity,
     )
-    content = response.choices[0].message.content or ""
+    response = client.chat.completions.create(**request_kwargs)
+    content = _response_content_or_raise(response, "final infringement judgment")
     parsed = _parse_json_response(content)
     parsed.setdefault("is_infringing", False)
     parsed.setdefault("judgment_zh", "判断：未落入保护范围" if not parsed["is_infringing"] else "判断：落入保护范围")
@@ -413,12 +496,17 @@ def process_record(
     base_url: str,
     api_key: str | None,
     max_tokens: int,
+    token_limit_param: str,
     temperature: float,
     request_timeout: float,
     dry_run: bool,
     response_language: str,
+    omit_temperature: bool,
     image_selection_max_images: int,
     image_selection_min_score: float,
+    image_selection_max_tokens: int,
+    reasoning_effort: str | None,
+    verbosity: str | None,
 ) -> dict[str, Any]:
     patent_id = str(record.get("patent_id", "")).strip()
     smiles = str(record.get("smiles") or record.get("target_smiles") or "").strip()
@@ -478,6 +566,11 @@ def process_record(
                 request_timeout=request_timeout,
                 max_images=image_selection_max_images,
                 min_score=image_selection_min_score,
+                image_selection_max_tokens=image_selection_max_tokens,
+                token_limit_param=token_limit_param,
+                omit_temperature=omit_temperature,
+                reasoning_effort=reasoning_effort,
+                verbosity=verbosity,
             )
             out["image_selection"] = image_selection
             out["image"] = {
@@ -494,9 +587,13 @@ def process_record(
                 base_url=base_url,
                 api_key=api_key,
                 max_tokens=max_tokens,
+                token_limit_param=token_limit_param,
                 temperature=temperature,
                 request_timeout=request_timeout,
                 response_language=response_language,
+                omit_temperature=omit_temperature,
+                reasoning_effort=reasoning_effort,
+                verbosity=verbosity,
             )
             out["status"] = "ok"
     except Exception as e:
@@ -530,12 +627,17 @@ def _run_one_task(
     base_url: str,
     api_key: str | None,
     max_tokens: int,
+    token_limit_param: str,
     temperature: float,
     request_timeout: float,
     dry_run: bool,
     response_language: str,
+    omit_temperature: bool,
     image_selection_max_images: int,
     image_selection_min_score: float,
+    image_selection_max_tokens: int,
+    reasoning_effort: str | None,
+    verbosity: str | None,
 ) -> dict[str, Any]:
     index, record = task
     return process_record(
@@ -548,12 +650,17 @@ def _run_one_task(
         base_url=base_url,
         api_key=api_key,
         max_tokens=max_tokens,
+        token_limit_param=token_limit_param,
         temperature=temperature,
         request_timeout=request_timeout,
         dry_run=dry_run,
         response_language=response_language,
+        omit_temperature=omit_temperature,
         image_selection_max_images=image_selection_max_images,
         image_selection_min_score=image_selection_min_score,
+        image_selection_max_tokens=image_selection_max_tokens,
+        reasoning_effort=reasoning_effort,
+        verbosity=verbosity,
     )
 
 
@@ -591,11 +698,39 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=0, help="Only run first N selected records")
     parser.add_argument("--start-index", type=int, default=1, help="1-based first record index")
     parser.add_argument("--max-tokens", type=int, default=1024)
+    parser.add_argument(
+        "--token-limit-param",
+        choices=TOKEN_LIMIT_PARAM_CHOICES,
+        default=os.environ.get("GLM_TOKEN_LIMIT_PARAM", "max_tokens"),
+        help="Request field used for --max-tokens; use max_completion_tokens for GPT reasoning models",
+    )
     parser.add_argument("--temperature", type=float, default=0.0)
+    parser.add_argument(
+        "--omit-temperature",
+        action="store_true",
+        help="Do not send temperature; use this for GPT models that only allow the default temperature",
+    )
     parser.add_argument("--request-timeout", type=float, default=180.0)
     parser.add_argument("--workers", type=int, default=1, help="Number of concurrent model requests")
     parser.add_argument("--image-selection-max-images", type=int, default=60)
     parser.add_argument("--image-selection-min-score", type=float, default=0.55)
+    parser.add_argument(
+        "--image-selection-max-tokens",
+        type=int,
+        default=int(os.environ.get("GLM_IMAGE_SELECTION_MAX_TOKENS", 512)),
+    )
+    parser.add_argument(
+        "--reasoning-effort",
+        choices=REASONING_EFFORT_CHOICES,
+        default=os.environ.get("GLM_REASONING_EFFORT") or os.environ.get("OPENAI_REASONING_EFFORT"),
+        help="Optional GPT reasoning effort forwarded to OpenAI-compatible providers",
+    )
+    parser.add_argument(
+        "--verbosity",
+        choices=VERBOSITY_CHOICES,
+        default=os.environ.get("GLM_VERBOSITY") or os.environ.get("OPENAI_VERBOSITY"),
+        help="Optional GPT verbosity forwarded to OpenAI-compatible providers",
+    )
     parser.add_argument(
         "--response-language",
         choices=["en", "zh"],
@@ -635,11 +770,17 @@ def main() -> None:
         "image_cache": str(image_cache),
         "text_source": args.text_source,
         "max_text_chars": args.max_text_chars,
+        "max_tokens": args.max_tokens,
+        "token_limit_param": args.token_limit_param,
+        "omit_temperature": args.omit_temperature,
         "workers": max(1, args.workers),
         "request_timeout": args.request_timeout,
         "response_language": args.response_language,
         "image_selection_max_images": args.image_selection_max_images,
         "image_selection_min_score": args.image_selection_min_score,
+        "image_selection_max_tokens": args.image_selection_max_tokens,
+        "reasoning_effort": args.reasoning_effort,
+        "verbosity": args.verbosity,
         "started_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     }
     output_records: list[dict[str, Any] | None] = [None] * len(selected)
@@ -711,12 +852,17 @@ def main() -> None:
                 base_url=args.base_url,
                 api_key=api_key,
                 max_tokens=args.max_tokens,
+                token_limit_param=args.token_limit_param,
                 temperature=args.temperature,
                 request_timeout=args.request_timeout,
                 dry_run=args.dry_run,
                 response_language=args.response_language,
+                omit_temperature=args.omit_temperature,
                 image_selection_max_images=args.image_selection_max_images,
                 image_selection_min_score=args.image_selection_min_score,
+                image_selection_max_tokens=args.image_selection_max_tokens,
+                reasoning_effort=args.reasoning_effort,
+                verbosity=args.verbosity,
             )
             handle_result(result)
     else:
@@ -732,12 +878,17 @@ def main() -> None:
                     base_url=args.base_url,
                     api_key=api_key,
                     max_tokens=args.max_tokens,
+                    token_limit_param=args.token_limit_param,
                     temperature=args.temperature,
                     request_timeout=args.request_timeout,
                     dry_run=args.dry_run,
                     response_language=args.response_language,
+                    omit_temperature=args.omit_temperature,
                     image_selection_max_images=args.image_selection_max_images,
                     image_selection_min_score=args.image_selection_min_score,
+                    image_selection_max_tokens=args.image_selection_max_tokens,
+                    reasoning_effort=args.reasoning_effort,
+                    verbosity=args.verbosity,
                 )
                 for task in pending
             ]

@@ -48,6 +48,16 @@ from markushgrapher.utils.common import read_yaml_file
 from markushgenerator.text_generation.image_text_merging import ImageTextMerger
 
 
+_INLINE_RGROUP_RE = re.compile(r"<r>.*?</r>", re.IGNORECASE)
+
+
+def _caption_has_markush_signal(caption: str) -> bool:
+    caption = (caption or "").strip()
+    return bool(caption) and (
+        "<sep>" in caption or _INLINE_RGROUP_RE.search(caption) is not None
+    )
+
+
 # ---------------------------------------------------------------------------
 # Stage 1: HF dataset creation + OCR
 # ---------------------------------------------------------------------------
@@ -287,7 +297,7 @@ class MarkushGrapherEngine:
                     m = re.search(r"<cxsmi>(.*?)</cxsmi>", predicted_text, re.DOTALL)
                     caption = m.group(1).replace(" ", "") if m else ""
                     smi = caption.split("<sep>")[0] if "<sep>" in caption else caption
-                    is_markush = bool(caption) and "<sep>" in caption
+                    is_markush = _caption_has_markush_signal(caption)
 
                     results.append({
                         "path": hf_raw[idx]["page_image_path"],
@@ -399,7 +409,7 @@ def _run_inference(
                 m = re.search(r"<cxsmi>(.*?)</cxsmi>", predicted_text, re.DOTALL)
                 caption = m.group(1).replace(" ", "") if m else ""
                 smi = caption.split("<sep>")[0] if "<sep>" in caption else caption
-                is_markush = bool(caption) and "<sep>" in caption
+                is_markush = _caption_has_markush_signal(caption)
 
                 results.append({
                     "path": hf_raw[idx]["page_image_path"],

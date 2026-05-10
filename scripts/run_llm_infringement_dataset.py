@@ -103,6 +103,30 @@ def _existing_records(output_path: Path) -> dict[int, dict[str, Any]]:
     return existing
 
 
+def _collect_llm_errors(value: Any, *, path: str = "llm_outputs", limit: int = 8) -> list[str]:
+    errors: list[str] = []
+
+    def visit(item: Any, current_path: str) -> None:
+        if len(errors) >= limit:
+            return
+        if isinstance(item, dict):
+            for key, child in item.items():
+                child_path = f"{current_path}.{key}"
+                if key == "error" and child:
+                    errors.append(f"{child_path}: {child}")
+                    if len(errors) >= limit:
+                        return
+                visit(child, child_path)
+        elif isinstance(item, list):
+            for idx, child in enumerate(item):
+                visit(child, f"{current_path}[{idx}]")
+                if len(errors) >= limit:
+                    return
+
+    visit(value, path)
+    return errors
+
+
 def _utc_now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
@@ -171,6 +195,7 @@ def _process_record(
     llm_base_url: str | None,
     llm_api_key_env: str | None,
     generate_report: bool,
+    fail_on_llm_errors: bool,
 ) -> dict[str, Any]:
     patent_id = str(record.get("patent_id", "")).strip()
     smiles = str(record.get("smiles") or record.get("target_smiles") or "").strip()
@@ -204,6 +229,33 @@ def _process_record(
             target_smiles=smiles,
             markush_caption=caption,
         )
+        serialized_result = _serialize_infringement_result(result)
+        llm_errors = (
+            _collect_llm_errors(serialized_result.get("llm_outputs", {}))
+            if fail_on_llm_errors
+            else []
+        )
+        if llm_errors:
+            stats["error"] = 1
+            return {
+                "record": {
+                    "index": idx,
+                    "input": {
+                        "patent_id": patent_id,
+                        "smiles": smiles,
+                        "source_index": record.get("source_index"),
+                        "expected_is_protected": record.get("expected_is_protected"),
+                        "selection_type": record.get("selection_type"),
+                        "caption_provided": bool(caption),
+                    },
+                    "status": "error",
+                    "error": "LLM error(s) occurred: " + "; ".join(llm_errors),
+                    "result": serialized_result,
+                    "finished_at": _utc_now(),
+                },
+                "stats": stats,
+                "message": f"[{idx}/{total}] {patent_id}: ERROR (LLM error(s) occurred)",
+            }
         stats["ok"] = 1
         return {
             "record": {
@@ -217,7 +269,7 @@ def _process_record(
                     "caption_provided": bool(caption),
                 },
                 "status": "ok",
-                "result": _serialize_infringement_result(result),
+                "result": serialized_result,
                 "finished_at": _utc_now(),
             },
             "stats": stats,
@@ -281,6 +333,16 @@ def main() -> None:
     parser.add_argument("--no-resume", action="store_true", help="Do not reuse completed records in output JSON")
     parser.add_argument("--no-preflight", action="store_true", help="Skip the one-call LLM auth/model check")
     parser.add_argument("--skip-report", action="store_true", help="Skip final narrative report generation")
+    parser.add_argument(
+        "--fail-on-record-errors",
+        action="store_true",
+        help="Exit with status 1 if any input record finishes with status=error",
+    )
+    parser.add_argument(
+        "--fail-on-llm-errors",
+        action="store_true",
+        help="Treat captured LLM sub-call errors as record errors instead of silent very_low fallbacks",
+    )
     args = parser.parse_args()
 
     _load_dotenv(ROOT / ".env")
@@ -312,6 +374,7 @@ def main() -> None:
         "llm_base_url": args.llm_base_url,
         "llm_api_key_env": args.llm_api_key_env,
         "generate_report": not args.skip_report,
+        "fail_on_llm_errors": args.fail_on_llm_errors,
         "started_at": _utc_now(),
     }
 
@@ -355,6 +418,7 @@ def main() -> None:
                 llm_base_url=args.llm_base_url,
                 llm_api_key_env=args.llm_api_key_env,
                 generate_report=not args.skip_report,
+                fail_on_llm_errors=args.fail_on_llm_errors,
             ): idx
             for idx, record in pending
         }
@@ -406,6 +470,8 @@ def main() -> None:
     )
     print("\nDone.", flush=True)
     print(json.dumps(summary, ensure_ascii=False, indent=2), flush=True)
+    if args.fail_on_record_errors and summary["error"] > 0:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

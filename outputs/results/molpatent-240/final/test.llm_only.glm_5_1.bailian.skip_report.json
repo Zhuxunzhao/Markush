@@ -1,0 +1,83 @@
+{
+  "input": "C:\\Users\\de'l'l\\Markush\\data\\molpatent-240.infringement_input.json",
+  "output": "C:\\Users\\de'l'l\\Markush\\outputs\\results\\molpatent-240\\final\\test.llm_only.glm_5_1.bailian.skip_report.json",
+  "summary": {
+    "total": 1,
+    "completed": 1,
+    "ok": 1,
+    "error": 0,
+    "dry_run_ok": 0,
+    "skipped_existing": 0,
+    "model": "glm-5.1",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key_env": "OPENAI_API_KEY",
+    "image_cache": "C:\\Users\\de'l'l\\Markush\\cache\\google_patent",
+    "text_source": "claim",
+    "max_text_chars": 60000,
+    "workers": 1,
+    "response_language": "zh",
+    "image_selection_max_images": 60,
+    "image_selection_min_score": 0.55,
+    "started_at": "2026-05-05T01:31:50Z",
+    "finished_at": "2026-05-05T01:33:41Z"
+  },
+  "records": [
+    {
+      "index": 1,
+      "input": {
+        "patent_id": "WO2020252229A2",
+        "smiles": "CCc1cncc(NCc2cccnc2)n1",
+        "source_index": 0,
+        "expected_is_protected": true,
+        "selection_type": 1
+      },
+      "model": "glm-5.1",
+      "status": "ok",
+      "text": {
+        "path": "C:\\Users\\de'l'l\\Markush\\cache\\google_patent\\WO2020252229A2\\claim_text.txt",
+        "source": "claim",
+        "chars": 3450,
+        "used_chars": 3450,
+        "truncated": false
+      },
+      "image": {
+        "path": "C:\\Users\\de'l'l\\Markush\\cache\\google_patent\\WO2020252229A2\\image_1.png",
+        "bytes": 1565
+      },
+      "image_selection": {
+        "selected": {
+          "image_index": 1,
+          "image_path": "C:\\Users\\de'l'l\\Markush\\cache\\google_patent\\WO2020252229A2\\image_1.png",
+          "is_markush": true,
+          "is_main_markush": true,
+          "score": 1.0,
+          "image_role": "Main Markush structure of Claim 1",
+          "reasoning": "权利要求1明确引用了Formula I，并详细定义了多个可变取代基（如X1-X4、L1、L2、R1、R2等），该图对应独立权利要求中保护范围最宽、最核心的通式结构，符合主Markush通式的所有判断标准。"
+        },
+        "evaluations": [
+          {
+            "image_index": 1,
+            "image_path": "C:\\Users\\de'l'l\\Markush\\cache\\google_patent\\WO2020252229A2\\image_1.png",
+            "is_markush": true,
+            "is_main_markush": true,
+            "score": 1.0,
+            "image_role": "Main Markush structure of Claim 1",
+            "reasoning": "权利要求1明确引用了Formula I，并详细定义了多个可变取代基（如X1-X4、L1、L2、R1、R2等），该图对应独立权利要求中保护范围最宽、最核心的通式结构，符合主Markush通式的所有判断标准。"
+          }
+        ]
+      },
+      "result": {
+        "is_infringing": false,
+        "judgment_zh": "判断：未落入保护范围",
+        "confidence": "very_low",
+        "reasoning": "专利文本仅提供了权利要求1中Formula I的变量定义（如X1-X4、L1、L2、R1、R2等），但核心骨架结构仅以图片链接形式呈现，无法从文本中直接解析出各变量在分子中的确切连接拓扑关系。查询分子SMILES `CCc1cncc(NCc2cccnc2)n1` 对应1-乙基-4-((3-吡啶甲基)氨基)吡嗪结构，虽然其包含的杂环（吡嗪、吡啶）和连接基团（-NH-）在形式上与权利要求中关于X1-X4（含1-2个N）和L1/L2（含-N(R)-）的定义有相似之处，但由于缺乏Formula I的完整结构图，无法确认核心环与L1、L2、R1、R2的确切连接位置和方式。基于保守原则，在证据不足以验证覆盖关系时，判定为未落入保护范围。",
+        "evidence": [
+          "权利要求1定义了Formula I的变量（X1-X4为N或C-Rx，L1/L2包含-N(R)-等，R包含杂芳环等），但核心结构仅以图片链接 `imgf000123_0001.png` 提供，无法解析拓扑连接。",
+          "查询分子SMILES `CCc1cncc(NCc2cccnc2)n1` 解析为包含吡嗪环和吡啶环，通过-CH2-NH-连接的结构。",
+          "由于缺乏Formula I的完整结构图，无法将查询分子的具体连接方式与专利权利要求进行精确比对验证。"
+        ]
+      },
+      "elapsed_sec": 111.01
+    }
+  ]
+}
