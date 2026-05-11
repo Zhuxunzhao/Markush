@@ -143,13 +143,31 @@ def _serialize(value: Any) -> Any:
     return value
 
 
+def _canonical_ui_model_name(model_or_profile: Any) -> str:
+    lowered = str(model_or_profile or "").strip().lower().replace("_", "-")
+    if lowered in {
+        "3.6plus",
+        "3.6-plus",
+        "qwen3.6plus",
+        "qwen3.6-plus",
+        "qwen-3.6plus",
+        "qwen-3.6-plus",
+    }:
+        return "qwen3.6-plus"
+    if lowered in {"gpt5.5", "gpt-5.5"}:
+        return "gpt5.5"
+    if lowered in {"glm5.1", "glm5-1", "glm-5.1"}:
+        return "glm5.1"
+    return str(model_or_profile or "").strip()
+
+
 def _llm_settings_dict(settings: Optional[LLMSettings | dict[str, Any]]) -> dict[str, str]:
     if settings is None:
         return {}
     raw = settings.model_dump() if isinstance(settings, LLMSettings) else dict(settings)
     return {
         "provider": str(raw.get("provider") or "openai").strip() or "openai",
-        "model": str(raw.get("model") or "").strip(),
+        "model": _canonical_ui_model_name(raw.get("model") or ""),
         "base_url": str(raw.get("base_url") or "").strip(),
         "api_key": str(raw.get("api_key") or "").strip(),
     }

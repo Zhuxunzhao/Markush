@@ -22,6 +22,21 @@ llm:
 # 可被 LLM-only 侵权工作流选择的模型配置档。
 # CLI 示例：python main.py llm-infringement ... --llm-model glm5.1
 llm_profiles:
+  qwen3.6-plus:
+    provider: openai
+    model: qwen3.6-plus
+    api_key_env: OPENAI_API_KEY
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  qwen-3.6plus:
+    provider: openai
+    model: qwen-3.6plus
+    api_key_env: OPENAI_API_KEY
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  qwen3.6plus:
+    provider: openai
+    model: qwen3.6-plus
+    api_key_env: OPENAI_API_KEY
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
   qwen-max:
     provider: openai
     model: qwen-max

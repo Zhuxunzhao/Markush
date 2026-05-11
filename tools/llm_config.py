@@ -12,6 +12,17 @@ def _model_candidates(model_or_profile: str) -> list[str]:
     candidates = [raw, lowered]
     if lowered in {"glm5.1", "glm5-1", "glm-5.1"}:
         candidates.extend(["glm5.1", "glm-5.1"])
+    if lowered in {
+        "3.6plus",
+        "3.6-plus",
+        "qwen3.6plus",
+        "qwen3.6-plus",
+        "qwen-3.6plus",
+        "qwen-3.6-plus",
+    }:
+        candidates.extend(
+            ["qwen3.6-plus", "qwen-3.6plus", "qwen3.6plus", "qwen-3.6-plus"]
+        )
     if lowered in {"qwen-max", "qwenmax"}:
         candidates.extend(["qwen-max", "qwen_max"])
     return list(dict.fromkeys(candidate for candidate in candidates if candidate))
@@ -21,6 +32,15 @@ def _canonical_model_name(model_or_profile: str) -> str:
     lowered = str(model_or_profile or "").strip().lower().replace("_", "-")
     if lowered in {"glm5.1", "glm5-1", "glm-5.1"}:
         return "glm-5.1"
+    if lowered in {
+        "3.6plus",
+        "3.6-plus",
+        "qwen3.6plus",
+        "qwen3.6-plus",
+        "qwen-3.6plus",
+        "qwen-3.6-plus",
+    }:
+        return "qwen3.6-plus"
     if lowered in {"qwenmax", "qwen-max"}:
         return "qwen-max"
     return str(model_or_profile).strip()
