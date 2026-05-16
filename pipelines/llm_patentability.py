@@ -63,6 +63,13 @@ class LLMPatentabilityPipeline:
         llm_base_url: Optional[str] = None,
         llm_api_key: Optional[str] = None,
         llm_api_key_env: Optional[str] = None,
+        llm_request_timeout: Optional[float] = None,
+        llm_max_tokens: Optional[int] = None,
+        llm_temperature: Optional[float] = None,
+        llm_token_limit_param: Optional[str] = None,
+        llm_omit_temperature: Optional[bool] = None,
+        llm_reasoning_effort: Optional[str] = None,
+        llm_verbosity: Optional[str] = None,
         step_output_callback: Optional[Callable[[dict[str, Any]], None]] = None,
     ) -> None:
         self.config = build_llm_config(
@@ -73,6 +80,13 @@ class LLMPatentabilityPipeline:
             llm_base_url=llm_base_url,
             llm_api_key=llm_api_key,
             llm_api_key_env=llm_api_key_env,
+            llm_request_timeout=llm_request_timeout,
+            llm_max_tokens=llm_max_tokens,
+            llm_temperature=llm_temperature,
+            llm_token_limit_param=llm_token_limit_param,
+            llm_omit_temperature=llm_omit_temperature,
+            llm_reasoning_effort=llm_reasoning_effort,
+            llm_verbosity=llm_verbosity,
         )
         pat_cfg = self.config.get("pipelines", {}).get("patentability", {})
         selection_cfg = self.config.get("pipelines", {}).get("markush_image_selection", {})
@@ -242,6 +256,24 @@ class LLMPatentabilityPipeline:
         known_prior_art_ids: Optional[list[str]],
     ) -> tuple[list[tuple[str, str]], list[str], dict[str, Any]]:
         validation_notes: list[str] = []
+        if known_prior_art_ids:
+            candidates, notes = self._merge_prior_art_candidates(
+                suggested_ids=[],
+                known_prior_art_ids=known_prior_art_ids,
+            )
+            validation_notes.extend(notes)
+            return (
+                candidates,
+                validation_notes,
+                {
+                    "patent_ids": [patent_id for patent_id, _source in candidates],
+                    "search_queries": [],
+                    "reasoning": "Using supplied prior-art patents only.",
+                    "key_structural_features": [],
+                    "skipped_llm_search": True,
+                },
+            )
+
         try:
             search_result = self.prior_art_searcher.run(
                 proposed_cxsmiles=proposed_cxsmiles,

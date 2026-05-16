@@ -158,6 +158,13 @@ class LLMInfringementPipeline:
         llm_base_url: Optional[str] = None,
         llm_api_key: Optional[str] = None,
         llm_api_key_env: Optional[str] = None,
+        llm_request_timeout: Optional[float] = None,
+        llm_max_tokens: Optional[int] = None,
+        llm_temperature: Optional[float] = None,
+        llm_token_limit_param: Optional[str] = None,
+        llm_omit_temperature: Optional[bool] = None,
+        llm_reasoning_effort: Optional[str] = None,
+        llm_verbosity: Optional[str] = None,
         generate_report: Optional[bool] = None,
         step_output_callback: Optional[Callable[[dict[str, Any]], None]] = None,
     ):
@@ -169,6 +176,13 @@ class LLMInfringementPipeline:
             llm_base_url=llm_base_url,
             llm_api_key=llm_api_key,
             llm_api_key_env=llm_api_key_env,
+            llm_request_timeout=llm_request_timeout,
+            llm_max_tokens=llm_max_tokens,
+            llm_temperature=llm_temperature,
+            llm_token_limit_param=llm_token_limit_param,
+            llm_omit_temperature=llm_omit_temperature,
+            llm_reasoning_effort=llm_reasoning_effort,
+            llm_verbosity=llm_verbosity,
         )
         self.step_outputs: list[dict[str, Any]] = []
         self._step_output_callback = step_output_callback
@@ -185,6 +199,9 @@ class LLMInfringementPipeline:
         )
         self.use_image_for_markush_extraction = bool(
             pipe_cfg.get("use_image_for_markush_extraction", True)
+        )
+        self.use_first_image_when_selection_disabled = bool(
+            pipe_cfg.get("use_first_image_when_selection_disabled", True)
         )
         self.generate_report = (
             bool(pipe_cfg.get("generate_report", True))
@@ -304,6 +321,34 @@ class LLMInfringementPipeline:
         llm_outputs: dict[str, Any],
     ) -> Optional[str]:
         if not self.image_selection_enabled or not patent.images:
+            if (
+                self.use_first_image_when_selection_disabled
+                and self.use_image_for_markush_extraction
+                and patent.images
+                and patent.images[0].path
+            ):
+                image = patent.images[0]
+                llm_outputs["markush_image_selection"] = {
+                    "selected": {
+                        "image_index": 1,
+                        "image_path": image.path,
+                        "is_markush": None,
+                        "is_main_markush": None,
+                        "score": None,
+                        "image_role": "first_image_fallback",
+                        "reasoning": (
+                            "Image selection is disabled; using the first cached patent "
+                            "image as visual evidence for LLM Markush extraction."
+                        ),
+                    },
+                    "evaluations": [],
+                    "mode": "first_image_fallback",
+                }
+                log.info(
+                    "  Image selection disabled; using first patent image as Markush "
+                    f"extraction evidence: {image.path}"
+                )
+                return image.path
             return None
         try:
             selection, evaluations = self.image_selector.select_main_markush_image(
@@ -350,12 +395,14 @@ class LLMInfringementPipeline:
         return claim_caption
 
     @staticmethod
-    def _no_verified_match_result(
+    def _non_conclusive_result(
         patent_id: str,
         target_smiles: str,
-        markush: Optional[MarkushStructure],
-        fused: FusedMatchResult,
         reason: str,
+        *,
+        status: str,
+        markush: Optional[MarkushStructure] = None,
+        fused: Optional[FusedMatchResult] = None,
         llm_outputs: Optional[dict] = None,
     ) -> InfringementResult:
         requirements = RequirementsResult(
@@ -374,6 +421,58 @@ class LLMInfringementPipeline:
             requirements=requirements,
             llm_outputs=llm_outputs or {},
             report=reason,
+            analysis_status=status,
+            is_conclusive=False,
+            failure_reason=reason,
+        )
+
+    @staticmethod
+    def _no_verified_match_result(
+        patent_id: str,
+        target_smiles: str,
+        markush: Optional[MarkushStructure],
+        fused: FusedMatchResult,
+        reason: str,
+        llm_outputs: Optional[dict] = None,
+    ) -> InfringementResult:
+        return LLMInfringementPipeline._non_conclusive_result(
+            patent_id=patent_id,
+            target_smiles=target_smiles,
+            markush=markush,
+            fused=fused,
+            reason=reason,
+            status="undetermined",
+            llm_outputs=llm_outputs,
+        )
+
+    @staticmethod
+    def _not_protected_no_match_result(
+        patent_id: str,
+        target_smiles: str,
+        markush: Optional[MarkushStructure],
+        fused: FusedMatchResult,
+        reason: str,
+        llm_outputs: Optional[dict] = None,
+    ) -> InfringementResult:
+        confidence = Confidence.HIGH if "confidence=high" in reason.lower() else Confidence.LOW
+        requirements = RequirementsResult(
+            is_protected=False,
+            confidence=confidence,
+            reasoning=reason,
+            r_group_analysis={},
+        )
+        return InfringementResult(
+            patent_id=patent_id,
+            target_smiles=target_smiles,
+            is_protected=False,
+            confidence=confidence,
+            markush_structure=markush,
+            fused_match=fused,
+            requirements=requirements,
+            llm_outputs=llm_outputs or {},
+            report=reason,
+            analysis_status="not_protected",
+            is_conclusive=True,
         )
 
     def _extract_markush_with_llm(
@@ -462,13 +561,12 @@ class LLMInfringementPipeline:
                 summary=f"抓取专利 {patent_id} 失败。",
                 data={"patent_id": patent_id, "error": str(e)},
             )
-            return InfringementResult(
+            return self._non_conclusive_result(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
-                is_protected=False,
-                confidence=Confidence.VERY_LOW,
+                reason=f"Error: Failed to fetch patent {patent_id}: {e}",
+                status="failed",
                 llm_outputs=llm_outputs,
-                report=f"Error: Failed to fetch patent {patent_id}: {e}",
             )
         log.info(f"  >> claims_text length: {len(patent.claims_text)} chars")
         log.info(f"  >> images found: {len(patent.images)}")
@@ -541,15 +639,21 @@ class LLMInfringementPipeline:
                 "No Markush structure was extracted by the LLM workflow. "
                 "Cannot perform infringement analysis."
             )
+            extraction_error = (
+                llm_outputs.get("llm_markush_extraction", {}).get("error")
+                if isinstance(llm_outputs.get("llm_markush_extraction"), dict)
+                else None
+            )
+            if extraction_error:
+                reason = f"{reason} Extraction error: {extraction_error}"
             log.warning(reason)
-            return InfringementResult(
+            return self._non_conclusive_result(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
-                is_protected=False,
-                confidence=Confidence.VERY_LOW,
-                markush_structure=markush,
+                reason=reason,
+                status="failed" if extraction_error else "undetermined",
+                markush=markush,
                 llm_outputs=llm_outputs,
-                report=reason,
             )
 
         log.step("Analyzing patent claims")
@@ -602,6 +706,24 @@ class LLMInfringementPipeline:
         except Exception as e:
             llm_outputs["llm_structure_matching"] = {"error": str(e)}
             log.warning(f"  LLM substructure matching failed: {e}")
+            self._record_step_output(
+                step=4,
+                agent_key="llm_match",
+                title="LLM 结构匹配",
+                summary="LLM 结构匹配失败，停止后续保护范围判断。",
+                data={
+                    "error": str(e),
+                    "llm_response": llm_outputs.get("llm_structure_matching"),
+                },
+            )
+            return self._non_conclusive_result(
+                patent_id=patent_id,
+                target_smiles=target_smiles,
+                reason=f"Error during LLM substructure matching: {e}",
+                status="failed",
+                markush=markush,
+                llm_outputs=llm_outputs,
+            )
         self._record_step_output(
             step=4,
             agent_key="llm_match",
@@ -648,14 +770,13 @@ class LLMInfringementPipeline:
                     "llm_response": llm_outputs.get("match_fusion"),
                 },
             )
-            return InfringementResult(
+            return self._non_conclusive_result(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
-                is_protected=False,
-                confidence=Confidence.VERY_LOW,
-                markush_structure=markush,
+                reason=f"Error during match fusion: {e}",
+                status="failed",
+                markush=markush,
                 llm_outputs=llm_outputs,
-                report=f"Error during match fusion: {e}",
             )
         self._record_step_output(
             step=5,
@@ -673,12 +794,112 @@ class LLMInfringementPipeline:
         )
 
         if not fused.r_group_matching:
+            if llm_match_result and llm_match_result.is_match is False:
+                reason = (
+                    "The target molecule does not match the Markush skeleton, so it "
+                    "does not fall within the claim scope. "
+                    f"{llm_match_result.reasoning}"
+                )
+                log.info(f"  {reason}")
+                self._record_step_output(
+                    step=6,
+                    agent_key="alignment",
+                    title="R-group label alignment",
+                    summary="No verified R-group mapping was produced, so label alignment was skipped.",
+                    data={
+                        "skipped": True,
+                        "reason": "Skeleton mismatch; there is no R-group mapping to align.",
+                        "original_r_group_matching": fused.r_group_matching,
+                    },
+                )
+                self._record_step_output(
+                    step=7,
+                    agent_key="requirements",
+                    title="保护范围判断",
+                    summary="目标分子骨架不匹配，判断为未落入保护范围。",
+                    data={
+                        "requirements": {
+                            "is_protected": False,
+                            "confidence": "high"
+                            if "confidence=high" in reason.lower()
+                            else "low",
+                            "reasoning": reason,
+                            "r_group_analysis": {},
+                        },
+                        "llm_response": llm_outputs.get("llm_structure_matching"),
+                    },
+                )
+                self._record_step_output(
+                    step=8,
+                    agent_key="report",
+                    title="Infringement report",
+                    summary=(
+                        "Skeleton mismatch produced a conclusive non-infringement "
+                        "result; the matching rationale was used as the report."
+                    ),
+                    data={
+                        "report": {
+                            "confidence": "high"
+                            if "confidence=high" in reason.lower()
+                            else "low",
+                            "detailed_analysis": reason,
+                        },
+                        "source": "early_no_match_result",
+                    },
+                )
+                return self._not_protected_no_match_result(
+                    patent_id=patent_id,
+                    target_smiles=target_smiles,
+                    markush=markush,
+                    fused=fused,
+                    reason=reason,
+                    llm_outputs=llm_outputs,
+                )
             reason = (
                 "No verified skeleton/R-group match was produced by the LLM-only "
                 "workflow. Skipping claim requirement examination to avoid a "
                 "high-confidence conclusion from an empty or invalid mapping."
             )
             log.warning(f"  {reason}")
+            self._record_step_output(
+                step=6,
+                agent_key="alignment",
+                title="R-group label alignment",
+                summary="No verified R-group mapping was produced, so label alignment was skipped.",
+                data={
+                    "skipped": True,
+                    "reason": reason,
+                    "original_r_group_matching": fused.r_group_matching,
+                },
+            )
+            self._record_step_output(
+                step=7,
+                agent_key="requirements",
+                title="Scope determination",
+                summary="No verified mapping was available, so claim scope determination is inconclusive.",
+                data={
+                    "requirements": {
+                        "is_protected": False,
+                        "confidence": "very_low",
+                        "reasoning": reason,
+                        "r_group_analysis": {},
+                    },
+                    "llm_response": llm_outputs.get("match_fusion"),
+                },
+            )
+            self._record_step_output(
+                step=8,
+                agent_key="report",
+                title="Infringement report",
+                summary="No conclusive infringement report was generated; the skip reason was recorded.",
+                data={
+                    "report": {
+                        "confidence": "very_low",
+                        "detailed_analysis": reason,
+                    },
+                    "source": "early_no_verified_match_result",
+                },
+            )
             return self._no_verified_match_result(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
@@ -740,6 +961,34 @@ class LLMInfringementPipeline:
                     "llm_response": llm_outputs.get("r_group_alignment"),
                 },
             )
+            self._record_step_output(
+                step=7,
+                agent_key="requirements",
+                title="Scope determination",
+                summary="Claim scope determination was skipped because label alignment failed.",
+                data={
+                    "requirements": {
+                        "is_protected": False,
+                        "confidence": "very_low",
+                        "reasoning": reason,
+                        "r_group_analysis": {},
+                    },
+                    "llm_response": llm_outputs.get("r_group_alignment"),
+                },
+            )
+            self._record_step_output(
+                step=8,
+                agent_key="report",
+                title="Infringement report",
+                summary="No conclusive infringement report was generated; the alignment failure was recorded.",
+                data={
+                    "report": {
+                        "confidence": "very_low",
+                        "detailed_analysis": reason,
+                    },
+                    "source": "early_alignment_failure",
+                },
+            )
             return self._no_verified_match_result(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
@@ -792,15 +1041,14 @@ class LLMInfringementPipeline:
                     "llm_response": llm_outputs.get("requirements_examination"),
                 },
             )
-            return InfringementResult(
+            return self._non_conclusive_result(
                 patent_id=patent_id,
                 target_smiles=target_smiles,
-                is_protected=False,
-                confidence=Confidence.VERY_LOW,
-                markush_structure=markush,
-                fused_match=fused,
+                reason=f"Error during requirements examination: {e}",
+                status="failed",
+                markush=markush,
+                fused=fused,
                 llm_outputs=llm_outputs,
-                report=f"Error during requirements examination: {e}",
             )
         self._record_step_output(
             step=7,
@@ -872,4 +1120,6 @@ class LLMInfringementPipeline:
             requirements=req_result,
             llm_outputs=llm_outputs,
             report=report.get("detailed_analysis", ""),
+            analysis_status="protected" if req_result.is_protected else "not_protected",
+            is_conclusive=True,
         )

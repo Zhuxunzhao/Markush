@@ -45,7 +45,7 @@ class ReportGeneratorAgent(BaseAgent):
         return f"""## 报告类型：专利侵权分析
 
 ## 专利：{data.get('patent_id', 'N/A')}
-## 目标分子：{data.get('target_smiles', 'N/A')}
+## 待评估分子：{data.get('target_smiles', 'N/A')}
 
 ## Markush 结构
 `{data.get('markush_caption', 'N/A')}`
@@ -95,7 +95,11 @@ R 基团分析:
 ## 风险点
 {data.get('risk_points', 'N/A')}
 
-请生成一份完整的中文可专利性分析报告。"""
+请生成一份完整的中文可专利性分析报告。报告正文必须使用以下格式：
+一.最终结论
+二.相关分析及证据：
+    分析/证据1，分析/证据2，分析/证据3，分析/证据4（按实际证据数量输出）
+不要保留或复述原始输入全文，只保留结论、必要事实、分析和证据。"""
 
     def parse_response(self, response: dict) -> dict:
         return {

@@ -115,6 +115,9 @@ class InfringementResult:
     requirements: Optional[RequirementsResult] = None
     llm_outputs: dict = field(default_factory=dict)
     report: str = ""
+    analysis_status: str = "completed"  # protected / not_protected / undetermined / failed
+    is_conclusive: bool = True
+    failure_reason: str = ""
 
 
 # --------------- Pipeline 2: 可专利性分析 ---------------

@@ -30,7 +30,7 @@
         <aside class="side-rail">
           <section class="panel task-panel">
             <div class="panel-title">
-              <p>Analysis</p>
+              <p>分析</p>
               <h2>分析任务</h2>
             </div>
 
@@ -41,7 +41,6 @@
                 class="followup-toggle"
                 type="button"
                 aria-pressed="false"
-                aria-controls="patentability-options"
               >
                 可授权分析：关闭
               </button>
@@ -49,73 +48,48 @@
 
             <form id="infringement-form" class="analysis-form">
               <label>
-                <span>目标专利号</span>
-                <input name="patent_id" value="WO2020252229A2" placeholder="WO2020252229A2" />
+                <span>评估名称</span>
+                <input name="evaluation_name" placeholder="可选：例如 kinase-case-001" />
               </label>
               <label>
-                <span>目标分子 SMILES</span>
+                <span>待评估分子 SMILES</span>
                 <textarea name="smiles" rows="3" placeholder="输入待评估药物分子 SMILES">CCc1cncc(NCc2cccnc2)n1</textarea>
               </label>
               <label>
                 <span>Markush 描述 / Caption</span>
                 <textarea name="caption" rows="4" placeholder="可选：直接提供 Markush 通式描述"></textarea>
               </label>
+              <label>
+                <span>目标专利号</span>
+                <input name="patent_id" value="WO2020252229A2" placeholder="WO2020252229A2" />
+              </label>
 
-              <div id="patentability-options" class="followup-options is-hidden">
-                <label>
-                  <span>可授权分析技术领域</span>
-                  <input name="patentability_domain" value="kinase inhibitors" placeholder="例如 kinase inhibitors" />
-                </label>
-                <label>
-                  <span>可授权分析已知现有技术</span>
-                  <input name="patentability_prior_arts" placeholder="US12345678, WO2024000001" />
-                </label>
+              <div class="form-actions">
+                <button id="infringement-submit" class="primary-action" type="submit">启动侵权分析</button>
+                <div class="previous-result-picker">
+                  <button id="load-previous-result" class="primary-action" type="button">加载成功结果</button>
+                  <div id="previous-result-dropdown" class="previous-result-dropdown is-hidden"></div>
+                </div>
               </div>
-
-              <button id="infringement-submit" class="primary-action" type="submit">启动侵权分析</button>
             </form>
           </section>
 
           <section class="panel llm-panel">
             <div class="panel-title">
-              <p>Session LLM</p>
+              <p>模型</p>
               <h2>模型配置</h2>
             </div>
             <div class="field-grid">
               <label>
-                <span>Provider</span>
-                <select id="llm-provider">
-                  <option value="openai">OpenAI Compatible</option>
-                  <option value="anthropic">Anthropic</option>
-                  <option value="google">Google</option>
+                <span>模型</span>
+                <select id="llm-model">
+                  <option value="qwen3.6-plus">qwen3.6-plus</option>
+                  <option value="gpt5.5">gpt5.5</option>
+                  <option value="glm5.1">glm5.1</option>
                 </select>
               </label>
-              <label>
-                <span>模型</span>
-                <input id="llm-model" list="model-options" value="qwen3.6-plus" placeholder="qwen3.6-plus" />
-                <datalist id="model-options">
-                  <option value="qwen3.6-plus"></option>
-                  <option value="qwen-3.6plus"></option>
-                  <option value="qwen-max"></option>
-                  <option value="glm-5.1"></option>
-                  <option value="gpt-4.1"></option>
-                  <option value="claude-3-5-sonnet-latest"></option>
-                </datalist>
-              </label>
-              <label>
-                <span>Base URL</span>
-                <input
-                  id="llm-base-url"
-                  value="https://dashscope.aliyuncs.com/compatible-mode/v1"
-                  placeholder="https://..."
-                />
-              </label>
-              <label>
-                <span>API Key</span>
-                <input id="llm-api-key" type="password" autocomplete="off" placeholder="sk-..." />
-              </label>
             </div>
-            <div class="session-chip">仅本次会话</div>
+            <div class="session-chip">Key 和 URL 由后端配置读取</div>
           </section>
         </aside>
 
@@ -137,12 +111,16 @@
               <span>事件</span>
               <strong id="job-events">0</strong>
             </div>
+            <div class="status-action-cell">
+              <span>控制</span>
+              <button id="stop-job" class="secondary-action compact-action" type="button" disabled>停止</button>
+            </div>
           </section>
 
           <section class="panel workflow-panel">
             <div class="panel-title row-title">
               <div>
-                <p>Realtime Workflow</p>
+                <p>工作流</p>
                 <h2>Pipeline步骤输出</h2>
               </div>
               <span id="workflow-count" class="mini-badge">0 / 0</span>
@@ -153,7 +131,7 @@
           <section class="stage-grid">
             <div class="panel result-panel-wrap">
               <div class="panel-title">
-                <p>Decision</p>
+                <p>结论</p>
                 <h2>最终结论</h2>
               </div>
               <div id="result-panel" class="result-panel">
@@ -163,7 +141,7 @@
 
             <div class="panel log-panel">
               <div class="panel-title">
-                <p>Events</p>
+                <p>日志</p>
                 <h2>实时日志</h2>
               </div>
               <div id="event-log" class="event-log code-font">

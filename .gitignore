@@ -1,32 +1,19 @@
-# --- System & environment ---
-.bashrc
-.condarc
-.profile
-.cache/
-.claude/
-.claude.json
-.codex/
-.jupyter/
-.local/
-.npm/
-.ssh/
+# Local instructions and secrets
+AGENTS.md
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python environments and tooling caches
 .venv/
+.venv-*/
 venv/
 env/
 ENV/
 .conda/
-.env
-.env.*
 miniconda3/
-
-# --- AutoDL platform ---
-autodl-fs
-autodl-pub
-autodl-tmp/
-mihomo_config.yaml
-mihomo_proxy_providers/
-
-# --- Python ---
 __pycache__/
 *.py[cod]
 *.pyo
@@ -35,38 +22,84 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.coverage
+htmlcov/
 
-# --- IDE ---
+# OS, editors, and notebooks
+.DS_Store
+Thumbs.db
 .idea/
 .vscode/
-AGENTS.md
+.ipynb_checkpoints/
+*.swp
+*.swo
 
-# --- Build ---
-dist/
+# Local user/platform directories that can appear in rental GPU images
+.cache/
+.claude/
+.claude.json
+.codex/
+.jupyter/
+.local/
+.npm/
+.ssh/
+.bashrc
+.condarc
+.profile
+autodl-fs/
+autodl-pub/
+autodl-tmp/
+mihomo_config.yaml
+mihomo_proxy_providers/
+
+# Build/package artifacts
 build/
+dist/
 *.egg-info/
-
-# --- Third-party ---
 third_party/
 runs/
 
-# --- Cache ---
-cache/markush_grapher/
+# Application caches and downloaded patent assets
+cache/
+*.cache
 
-# --- Logs ---
+# Keep curated input datasets visible; ignore local/generated data drops.
+data/*
+!data/
+!data/molpatent-240.json
+!data/molpatent-240.infringement_input.json
+
+# Generated outputs, reports, decks, rendered assets, and ad-hoc demos
+outputs/*
+!outputs/
+!outputs/README.md
+!outputs/examples/
+!outputs/examples/result.json
+diagrams/
+/*.pptx
+/*.docx
+/*.pdf
+/*.png
+/*.jpg
+/*.jpeg
+/*.svg
+/*.gif
+
+# Logs and runtime state
 *.log
-outputs/runtime/
-outputs/.ipynb_checkpoints/
-
-# --- Web ---
-web/uploads/
-
-# --- Outputs intermediates ---
-outputs/.ipynb_checkpoints/
-outputs/*.pid
-
-# --- Test results ---
+*.pid
+result.json
 test_result.json
-test_US10676478_result.json
-test_US10676478_single.json
-tests/__pycache__/
+test_*_result.json
+test_*_single.json
+
+# Web/runtime uploads
+web/uploads/
+.agent-browser-tmp/
+.docx_merge_tmp/
+
+# Local one-off helper scripts generated during experiments
+scripts/generate_*.js
+scripts/fix_slide*.py
+scripts/tmp_*.py
+scripts/*_scratch.*

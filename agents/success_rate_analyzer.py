@@ -19,7 +19,11 @@ class SuccessRateAnalyzerAgent(BaseAgent):
 - "success_rate_estimation": 表示整体授权成功可能性的百分比，例如 "75%"。
 - "key_risks": 影响可专利性的主要风险列表。
 - "improvement_suggestions": 改进申请的建议，例如增加特定取代限定。
-- "comprehensive_report": 汇总上述内容的中文 Markdown 综合报告，适合保存到文件。
+- "comprehensive_report": 中文 Markdown 综合报告，必须使用以下两段结构：
+  一.最终结论
+  二.相关分析及证据：
+      分析/证据1，分析/证据2，分析/证据3，分析/证据4（按实际证据数量输出）
+  不要保留或复述原始输入全文，只保留结论、必要事实、分析和证据。
 """
 
     def build_user_prompt(self, **kwargs) -> str:
@@ -48,7 +52,7 @@ class SuccessRateAnalyzerAgent(BaseAgent):
 ## 已识别现有技术
 {chr(10).join(prior_art_summaries)}
 
-请基于上述结果，提供多维度可专利性分析。"""
+请基于上述结果，提供多维度可专利性分析。comprehensive_report 必须按“一.最终结论 / 二.相关分析及证据：分析/证据1...”的格式输出。"""
 
     def parse_response(self, response: dict) -> dict:
         return {

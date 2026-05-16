@@ -45,6 +45,12 @@ class LLMClient:
         self.model = llm_cfg["model"]
         self.max_tokens = llm_cfg.get("max_tokens", 96000)
         self.temperature = llm_cfg.get("temperature", 0.1)
+        self.token_limit_param = str(
+            llm_cfg.get("token_limit_param") or self._default_token_limit_param(self.model)
+        ).strip()
+        self.omit_temperature = bool(llm_cfg.get("omit_temperature", False))
+        self.reasoning_effort = str(llm_cfg.get("reasoning_effort") or "").strip() or None
+        self.verbosity = str(llm_cfg.get("verbosity") or "").strip() or None
         self.request_timeout = llm_cfg.get("request_timeout", 120)
         self.max_retries = int(llm_cfg.get("max_retries", 2))
         self.output_language_instruction = llm_cfg.get(
@@ -237,9 +243,8 @@ class LLMClient:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
-            "max_tokens": max_tokens,
-            "temperature": temperature,
         }
+        self._apply_openai_chat_tuning(kwargs, max_tokens=max_tokens, temperature=temperature)
         if response_format is not None:
             kwargs["response_format"] = response_format
         response = self._client.chat.completions.create(**kwargs)
@@ -269,13 +274,45 @@ class LLMClient:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": content},
             ],
-            "max_tokens": max_tokens,
-            "temperature": temperature,
         }
+        self._apply_openai_chat_tuning(kwargs, max_tokens=max_tokens, temperature=temperature)
         if response_format is not None:
             kwargs["response_format"] = response_format
         response = self._client.chat.completions.create(**kwargs)
         return response.choices[0].message.content or ""
+
+    def _apply_openai_chat_tuning(
+        self,
+        kwargs: dict[str, Any],
+        *,
+        max_tokens: int,
+        temperature: float,
+    ) -> None:
+        extra_body: dict[str, Any] = {}
+        token_limit_param = self.token_limit_param
+        if token_limit_param not in {"max_tokens", "max_completion_tokens"}:
+            token_limit_param = self._default_token_limit_param(self.model)
+
+        if token_limit_param == "max_completion_tokens":
+            extra_body["max_completion_tokens"] = max_tokens
+        else:
+            kwargs["max_tokens"] = max_tokens
+
+        if not self.omit_temperature:
+            kwargs["temperature"] = temperature
+        if self.reasoning_effort:
+            extra_body["reasoning_effort"] = self.reasoning_effort
+        if self.verbosity:
+            extra_body["verbosity"] = self.verbosity
+        if extra_body:
+            kwargs["extra_body"] = extra_body
+
+    @staticmethod
+    def _default_token_limit_param(model: str) -> str:
+        lowered = str(model or "").strip().lower().replace("_", "-")
+        if lowered.startswith("gpt-5") or lowered.startswith(("o1", "o3", "o4")):
+            return "max_completion_tokens"
+        return "max_tokens"
 
     @staticmethod
     def _image_data_url(image_path: str) -> str:

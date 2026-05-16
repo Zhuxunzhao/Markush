@@ -47,6 +47,28 @@ llm_profiles:
     model: glm-5.1
     api_key_env: OPENAI_API_KEY
     base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  gpt-5.5:
+    provider: openai
+    model: gpt-5.5
+    api_key_env: OHMYGPT_API_KEY
+    base_url: https://api.ohmygpt.com/v1
+    request_timeout: 360
+    max_tokens: 4096
+    token_limit_param: max_completion_tokens
+    omit_temperature: true
+    reasoning_effort: medium
+    verbosity: medium
+  gpt5.5:
+    provider: openai
+    model: gpt-5.5
+    api_key_env: OHMYGPT_API_KEY
+    base_url: https://api.ohmygpt.com/v1
+    request_timeout: 360
+    max_tokens: 4096
+    token_limit_param: max_completion_tokens
+    omit_temperature: true
+    reasoning_effort: medium
+    verbosity: medium
 
 # Tool endpoints
 tools:
@@ -94,7 +116,8 @@ pipelines:
   llm_infringement:
     llm_model: qwen-max
     fallback_to_text_on_image_error: true
-    use_image_for_markush_extraction: false
+    use_image_for_markush_extraction: true
+    use_first_image_when_selection_disabled: true
     markush_extraction_max_tokens: 4096
     structure_match_max_tokens: 4096
 

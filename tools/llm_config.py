@@ -55,6 +55,13 @@ def build_llm_config(
     llm_base_url: Optional[str] = None,
     llm_api_key: Optional[str] = None,
     llm_api_key_env: Optional[str] = None,
+    llm_request_timeout: Optional[float] = None,
+    llm_max_tokens: Optional[int] = None,
+    llm_temperature: Optional[float] = None,
+    llm_token_limit_param: Optional[str] = None,
+    llm_omit_temperature: Optional[bool] = None,
+    llm_reasoning_effort: Optional[str] = None,
+    llm_verbosity: Optional[str] = None,
 ) -> dict:
     """Return a deep-copied config with temporary LLM overrides applied.
 
@@ -87,5 +94,19 @@ def build_llm_config(
         llm_cfg["api_key_env"] = llm_api_key_env
     if llm_api_key:
         llm_cfg["api_key"] = llm_api_key
+    if llm_request_timeout is not None:
+        llm_cfg["request_timeout"] = llm_request_timeout
+    if llm_max_tokens is not None:
+        llm_cfg["max_tokens"] = llm_max_tokens
+    if llm_temperature is not None:
+        llm_cfg["temperature"] = llm_temperature
+    if llm_token_limit_param:
+        llm_cfg["token_limit_param"] = llm_token_limit_param
+    if llm_omit_temperature is not None:
+        llm_cfg["omit_temperature"] = llm_omit_temperature
+    if llm_reasoning_effort:
+        llm_cfg["reasoning_effort"] = llm_reasoning_effort
+    if llm_verbosity:
+        llm_cfg["verbosity"] = llm_verbosity
 
     return resolved
