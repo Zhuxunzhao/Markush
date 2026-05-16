@@ -105,9 +105,9 @@ def cmd_infringement(args, config):
 
 
 def cmd_llm_infringement(args, config):
-    from pipelines.llm_infringement import LLMInfringementPipeline
+    from pipelines.langgraph_llm_infringement import LangGraphLLMInfringementPipeline
 
-    pipeline = LLMInfringementPipeline(
+    pipeline = LangGraphLLMInfringementPipeline(
         config,
         llm_model=args.llm_model,
         llm_base_url=args.llm_base_url,
@@ -125,7 +125,37 @@ def cmd_llm_infringement(args, config):
             ("Molecule:", result.target_smiles),
             ("Protected:", result.is_protected),
             ("Confidence:", result.confidence.value),
-            ("Workflow:", "llm-only"),
+            ("Workflow:", "llm-only/langgraph"),
+        ],
+        report=result.report,
+    )
+
+    output_path = args.output or "result.json"
+    _write_json(output_path, _serialize_infringement_result(result))
+
+
+def cmd_langgraph_llm_infringement(args, config):
+    from pipelines.langgraph_llm_infringement import LangGraphLLMInfringementPipeline
+
+    pipeline = LangGraphLLMInfringementPipeline(
+        config,
+        llm_model=args.llm_model,
+        llm_base_url=args.llm_base_url,
+        llm_api_key_env=args.llm_api_key_env,
+    )
+    result = pipeline.run(
+        patent_id=args.patent_id,
+        target_smiles=args.smiles,
+        markush_caption=args.caption,
+    )
+
+    _print_summary(
+        [
+            ("Patent:", result.patent_id),
+            ("Molecule:", result.target_smiles),
+            ("Protected:", result.is_protected),
+            ("Confidence:", result.confidence.value),
+            ("Workflow:", "llm-only/langgraph"),
         ],
         report=result.report,
     )
@@ -191,6 +221,20 @@ def main():
     p_llm_inf.add_argument("--llm-api-key-env", default=None, help="覆盖读取 API key 的环境变量名")
     p_llm_inf.add_argument("--output", "-o", default=None, help="结果输出 JSON 路径")
 
+    # --- LangGraph LLM-only infringement trial ---
+    p_lg_llm_inf = subparsers.add_parser(
+        "langgraph-llm-infringement",
+        aliases=["llm-infringement-langgraph", "infringement-llm-langgraph"],
+        help="LangGraph orchestration trial for LLM-only infringement analysis",
+    )
+    p_lg_llm_inf.add_argument("--patent_id", required=True, help="patent id (e.g. US10676478)")
+    p_lg_llm_inf.add_argument("--smiles", required=True, help="target molecule SMILES")
+    p_lg_llm_inf.add_argument("--caption", default=None, help="provided Markush caption/description")
+    p_lg_llm_inf.add_argument("--llm-model", default=None, help="override LLM model/profile, e.g. glm5.1 or qwen-max")
+    p_lg_llm_inf.add_argument("--llm-base-url", default=None, help="override OpenAI-compatible base_url")
+    p_lg_llm_inf.add_argument("--llm-api-key-env", default=None, help="override API-key environment variable name")
+    p_lg_llm_inf.add_argument("--output", "-o", default=None, help="output JSON path")
+
     # --- patentability ---
     p_pat = subparsers.add_parser("patentability", help="专利申请成功率分析")
     group = p_pat.add_mutually_exclusive_group(required=True)
@@ -214,6 +258,9 @@ def main():
         "infringement": cmd_infringement,
         "llm-infringement": cmd_llm_infringement,
         "infringement-llm": cmd_llm_infringement,
+        "langgraph-llm-infringement": cmd_langgraph_llm_infringement,
+        "llm-infringement-langgraph": cmd_langgraph_llm_infringement,
+        "infringement-llm-langgraph": cmd_langgraph_llm_infringement,
         "patentability": cmd_patentability,
     }
     commands[args.command](args, config)

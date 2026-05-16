@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Run the LLM-only infringement workflow on a prepared dataset.
 
-This batch runner deliberately uses ``LLMInfringementPipeline`` instead of the
-legacy MarkushGrapher/RDKit infringement pipeline. Progress is persisted after
-each completed record to one JSON file; no JSONL sidecar is produced.
+This batch runner deliberately uses the LangGraph-backed LLM-only infringement
+pipeline instead of the legacy MarkushGrapher/RDKit infringement pipeline.
+Progress is persisted after each completed record to one JSON file; no JSONL
+sidecar is produced.
 """
 
 from __future__ import annotations
@@ -23,10 +24,10 @@ from typing import Any
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from pipelines.llm_infringement import (  # noqa: E402
-    LLMInfringementPipeline,
-    _config_with_llm_overrides,
+from pipelines.langgraph_llm_infringement import (  # noqa: E402
+    LangGraphLLMInfringementPipeline as LLMInfringementPipeline,
 )
+from pipelines.llm_infringement import _config_with_llm_overrides  # noqa: E402
 from tools.llm_client import LLMClient, load_config  # noqa: E402
 
 

@@ -15,7 +15,9 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from pipelines.llm_infringement import LLMInfringementPipeline
+from pipelines.langgraph_llm_infringement import (
+    LangGraphLLMInfringementPipeline as LLMInfringementPipeline,
+)
 from pipelines.llm_patentability import LLMPatentabilityPipeline
 from tools.llm_client import load_config
 from tools.logger import log

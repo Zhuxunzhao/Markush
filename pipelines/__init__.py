@@ -10,6 +10,7 @@ from typing import Any
 
 __all__ = [
     "InfringementPipeline",
+    "LangGraphLLMInfringementPipeline",
     "LLMInfringementPipeline",
     "LLMPatentabilityPipeline",
     "PatentabilityPipeline",
@@ -25,6 +26,10 @@ def __getattr__(name: str) -> Any:
         from .llm_infringement import LLMInfringementPipeline
 
         return LLMInfringementPipeline
+    if name == "LangGraphLLMInfringementPipeline":
+        from .langgraph_llm_infringement import LangGraphLLMInfringementPipeline
+
+        return LangGraphLLMInfringementPipeline
     if name == "LLMPatentabilityPipeline":
         from .llm_patentability import LLMPatentabilityPipeline
 
